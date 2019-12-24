@@ -7,4 +7,4 @@ header:
   image: /assets/images/2019-12-24-merry-christmas.jpg
 ---
 
-Kraków Chombo Club wish you a Merry Christmas and Happy New Year! May the 2020 bring you many Kokushi Musous, Daisangens and Suuankous!
+Kraków Chombo Club wishes you a Merry Christmas and Happy New Year! May the 2020 bring you many Kokushi Musous, Daisangens and Suuankous!
