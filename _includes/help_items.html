@@ -1,7 +1,7 @@
 <ul>
   {% for item in include.collection %}
     <li>
-      <a href="{{ include.item.url }}">
+      <a href="{{ item.url }}">
         {{- item.name -}}
       </a>
       {%- if item.description %} — {{ item.description }}{% endif %}
