@@ -1,0 +1,127 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Kraków Chombo Club
+email: contact@chombo.club
+description: >- # this means to ignore newlines until "baseurl:"
+  We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chombo.club"
+github_username:  riichi
+logo: /assets/images/logo.svg
+og_image: /assets/images/logo.png
+
+social:
+  type: Organization
+  links:
+    - "https://facebook.com/chombo.club"
+    - "https://github.com/riichi"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: false
+      share: false
+      related: true
+
+# Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-polyglot
+
+timezone: Europe/Warsaw
+search: true
+
+permalink: /:categories/:year/:month/:day/:title/
+languages: ["en", "pl"]
+default_lang: pl
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
+lang_vars: ["locale"]
+
+paginate: 10
+paginate_path: /page/:num/
+
+facebook:
+  app_id:
+  publisher: chombo.club
+
+footer:
+  links:
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: https://discord.gg/Hx4Muag
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: https://fb.me/chombo.club
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/riichi
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+include:
+  - icons/
+  - _pages/
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

@@ -1,0 +1,37 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+$primary-color              : #214214 !default;
+
+@import "minimal-mistakes"; // main partials
+
+.masthead, .masthead .greedy-nav {
+  background-color: #f8f8f8;
+}
+
+.lang-switcher {
+  -ms-flex-item-align: center;
+  align-self: center;
+  border: 0;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+
+  .greedy-nav & {
+    margin-right: 0;
+  }
+}
+
+.lang-icon {
+  display: inline-block;
+  fill: currentColor;
+  width: 1.4em;
+  height: 1.1em;
+  line-height: 1;
+  position: relative;
+  top: -0.1em;
+  vertical-align: middle;
+}

@@ -1,0 +1,13 @@
+main:
+  - title: "Help"
+    url: /help/
+#  - title: "Tournaments"
+#    url: /tournaments/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Fanpai"
+    url: https://fanpai.chombo.club
+  - title: "Yakuman"
+    url: https://yakuman.chombo.club
