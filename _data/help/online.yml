@@ -1,0 +1,21 @@
+- name: Mahjong Soul
+  description: Riichi Mahjong with anime-like visuals
+  description_pl: Riichi Mahjong w oprawie graficznej w stylu anime
+  url: https://mahjongsoul.game.yo-star.com/
+- name: Tenhou
+  description: classic minimalistic client with UI in Japanese
+  description_pl: klasyczny minimalistyczny klient z interfejsem po japońsku
+  url: http://tenhou.net/
+  subitems:
+    - name: "Chrome Web Store: Tenhou English UI"
+      description: Chrome extension that translates Tenhou UI to English
+      description_pl: rozszerzenie do przeglądarki Chrome, które tłumaczy interfejs Tenhou na język angielski
+      url: https://addons.mozilla.org/_posts-US/firefox/addon/tenhou-english/
+    - name: "Firefox Add-ons: Tenhou English UI"
+      description: analogous extension for Firefox
+      description_pl: analogiczne rozszerzenie dla przeglądarki Firefox
+      url: https://addons.mozilla.org/_posts-US/firefox/addon/tenhou-english/
+- name: Mahjong Time
+  description: advanced client with support for alternative Mahjong versions (Chinese and American, among others)
+  description_pl: zaawansowany klient z obsługą innych odmian Mahjonga (m.in. chińskiej i amerykańskiej)
+  url: https://www.mahjongtime.com/
