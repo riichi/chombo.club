@@ -6,7 +6,7 @@ chombo.club
 ## Building
 Using Docker:
 ```
-$ docker docker build . -t chombo.club
-$ docker run -d -p 8000:80 chombo.club
+$ docker docker build . -t riichi/chombo.club:latest
+$ docker run -d -p 8000:80 riichi/chombo.club:latest
 ```
 Then visit [localhost:8000](http://localhost:8000) to see the webpage.
