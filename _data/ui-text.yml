@@ -4,6 +4,7 @@
 # -----------------
 en: &DEFAULT_EN
   title                      : "Kraków Chombo Club"
+  description                : "We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong."
   skip_links                 : "Skip links"
   skip_primary_nav           : "Skip to primary navigation"
   skip_content               : "Skip to content"
@@ -63,6 +64,7 @@ en-AU:
 # ------
 pl: &DEFAULT_PL
   title                      : "Krakowski Klub Chombo"
+  description                : "Jesteśmy grupą graczy z Krakowa skupioną na grze i promocji japońskiego (Rīchi) Mahjonga."
   skip_links                 :
   skip_primary_nav           :
   skip_content               :
