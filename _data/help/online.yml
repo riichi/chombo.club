@@ -19,3 +19,7 @@
   description: advanced client with support for alternative Mahjong versions (Chinese and American, among others)
   description_pl: zaawansowany klient z obsługą innych odmian Mahjonga (m.in. chińskiej i amerykańskiej)
   url: https://www.mahjongtime.com/
+- name: SEGA MJ
+  description: a client with the UI in Japanese that features advanced visuals and a voice commentary
+  description_pl: klient z interfejsem po japońsku z zaawansowaną grafiką i komentarzem głosowym
+  url: http://sega-mj.com/
