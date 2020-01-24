@@ -1,32 +1,41 @@
 - name: Mahjong Quiz from chuuren.fr
   name_pl: Quiz Mahjongowy z chuuren.fr
   url: http://www.chuuren.fr/vrac/test/?ln=en
+
 - name: Mahjong Efficiency Trainer
   url: https://euophrys.itch.io/mahjong-efficiency-trainer
+
 - name: Gamedesign Flash Mahjong
   description: very good single player Mahjong client in browser
   description_pl: bardzo dobry przeglądarkowy klient Mahjonga dla jednego gracza
   url: https://www.gamedesign.jp/flash/mahjong/mahjong_e.html
+
 - name: Gamedesign Unity Mahjong
   description: as above, but works with Unity plugin
   description_pl: jak wyżej, ale działa z wtyczką Unity
   url: https://www.gamedesign.jp/unity/mahjong/mahjong.html
+
 - name: Gamedesign Minimahjong
   description: single player client with simplified rules
   description_pl: klient dla jednego gracza z uproszczonymi zasadami
   url: https://www.gamedesign.jp/games/minimahjong/
+
 - name: Gamedesign Bamboo
   description: chinitsu exercise
   description_pl: ćwiczenie chinitsu
   url: https://www.gamedesign.jp/games/minimahjong/
+
 - name: Riichi Mahjong Scoring Quiz
   description: trainer that helps to learn the hand scoring rules
   description_pl: trainer pomagający przyswoić zasady punktowania rąk
   url: https://github.com/chairbender/riichi-mahjong-scoring-quiz
+
 - name: R Mahjong
   url: https://play.google.com/store/apps/details?id=com.arttech.rmahjong
+
 - name: Kemono Mahjong
   url: https://play.google.com/store/apps/details?id=com.kemonomahjong.app
+
 - name: Saikyo no Mahjong 3D
   description: single player Windows client with lots of customization options
   description_pl: klient dla jednego gracza dla systemu Windows z dużą liczbą opcji konfiguracyjnych
