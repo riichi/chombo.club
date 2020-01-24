@@ -38,9 +38,6 @@
 - name: R Mahjong
   url: https://play.google.com/store/apps/details?id=com.arttech.rmahjong
 
-- name: Kemono Mahjong
-  url: https://play.google.com/store/apps/details?id=com.kemonomahjong.app
-
 - name: Saikyo no Mahjong 3D
   description: single player Windows client with lots of customization options
   description_pl: klient dla jednego gracza dla systemu Windows z dużą liczbą opcji konfiguracyjnych
