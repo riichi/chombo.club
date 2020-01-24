@@ -25,9 +25,14 @@
   description_pl: ćwiczenie chinitsu
   url: https://www.gamedesign.jp/games/minimahjong/
 
+- name: Mahjong Scores Trainer by Horneds
+  description: hand scoring trainer running in web browser
+  description_pl: trainer pomagający przyswoić zasady punktowania rąk działający w przeglądarce internetowej
+  url: https://mahjong.horneds.com/
+
 - name: Riichi Mahjong Scoring Quiz
   description: trainer that helps to learn the hand scoring rules
-  description_pl: trainer pomagający przyswoić zasady punktowania rąk
+  description_pl: kolejny trainer pomagający przyswoić układy i punktację
   url: https://github.com/chairbender/riichi-mahjong-scoring-quiz
 
 - name: R Mahjong
