@@ -1,6 +1,6 @@
 ---
 title:  "Krakowski Klub Chombo on Mahjong Retro Taikai"
-date:   2020-02-23 23:17:42 +0100
+date:   2020-02-23 20:17:42 +0100
 categories: other
 lang: en
 ---
