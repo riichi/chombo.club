@@ -2,7 +2,7 @@
 title:  "Rīchi Mahjong Basics — the second episode is live on YouTube!"
 date:   2020-10-03 13:30:42 +0100
 categories: other
-lang: pl
+lang: en
 ---
 
 The second episode of our series describing the rīchi mahjong basics landed on the
