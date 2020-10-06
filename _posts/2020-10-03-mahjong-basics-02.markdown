@@ -1,5 +1,5 @@
 ---
-title:  "Podstawy Podstawy Rīchi Mahjonga — drugi odcinek już na YouTube!"
+title:  "Podstawy Rīchi Mahjonga — drugi odcinek już na YouTube!"
 date:   2020-10-03 13:30:42 +0100
 categories: other
 lang: pl
