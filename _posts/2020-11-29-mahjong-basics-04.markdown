@@ -5,7 +5,7 @@ categories: other
 lang: pl
 ---
 
-Czwarty odcinek naszej serii filmów o podstawach rīchi mahjonga znalazł się na [kanale Krakowskiego Klubu Chombo na YouTube.](https://www.youtube.com/channel/UCCsyYLtIHOPfZtL1o-iNzNA).
+Czwarty odcinek naszej serii filmów o podstawach rīchi mahjonga znalazł się na [kanale Krakowskiego Klubu Chombo na YouTube](https://www.youtube.com/channel/UCCsyYLtIHOPfZtL1o-iNzNA).
 Opowiadamy w nich o sztuce złodziejstwa, czyli meldowania kamieni wyrzuconych przez przeciwnika, oraz o zasadach dotyczących czwórek.
 
 Kolejne odcinki już wkrótce!

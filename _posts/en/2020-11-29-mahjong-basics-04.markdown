@@ -6,7 +6,7 @@ lang: en
 ---
 
 The fourth episode of our series about basics of rīchi mahjong is on the
-[YouTube channel of Kraków Chombo Club.](https://www.youtube.com/channel/UCCsyYLtIHOPfZtL1o-iNzNA).
+[YouTube channel of Kraków Chombo Club](https://www.youtube.com/channel/UCCsyYLtIHOPfZtL1o-iNzNA).
 We describe the art of melding tiles discarded by other players into our hand, as well as about the rules about quad groups.
 
 The next episodes soon!
