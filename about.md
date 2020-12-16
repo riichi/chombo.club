@@ -11,3 +11,9 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 * [Discord]({{ site.footer.links[0].url }}) — gdzie prowadzimy codzienne rozmowy
 * [Facebook]({{ site.footer.links[1].url }}) — gdzie informujemy o aktualnych i przyszłych wydarzeniach
 * [GitHub]({{ site.footer.links[2].url }}) — gdzie budujemy oprogramowanie pomagające rozwinąć umiejętności w Mahjongu
+
+## Ulotka
+
+![Leaflet1]({{ "assets/images/leaflet-1.png" | relative_url }})
+
+![Leaflet1]({{ "assets/images/leaflet-2.png" | relative_url }})
