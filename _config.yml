@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chombo.club"
 github_username:  riichi
+repository: richii/chombo.club
 logo: /assets/images/logo.svg
 og_image: /assets/images/logo.png
 
