@@ -93,7 +93,7 @@ This photo shows small discolorations and missing paint near the markings of the
 
 ![](/assets/images/review-e-go-white/002-005.jpg)
 
-This photo shows something that I initially considered to be resisual paint - but it turned out to be small cracks inside the tile's material, near the regions where the East symbol was molded inside the tile.
+This photo shows something that I initially considered to be residual paint - but it turned out to be small cracks inside the tile's material, near the regions where the East symbol was molded inside the tile.
 
 ## Playthrough impressions
 
