@@ -1,5 +1,5 @@
 ---
-title:  "Equipment: reviewing the white tile set from e-go.pl"
+title:  "Equipment: review of the white tile set from e-go.pl"
 date:   2021-06-15 8:00:00 +0100
 categories: other
 lang: en
