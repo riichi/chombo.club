@@ -81,7 +81,7 @@ A small downside of the set is that some tiles are dirty with paint that has not
 
 ![](/assets/images/review-e-go-white/002-002.jpg)
 
-Other than for the dirtiness on the third-from-top four of circles, the second one has its carving off-center; other than that, one can see small cracks of the material nearby the carvings (second-from-top three of circles, two topmost fives of circles). These two issues are the ones I consider to be the greatest; paradoxically it's a plus, since all of the issues I found are practically unnoticeable during standard play.
+Other than for the dirtiness on the third-from-top four of circles, the second one has its carving off-center; furthermore, one can see small cracks of the material nearby the carvings (second-from-top three of circles, two topmost fives of circles). These two issues are the ones I consider to be the greatest; paradoxically it's a plus, since all of the issues I found are practically unnoticeable during standard play.
 
 ![](/assets/images/review-e-go-white/002-003.jpg)
 
@@ -110,4 +110,3 @@ I think that if someone, for whatever reason, does not want to import tiles from
 This tile set might not suit people who usually play with heavier tiles with weighted cores (e.g. the formerly mentioned AMOS MAX), or people who prefer tiles with clearly marked tile backs - but these are questions concering one's habits and personal preferences.
 
 **Final score:** ★★★★★★★★⯪☆ **(8.5/10)**
-
