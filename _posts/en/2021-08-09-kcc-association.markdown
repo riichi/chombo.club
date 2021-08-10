@@ -13,7 +13,7 @@ lang: en
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
-Stało się — z dniem 29 lipca 2021 roku Krakowski Klub Chombo stał się oficjalnie stowarzyszeniem. Jest to zwieńczenie niemal dwuletniego procesu — jednego roku wspólnej gry i planów na przyszłość, oraz kolejnego, który poświęciliśmy na proces formalny i rozwój idei stowarzyszenia. Mamy nadzieję, że oficjalna forma stowarzyszenia pozwoli nam na organizowanie lepszych wydarzeń, a członkom klubu na łatwiejsze reprezentowanie regionu na arenie krajowej i międzynarodowej. Nie siadamy na laurach — już planujemy pierwsze duże wydarzenie jako stowarzyszenie, czyli krakowski turniej, który najprawdopodobniej odbędzie się w ostatnim kwartale tego roku!
+We’ve made it - on July 29, 2021 the Krakow Chombo Club has officially become an association. It’s the pinnacle of a nearly two-year process - one year of playing together and planning the future, and another which we devoted to the formal process and developing the idea of the association. We hope that this official form of association will let us organize better events and help our members represent our region much easier, both domestically and internationally. It’s not the end of our work now though! We are planning our first big event already - a tournament in Kraków, which will most likely take place in the last quarter of this year.
 
-Zainteresowanych członkostwem w Stowarzyszeniu albo jego działaniach zachęcamy do kontaktu przez naszego [fanpage’a na Facebooku](https://fb.me/chombo.club) lub [Discorda](https://discord.gg/Hx4Muag).
+If you are interested in becoming a member of Krakow Chombo Club Association or organizing something together with us, please contact us via our [Facebook fanpage](https://fb.me/chombo.club) or [Discord server](https://discord.gg/Hx4Muag).
 
