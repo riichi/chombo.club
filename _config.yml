@@ -43,7 +43,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: false
       share: false
       related: true
