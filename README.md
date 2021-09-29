@@ -3,6 +3,14 @@ chombo.club
 
 [Kraków Chombo Club](https://chombo.club) website source. Built using [Jekyll](https://jekyllrb.com/).
 
+## Quickstart
+
+```
+gem install jekyll bundler
+bundle install
+jekyll serve
+```
+
 ## Building
 Using Docker:
 ```
