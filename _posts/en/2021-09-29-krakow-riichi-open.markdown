@@ -1,26 +1,25 @@
 ---
-title:  "Kraków Rīchi Open"
+title:  "Kraków Riichi Open 2021"
 date:   2021-09-29 17:00:00 +0100
 categories: tournaments
 lang: pl
 ---
 
 {% capture fig_img %}
-![Kraków Rīchi Open]({{ "/assets/images/2021-09-29-krakow-riichi-open.png" | relative_url }})
+![Kraków Riichi Open]({{ "/assets/images/2021-09-29-krakow-riichi-open.png" | relative_url }})
 {% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
-In accordance to our previous declaration made when we have notified about
-creating an association, Krakow Chombo Club is proud to announce the first
-Riichi Mahjong tournament in Krakow! The tournament will be played with
-[EMA](http://mahjong-europe.org/) rules on 20 November 2021 in
-[Boardowa](http://boardowa.pl/) Board Game Cafe.
+Just as we said back when we finished work on creating our association, Krakow
+Chombo Club is proud to announce the first open Riichi Mahjong tournament in
+Krakow! The tournament will be played with [EMA](http://mahjong-europe.org/)
+rules on 20 November 2021 in [Boardowa](http://boardowa.pl/) Board Game Cafe.
 
-You can find all the important details about the tournament, as well as
-the registration form below. We are accepting applications until 6 November,
+You can find all the important details about the tournament and a link to
+the registration form below. We are accepting applications until November 6th,
 but please do register as soon as possible, so we can estimate the number
 of players.
 
@@ -30,7 +29,7 @@ of players.
 * Place: [Boardowa Board Game Cafe, ul. Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
 * Rules: EMA 2016
 * Referees: Michał Herda (will not play)
-* Substitues: none (at the moment)
+* Substitues: TBA
 * Fee: 40PLN (includes 30PLN deposit that can be used to pay in Boardowa's bar)
 * Player limit: 24
 * Scoring: [Mahjong Tracker](https://mahjongtracker.com/)
