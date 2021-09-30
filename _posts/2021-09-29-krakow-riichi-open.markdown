@@ -29,7 +29,7 @@ jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 
 * Data: 20 listopada 2021 (sobota)
 * Miejsce: [Boardowa, ul. Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
-* Zasady: EMA 2016; uma +15/+5/-5/-15; no oka
+* Zasady: EMA 2016; uma +15/+5/-5/-15; bez oki
 * Sędziowie: Michał Herda (nie będzie grał)
 * Substytuci: TBA
 * Opłata: 40zł (w tym 30zł do wykorzystania w barze w Boardowej)
