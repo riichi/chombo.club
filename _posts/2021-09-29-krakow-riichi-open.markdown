@@ -1,12 +1,12 @@
 ---
-title:  "Kraków Rīchi Open"
+title:  "Kraków Riichi Open 2021"
 date:   2021-09-29 17:00:00 +0100
 categories: tournaments
 lang: pl
 ---
 
 {% capture fig_img %}
-![Kraków Rīchi Open]({{ "/assets/images/2021-09-29-krakow-riichi-open.png" | relative_url }})
+![Kraków Riichi Open]({{ "/assets/images/2021-09-29-krakow-riichi-open.png" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -14,8 +14,8 @@ lang: pl
 </figure>
 
 Zgodnie z zapowiedzią przy okazji ogłoszenia o utworzeniu stowarzyszenia,
-Krakowski Klub Chombo ma przyjemność ogłasić pierwszy krakowski turniej Rīchi
-Mahjonga! Turniej będzie rozgrywany na
+Krakowski Klub Chombo ma przyjemność ogłosić pierwszy otwarty krakowski turniej
+Riichi Mahjonga! Turniej będzie rozgrywany na
 zasadach [EMA](http://mahjong-europe.org/) i odbędzie się 20 listopada 2021 roku
 w kawiarni [Boardowa](http://boardowa.pl/). Dodatkowo, turniej będzie
 uwzględniony w rankingu
@@ -31,7 +31,7 @@ jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 * Miejsce: [Boardowa, ul. Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
 * Zasady: EMA 2016
 * Sędziowie: Michał Herda (nie będzie grał)
-* Substytuci: *(na ten moment) brak*
+* Substytuci: TBA
 * Opłata: 40zł (w tym 30zł do wykorzystania w barze w Boardowej)
 * Limit osób: 24
 * Punktacja: [Mahjong Tracker](https://mahjongtracker.com/)
