@@ -27,7 +27,7 @@ of players.
 
 * Date: 20 November 2021 (Saturday)
 * Place: [Boardowa Board Game Cafe, ul. Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
-* Rules: EMA 2016
+* Rules: EMA 2016; uma +15/+5/-5/-15; no oka
 * Referees: Michał Herda (will not play)
 * Substitues: TBA
 * Fee: 40PLN (includes 30PLN deposit that can be used to pay in Boardowa's bar)
