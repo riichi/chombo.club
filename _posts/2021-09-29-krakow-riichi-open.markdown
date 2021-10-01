@@ -32,7 +32,7 @@ jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 * Zasady: EMA 2016; uma +15/+5/-5/-15; bez oki
 * Sędziowie: Michał Herda (nie będzie grał)
 * Substytuci: TBA
-* Opłata: 40zł (w tym 30zł do wykorzystania w barze w Boardowej)
+* Opłata: TBA
 * Limit osób: 24
 * Punktacja: [Mahjong Tracker](https://mahjongtracker.com/)
 

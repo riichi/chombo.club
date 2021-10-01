@@ -30,7 +30,7 @@ of players.
 * Rules: EMA 2016; uma +15/+5/-5/-15; no oka
 * Referees: Michał Herda (will not play)
 * Substitues: TBA
-* Fee: 40PLN (includes 30PLN deposit that can be used to pay in Boardowa's bar)
+* Fee: TBA
 * Player limit: 24
 * Scoring: [Mahjong Tracker](https://mahjongtracker.com/)
 
