@@ -2,7 +2,7 @@
 title:  "Kraków Riichi Open 2021"
 date:   2021-09-29 17:00:00 +0100
 categories: tournaments
-lang: pl
+lang: en
 ---
 
 {% capture fig_img %}
