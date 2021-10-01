@@ -38,17 +38,17 @@ jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 
 ## Agenda
 
-| Godzina     | Etap                |
-|-------------|---------------------|
-| 09:00-09:30 | Rejestracja         |
-| 09:30-09:45 | Otwarcie turnieju   |
-| 09:45-11:00 | 1. hanchan          |
-| 11:15-12:30 | 2. hanchan          |
-| 12:30-14:00 | Przerwa obiadowa    |
-| 14:00-15:15 | 3. hanchan          |
-| 15:30-16:45 | 4. hanchan          |
-| 17:00-18:15 | 5. hanchan          |
-| 18:15-18:30 | Zamknięcie turnieju |
+| Godzina       | Etap                |
+|---------------|---------------------|
+| 09:00 - 09:30 | Rejestracja         |
+| 09:30 - 09:45 | Otwarcie turnieju   |
+| 09:45 - 11:00 | 1. hanchan          |
+| 11:15 - 12:30 | 2. hanchan          |
+| 12:30 - 14:00 | Przerwa obiadowa    |
+| 14:00 - 15:15 | 3. hanchan          |
+| 15:30 - 16:45 | 4. hanchan          |
+| 17:00 - 18:15 | 5. hanchan          |
+| 18:15 - 18:30 | Zamknięcie turnieju |
 
 ## Rejestracja
 
