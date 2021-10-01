@@ -36,17 +36,17 @@ of players.
 
 ## Agenda
 
-| Time        | Stage            |
-|-------------|------------------|
-| 09:00-09:30 | Registration     |
-| 09:30-09:45 | Opening ceremony |
-| 09:45-11:00 | 1st hanchan      |
-| 11:15-12:30 | 2nd hanchan      |
-| 12:30-14:00 | Lunch break      |
-| 14:00-15:15 | 3rd hanchan      |
-| 15:30-16:45 | 4th hanchan      |
-| 17:00-18:15 | 5th hanchan      |
-| 18:15-18:30 | Closing ceremony |
+| Time          | Stage            |
+|---------------|------------------|
+| 09:00 - 09:30 | Registration     |
+| 09:30 - 09:45 | Opening ceremony |
+| 09:45 - 11:00 | 1st hanchan      |
+| 11:15 - 12:30 | 2nd hanchan      |
+| 12:30 - 14:00 | Lunch break      |
+| 14:00 - 15:15 | 3rd hanchan      |
+| 15:30 - 16:45 | 4th hanchan      |
+| 17:00 - 18:15 | 5th hanchan      |
+| 18:15 - 18:30 | Closing ceremony |
 
 ## Registration
 
