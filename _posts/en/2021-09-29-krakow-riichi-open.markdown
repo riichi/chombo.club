@@ -31,7 +31,7 @@ of players.
 * Referees: Michał Herda (will not play)
 * Substitues: TBA
 * Fee: 30PLN (deposit that can be used in Boardowa's bar)
-* Player limit: 24
+* Player limit: 28
 * Scoring: [Mahjong Tracker](https://mahjongtracker.com/)
 
 ## Agenda
