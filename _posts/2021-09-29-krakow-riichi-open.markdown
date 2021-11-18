@@ -33,7 +33,7 @@ jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 * Sędziowie: Michał Herda (nie będzie grał)
 * Substytuci: TBA
 * Opłata: 30zł (do wykorzystania na barze w Boardowej)
-* Limit osób: 24
+* Limit osób: 28
 * Punktacja: [Mahjong Tracker](https://mahjongtracker.com/)
 
 ## Agenda
