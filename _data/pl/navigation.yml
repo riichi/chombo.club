@@ -7,7 +7,5 @@ main:
     url: /about/
   - title: "Kontakt"
     url: /contact/
-  - title: "Fanpai"
-    url: https://fanpai.chombo.club
   - title: "Kalendarz"
     url: /calendar/
