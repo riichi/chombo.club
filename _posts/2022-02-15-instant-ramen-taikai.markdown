@@ -6,7 +6,7 @@ lang: pl
 ---
 
 {% capture fig_img %}
-![Kraków Riichi Open]({{ "/assets/images/2022-02-15-instant-ramen-taikai.png" | relative_url }})
+![Instant Ramen Taikai]({{ "/assets/images/2022-02-15-instant-ramen-taikai.png" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -14,7 +14,7 @@ lang: pl
 </figure>
 
 Czas na pierwszy krakowski turniej riichi o smaku kurczaka! Turniej odbędzie się 3 kwietnia 2022 roku
-w kawiarni [Boardowa](http://boardowa.pl/) i będzie rozgrywany na zmodyfikowanych 
+w kawiarni [Boardowa](http://boardowa.pl/) i będzie rozgrywany na zmodyfikowanych
 zasadach [EMA](http://mahjong-europe.org/). Dodatkowo, turniej będzie uwzględniony w rankingu
 [Górnośląskiego Związku Madżonga](https://mahjongsilesia.wordpress.com/).
 
@@ -64,12 +64,24 @@ Zasady to **EMA 2016 z następującymi modyfikacjami:**
 
 ### Przykłady
 
-* Ręka np. `111123444m111s66z` daje honitsu w manach (+ fanpai kura).
-* Ręka np. `11133345566799s` nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu + kura;
-  zamiast tego ręka to "zwyczajne" chinitsu w souzu.
-* Ręka np. `111s111444555777z` zamiast honroutou daje yakumana tsuuiisou.
+{% capture fig_img %}
+![111123444m6z_6z_111*s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand1.png" | relative_url }})
+{% endcapture %}
 
-TODO wydrukować ręce z chombota.
+Ręka powyżej to honitsu w manach + fanpai kura.
+
+{% capture fig_img %}
+![111s333s9s_9s_4*56s_7*65s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand2.png" | relative_url }})
+{% endcapture %}
+
+Ta ręka nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu
++ kura; zamiast tego ręka to "zwyczajne" chinitsu w souzu.
+
+{% capture fig_img %}
+![111s1z_1z_4*44z_55*5**5z_7*77z]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand3.png" | relative_url }})
+{% endcapture %}
+
+Ta ręka to yakuman tsuuiisou.
 
 ## Agenda
 
