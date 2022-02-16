@@ -124,4 +124,4 @@ Zamiast tego liczymy 1s jako parę ze zwykłych kamieni, co daje nam pinfu.
 
 ## Rejestracja
 
-**[Zapisy na turniej](https://google.com)** TODO link
+Już wkrótce!
