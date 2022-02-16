@@ -103,7 +103,8 @@ Ta ręka to yakuman tsuuiisou.
   {{ fig_hand4 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
-Ta ręka to yakuman tsuuiisou.
+Jeśli policzymy parę z 1s jako parę z honorów, to dostajemy 2 fu.
+Lepiej jest potraktować ją jako parę ze zwykłych kamieni, co daje nam pinfu.
 
 {% capture fig_hand5 %}
 ![1s_1s_2*34m_555*z_7*77s_8*79p]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand5.png" | relative_url }})
