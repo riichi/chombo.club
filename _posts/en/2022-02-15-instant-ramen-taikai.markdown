@@ -48,7 +48,7 @@ The ruleset is **EMA 2016 with the following modifications:**
 * A koutsu or kantsu from 1s can count as **fanpai kura** (see below).
 
 ### Additional yaku: fanpai kura (蔵)
-* Koutsu albo kantsu from 1s treated as honors.
+* Koutsu or kantsu from 1s treated as honors.
 * Valid for winning via tsumo or ron.
 * Worth 1 han.
 
