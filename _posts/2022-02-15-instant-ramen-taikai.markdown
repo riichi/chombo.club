@@ -114,8 +114,18 @@ Lepiej jest potraktować ją jako parę ze zwykłych kamieni, co daje nam pinfu.
   {{ fig_hand5 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
-Jeżeli nie ma żadnej dory, to ta ręka to kinkei dokuritsu, wart mangana.
-Jeżeli zarówno biały smok, jak i 7s są dorami, to zamiast tego liczymy to jako haku dora6 (haneman).
+To jest po prostu kinkei dokuritsu, warty mangana - ignorujemy białego smoka.
+
+{% capture fig_hand6 %}
+![1s_1s_3*33s_44*4s_888*s_99*9s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand6.png" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_hand6 | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
+Jesli liczymy kinkei dokuritsu, to ta ręka to tylko mangan.
+Zamiast tego powinniśmy policzyć tu chinitsu toitoi, warty hanemana.
 
 ## Agenda
 

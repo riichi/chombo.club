@@ -114,8 +114,18 @@ It is better to instead count it as a pair of normal files, which gets us pinfu.
   {{ fig_hand5 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
-If this hand contains no dora, then it's kinkei dokuritsu, worth a mangan.
-If both white dragon and 7s are dora, then we instead count it as haku dora6 (haneman).
+This is just a kinkei dokuritsu, worth a mangan - we ignore the white dragon.
+
+{% capture fig_hand6 %}
+![1s_1s_3*33s_44*4s_888*s_99*9s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand6.png" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_hand6 | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
+If we count kinkei dokuritsu, then this hand is only a mangan.
+We should instead count it as chinitsu toitoi, worth a haneman.
 
 ## Agenda
 
