@@ -55,7 +55,7 @@ Zasady to **EMA 2016 z następującymi modyfikacjami:**
 ### Dodatkowe yaku: kinkei dokuritsu (金鶏独立)
 * Cztery zameldowane grupy + pojedyncze czekanie (hadaka tanki) na 1s.
 * Możliwa wygrana przez tsumo albo ron.
-* Zawsze warte 5 han (mangan), nie łączy się z innymi yaku.
+* Zawsze warte 5 han (mangan), nie łączy się z innymi yaku (ale łączy się z dorami).
 
 ### Yakitori
 
