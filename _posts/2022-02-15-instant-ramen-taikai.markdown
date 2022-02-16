@@ -22,7 +22,7 @@ Poniżej znajdziecie wszystkie szczegóły dotyczące turnieju oraz link do
 formularza rejestracyjnego. Zgłoszenia przyjmujemy do 20 marca, ale prosimy o
 jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 
-Każdy przy rejestracji dostaje kubek instant ramen do samodzielnego zalania + wielorazowe pamiątkowe pałki do jedzenia. <3
+Każdy przy rejestracji dostaje kubek instant ramen do samodzielnego zalania + wielorazowe pamiątkowe pałki do jedzenia. ❤️
 
 ## O turnieju
 
