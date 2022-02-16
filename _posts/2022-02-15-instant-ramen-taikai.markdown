@@ -26,7 +26,7 @@ Każdy przy rejestracji dostaje kubek instant ramen do samodzielnego zalania + w
 
 ## O turnieju
 
-* Data: 3 kwietnia 2022 (sobota)
+* Data: 3 kwietnia 2022 (niedziela)
 * Miejsce: [Boardowa, ul. Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
 * Zasady: **modyfikowane** EMA 2016; uma +15/+5/-5/-15; bez oki
 * Hanchany: 4
