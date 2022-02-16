@@ -55,7 +55,7 @@ The ruleset is **EMA 2016 with the following modifications:**
 ### Additional yaku: kinkei dokuritsu (金鶏独立)
 * Four melded groups + single wait (hadaka tanki) on 1s.
 * Valid for winning via tsumo or ron.
-* Always worth 5 han (mangan), does not mesh with other yaku.
+* Always worth 5 han (mangan), does not combine with other yaku (but combines with dora).
 
 ### Yakitori
 
