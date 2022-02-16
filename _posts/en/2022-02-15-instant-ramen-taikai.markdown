@@ -104,7 +104,7 @@ This hand is yakuman tsuuiisou.
 </figure>
 
 If we count the 1s as pair as a honor pair, we get 2 fu.
-It is better to instead count it as a pair of normal files, which gets us pinfu.
+It is better to instead count it as a pair of normal tiles, which gets us pinfu.
 
 {% capture fig_hand5 %}
 ![1s_1s_2*34m_555*z_7*77s_8*79p]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand5.png" | relative_url }})
