@@ -83,8 +83,8 @@ Ręka powyżej to honitsu w manach + fanpai kura.
 </figure>
 
 
-Ta ręka nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu
-+ kura; zamiast tego ręka to "zwyczajne" chinitsu w souzu.
+Ta ręka nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu + kura;
+zamiast tego ręka to "zwyczajne" chinitsu w souzu.
 
 {% capture fig_hand3 %}
 ![111s1z_1z_4*44z_55*5**5z_7*77z]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand3.png" | relative_url }})
