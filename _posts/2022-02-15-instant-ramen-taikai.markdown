@@ -64,28 +64,47 @@ Zasady to **EMA 2016 z następującymi modyfikacjami:**
 
 ### Przykłady
 
-{% capture fig_img %}
+{% capture fig_hand1 %}
 ![111123444m6z_6z_111*s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand1.png" | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_hand1 | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
 Ręka powyżej to honitsu w manach + fanpai kura.
 
-{% capture fig_img %}
+{% capture fig_hand2 %}
 ![111s333s9s_9s_4*56s_7*65s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand2.png" | relative_url }})
 {% endcapture %}
 
-Ta ręka nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu
-+ kura; zamiast tego ręka to "zwyczajne" chinitsu w souzu.
+<figure>
+  {{ fig_hand2 | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
 
-{% capture fig_img %}
+
+Ta ręka nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu + kura;
+zamiast tego ręka to "zwyczajne" chinitsu w souzu.
+
+{% capture fig_hand3 %}
 ![111s1z_1z_4*44z_55*5**5z_7*77z]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand3.png" | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_hand3 | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
+
 Ta ręka to yakuman tsuuiisou.
 
-{% capture fig_img %}
+{% capture fig_hand4 %}
 ![123345678m11s34s_2s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand4.png" | relative_url }})
 {% endcapture %}
+
+<figure>
+  {{ fig_hand4 | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
 
 W tej ręce policzenie pary z 1s jako pary z honorów daje 2 fu.
 Zamiast tego liczymy 1s jako parę ze zwykłych kamieni, co daje nam pinfu.
