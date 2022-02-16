@@ -83,6 +83,13 @@ Ta ręka nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu
 
 Ta ręka to yakuman tsuuiisou.
 
+{% capture fig_img %}
+![123345678m11s34s_2s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand4.png" | relative_url }})
+{% endcapture %}
+
+W tej ręce policzenie pary z 1s jako pary z honorów daje 2 fu.
+Zamiast tego liczymy 1s jako parę ze zwykłych kamieni, co daje nam pinfu.
+
 ## Agenda
 
 | Godzina       | Etap                |
