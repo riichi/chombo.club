@@ -82,7 +82,6 @@ Ręka powyżej to honitsu w manach + fanpai kura.
   {{ fig_hand2 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
-
 Ta ręka nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu + kura;
 zamiast tego ręka to "zwyczajne" chinitsu w souzu.
 
@@ -94,7 +93,6 @@ zamiast tego ręka to "zwyczajne" chinitsu w souzu.
   {{ fig_hand3 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
-
 Ta ręka to yakuman tsuuiisou.
 
 {% capture fig_hand4 %}
@@ -105,9 +103,18 @@ Ta ręka to yakuman tsuuiisou.
   {{ fig_hand4 | markdownify | remove: "<p>" | remove: "</p>" }}
 </figure>
 
+Ta ręka to yakuman tsuuiisou.
 
-W tej ręce policzenie pary z 1s jako pary z honorów daje 2 fu.
-Zamiast tego liczymy 1s jako parę ze zwykłych kamieni, co daje nam pinfu.
+{% capture fig_hand5 %}
+![1s_1s_2*34m_555*z_7*77s_8*79p]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand5.png" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_hand5 | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
+Jeżeli nie ma żadnej dory, to ta ręka to kinkei dokuritsu, wart mangana.
+Jeżeli zarówno biały smok, jak i 7s są dorami, to zamiast tego liczymy to jako haku dora6 (haneman).
 
 ## Agenda
 
