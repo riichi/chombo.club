@@ -47,7 +47,7 @@ Zasady to **EMA 2016 z następującymi modyfikacjami:**
 * 1s nie jest ani smokiem, ani wiatrem, więc nie może zastąpić żadnego w shousangen/daisangen lub shousuushii/daisuushii;
 * Koutsu albo kantsu z 1s może liczyć się jako **fanpai kura** (patrz niżej).
 
-### Dodatkowe yaku: fanpai kura (庫)
+### Dodatkowe yaku: fanpai kura (蔵)
 * Koutsu albo kantsu z 1s traktowanych jako honory.
 * Możliwa wygrana przez tsumo albo ron.
 * Warte 1 han.
