@@ -142,4 +142,4 @@ We should instead count it as chinitsu toitoi, worth a haneman.
 
 ## Registration
 
-Soon!
+[Here!](https://forms.gle/cDMZcCej329RFSti8)

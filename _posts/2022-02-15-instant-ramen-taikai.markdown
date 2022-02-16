@@ -142,4 +142,4 @@ Zamiast tego powinniśmy policzyć tu chinitsu toitoi, warty hanemana.
 
 ## Rejestracja
 
-Już wkrótce!
+[Tutaj!](https://forms.gle/cDMZcCej329RFSti8)
