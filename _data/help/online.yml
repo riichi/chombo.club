@@ -4,13 +4,13 @@
   url: https://mahjongsoul.game.yo-star.com/
 
 - name: Riichi City
-  description: riichi mahjong client with anime-like visuals
-  description_pl: klient riichi mahjonga w oprawie graficznej w stylu anime
-  url: https://riichi.city/
+  description: riichi mahjong client (in Japanese) with anime-like visuals
+  description_pl: klient riichi mahjonga (po japońsku) w oprawie graficznej w stylu anime
+  url: https://www.mahjong-jp.com/home
 
 - name: Tenhou
-  description: classic minimalistic client with UI in Japanese
-  description_pl: klasyczny minimalistyczny klient z interfejsem po japońsku
+  description: classic minimalistic client with UI
+  description_pl: klasyczny minimalistyczny klient z interfejsem
   url: http://tenhou.net/
   subitems:
     - name: "Chrome Web Store: Tenhou English UI"
