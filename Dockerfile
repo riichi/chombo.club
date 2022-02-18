@@ -1,6 +1,7 @@
-FROM jekyll/jekyll:latest AS build
+FROM ruby:3.0-bullseye AS build
 WORKDIR /srv/jekyll
 COPY . /srv/jekyll
+RUN bundler install
 ENV JEKYLL_ENV=production
 RUN jekyll build && mv _site /output
 
