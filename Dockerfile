@@ -1,4 +1,4 @@
-FROM ruby:3.0-bullseye AS build
+FROM ruby:3.1-bullseye AS build
 WORKDIR /srv/jekyll
 COPY . /srv/jekyll
 RUN bundler install
