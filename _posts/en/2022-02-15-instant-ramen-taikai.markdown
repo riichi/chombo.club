@@ -140,6 +140,38 @@ We should instead count it as chinitsu toitoi, worth a haneman.
 | 16:15 - 17:30 | 4th hanchan         |
 | 17:45 - 18:00 | Closing ceremony    |
 
+## Participant list
+
+| First name | Last name  | Nickname   | City             |
+|------------|------------|------------|------------------|
+| Dominik    | Jarno      |            |                  |
+| Szymon     | Nowicz     |            | Zbrosławice      |
+| Joanna     | Zalewska   | Tuptaju    | Warszawa         |
+| Adrian     | Fornalik   | Miku       | Poznań           |
+| Tomek      | Dwojacki   |            |                  |
+| Bartosz    | Kruger     | Chapatsu   | Kraków           |
+| Jacek      | Spychała   | Jackek     | Katowice         |
+| Dominik    |            | Eshiyo     |                  |
+| Bartosz    | Kawa       |            | Kraków           |
+| Egor       | Egorov     | Punch      | Kraków           |
+| Tatsuya    | Igarashi   | 夏夢想        | Katowice         |
+| Ula        | Szudlich   |            | Dąbrowa Górnicza |
+| Paweł      | Polański   |            | Warszawa         |
+| Paweł      | Kruk       | Kruker     | Rzeszów          |
+| Bartłomiej | Żok        |            | Rzeszów          |
+| Artur      | Libich     |            | Łódź             |
+| Łukasz     | Gosk       | Żokun      | Poznań           |
+| Jakub      | Titow      | Tribell    | Wrocław          |
+|            |            | Riichihime |                  |
+| Mateusz    | Maćkowski  |            | Kraków           |
+| Dawid      | Bronowicki |            | Kraków           |
+| Alex       | Gradowski  | Mironty    | Kraków           |
+|            |            | haoma      |                  |
+| Shu        |            |            |                  |
+|            |            | Tobas      |                  |
+| Tomasz     | Rola       |            | Nowy Sącz        |
+| Pawel      | Kuźniar    |            | Rzeszów          |
+
 ## Registration
 
 [Here!](https://forms.gle/cDMZcCej329RFSti8)
