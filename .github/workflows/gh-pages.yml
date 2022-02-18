@@ -17,7 +17,7 @@ jobs:
         run: |
           docker build . --tag "chombo:latest"
           mkdir __build
-          id=$(docker create "czombo:latest")
+          id=$(docker create "chombo:latest")
           docker cp "$id:/usr/share/nginx/html/." ./__build
           docker rm -v $id
       - name: Deploy
