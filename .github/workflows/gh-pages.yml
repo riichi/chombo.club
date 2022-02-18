@@ -10,8 +10,17 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Build website
+        run: |
+          docker build . --tag "chombo:latest"
+          mkdir __build
+          id=$(docker create "chombo:latest")
+          docker cp "$id:/usr/share/nginx/html/." ./__build
+          docker rm -v $id
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.GHTOKEN }}
-          pre_build_commands: gem update --system
+          github_token: ${{ secrets.GHTOKEN }}
+          publish_dir: ./__build
