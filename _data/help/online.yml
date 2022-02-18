@@ -9,8 +9,8 @@
   url: https://www.mahjong-jp.com/home
 
 - name: Tenhou
-  description: classic minimalistic client with UI
-  description_pl: klasyczny minimalistyczny klient z interfejsem
+  description: classic minimalistic client
+  description_pl: klasyczny minimalistyczny klient
   url: http://tenhou.net/
   subitems:
     - name: "Chrome Web Store: Tenhou English UI"
