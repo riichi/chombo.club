@@ -32,7 +32,7 @@ Every registered participant gets a cup of instant ramen for DIY preparation + m
 * Hanchans: 4
 * Judges: Michał Herda (will not play)
 * Substitute players: TBA
-* Fee: TBA (30zł for use at the Boardowa bar)
+* Fee: 45 PLN (30 PLN for use at the Boardowa bar)
 * Participant limit: 24
 * Scoring: [Mahjong Tracker](https://mahjongtracker.com/)
 
@@ -162,15 +162,12 @@ We should instead count it as chinitsu toitoi, worth a haneman.
 | Artur      | Libich     |            | Łódź             |
 | Łukasz     | Gosk       | Żokun      | Poznań           |
 | Jakub      | Titow      | Tribell    | Wrocław          |
-|            |            | Riichihime |                  |
 | Mateusz    | Maćkowski  |            | Kraków           |
 | Dawid      | Bronowicki |            | Kraków           |
 | Alex       | Gradowski  | Mironty    | Kraków           |
 |            |            | haoma      |                  |
 | Shu        |            |            |                  |
 |            |            | Tobas      |                  |
-| Tomasz     | Rola       |            | Nowy Sącz        |
-| Pawel      | Kuźniar    |            | Rzeszów          |
 
 ## Registration
 

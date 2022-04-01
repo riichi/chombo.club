@@ -32,7 +32,7 @@ Każdy przy rejestracji dostaje kubek instant ramen do samodzielnego zalania + w
 * Hanchany: 4
 * Sędziowie: Michał Herda (nie będzie grał)
 * Substytuci: TBA
-* Opłata: TBA (30zł do wykorzystania na barze w Boardowej)
+* Opłata: 45zł (30zł do wykorzystania na barze w Boardowej)
 * Limit osób: 24
 * Punktacja: [Mahjong Tracker](https://mahjongtracker.com/)
 
@@ -162,15 +162,12 @@ Zamiast tego powinniśmy policzyć tu chinitsu toitoi, warty hanemana.
 | Artur      | Libich     |            | Łódź             |
 | Łukasz     | Gosk       | Żokun      | Poznań           |
 | Jakub      | Titow      | Tribell    | Wrocław          |
-|            |            | Riichihime |                  |
 | Mateusz    | Maćkowski  |            | Kraków           |
 | Dawid      | Bronowicki |            | Kraków           |
 | Alex       | Gradowski  | Mironty    | Kraków           |
 |            |            | haoma      |                  |
 | Shu        |            |            |                  |
 |            |            | Tobas      |                  |
-| Tomasz     | Rola       |            | Nowy Sącz        |
-| Pawel      | Kuźniar    |            | Rzeszów          |
 
 ## Rejestracja
 
