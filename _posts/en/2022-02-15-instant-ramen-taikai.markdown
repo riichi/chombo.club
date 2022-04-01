@@ -162,15 +162,12 @@ We should instead count it as chinitsu toitoi, worth a haneman.
 | Artur      | Libich     |            | Łódź             |
 | Łukasz     | Gosk       | Żokun      | Poznań           |
 | Jakub      | Titow      | Tribell    | Wrocław          |
-|            |            | Riichihime |                  |
 | Mateusz    | Maćkowski  |            | Kraków           |
 | Dawid      | Bronowicki |            | Kraków           |
 | Alex       | Gradowski  | Mironty    | Kraków           |
 |            |            | haoma      |                  |
 | Shu        |            |            |                  |
 |            |            | Tobas      |                  |
-| Tomasz     | Rola       |            | Nowy Sącz        |
-| Pawel      | Kuźniar    |            | Rzeszów          |
 
 ## Registration
 
