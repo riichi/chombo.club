@@ -12,6 +12,8 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 * [Facebook]({{ site.footer.links[1].url }}) — gdzie informujemy o aktualnych i przyszłych wydarzeniach
 * [GitHub]({{ site.footer.links[2].url }}) — gdzie budujemy oprogramowanie pomagające rozwinąć umiejętności w Mahjongu
 
+[Pobierz statut w formacie PDF](https://github.com/riichi/statute-pl/releases/download/2021-06-17-1ee2a19/statut.pdf)
+
 ## Ulotka
 
 ![Leaflet1]({{ "assets/images/leaflet-v3-1.png" | relative_url }})
