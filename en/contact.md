@@ -21,6 +21,6 @@ You can contact us directly by:
 <p>
     KRS: 0000913968<br/>
     NIP: 6762600919<br/>
-    PL13 1140 2004 0000 3802 8180 7241
+    IBAN: PL13 1140 2004 0000 3802 8180 7241
 </p>
 </address>
