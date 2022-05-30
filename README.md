@@ -11,10 +11,9 @@ bundle install
 jekyll serve
 ```
 
-## Building
-Using Docker:
+## Testing Docker image locally
+Using `docker-compose`:
 ```
-$ docker build . -t riichi/chombo.club:latest
-$ docker run -d -p 8000:80 riichi/chombo.club:latest
+$ docker-compose up --build
 ```
 Then visit [localhost:8000](http://localhost:8000) to see the webpage.
