@@ -109,4 +109,3 @@ Wydaje mi się, że jeśli ktoś z dowolnego powodu nie chce importować zestawu
 Do tego zestawu mogą nie być być przekonani gracze, którzy zwykle grają na cięższych kamieniach z metalowymi rdzeniami (np. wspomniany już wcześniej AMOS MAX), ewentualnie gracze lubiący kamienie z jasno zaznaczonymi rewersami – ale to już przede wszystkim kwestie przyzwyczajeń oraz osobistego gustu.
 
 **Końcowa ocena:** ★★★★★★★★⯪☆ **(8.5/10)**
-
