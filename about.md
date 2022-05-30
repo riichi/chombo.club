@@ -17,3 +17,5 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 ![Leaflet1]({{ "assets/images/leaflet-v3-1.png" | relative_url }})
 
 ![Leaflet2]({{ "assets/images/leaflet-v3-2.png" | relative_url }})
+
+[Pobierz ulotkę w formacie PDF]({{ "assets/download/leaflet-v3.pdf" | relative_url }})
