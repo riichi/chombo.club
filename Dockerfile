@@ -1,7 +1,7 @@
 FROM ruby:3.1-bullseye AS build
 
 WORKDIR /srv/jekyll
-COPY Gemfile Gemfile.lock /srv/jekyll
+COPY Gemfile Gemfile.lock /srv/jekyll/
 RUN bundler install
 
 COPY . /srv/jekyll
