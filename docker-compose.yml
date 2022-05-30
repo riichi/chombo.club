@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  chombo:
+    build: .
+    ports:
+      - "8000:80"
