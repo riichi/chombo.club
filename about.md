@@ -14,6 +14,6 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 
 ## Ulotka
 
-![Leaflet1]({{ "assets/images/leaflet-1.png" | relative_url }})
+![Leaflet1]({{ "assets/images/leaflet-v3-1.png" | relative_url }})
 
-![Leaflet1]({{ "assets/images/leaflet-2.png" | relative_url }})
+![Leaflet2]({{ "assets/images/leaflet-v3-2.png" | relative_url }})
