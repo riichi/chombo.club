@@ -760,12 +760,12 @@ There are 53 cards in the deck, each one with a different ability.
 |---------------|---------------------|
 | 09:00 - 09:30 | Registration        |
 | 09:30 - 09:45 | Opening ceremony    |
-| 09:45 - 11:00 | 1st hanchan         |
-| 11:30 - 12:45 | 2nd hanchan         |
-| 12:45 - 14:30 | Lunch break         |
-| 14:30 - 15:45 | 3rd hanchan         |
-| 16:15 - 17:30 | 4th hanchan         |
-| 17:45 - 18:00 | Closing ceremony    |
+| 09:45 - 11:15 | 1st hanchan         |
+| 11:45 - 13:15 | 2nd hanchan         |
+| 13:15 - 15:00 | Lunch break         |
+| 15:00 - 16:30 | 3rd hanchan         |
+| 17:00 - 18:30 | 4th hanchan         |
+| 18:45 - 19:00 | Closing ceremony    |
 
 ## Registration
 

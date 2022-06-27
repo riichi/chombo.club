@@ -762,12 +762,12 @@ Są 53 karty w talii, każda z własną umiejętnością.
 |---------------|---------------------|
 | 09:00 - 09:30 | Rejestracja         |
 | 09:30 - 09:45 | Otwarcie turnieju   |
-| 09:45 - 11:00 | 1. hanchan          |
-| 11:30 - 12:45 | 2. hanchan          |
-| 12:45 - 14:30 | Przerwa obiadowa    |
-| 14:30 - 15:45 | 3. hanchan          |
-| 16:15 - 17:30 | 4. hanchan          |
-| 17:45 - 18:00 | Zamknięcie turnieju |
+| 09:45 - 11:15 | 1. hanchan          |
+| 11:45 - 13:15 | 2. hanchan          |
+| 13:15 - 15:00 | Przerwa obiadowa    |
+| 15:00 - 16:30 | 3. hanchan          |
+| 17:00 - 18:30 | 4. hanchan          |
+| 18:45 - 19:00 | Zamknięcie turnieju |
 
 ## Rejestracja
 
