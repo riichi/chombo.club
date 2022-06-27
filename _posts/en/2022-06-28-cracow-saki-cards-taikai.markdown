@@ -1,9 +1,11 @@
 ---
 title:  "Cracow Saki Cards Taikai 2022"
-date:   2022-06-28 14:00:00 +0100
+date:   2022-06-27 21:00:00 +0200
 categories: tournaments
 lang: en
 ---
+
+We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe.
 
 {% capture fig_img %}
 ![Cracow Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
@@ -21,7 +23,7 @@ lang: en
 * Hanchans: 4
 * Judges: Michał Herda (will not play), Szymon Nowicz
 * Substitute players: TBA
-* Fee: TBA
+* Fee: TBA (expected to be between 35 and 50PLN)
 * Participant limit: 24
 * Scoring: Point sticks
 * Starting score: 30000
@@ -751,3 +753,20 @@ There are 53 cards in the deck, each one with a different ability.
   a tile is being swapped with a tile in the river, it cannot be called or
   declared ron by any player. The tile after swapping can apply or remove
   furiten respectively.
+
+## Agenda
+
+| Godzina       | Etap                |
+|---------------|---------------------|
+| 09:00 - 09:30 | Registration        |
+| 09:30 - 09:45 | Opening ceremony    |
+| 09:45 - 11:00 | 1st hanchan         |
+| 11:30 - 12:45 | 2nd hanchan         |
+| 12:45 - 14:30 | Lunch break         |
+| 14:30 - 15:45 | 3rd hanchan         |
+| 16:15 - 17:30 | 4th hanchan         |
+| 17:45 - 18:00 | Closing ceremony    |
+
+## Registration
+
+**[Register for the tournament](https://forms.gle/ihwFDbs23PAYbHZH7)**

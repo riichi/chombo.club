@@ -1,9 +1,11 @@
 ---
 title:  "Cracow Saki Cards Taikai 2022"
-date:   2022-06-28 14:00:00 +0100
+date:   2022-06-27 21:00:00 +0200
 categories: tournaments
 lang: pl
 ---
+
+Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.
 
 {% capture fig_img %}
 ![Cracow Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
@@ -21,7 +23,7 @@ lang: pl
 * Hanchany: 4
 * Sędziowie: Michał Herda (nie będzie grał), Szymon Nowicz
 * Substytuci: TBA
-* Opłata: TBA
+* Opłata: TBA (przewidujemy między 35 a 50zł)
 * Limit osób: 24
 * Punktacja: Patyki punktowe
 * Początkowe punkty: 30000
@@ -753,3 +755,20 @@ Są 53 karty w talii, każda z własną umiejętnością.
 * Odrzut może być zamieniony tylko gdy nikt inny go nie ukradnie lub na nim
   wygra. Zamienienie to nie odrzut, nie można na nim zronować, ani zrobić
   meldunku. Kamień po zamienieniu może dać lub zabrać furiten.
+
+## Agenda
+
+| Godzina       | Etap                |
+|---------------|---------------------|
+| 09:00 - 09:30 | Rejestracja         |
+| 09:30 - 09:45 | Otwarcie turnieju   |
+| 09:45 - 11:00 | 1. hanchan          |
+| 11:30 - 12:45 | 2. hanchan          |
+| 12:45 - 14:30 | Przerwa obiadowa    |
+| 14:30 - 15:45 | 3. hanchan          |
+| 16:15 - 17:30 | 4. hanchan          |
+| 17:45 - 18:00 | Zamknięcie turnieju |
+
+## Rejestracja
+
+**[Zapisy na turniej](https://forms.gle/ihwFDbs23PAYbHZH7)**
