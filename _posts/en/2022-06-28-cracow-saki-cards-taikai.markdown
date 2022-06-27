@@ -69,8 +69,8 @@ There are 53 cards in the deck, each one with a different ability.
     * While all other players have closed hands and you have less than the
       starting score, whenever you make a tedashi discard, take an extra turn.
 
-    * First discard of the oya is always tedashi.
-    * You don't get an extra turn when you call.
+      * First discard of the oya is always tedashi.
+      * You don't get an extra turn when you call.
 
     * When another player opens the hand, they must bet 1500.
 2. **Usuzawa Sae**
@@ -90,8 +90,8 @@ There are 53 cards in the deck, each one with a different ability.
 
     * Both haitei and houtei tiles are always your winning tiles.
 
-    * If Kanbara Satomi is also in play, both the last tiles of live wall and
-      dead wall work.
+      * If Kanbara Satomi is also in play, both the last tiles of live wall and
+        dead wall work.
 
     * When you discard a tile from a closed hand, move 1 tile from the end of
       the live wall to the dead wall. When you are the only player in riichi,
@@ -105,7 +105,7 @@ There are 53 cards in the deck, each one with a different ability.
     * Chasing riichi, that is riichi declared after another player already
       declared riichi gives you 2 han.
 
-    * Chasing riichi 2 han replaces 1 han of riichi
+      * Chasing riichi 2 han replaces 1 han of riichi
 
     * Yaku Shiiaru Raotai(十二落抬) is available for you, worth 2 han and gives
       acces to ura dora. Earned if you have a single pair wait with four open
@@ -114,7 +114,7 @@ There are 53 cards in the deck, each one with a different ability.
     * Winning with riichi or shiiaru raotai on a tile discarded by player in
       riichi gives you 1 han for every 1000 on board.
 
-    * Riichi doesn't have to be chasing.
+      * Riichi doesn't have to be chasing.
 
 5. **Arakawa Kei**
 
@@ -123,7 +123,7 @@ There are 53 cards in the deck, each one with a different ability.
     </div>
 
     * When you win, each player pays you 100 points for every live out you
-      have..
+      have.
         * Live out are tiles that player can win on that are not already
           visible in discards, melds, indicators or your hand.
     * When another player wins, they pay you 1000 points for each of their
@@ -258,8 +258,7 @@ There are 53 cards in the deck, each one with a different ability.
       your hand revealed.
     * Your winning value is doubled.
     * Riichi and Ippatsu give you 2 han each.
-
-    * Double Riichi gives you 4 han.
+      * Double Riichi gives you 4 han.
 
 19. **Kainou Yoshiko**
 
@@ -387,7 +386,7 @@ There are 53 cards in the deck, each one with a different ability.
       ![](/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png)
       This hand waits for 825 souzu
 
-    * 3 sequences 912 345 678, or 891 234 567 don't give you ittsuu.
+      * 3 sequences 912 345 678, or 891 234 567 don't give you ittsuu.
 
     * You cannot call pon or kan.
     * Every three identical tiles in your discard give you 1 han.
@@ -580,9 +579,10 @@ There are 53 cards in the deck, each one with a different ability.
         * Sequences from honors don't give you additional fu.
         * Winds don;t wrap in sequences, e.g. you can't have a sequence with north,
           east and south.
-          Example:
-          ![](/assets/images/cracow-saki-cards-taikai-2022/hands/SenooKaori.png)
-          That hand is pinfu.
+      
+      Example:
+      ![](/assets/images/cracow-saki-cards-taikai-2022/hands/SenooKaori.png)
+      That hand is pinfu.
 43. **Shibuya Takami**
 
     <div style="text-align: center">
