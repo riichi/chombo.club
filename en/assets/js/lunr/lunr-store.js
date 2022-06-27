@@ -64,4 +64,10 @@ var store = [{
         "tags": [],
         "url": "/tournaments/2022/02/15/instant-ramen-taikai/",
         "teaser": null
+      },{
+        "title": "Cracow Saki Cards Taikai 2022",
+        "excerpt":"We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe. About Date: 14th August 2022 (Sunday) Place: Boardowa Cafe, Topolowa 52, 31-506 Kraków Rules: modified EMA 2016; uma +15/+5/-5/-15; no oka Hanchans: 4 Judges: Michał Herda...","categories": ["tournaments"],
+        "tags": [],
+        "url": "/tournaments/2022/06/27/cracow-saki-cards-taikai/",
+        "teaser": null
       }]
