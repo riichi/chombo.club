@@ -65,7 +65,7 @@ var store = [{
         "url": "/tournaments/2022/02/15/instant-ramen-taikai/",
         "teaser": null
       },{
-        "title": "Cracow Saki Cards Taikai 2022",
+        "title": "Kraków Saki Cards Taikai 2022",
         "excerpt":"Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa. O turnieju Data: 14 sierpnia 2022 (niedziela) Miejsce: Boardowa, ul. Topolowa 52, 31-506 Kraków Zasady: modyfikowane EMA 2016; uma +15/+5/-5/-15; bez oki Hanchany: 4 Sędziowie: Michał Herda (nie będzie grał),...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2022/06/27/cracow-saki-cards-taikai/",
