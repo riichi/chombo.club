@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2022-06-27T21:56:29+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Cracow Saki Cards Taikai 2022</title><link href="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Cracow Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2022-06-27T22:26:16+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Cracow Saki Cards Taikai 2022</title><link href="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Cracow Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.&lt;/p&gt;
 
 &lt;figure&gt;
   
@@ -70,12 +70,15 @@ gotowi.&lt;/p&gt;
         &lt;p&gt;Jeśli wszyscy pozostali gracze mają zamknięte ręce, a ty masz mniej niż
 początkową liczbę punktów za każdym razym gdy odrzucisz tedashi,
 dostajesz dodatkową turę.&lt;/p&gt;
+
+        &lt;ul&gt;
+          &lt;li&gt;Pierwszy odrzut oya to zawsze tedashi&lt;/li&gt;
+          &lt;li&gt;Nie dostaje dodatkowej tury po meldunku&lt;/li&gt;
+        &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Pierwszy odrzut oya to zawsze tedashi&lt;/li&gt;
       &lt;li&gt;
-        &lt;p&gt;Nie dostaje dodatkowej tury po meldunku&lt;/p&gt;
+        &lt;p&gt;Jeśli inny gracz otwiera swoją rękę, musi on obstawić 1500 punktów.&lt;/p&gt;
       &lt;/li&gt;
-      &lt;li&gt;Jeśli inny gracz otwiera swoją rękę, musi on obstawić 1500 punktów.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -102,10 +105,11 @@ kamieni, ani zgłaszać ron, chyba że sam jest w riichi.&lt;/li&gt;
       &lt;li&gt;
         &lt;p&gt;Ostatni kamień w murze i ostatni wyrzucony kamień zawsze są twoimi
 wygrywającymi.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Jeśli Kanbara Satomi jest w grze, działa i ostatni kamień w żywym murze,
-i ostatni kamień w martwym murze&lt;/p&gt;
+
+        &lt;ul&gt;
+          &lt;li&gt;Jeśli Kanbara Satomi jest w grze, działa i ostatni kamień w żywym murze,
+i ostatni kamień w martwym murze&lt;/li&gt;
+        &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;
         &lt;p&gt;Jeśli odrzucasz kamień z zamkniętej ręki, przesuń ostatni kamień z żywego
@@ -124,9 +128,10 @@ kamienie.&lt;/p&gt;
     &lt;ul&gt;
       &lt;li&gt;
         &lt;p&gt;Oikake riichi, tj. zadeklarowane po innym riichi daje ci 2 han.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Oikake riichi 2 han zastępuje 1 han zwykłego riichi.&lt;/p&gt;
+
+        &lt;ul&gt;
+          &lt;li&gt;Oikake riichi 2 han zastępuje 1 han zwykłego riichi.&lt;/li&gt;
+        &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Yaku Shiiaru Raotai(十二落抬) jest dostępne, warte 2 han i daje dostęp do ura
 dory. Przyznawane jest gdy masz pojedyncze czekanie z czteroma
@@ -135,8 +140,11 @@ Przykład:&lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/hands/S
       &lt;li&gt;
         &lt;p&gt;Wygranie w riichi lub z shiiaru raotai na kamienie odrzuconym przez
 gracza w riichi daje 1 han za każde 1000 punktów na stole.&lt;/p&gt;
+
+        &lt;ul&gt;
+          &lt;li&gt;Riichi nie musi być oikake.&lt;/li&gt;
+        &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Riichi nie musi być oikake.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -361,10 +369,11 @@ rodziny.
       &lt;li&gt;Przed twoim pierwszym odrzutem odkryj swoją rękę. Grasz tę rundę grasz z
 odkrytą ręką.&lt;/li&gt;
       &lt;li&gt;Wartość twojej wygranej jest podwojona.&lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;Riichi i Ippatsu warte są po 2 han.&lt;/p&gt;
+      &lt;li&gt;Riichi i Ippatsu warte są po 2 han.
+        &lt;ul&gt;
+          &lt;li&gt;Double Riichi jest warte 4 han.&lt;/li&gt;
+        &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Double Riichi jest warte 4 han.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -463,8 +472,10 @@ dory.
 &lt;/div&gt;
 
     &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;Kiedy jesteś w riichi biały smok jest zawsze twoim wygrywającym kamieniem.&lt;/p&gt;
+      &lt;li&gt;Kiedy jesteś w riichi biały smok jest zawsze twoim wygrywającym kamieniem.
+        &lt;ul&gt;
+          &lt;li&gt;Odrzucenie białego smoka nie znaczy że nie możesz wygrać na białym smoku odrzuconym gdy jesteś w riichi, daje ci on furiten tylko jeśli czekasz na prawdziwego białego smoka.&lt;/li&gt;
+        &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Gdy odrzucasz białego smoka, dostajesz dodatkową turę.&lt;/li&gt;
       &lt;li&gt;Wygrana przez dobranie białego smoka daje ci 2 han.&lt;/li&gt;
@@ -544,9 +555,10 @@ Honory nie mają wartości&lt;/li&gt;
 Przykład:
 &lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png&quot; alt=&quot;&quot; /&gt;
 Ta ręka czeka na 825 souzu&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;3 sekwencje 912 345 678, lub 891 234 567 nie dają ci yaku ittsuu.&lt;/p&gt;
+
+        &lt;ul&gt;
+          &lt;li&gt;3 sekwencje 912 345 678, lub 891 234 567 nie dają ci yaku ittsuu.&lt;/li&gt;
+        &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Nie możesz zameldować pon i kan.&lt;/li&gt;
       &lt;li&gt;Dostajesz 1 han za każde trzy identyczne kamienie w twoich odrzutach.&lt;/li&gt;
@@ -715,12 +727,11 @@ również się liczy.&lt;/li&gt;
     &lt;ul&gt;
       &lt;li&gt;Podczas rundy południa przed twoim pierwszym odrzutem dobierz 2 kamienia,
 następnie wybierz 2 kamienie z twojej ręki i połóż je na końcu martwego muru.
-Powtórz to gdy którykolwiek z graczy skończy drugi rząd odrzutów.
-        &lt;ol&gt;
-          &lt;li&gt;&lt;strong&gt;Nelly Virsaladze&lt;/strong&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
+Powtórz to gdy którykolwiek z graczy skończy drugi rząd odrzutów.&lt;/li&gt;
     &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Nelly Virsaladze&lt;/strong&gt;&lt;/p&gt;
 
     &lt;div style=&quot;text-align: center&quot;&gt;
     &lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/cards/NellyVirsaladze.jpg&quot; alt=&quot;&quot; /&gt;
@@ -849,11 +860,12 @@ zakryty.&lt;/li&gt;
         &lt;ul&gt;
           &lt;li&gt;Sekwensy z honorów nie dają dodatkowego fu.&lt;/li&gt;
           &lt;li&gt;Wiatry nie zawijają się w sekwencje, np. nie możesz złożyć sekwencji z
-wschodu, zachodu i północy.
-Przykład:
-&lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/hands/SenooKaori.png&quot; alt=&quot;&quot; /&gt;
-Ta ręka to pinfu.&lt;/li&gt;
+wschodu, zachodu i północy.&lt;/li&gt;
         &lt;/ul&gt;
+
+        &lt;p&gt;Przykład:
+&lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/hands/SenooKaori.png&quot; alt=&quot;&quot; /&gt;
+Ta ręka to pinfu.&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -958,7 +970,7 @@ turę.&lt;/li&gt;
     &lt;p&gt;&lt;strong&gt;Takakamo shizuno&lt;/strong&gt;&lt;/p&gt;
 
     &lt;div style=&quot;text-align: center&quot;&gt;
-    &lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/cards/Takakamoshizuno.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/cards/TakakamoShizuno.jpg&quot; alt=&quot;&quot; /&gt;
 &lt;/div&gt;
 
     &lt;ul&gt;
