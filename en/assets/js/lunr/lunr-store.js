@@ -70,4 +70,10 @@ var store = [{
         "tags": [],
         "url": "/tournaments/2022/06/27/cracow-saki-cards-taikai/",
         "teaser": null
+      },{
+        "title": "Kraków MERS Open 2022",
+        "excerpt":"We invite you to the first MERS tournament in Kraków! About Date: 8-9 October 2022 (Sat-Sun) Place: Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków Ruleset: EMA Riichi 2016 Hanchans: 7 Entry fee: between 100 and 150PLN, exact amount will be announced later Participant limit:...","categories": ["tournaments"],
+        "tags": [],
+        "url": "/tournaments/2022/07/09/krakow-mers-open/",
+        "teaser": null
       }]

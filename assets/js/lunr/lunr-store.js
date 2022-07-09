@@ -70,4 +70,10 @@ var store = [{
         "tags": [],
         "url": "/tournaments/2022/06/27/cracow-saki-cards-taikai/",
         "teaser": null
+      },{
+        "title": "Kraków MERS Open 2022",
+        "excerpt":"Zapraszamy Was na pierwszy turniej MERS w Krakowie! O turnieju Data: 8-9 października 2022 (sobota-niedziela) Miejsce: Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków Zasady: EMA Riichi 2016 Hanchany: 7 Opłata: będzie ogłoszona później (100-150 zł) Limit osób: 80 Agenda Zostanie ogłoszona w późniejszym terminie. Rejestracja Zapisy...","categories": ["tournaments"],
+        "tags": [],
+        "url": "/tournaments/2022/07/09/krakow-mers-open/",
+        "teaser": null
       }]
