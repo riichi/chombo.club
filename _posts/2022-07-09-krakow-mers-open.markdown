@@ -1,6 +1,6 @@
 ---
 title:  "Kraków MERS Open 2022"
-date:   2022-07-009 21:37:00 +0200
+date:   2022-07-09 21:37:00 +0200
 categories: tournaments
 lang: pl
 ---
