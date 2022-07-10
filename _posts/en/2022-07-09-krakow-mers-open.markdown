@@ -17,11 +17,11 @@ We invite you to the first MERS tournament in Kraków!
 
 ## About
 
-* Date: 8-9 October 2022 (Sat-Sun)
+* Date: 8th-9th October 2022 (Sat-Sun)
 * Place: [Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Ruleset: EMA Riichi 2016
 * Hanchans: 7
-* Entry fee: between 100 and 150PLN, exact amount will be announced later
+* Entry fee: between 100 and 150PLN, the exact amount will be announced later
 * Participant limit: 80
 
 ## Agenda
