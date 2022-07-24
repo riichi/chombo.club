@@ -38,29 +38,31 @@ Zostanie ogłoszona w późniejszym terminie.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*20/80);"
-		aria-valuenow="20"
+		style="width: calc(100%*22/80);"
+		aria-valuenow="22"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		20/80
+		22/80
 	</div>
 </div>
 
 <center markdown="block">
 
-| Nr | Nazwa                | Kraj    |
-|---:|:---------------------|:--------|
-|  1 | Bacic Marta          | Polska  |
-|  2 | Chen Chaolei         | Francja |
-|  3 | Grzybowski Łukasz    | Polska  |
-|  4 | Hasegawa Shu         | Japonia |
-|  5 | Huynh Joe-Calberson  | Francja |
-|  6 | Kawa Bartosz         | Polska  |
-|  7 | Mądrecki Piotr       |         |
-|  8 | Nowicz Szymon        | Polska  |
-|  9 | Polański Paweł       | Polska  |
-| 10 | Powęzka Tomasz       | Polska  |
-| 11 | Świątek Luna "lunax" | Polska  |
+| Nr | Nazwa                    | Kraj    |
+|---:|:-------------------------|:--------|
+|  1 | Bacic Jakub              | Polska  |
+|  2 | Bacic Marta              | Polska  |
+|  3 | Chen Chaolei             | Francja |
+|  4 | Grzybowski Łukasz        | Polska  |
+|  5 | Hasegawa Shu             | Japonia |
+|  6 | Huynh Joe-Calberson      | Francja |
+|  7 | Kawa Bartosz             | Polska  |
+|  8 | Mądrecki Piotr           |         |
+|  9 | Nowicz Szymon            | Polska  |
+| 10 | Polański Paweł           | Polska  |
+| 11 | Powęzka Tomasz           | Polska  |
+| 12 | Sekikawa Daiichiro "Dan" | Japonia |
+| 13 | Świątek Luna "lunax"     | Polska  |
 
 </center>
 

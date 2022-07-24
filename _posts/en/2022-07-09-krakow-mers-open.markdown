@@ -38,29 +38,31 @@ TBA.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*20/80);"
-		aria-valuenow="20"
+		style="width: calc(100%*22/80);"
+		aria-valuenow="22"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		20/80
+		22/80
 	</div>
 </div>
 
 <center markdown="block">
 
-| No. | Name                 | Country |
-|----:|:---------------------|:--------|
-|   1 | Bacic Marta          | Poland  |
-|   2 | Chen Chaolei         | France  |
-|   3 | Grzybowski Łukasz    | Poland  |
-|   4 | Hasegawa Shu         | Japan   |
-|   5 | Huynh Joe-Calberson  | France  |
-|   6 | Kawa Bartosz         | Poland  |
-|   7 | Mądrecki Piotr       |         |
-|   8 | Nowicz Szymon        | Poland  |
-|   9 | Polański Paweł       | Poland  |
-|  10 | Powęzka Tomasz       | Poland  |
-|  11 | Świątek Luna "lunax" | Poland  |
+| No. | Name                     | Country |
+|----:|:-------------------------|:--------|
+|   1 | Bacic Jakub              | Poland  |
+|   2 | Bacic Marta              | Poland  |
+|   3 | Chen Chaolei             | France  |
+|   4 | Grzybowski Łukasz        | Poland  |
+|   5 | Hasegawa Shu             | Japan   |
+|   6 | Huynh Joe-Calberson      | France  |
+|   7 | Kawa Bartosz             | Poland  |
+|   8 | Mądrecki Piotr           |         |
+|   9 | Nowicz Szymon            | Poland  |
+|  10 | Polański Paweł           | Poland  |
+|  11 | Powęzka Tomasz           | Poland  |
+|  12 | Sekikawa Daiichiro "Dan" | Japan   |
+|  13 | Świątek Luna "lunax"     | Poland  |
 
 </center>
 
