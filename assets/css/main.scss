@@ -59,3 +59,13 @@ address {
   text-align: center;
   font-style: normal;
 }
+
+#biggus-tablus table {
+  width: 100%;
+
+  td, th {
+    &:nth-child(2) {
+      width: 100%;
+    }
+  }
+}

@@ -46,7 +46,7 @@ Zostanie ogłoszona w późniejszym terminie.
 	</div>
 </div>
 
-<center markdown="block">
+<center id="biggus-tablus" markdown="block">
 
 | Nr | Nazwa                    | Kraj    |
 |---:|:-------------------------|:--------|
