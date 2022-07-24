@@ -31,3 +31,37 @@ TBA.
 ## Registration
 
 **[Register here](https://forms.gle/n25tH2yqy7i7nW7DA)**
+
+## Players
+
+<div class="progress" style="margin-bottom: 0.5em">
+	<div
+		class="progress-bar progress-bar-striped"
+		role="progressbar"
+		style="width: calc(100%*20/80);"
+		aria-valuenow="20"
+		aria-valuemin="0"
+		aria-valuemax="80">
+		20/80
+	</div>
+</div>
+
+<center markdown="block">
+
+| No. | Name                 | Country |
+|----:|:---------------------|:--------|
+|   1 | Bacic Marta          | Poland  |
+|   2 | Chen Chaolei         | France  |
+|   3 | Grzybowski Łukasz    | Poland  |
+|   4 | Hasegawa Shu         | Japan   |
+|   5 | Huynh Joe-Calberson  | France  |
+|   6 | Kawa Bartosz         | Poland  |
+|   7 | Mądrecki Piotr       |         |
+|   8 | Nowicz Szymon        | Poland  |
+|   9 | Polański Paweł       | Poland  |
+|  10 | Powęzka Tomasz       | Poland  |
+|  11 | Świątek Luna "lunax" | Poland  |
+
+</center>
+
+...and 9 more

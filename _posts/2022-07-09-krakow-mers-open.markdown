@@ -31,3 +31,37 @@ Zostanie ogłoszona w późniejszym terminie.
 ## Rejestracja
 
 **[Zapisy na turniej](https://forms.gle/n25tH2yqy7i7nW7DA)**
+
+## Gracze
+
+<div class="progress" style="margin-bottom: 0.5em">
+	<div
+		class="progress-bar progress-bar-striped"
+		role="progressbar"
+		style="width: calc(100%*20/80);"
+		aria-valuenow="20"
+		aria-valuemin="0"
+		aria-valuemax="80">
+		20/80
+	</div>
+</div>
+
+<center markdown="block">
+
+| Nr | Nazwa                | Kraj    |
+|---:|:---------------------|:--------|
+|  1 | Bacic Marta          | Polska  |
+|  2 | Chen Chaolei         | Francja |
+|  3 | Grzybowski Łukasz    | Polska  |
+|  4 | Hasegawa Shu         | Japonia |
+|  5 | Huynh Joe-Calberson  | Francja |
+|  6 | Kawa Bartosz         | Polska  |
+|  7 | Mądrecki Piotr       |         |
+|  8 | Nowicz Szymon        | Polska  |
+|  9 | Polański Paweł       | Polska  |
+| 10 | Powęzka Tomasz       | Polska  |
+| 11 | Świątek Luna "lunax" | Polska  |
+
+</center>
+
+...i 9 więcej

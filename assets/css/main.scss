@@ -6,6 +6,24 @@
 
 $primary-color              : #214214 !default;
 
+// oh gad what I done; faq:
+// why use bootstrap here instead of <link>ing to CDN'd one?
+//   <link> in _includes/head/custom.html would be added after main.css and
+//   override some defaults. same reason we do all this importing before
+//   minimal-mistakes
+// why such roundabout import paths? should be just "bootstrap/.*" you know
+//   I couldn't do it any other way; sass.load_paths in _config.yml looks
+//   ignored. feel free to fix if you can
+// why not just import root.sass?
+//   smoler css
+@import "../../bootstrap-5.2.0/assets/stylesheets/bootstrap/_functions";
+@import "../../bootstrap-5.2.0/assets/stylesheets/bootstrap/_variables";
+@import "../../bootstrap-5.2.0/assets/stylesheets/bootstrap/_maps";
+@import "../../bootstrap-5.2.0/assets/stylesheets/bootstrap/_mixins";
+@import "../../bootstrap-5.2.0/assets/stylesheets/bootstrap/_utilities";
+@import "../../bootstrap-5.2.0/assets/stylesheets/bootstrap/_progress";
+// done, time to wash hands
+
 @import "minimal-mistakes"; // main partials
 
 .masthead, .masthead .greedy-nav {
