@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2022-07-25T10:30:56+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-07-09T21:37:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;Zapraszamy Was na pierwszy turniej MERS w Krakowie!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2022-07-26T22:05:53+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-07-26T21:45:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;Zapraszamy Was na pierwszy turniej MERS w Krakowie!&lt;/p&gt;
 
 &lt;figure&gt;
   
@@ -28,8 +28,8 @@
 &lt;h2 id=&quot;gracze&quot;&gt;Gracze&lt;/h2&gt;
 
 &lt;div class=&quot;progress&quot; style=&quot;margin-bottom: 0.5em&quot;&gt;
-	&lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*22/80);&quot; aria-valuenow=&quot;22&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;80&quot;&gt;
-		22/80
+	&lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*24/80);&quot; aria-valuenow=&quot;24&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;80&quot;&gt;
+		24/80
 	&lt;/div&gt;
 &lt;/div&gt;
 
@@ -76,36 +76,51 @@
       &lt;/tr&gt;
       &lt;tr&gt;
         &lt;td style=&quot;text-align: right&quot;&gt;7&lt;/td&gt;
-        &lt;td style=&quot;text-align: left&quot;&gt;Kawa Bartosz&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Jarno Dominik “Dokku”&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Polska&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
         &lt;td style=&quot;text-align: right&quot;&gt;8&lt;/td&gt;
-        &lt;td style=&quot;text-align: left&quot;&gt;Mądrecki Piotr&lt;/td&gt;
-        &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td style=&quot;text-align: right&quot;&gt;9&lt;/td&gt;
-        &lt;td style=&quot;text-align: left&quot;&gt;Nowicz Szymon&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Kawa Bartosz&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Polska&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;9&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Le Duy “Sirocco”&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Wielka Brytania&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
         &lt;td style=&quot;text-align: right&quot;&gt;10&lt;/td&gt;
-        &lt;td style=&quot;text-align: left&quot;&gt;Polański Paweł&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Maćkowski Mateusz “m3mx”&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Polska&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
         &lt;td style=&quot;text-align: right&quot;&gt;11&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Mądrecki Piotr&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;12&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Nowicz Szymon&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Polska&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;13&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Polański Paweł&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Polska&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;14&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Powęzka Tomasz&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Polska&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td style=&quot;text-align: right&quot;&gt;12&lt;/td&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;15&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Sekikawa Daiichiro “Dan”&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Japonia&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td style=&quot;text-align: right&quot;&gt;13&lt;/td&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;16&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Świątek Luna “lunax”&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Polska&lt;/td&gt;
       &lt;/tr&gt;
@@ -114,7 +129,7 @@
 
 &lt;/center&gt;
 
-&lt;p&gt;…i 9 więcej&lt;/p&gt;</content><author><name></name></author><category term="tournaments" /><summary type="html">Zapraszamy Was na pierwszy turniej MERS w Krakowie!</summary></entry><entry xml:lang="pl"><title type="html">Kraków Saki Cards Taikai 2022</title><link href="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.&lt;/p&gt;
+&lt;p&gt;…i 8 więcej&lt;/p&gt;</content><author><name></name></author><category term="tournaments" /><summary type="html">Zapraszamy Was na pierwszy turniej MERS w Krakowie!</summary></entry><entry xml:lang="pl"><title type="html">Kraków Saki Cards Taikai 2022</title><link href="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.&lt;/p&gt;
 
 &lt;figure&gt;
   
