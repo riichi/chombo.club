@@ -1,6 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
+last_modified_at: 2022-07-26 21:45:00 +0200
 categories: tournaments
 lang: en
 ---
@@ -38,32 +39,35 @@ TBA.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*22/80);"
-		aria-valuenow="22"
+		style="width: calc(100%*24/80);"
+		aria-valuenow="24"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		22/80
+		24/80
 	</div>
 </div>
 
 <center id="biggus-tablus" markdown="block">
 
-| No. | Name                     | Country |
-|----:|:-------------------------|:--------|
-|   1 | Bacic Jakub              | Poland  |
-|   2 | Bacic Marta              | Poland  |
-|   3 | Chen Chaolei             | France  |
-|   4 | Grzybowski Łukasz        | Poland  |
-|   5 | Hasegawa Shu             | Japan   |
-|   6 | Huynh Joe-Calberson      | France  |
-|   7 | Kawa Bartosz             | Poland  |
-|   8 | Mądrecki Piotr           |         |
-|   9 | Nowicz Szymon            | Poland  |
-|  10 | Polański Paweł           | Poland  |
-|  11 | Powęzka Tomasz           | Poland  |
-|  12 | Sekikawa Daiichiro "Dan" | Japan   |
-|  13 | Świątek Luna "lunax"     | Poland  |
+| No. | Name                     | Country        |
+|----:|:-------------------------|:---------------|
+|   1 | Bacic Jakub              | Poland         |
+|   2 | Bacic Marta              | Poland         |
+|   3 | Chen Chaolei             | France         |
+|   4 | Grzybowski Łukasz        | Poland         |
+|   5 | Hasegawa Shu             | Japan          |
+|   6 | Huynh Joe-Calberson      | France         |
+|   7 | Jarno Dominik "Dokku"    | Poland         |
+|   8 | Kawa Bartosz             | Poland         |
+|   9 | Le Duy "Sirocco"         | United Kingdom |
+|  10 | Maćkowski Mateusz "m3mx" | Poland         |
+|  11 | Mądrecki Piotr           |                |
+|  12 | Nowicz Szymon            | Poland         |
+|  13 | Polański Paweł           | Poland         |
+|  14 | Powęzka Tomasz           | Poland         |
+|  15 | Sekikawa Daiichiro "Dan" | Japan          |
+|  16 | Świątek Luna "lunax"     | Poland         |
 
 </center>
 
-...and 9 more
+...and 8 more
