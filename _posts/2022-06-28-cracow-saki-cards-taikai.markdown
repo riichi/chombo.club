@@ -1,5 +1,5 @@
 ---
-title:  "Kraków Saki Cards Taikai 2022"
+title:  "Cracow Saki Cards Taikai 2022"
 date:   2022-06-27 21:00:00 +0200
 categories: tournaments
 lang: pl
@@ -8,7 +8,7 @@ lang: pl
 Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.
 
 {% capture fig_img %}
-![Kraków Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
+![Cracow Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -52,7 +52,7 @@ Przed rozpoczęciem gry pierwszy oya rozdaje każdemu graczowi po 6 kart z talii
 to będą ich karty na cały hanchan. Jeśli gracz wygra używając jednej karty,
 odrzuca ją i dobiera nową z góry talii.
 
-Gracze wybierają swoją kartę z pięciu po zobaczeniu swojej startowej ręki,
+Gracze wybierają swoją kartę z sześciu po zobaczeniu swojej startowej ręki,
 należy ją położyć zakrytą na prawo od ręki i odkryć gdy wszyscy gracze są
 gotowi.
 
@@ -70,10 +70,12 @@ Są 53 karty w talii, każda z własną umiejętnością.
       początkową liczbę punktów za każdym razym gdy odrzucisz tedashi,
       dostajesz dodatkową turę.
 
-      * Pierwszy odrzut oya to zawsze tedashi
-      * Nie dostaje dodatkowej tury po meldunku
+    * Pierwszy odrzut oya to zawsze tedashi.
+    * Nie dostaje dodatkowej tury po meldunku.
+    * Tedashi to przeciwieństwo tsumogiri, czyli odrzut kamienia innego niż ten który właśnie dobrałeś.
 
     * Jeśli inny gracz otwiera swoją rękę, musi on obstawić 1500 punktów.
+    
 2. **Usuzawa Sae**
 
     <div style="text-align: center">
@@ -83,6 +85,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Po deklaracji riichi wybierz jednego innego gracza, nie może on meldować
       kamieni, ani zgłaszać ron, chyba że sam jest w riichi.
     * Jeśli jesteś w riichi umiejętności innych graczy nie działają.
+    
 3. **Amae Koromo**
 
     <div style="text-align: center">
@@ -92,12 +95,13 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Ostatni kamień w murze i ostatni wyrzucony kamień zawsze są twoimi
       wygrywającymi.
 
-      * Jeśli Kanbara Satomi jest w grze, działa i ostatni kamień w żywym murze,
-        i ostatni kamień w martwym murze
+    * Jeśli Kanbara Satomi jest w grze, działa i ostatni kamień w żywym murze,
+      i ostatni kamień w martwym murze
 
     * Jeśli odrzucasz kamień z zamkniętej ręki, przesuń ostatni kamień z żywego
       do martwego muru, jeśli jesteś jedynym graczem w riichi możesz pzesunąć 2
       kamienie.
+    
 4. **Anetai Toyone**
 
     <div style="text-align: center">
@@ -106,7 +110,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
 
     * Oikake riichi, tj. zadeklarowane po innym riichi daje ci 2 han.
 
-      * Oikake riichi 2 han zastępuje 1 han zwykłego riichi.
+    * Oikake riichi 2 han zastępuje 1 han zwykłego riichi.
 
     * Yaku Shiiaru Raotai(十二落抬) jest dostępne, warte 2 han i daje dostęp do ura
       dory. Przyznawane jest gdy masz pojedyncze czekanie z czteroma
@@ -115,7 +119,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Wygranie w riichi lub z shiiaru raotai na kamienie odrzuconym przez
       gracza w riichi daje 1 han za każde 1000 punktów na stole.
 
-      * Riichi nie musi być oikake.
+    * Riichi nie musi być oikake.
 
 5. **Arakawa Kei**
 
@@ -130,6 +134,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
           wskaźnikach dory.
     * Jeśli wygra inny gracz, płaci ci on 1000 punktów za każdy z jego
       wygrywających kamieni w twojej ręce.
+    
 6. **Atago Hiroe**
 
     <div style="text-align: center">
@@ -144,6 +149,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
               dostaje yaku ippatsu, nie dostaje się go gdy ktoś zrobił meldunek
               zanim go dobrałeś.
     * Jeśli jesteś w riichi ignorujesz furiten.
+    
 7. **Atarashi Ako**
 
     <div style="text-align: center">
@@ -153,6 +159,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Kiedy odrzucasz po meldunku możesz zamienić kamień ze swojej ręki z
       odrzuconym kamieniem tego samego typu.
         * typy: manzu, pinzu, souzu, honory
+    
 8. **Choe Myeonghwa**
 
     <div style="text-align: center">
@@ -162,6 +169,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Inni gracze nie mogą wygrać z twoim wiatrem w ręce, chyba że to yakuman.
     * Za każdym razem gdy inny gracz odrzuci wiatr rundy kub twój wiatr możesz
       wymienić go z honorem lub terminalem ze swojej ręki.
+    
 9. **Ezaki Hitomi**
 
     <div style="text-align: center">
@@ -194,6 +202,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
       połowę swoich punktów i odkryć 3 więcej wskaźniki dor.
     * Jeśli po raz pierwszy w hanchanie spadasz poniżej 0 punktów, zostań zamiast
       tego na 0.
+    
 12. **Hao Huiyu**
 
     <div style="text-align: center">
@@ -204,6 +213,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Ingorujesz dory, furiten i karę za noten.
     * Przy wygranej przez tsumo wszyscy gracze płacą pełną wartość ron + 1000
       punktów.
+    
 13. **Haramura Nodoka**
 
     <div style="text-align: center">
@@ -213,6 +223,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Zamknięte tanyao daje ci 2 han.
     * Pinfu daje ci 2 han.
     * Raz na rundę możesz odrzucić kamień zakryty.
+    
 14. **Hirose Sumire**
 
     <div style="text-align: center">
@@ -221,6 +232,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
 
     * Jeśli gracz odrzuci kamień i nikt go nie ukradnie, możesz zadeklarować ron na
       poprzednim kamieniu w rzece tego gracza, wygranie w ten sposób daje 1 han.
+    
 15. **Ikeda Kana**
 
     <div style="text-align: center">
@@ -233,6 +245,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
       Inazuma Riichi dające 5 han.
         * Jeśli zostaniesz zronowany na kamieniu użytym do deklaracji, inazuma
           riichi nie zostało sfinalizowane, więc można je zrobić jeszcze raz.
+    
 16. **Inoue Jun**
 
     <div style="text-align: center">
@@ -243,6 +256,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
       Dostajesz dodatkową turę.
         * Jeśli ten meldunek pozbawił przeciwnika możliwości zdobycia ippatsu,
           możesz odrzucić kamień zakryty zamiast dodatkowej tury.
+    
 17. **Iwato Kasumi**
 
     <div style="text-align: center">
@@ -254,6 +268,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
       za każde 3 odkryte lub zameldowane przez innych graczy kamienie z tej
       rodziny.
         * Kolejne dobrane kamienie z tej rodziny również należy odkryć.
+    
 18. **Jindai Komaki**
 
     <div style="text-align: center">
@@ -264,7 +279,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
       odkrytą ręką.
     * Wartość twojej wygranej jest podwojona.
     * Riichi i Ippatsu warte są po 2 han.
-      * Double Riichi jest warte 4 han.
+
+    * Double Riichi jest warte 4 han.
 
 19. **Kainou Yoshiko**
 
@@ -278,10 +294,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
       Przykłady:
       ![](/assets/images/cracow-saki-cards-taikai-2022/hands/Uumensai1.png)
       ![](/assets/images/cracow-saki-cards-taikai-2022/hands/Uumensai2.png)
-    * Podczas swojej tury zamiast pociągniąć kamień z muru możesz odrzucić parę i
-      pociągnąć trzy kamienie.
-        * Na odrzuconej parze nie można zrobić meldunku, ani na niej wygrać. Ciągle
-          daje ona furitena innym graczom.
+    * Kiedy odrzucasz kamień i nikt nie zrobił na nim meldunku, możesz od razu odrzucić drugi taki sam kamień i dobrać nowy kamień. Inni gracze nie mogą na nim zrobić meldunku, ani wygrać.
+    
 20. **Kajiki Yumi**
 
     <div style="text-align: center">
@@ -296,6 +310,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
           skutkować w nielegalnej ręce.
         * Można zamieniać meldunek który właśnie się zrobiło.
     * Dostajesz 1 han za każde 2 zakryte kamienie w odrzutach innych graczy.
+    
 21. **Kakura Kurumi**
 
     <div style="text-align: center">
@@ -307,6 +322,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Jeśli odrzucasz kamień już widoczny w twoich odrzutach, inni gracze nie mogą
       go ukraśc, ani na nim wygrać.
         * Ten kamień ciągle daje furiten innym graczom.
+    
 22. **Kanbara Satomi**
 
     <div style="text-align: center">
@@ -323,6 +339,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
         * Mur zmienia się gdy zostanie pociągnięty pierwszy kamień z nowego mur
         * Kiedy gracz wygrywa kamieniem z martwego muru, ciągle liczy się żywy mur.
         * Jeśli miałbyś odkryć 6 lub 7 wskaźnik dory, użyj do tego żywego muru.
+    
 23. **Karijuku Tomoe**
 
     <div style="text-align: center">
@@ -330,9 +347,10 @@ Są 53 karty w talii, każda z własną umiejętnością.
     </div>
 
     * Kiedy jesteś w riichi biały smok jest zawsze twoim wygrywającym kamieniem.
-        * Odrzucenie białego smoka nie znaczy że nie możesz wygrać na białym smoku odrzuconym gdy jesteś w riichi, daje ci on furiten tylko jeśli czekasz na prawdziwego białego smoka. 
+
     * Gdy odrzucasz białego smoka, dostajesz dodatkową turę.
     * Wygrana przez dobranie białego smoka daje ci 2 han.
+    
 24. **Kataoka Yuuki**
 
     <div style="text-align: center">
@@ -342,6 +360,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Podczas rundy wschodu przed twoim pierwszym odrzutem, wybierz 4 kamienie z
       ręki i połóż je na końcu żywego muru, następnie dobierz tę samą ilość
       kamieni.
+    
 25. **Kosegawa Shiromi**
 
     <div style="text-align: center">
@@ -362,6 +381,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
           być bezpieczne.
         * Kamienie odrzucone przez hiroe w riichi ciągle liczą się do genbutsu i
           suji, mimo że igonruje ona furiten.
+    
 26. **Kunihiro Hajime**
 
     <div style="text-align: center">
@@ -376,6 +396,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
           zaraz masz odrzucić 7/13 kamień.
         * Wartość kamienia to liczba jaką się mu przypisuje, np. 6 man i 6 souzu.
           Honory nie mają wartości
+    
 27. **Mase Yuuko**
 
     <div style="text-align: center">
@@ -387,10 +408,11 @@ Są 53 karty w talii, każda z własną umiejętnością.
       ![](/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png)
       Ta ręka czeka na 825 souzu
 
-      * 3 sekwencje 912 345 678, lub 891 234 567 nie dają ci yaku ittsuu.
+    * 3 sekwencje 912 345 678, lub 891 234 567 nie dają ci yaku ittsuu.
 
     * Nie możesz zameldować pon i kan.
     * Dostajesz 1 han za każde trzy identyczne kamienie w twoich odrzutach.
+    
 28. **Matano Seiko**
 
     <div style="text-align: center">
@@ -400,6 +422,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Dostajesz 1/2/3 han za 2/3/4 otwarte pony lub kany w twojej ręce.
     * Kiedy meldujesz pon i ten sam kamień już jest w odrzutach innego gracza,
       możesz go odstawić na bok i zabrać go jako twój następny dobór.
+    
 29. **Matsumi Kuro**
 
     <div style="text-align: center">
@@ -413,6 +436,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
         * Odrzut dory liczy się tylko gdy kamień ten jest dorą w momencie odrzutu.
           Efekt działa do końca hanchana, ale dotyczy działa tylko gdy używasz
           Kuro.
+    
 30. **Matsumi Yuu**
 
     <div style="text-align: center">
@@ -428,6 +452,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
       priorytetem nad innymi deklaracjami, w tym ron.
         * Deklarujesz pon tak samo jakbyś deklarował normalnie, tylko zamiast
           zabrania ostatniego kamienia, bierzesz czerwonego smoka.
+    
 31. **Maya Yukiko**
 
     <div style="text-align: center">
@@ -438,6 +463,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
       dekalracjami, w tym ron.
     * Kiedy wygrywasz przez tsumo gracze od których ukradłeś do chii płacą
       podwójnie.
+    
 32. **Megan Davin**
 
     <div style="text-align: center">
@@ -453,7 +479,9 @@ Są 53 karty w talii, każda z własną umiejętnością.
           nie dostał od nikogo innego punktów. To jest gdy np. Wschód i Północ są w
           noten, Wschód płaci Południowi, a Północ Zachodowi, lub gdy Południe i
           Północ są w Noten, Południe płaci Zachodowi, a Północ Wschodowi.
-33. **Miyanaga Saki**
+    * Gdy gracz inny niż gracze w pojedynku zadeklaruje riichi, pojedynek kończy się
+    
+33. **Miyanaga Saki**.
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/MiyanagaSaki.jpg" alt="">
@@ -476,6 +504,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
           może on zrobić chankan na nim, jeśli są oni w tenpai do kokushi musou.
         * Nie możesz wygrać(chyba że to yakuman) jeśli w ręce masz fizyczny kamień
           wiatru od Choe Myeonghwy, nawet jeśli traktujesz go jako zachód.
+    
 34. **Miyanaga Teru**
 
     <div style="text-align: center">
@@ -490,6 +519,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
       dodatkową turę, dodaj 1 honbę.
         * Zamienienie kamienia z ręki z dodatkowym kamieniem przez Onjouji Toki
           również się liczy.
+    
 35. **Nanpo Kazue**
 
     <div style="text-align: center">
@@ -499,7 +529,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Podczas rundy południa przed twoim pierwszym odrzutem dobierz 2 kamienia,
       następnie wybierz 2 kamienie z twojej ręki i połóż je na końcu martwego muru.
       Powtórz to gdy którykolwiek z graczy skończy drugi rząd odrzutów.
-36. **Nelly Virsaladze**
+    36. **Nelly Virsaladze**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/NellyVirsaladze.jpg" alt="">
@@ -509,7 +539,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
       bierzesz wszystkie punkty(oprócz patyków honba) ze stołu i wszyscy gracze
       płacą ci 1000 punktów.
     * Jeśli się wrzuciłeś w poprzedniej turze riichi przed 7/9 turą daje ci 2/1 han
-37. **Onjouji Toki**
+    
+36. **Onjouji Toki**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/OnjoujiToki.jpg" alt="">
@@ -522,7 +553,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
         * Możesz dobrać ten kamień, zamiast dobierać z muru.
             * Możesz dobrać ten kamień zamiast rinshana, jeśli na nim wygrasz
               dostaniesz yaku rinshan kaihou.
-38. **Oohoshi Awai**
+    
+37. **Oohoshi Awai**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/OohoshiAwai.jpg" alt="">
@@ -544,7 +576,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
           mógł, nie ma furiten.
         * W przypadku daminkana(otwartego kana) kamień który został ukradziony nie
           nadaje furiten oraz nie psuje nagashi.
-39. **Ryuumonbuchi Touka**
+    
+38. **Ryuumonbuchi Touka**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/RyuumonbuchiTouka.jpg" alt="">
@@ -555,7 +588,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
       jedną rangę wyżej.
         * Rangi to w kolejności: mangan > haneman > baiman > sanbaiman > kazoe
           yakuman
-40. **Sagimori Arata**
+    
+39. **Sagimori Arata**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/SagimoriArata.jpg" alt="">
@@ -563,7 +597,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
 
     * Dostajesz 1/2/3 han za 6/9/11 kamieni pinzu w twojej ręce.
     * Dostajesz 1 han za czkeanie na trzy lub więcej kamieni.
-41. **Sawamura Tomoki**
+    
+40. **Sawamura Tomoki**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/SawamuraTomoki.jpg" alt="">
@@ -573,7 +608,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Yaku Iipeikou daje ci 2 han.
     * Kiedy jesteś zagrożony wrzuceniem się w ippatsu, możesz odrzucić kamień
       zakryty.
-42. **Senoo Kaori**
+    
+41. **Senoo Kaori**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/SenooKaori.jpg" alt="">
@@ -585,11 +621,11 @@ Są 53 karty w talii, każda z własną umiejętnością.
         * Sekwensy z honorów nie dają dodatkowego fu.
         * Wiatry nie zawijają się w sekwencje, np. nie możesz złożyć sekwencji z
           wschodu, zachodu i północy.
-      
-      Przykład:
-      ![](/assets/images/cracow-saki-cards-taikai-2022/hands/SenooKaori.png)
-      Ta ręka to pinfu.
-43. **Shibuya Takami**
+          Przykład:
+          ![](/assets/images/cracow-saki-cards-taikai-2022/hands/SenooKaori.png)
+          Ta ręka to pinfu.
+    
+42. **Shibuya Takami**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/ShibuyaTakami.jpg" alt="">
@@ -597,7 +633,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
 
     * Zamiast dobierać z muru możesz dobrać ze swoich odrzutów, ale musisz odrzucić
       inny kamień niż dobrałeś.
-44. **Shimizudani Ryuuka**
+    
+43. **Shimizudani Ryuuka**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/ShimizudaniRyuuka.jpg" alt="">
@@ -614,7 +651,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Wygrana przez tsumo daje ci dodatkowy 1 han.
         * Ten bonus jest przyznawany zawsze, niezależnie od tego czy zadeklarowałeś
           yaku Menzen Tsumo
-45. **Shirouzu Mairu**
+    
+44. **Shirouzu Mairu**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/ShirouzuMairu.jpg" alt="">
@@ -637,7 +675,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
             * Jeśli nie bierzesz dodatkowej tury, ciągle zmieniasz kartę na mairu.
         * Kiedy którykolwiek z graczy robi meldunek lub deklaruje riichi, zmień
           kartę na Mairu.
-46. **Someya Mako**
+    
+45. **Someya Mako**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/SomeyaMako.jpg" alt="">
@@ -649,16 +688,18 @@ Są 53 karty w talii, każda z własną umiejętnością.
           ręce, jak np. pinfu.
     * Kiedy robisz meldunek z souzu lub z zielonym smokiem dostajesz dodatkową
       turę.
-47. **Takakamo shizuno**
+    
+46. **Takakamo shizuno**
 
     <div style="text-align: center">
-        <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/TakakamoShizuno.jpg" alt="">
+        <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/Takakamoshizuno.jpg" alt="">
     </div>
 
     * Pozostali gracze nie mają dostepu do uradory.
     * Kiedy wygrywasz z riichi, odsłoń dwie więcej uradory.
         * Jeśli miałbyś odkryć 6 lub 7 wskaźnik uradory, użyj do tego żywego muru.
-48. **Takei Hisa**
+    
+47. **Takei Hisa**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/TakeiHisa.jpg" alt="">
@@ -669,7 +710,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
           nie dają ci 2 han.
     * Kiedy wygrywasz w damatenie z hell waitem na parę, podwój swoją wygraną.
         * "hell wait" to czekanie gdzie 3 z 4 kamieni są już widoczne.
-49. **Takimi Haru**
+    
+48. **Takimi Haru**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/TakimiHaru.jpg" alt="">
@@ -678,7 +720,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Kiedy deklarujesz chii, możesz odrzucić kamień zakryty.
     * Kiedy odrzucasz 2 lub 8, dostajesz dodatkową turę.
     * Jeśli twoja ręka składa się tylko z kamieni od 3 do 7, dostajesz 1 han.
-50. **Toyouko Momoko**
+    
+49. **Toyouko Momoko**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/ToyoukoMomoko.jpg" alt="">
@@ -686,7 +729,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
 
     * Wygrana z zamkniętą ręką zawsze daje ci yaku riichi i dostęp do uradory.
     * W trzecim rzędzie twoich odrzutów, odrzucaj kamienie zakryte.
-51. **Tsujigaito Satoha**
+    
+50. **Tsujigaito Satoha**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/TsujigaitoSatoha.jpg" alt="">
@@ -698,7 +742,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Kiedy wygrywasz pod zagrożeniem ippatsu, podwój swoją wygraną.
         * "Pod zagrożeniem ippatsu" oznacza rundę w której możesz wrzucić się w
           rękę z ippatsu.
-52. **Usuzumi Hatsumi**
+    
+51. **Usuzumi Hatsumi**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/UsuzumiHatsumi.jpg" alt="">
@@ -708,7 +753,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Wszystkie meldunki z wiatrów zrobione przez któregokolwiek z graczy dają ci
       yakuhaia.
         * Sekwencje wiatów od Senoo Kaori również się liczą.
-53. **Yumeno Maho**
+    
+52. **Yumeno Maho**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/YumenoMaho.jpg" alt="">
@@ -717,7 +763,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Przed twoim pierwszym odrzutem, dobierz dwie karty i wybierz jedną z nich.
       Maho kopiuje umiejętność tej karty do końca rundy.
         * Zostaw obie karty przy sobie.
-        * Po skończeniu rundy wtasuj obie karty z powrotem do talii.
+        * Po skończeniu rundy nie wtasuj obu kart z powrotem do talii.
 
 ### Ogólne Klaryfikacje Kart
 
