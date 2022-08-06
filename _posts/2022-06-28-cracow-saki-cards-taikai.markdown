@@ -1,5 +1,5 @@
 ---
-title:  "Cracow Saki Cards Taikai 2022"
+title:  "Kraków Saki Cards Taikai 2022"
 date:   2022-06-27 21:00:00 +0200
 categories: tournaments
 lang: pl
@@ -8,7 +8,7 @@ lang: pl
 Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.
 
 {% capture fig_img %}
-![Cracow Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
+![Kraków Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
 {% endcapture %}
 
 <figure>

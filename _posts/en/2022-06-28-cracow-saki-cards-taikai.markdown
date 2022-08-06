@@ -1,5 +1,5 @@
 ---
-title:  "Cracow Saki Cards Taikai 2022"
+title:  "Kraków Saki Cards Taikai 2022"
 date:   2022-06-27 21:00:00 +0200
 categories: tournaments
 lang: en
@@ -8,7 +8,7 @@ lang: en
 We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe.
 
 {% capture fig_img %}
-![Cracow Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
+![Kraków Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
 {% endcapture %}
 
 <figure>
