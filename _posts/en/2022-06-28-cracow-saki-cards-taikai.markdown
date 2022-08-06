@@ -1,5 +1,5 @@
 ---
-title:  "Kraków Saki Cards Taikai 2022"
+title:  "Cracow Saki Cards Taikai 2022"
 date:   2022-06-27 21:00:00 +0200
 categories: tournaments
 lang: en
@@ -8,7 +8,7 @@ lang: en
 We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe.
 
 {% capture fig_img %}
-![Kraków Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
+![Cracow Saki Cards Taikai]({{ "/assets/images/2022-08-14-saki-cards-taikai.png" | relative_url }})
 {% endcapture %}
 
 <figure>
@@ -69,8 +69,9 @@ There are 53 cards in the deck, each one with a different ability.
     * While all other players have closed hands and you have less than the
       starting score, whenever you make a tedashi discard, take an extra turn.
 
-      * First discard of the oya is always tedashi.
-      * You don't get an extra turn when you call.
+    * First discard of the oya is always tedashi.
+    * You don't get an extra turn when you call.
+    * Tedashi discard is the opposite of tsumogiri discard, that is, discarding any other tile than the one you just drew.
 
     * When another player opens the hand, they must bet 1500.
 2. **Usuzawa Sae**
@@ -90,8 +91,8 @@ There are 53 cards in the deck, each one with a different ability.
 
     * Both haitei and houtei tiles are always your winning tiles.
 
-      * If Kanbara Satomi is also in play, both the last tiles of live wall and
-        dead wall work.
+    * If Kanbara Satomi is also in play, both the last tiles of live wall and
+      dead wall work.
 
     * When you discard a tile from a closed hand, move 1 tile from the end of
       the live wall to the dead wall. When you are the only player in riichi,
@@ -105,7 +106,7 @@ There are 53 cards in the deck, each one with a different ability.
     * Chasing riichi, that is riichi declared after another player already
       declared riichi gives you 2 han.
 
-      * Chasing riichi 2 han replaces 1 han of riichi
+    * Chasing riichi 2 han replaces 1 han of riichi
 
     * Yaku Shiiaru Raotai(十二落抬) is available for you, worth 2 han and gives
       acces to ura dora. Earned if you have a single pair wait with four open
@@ -114,7 +115,7 @@ There are 53 cards in the deck, each one with a different ability.
     * Winning with riichi or shiiaru raotai on a tile discarded by player in
       riichi gives you 1 han for every 1000 on board.
 
-      * Riichi doesn't have to be chasing.
+    * Riichi doesn't have to be chasing.
 
 5. **Arakawa Kei**
 
@@ -123,7 +124,7 @@ There are 53 cards in the deck, each one with a different ability.
     </div>
 
     * When you win, each player pays you 100 points for every live out you
-      have.
+      have..
         * Live out are tiles that player can win on that are not already
           visible in discards, melds, indicators or your hand.
     * When another player wins, they pay you 1000 points for each of their
@@ -258,7 +259,8 @@ There are 53 cards in the deck, each one with a different ability.
       your hand revealed.
     * Your winning value is doubled.
     * Riichi and Ippatsu give you 2 han each.
-      * Double Riichi gives you 4 han.
+
+    * Double Riichi gives you 4 han.
 
 19. **Kainou Yoshiko**
 
@@ -272,10 +274,7 @@ There are 53 cards in the deck, each one with a different ability.
       Examples:
       ![](/assets/images/cracow-saki-cards-taikai-2022/hands/Uumensai1.png)
       ![](/assets/images/cracow-saki-cards-taikai-2022/hands/Uumensai2.png)
-    * On your turn, instead of drawing a tile, you may discard a pair and draw 3
-      tiles.
-        * Players cannot call or ron on discarded pair. It still gives furiten to
-          the other players.
+    * When nobody calls on your discard, you may immediately discard the same tile and draw a tile. Other players cannot call or ron on that tile.
 20. **Kajiki Yumi**
 
     <div style="text-align: center">
@@ -386,7 +385,7 @@ There are 53 cards in the deck, each one with a different ability.
       ![](/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png)
       This hand waits for 825 souzu
 
-      * 3 sequences 912 345 678, or 891 234 567 don't give you ittsuu.
+    * 3 sequences 912 345 678, or 891 234 567 don't give you ittsuu.
 
     * You cannot call pon or kan.
     * Every three identical tiles in your discard give you 1 han.
@@ -435,7 +434,7 @@ There are 53 cards in the deck, each one with a different ability.
 
     * You may call chii from any player with priority over other calls, including
       ron.
-    * KWhen you win by tsumo, double your winning value from players you called
+    * When you win by tsumo, double your winning value from players you called
       chii from.
 32. **Megan Davin**
 
@@ -452,6 +451,7 @@ There are 53 cards in the deck, each one with a different ability.
           from another player. That is if for example East and north are noten,
           East pays South, and North pays Zachodowi, or if South and North are in
           Noten, South pays West, and North pays East.
+    * When a player other than the players in duel declares riichi, the duel ends.
 33. **Miyanaga Saki**
 
     <div style="text-align: center">
@@ -577,12 +577,11 @@ There are 53 cards in the deck, each one with a different ability.
         * If you have exactly 0 han, count it as 1 han.
     * You may arrange dragon and wind tiles into sequences.
         * Sequences from honors don't give you additional fu.
-        * Winds don;t wrap in sequences, e.g. you can't have a sequence with north,
+        * Winds don't wrap in sequences, e.g. you can't have a sequence with north,
           east and south.
-      
-      Example:
-      ![](/assets/images/cracow-saki-cards-taikai-2022/hands/SenooKaori.png)
-      That hand is pinfu.
+          Example:
+          ![](/assets/images/cracow-saki-cards-taikai-2022/hands/SenooKaori.png)
+          That hand is pinfu.
 43. **Shibuya Takami**
 
     <div style="text-align: center">
@@ -712,7 +711,7 @@ There are 53 cards in the deck, each one with a different ability.
     * Before making your first discard, draw 2 character cards and select one. Maho
       will copy that character's ability until the end of the round.
         * Keep both cards.
-        * After the end of a round shuffle both card back into the deck.
+        * After the end of a round you don't shuffle both card back into the deck..
 
 ### General card clarifications
 
