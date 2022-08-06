@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2022-07-29T21:35:34+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/en/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-07-29T21:20:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;We invite you to the first MERS tournament in Kraków!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2022-08-06T17:52:23+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/en/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-07-29T21:20:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;We invite you to the first MERS tournament in Kraków!&lt;/p&gt;
 
 &lt;figure&gt;
   
@@ -134,11 +134,11 @@
 
 &lt;/center&gt;
 
-&lt;p&gt;…and 8 more&lt;/p&gt;</content><author><name></name></author><category term="tournaments" /><summary type="html">We invite you to the first MERS tournament in Kraków!</summary></entry><entry xml:lang="en"><title type="html">Kraków Saki Cards Taikai 2022</title><link href="https://chombo.club/en/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe.&lt;/p&gt;
+&lt;p&gt;…and 8 more&lt;/p&gt;</content><author><name></name></author><category term="tournaments" /><summary type="html">We invite you to the first MERS tournament in Kraków!</summary></entry><entry xml:lang="en"><title type="html">Cracow Saki Cards Taikai 2022</title><link href="https://chombo.club/en/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Cracow Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe.&lt;/p&gt;
 
 &lt;figure&gt;
   
-&lt;img src=&quot;/assets/images/2022-08-14-saki-cards-taikai.png&quot; alt=&quot;Kraków Saki Cards Taikai&quot; /&gt;
+&lt;img src=&quot;/assets/images/2022-08-14-saki-cards-taikai.png&quot; alt=&quot;Cracow Saki Cards Taikai&quot; /&gt;
 
 &lt;/figure&gt;
 
@@ -205,15 +205,13 @@ all players are ready.&lt;/p&gt;
       &lt;li&gt;
         &lt;p&gt;While all other players have closed hands and you have less than the
 starting score, whenever you make a tedashi discard, take an extra turn.&lt;/p&gt;
-
-        &lt;ul&gt;
-          &lt;li&gt;First discard of the oya is always tedashi.&lt;/li&gt;
-          &lt;li&gt;You don’t get an extra turn when you call.&lt;/li&gt;
-        &lt;/ul&gt;
       &lt;/li&gt;
+      &lt;li&gt;First discard of the oya is always tedashi.&lt;/li&gt;
+      &lt;li&gt;You don’t get an extra turn when you call.&lt;/li&gt;
       &lt;li&gt;
-        &lt;p&gt;When another player opens the hand, they must bet 1500.&lt;/p&gt;
+        &lt;p&gt;Tedashi discard is the opposite of tsumogiri discard, that is, discarding any other tile than the one you just drew.&lt;/p&gt;
       &lt;/li&gt;
+      &lt;li&gt;When another player opens the hand, they must bet 1500.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -239,11 +237,10 @@ melds or declare ron, unless in riichi.&lt;/li&gt;
     &lt;ul&gt;
       &lt;li&gt;
         &lt;p&gt;Both haitei and houtei tiles are always your winning tiles.&lt;/p&gt;
-
-        &lt;ul&gt;
-          &lt;li&gt;If Kanbara Satomi is also in play, both the last tiles of live wall and
-dead wall work.&lt;/li&gt;
-        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;If Kanbara Satomi is also in play, both the last tiles of live wall and
+dead wall work.&lt;/p&gt;
       &lt;/li&gt;
       &lt;li&gt;
         &lt;p&gt;When you discard a tile from a closed hand, move 1 tile from the end of
@@ -263,10 +260,9 @@ move 2 tiles instead.&lt;/p&gt;
       &lt;li&gt;
         &lt;p&gt;Chasing riichi, that is riichi declared after another player already
 declared riichi gives you 2 han.&lt;/p&gt;
-
-        &lt;ul&gt;
-          &lt;li&gt;Chasing riichi 2 han replaces 1 han of riichi&lt;/li&gt;
-        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Chasing riichi 2 han replaces 1 han of riichi&lt;/p&gt;
       &lt;/li&gt;
       &lt;li&gt;Yaku Shiiaru Raotai(十二落抬) is available for you, worth 2 han and gives
 acces to ura dora. Earned if you have a single pair wait with four open
@@ -275,11 +271,8 @@ Example:&lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/hands/Shi
       &lt;li&gt;
         &lt;p&gt;Winning with riichi or shiiaru raotai on a tile discarded by player in
 riichi gives you 1 han for every 1000 on board.&lt;/p&gt;
-
-        &lt;ul&gt;
-          &lt;li&gt;Riichi doesn’t have to be chasing.&lt;/li&gt;
-        &lt;/ul&gt;
       &lt;/li&gt;
+      &lt;li&gt;Riichi doesn’t have to be chasing.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -291,7 +284,7 @@ riichi gives you 1 han for every 1000 on board.&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;When you win, each player pays you 100 points for every live out you
-have.
+have..
         &lt;ul&gt;
           &lt;li&gt;Live out are tiles that player can win on that are not already
 visible in discards, melds, indicators or your hand.&lt;/li&gt;
@@ -501,11 +494,10 @@ han for every 3 tiles of that suit revealed or melded by other players.
       &lt;li&gt;Before making your first discard, reveal your hand. You play this round with
 your hand revealed.&lt;/li&gt;
       &lt;li&gt;Your winning value is doubled.&lt;/li&gt;
-      &lt;li&gt;Riichi and Ippatsu give you 2 han each.
-        &lt;ul&gt;
-          &lt;li&gt;Double Riichi gives you 4 han.&lt;/li&gt;
-        &lt;/ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Riichi and Ippatsu give you 2 han each.&lt;/p&gt;
       &lt;/li&gt;
+      &lt;li&gt;Double Riichi gives you 4 han.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -522,13 +514,7 @@ Chiitoitsu is allowed.
 Examples:
 &lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/hands/Uumensai1.png&quot; alt=&quot;&quot; /&gt;
 &lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/hands/Uumensai2.png&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
-      &lt;li&gt;On your turn, instead of drawing a tile, you may discard a pair and draw 3
-tiles.
-        &lt;ul&gt;
-          &lt;li&gt;Players cannot call or ron on discarded pair. It still gives furiten to
-the other players.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
+      &lt;li&gt;When nobody calls on your discard, you may immediately discard the same tile and draw a tile. Other players cannot call or ron on that tile.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -692,10 +678,9 @@ Honors don’t have a value.&lt;/li&gt;
 Example:
 &lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png&quot; alt=&quot;&quot; /&gt;
 This hand waits for 825 souzu&lt;/p&gt;
-
-        &lt;ul&gt;
-          &lt;li&gt;3 sequences 912 345 678, or 891 234 567 don’t give you ittsuu.&lt;/li&gt;
-        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;3 sequences 912 345 678, or 891 234 567 don’t give you ittsuu.&lt;/p&gt;
       &lt;/li&gt;
       &lt;li&gt;You cannot call pon or kan.&lt;/li&gt;
       &lt;li&gt;Every three identical tiles in your discard give you 1 han.&lt;/li&gt;
@@ -771,7 +756,7 @@ but instead of taking the latest discard, you take red dragon.&lt;/li&gt;
     &lt;ul&gt;
       &lt;li&gt;You may call chii from any player with priority over other calls, including
 ron.&lt;/li&gt;
-      &lt;li&gt;KWhen you win by tsumo, double your winning value from players you called
+      &lt;li&gt;When you win by tsumo, double your winning value from players you called
 chii from.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -795,6 +780,7 @@ East pays South, and North pays Zachodowi, or if South and North are in
 Noten, South pays West, and North pays East.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
+      &lt;li&gt;When a player other than the players in duel declares riichi, the duel ends.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -991,13 +977,12 @@ higher instead.
       &lt;li&gt;You may arrange dragon and wind tiles into sequences.
         &lt;ul&gt;
           &lt;li&gt;Sequences from honors don’t give you additional fu.&lt;/li&gt;
-          &lt;li&gt;Winds don;t wrap in sequences, e.g. you can’t have a sequence with north,
-east and south.&lt;/li&gt;
-        &lt;/ul&gt;
-
-        &lt;p&gt;Example:
+          &lt;li&gt;Winds don’t wrap in sequences, e.g. you can’t have a sequence with north,
+east and south.
+Example:
 &lt;img src=&quot;/assets/images/cracow-saki-cards-taikai-2022/hands/SenooKaori.png&quot; alt=&quot;&quot; /&gt;
-That hand is pinfu.&lt;/p&gt;
+That hand is pinfu.&lt;/li&gt;
+        &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -1209,7 +1194,7 @@ Hatsumi.&lt;/li&gt;
 will copy that character’s ability until the end of the round.
         &lt;ul&gt;
           &lt;li&gt;Keep both cards.&lt;/li&gt;
-          &lt;li&gt;After the end of a round shuffle both card back into the deck.&lt;/li&gt;
+          &lt;li&gt;After the end of a round you don’t shuffle both card back into the deck..&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
