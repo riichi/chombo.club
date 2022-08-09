@@ -40,7 +40,7 @@ Hand with 13 or more han is counted as a Yakuman.
 
 * Earned if during ryuukyoku plyer meets all of these conditions
 
-* Every discard of a player must be a terminal or an honor tile.
+* Every visible discard of a player must be a terminal or an honor tile.
 * No tiles may have been called from the player's own discard pile.
 * A player has to have a closed hand.
 

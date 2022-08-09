@@ -40,7 +40,7 @@ Ręka z trzynastoma lub więcej han jest liczona jako yakuman.
 
 * Zdobyte jeśli podczas ryuukyoku gracz spełnia wszystkie poniższe warunki
 
-* Wszystkie odrzuty to 1, 9 lub honory
+* Wszystkie widoczne odrzuty to 1, 9 lub honory
 * Żaden kamień odrzucony przez gracza nie został zameldowany
 * Gracz ma zamkniętą rękę
 
