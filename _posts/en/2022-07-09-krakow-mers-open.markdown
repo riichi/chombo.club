@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-07-29 21:20:00 +0200
+last_modified_at: 2022-08-31 21:37:00 +0200
 categories: tournaments
 lang: en
 ---
@@ -39,35 +39,57 @@ TBA.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*25/80);"
-		aria-valuenow="25"
+		style="width: calc(100%*47/80);"
+		aria-valuenow="47"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		25/80
+		47/80
 	</div>
 </div>
 
 <center id="biggus-tablus" markdown="block">
 
-| No. | Name                     | Country        |
-|----:|:-------------------------|:---------------|
-|   1 | Bacic Jakub              | Poland         |
-|   2 | Bacic Marta              | Poland         |
-|   3 | Chen Chaolei             | France         |
-|   4 | Fornalik Adrian "Miku"   | Poland         |
-|   5 | Grzybowski Łukasz        | Poland         |
-|   6 | Hasegawa Shu             | Japan          |
-|   7 | Huynh Joe-Calberson      | France         |
-|   8 | Jarno Dominik "Dokku"    | Poland         |
-|   9 | Kawa Bartosz             | Poland         |
-|  10 | Le Duy "Sirocco"         | United Kingdom |
-|  11 | Maćkowski Mateusz "m3mx" | Poland         |
-|  12 | Mądrecki Piotr           |                |
-|  13 | Nowicz Szymon            | Poland         |
-|  14 | Polański Paweł           | Poland         |
-|  15 | Powęzka Tomasz           | Poland         |
-|  16 | Sekikawa Daiichiro "Dan" | Japan          |
-|  17 | Świątek Luna "lunax"     | Poland         |
+| No. | Name                         | Country       |
+|----:|:-----------------------------|:--------------|
+|   1 | Bacic Jakub                  | Poland        |
+|   2 | Bacic Marta                  | Poland        |
+|   3 | Borysiak Sonia Katarzyna     | Poland        |
+|   4 | Bronowicki Dawid             | Poland        |
+|   5 | Chabelska Katarzyna          | Poland        |
+|   6 | Chen Chaolei                 | France        |
+|   7 | Dessort Benoit               | France        |
+|   8 | Fornalik Adrian "Miku"       | Poland        |
+|   9 | Gosk Łukasz "Żokun"          | Poland        |
+|  10 | Grzybowski Łukasz            | Poland        |
+|  11 | Hasegawa Shu                 | Japan         |
+|  12 | Huynh Joe-Calberson          | France        |
+|  13 | Jarno Dominik "Dokku"        | Poland        |
+|  14 | "Jenkins"                    | Europe        |
+|  15 | Jędryczka Matryna            | Poland        |
+|  16 | Kawa Bartosz                 | Poland        |
+|  17 | Kulhayeva Varvara            | Belarus       |
+|  18 | Le Duy "Sirocco"             | Great Britain |
+|  19 | Liberska-Adamczewska Jolanta | Poland        |
+|  20 | Libich Aleksandra "Harumi"   | Poland        |
+|  21 | Libich Artur "IzumiRaito"    | Poland        |
+|  22 | Maćkowski Mateusz "m3mx"     | Poland        |
+|  23 | Mądrecki Piotr               |               |
+|  24 | Nedokushev Mykhailo          | Ukraine       |
+|  25 | Nowicz Szymon                | Poland        |
+|  26 | "Olga"                       | Poland        |
+|  27 | Polański Paweł               | Poland        |
+|  28 | Popławska Nina               | Poland        |
+|  29 | Powęzka Tomasz               | Poland        |
+|  30 | Sekikawa Daiichiro "Dan"     | Japan         |
+|  31 | "Shawass"                    | Poland        |
+|  32 | Stanaszek Mariusz            | Poland        |
+|  33 | Szudlich Urszula             | Poland        |
+|  34 | Świątek Luna "lunax"         | Poland        |
+|  35 | Thibaut Arnold               | Switzerland   |
+|  36 | Veremenko Anastasiia         | Ukraine       |
+|  37 | Woźniak Mateusz              | Poland        |
+|  38 | Yaremenko Sveta              | Ukraine       |
+|  39 | Żuk Bartosz                  | Poland        |
 
 </center>
 
