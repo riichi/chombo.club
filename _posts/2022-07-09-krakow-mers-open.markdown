@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-09-06 21:37:00 +0200
+last_modified_at: 2022-09-13 21:37:00 +0200
 categories: tournaments
 lang: pl
 ---
@@ -39,11 +39,11 @@ Zostanie ogłoszona w późniejszym terminie.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*56/80);"
-		aria-valuenow="56"
+		style="width: calc(100%*61/80);"
+		aria-valuenow="61"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		56/80
+		61/80
 	</div>
 </div>
 
@@ -74,34 +74,39 @@ Zostanie ogłoszona w późniejszym terminie.
 | 21 | Jędryczka Matryna            | Polska          |
 | 22 | Kawa Bartosz                 | Polska          |
 | 23 | Kulhayeva Varvara            | Białoruś        |
-| 24 | Lasota Szymon                | Polska          |
-| 25 | Le Duy "Sirocco"             | Wielka Brytania |
-| 26 | Liberska-Adamczewska Jolanta | Polska          |
-| 27 | Libich Aleksandra "Harumi"   | Polska          |
-| 28 | Libich Artur "IzumiRaito"    | Polska          |
+| 24 | Le Duy "Sirocco"             | Wielka Brytania |
+| 25 | Liberska-Adamczewska Jolanta | Polska          |
+| 26 | Libich Aleksandra "Harumi"   | Polska          |
+| 27 | Libich Artur "IzumiRaito"    | Polska          |
+| 28 | Majer Mirosław               | Polska          |
 | 29 | Maćkowski Mateusz "m3mx"     | Polska          |
-| 30 | Mądrecki Piotr               |                 |
-| 31 | Nedokushev Mykhailo          | Ukraina         |
-| 32 | Nowicz Szymon                | Polska          |
-| 33 | "Olga"                       | Polska          |
-| 34 | Polański Paweł               | Polska          |
-| 35 | Popławska Nina               | Polska          |
-| 36 | Powęzka Roman                | Polska          |
-| 37 | Powęzka Tomasz               | Polska          |
-| 38 | Sekikawa Daiichiro "Dan"     | Japonia         |
-| 39 | "Shawass"                    | Polska          |
-| 40 | Soga Itaru "Itaru"           | Polska          |
-| 41 | Stanaszek Mariusz            | Polska          |
-| 42 | Szudlich Urszula             | Polska          |
-| 43 | Thibaut Arnold               | Szwajcaria      |
-| 44 | Tomaszewski Jakub "Jaaqob"   | Polska          |
-| 45 | Veremenko Anastasiia         | Ukraina         |
-| 46 | Woźniak Mateusz              | Polska          |
-| 47 | Yaremenko Sveta              | Ukraina         |
-| 48 | Zubenko Anna                 | Ukraina         |
-| 49 | Świątek Luna "lunax"         | Polska          |
-| 50 | Żuk Bartosz                  | Polska          |
-| 51 | "Совесть"                    | Ukraina         |
+| 30 | Minias Marek                 | Polska          |
+| 31 | Miyano Takafumi "Taka"       | Japonia         |
+| 32 | Mądrecki Piotr               |                 |
+| 33 | Nedokushev Mykhailo          | Ukraina         |
+| 34 | Nowicz Szymon                | Polska          |
+| 35 | "Olga"                       | Polska          |
+| 36 | Polański Paweł               | Polska          |
+| 37 | "Pommeko"                    |                 |
+| 38 | Popławska Nina               | Polska          |
+| 39 | Powęzka Roman                | Polska          |
+| 40 | Powęzka Tomasz               | Polska          |
+| 41 | Sekikawa Daiichiro "Dan"     | Japonia         |
+| 42 | "Shawass"                    | Polska          |
+| 43 | Soga Itaru "Itaru"           | Polska          |
+| 44 | Spychała Jacek "Jackek"      | Polska          |
+| 45 | Stanaszek Mariusz            | Polska          |
+| 46 | Szudlich Urszula             | Polska          |
+| 47 | Thibaut Arnold               | Szwajcaria      |
+| 48 | Titow Jakub                  | Polska          |
+| 49 | Tomaszewski Jakub "Jaaqob"   | Polska          |
+| 50 | Veremenko Anastasiia         | Ukraina         |
+| 51 | Woźniak Mateusz              | Polska          |
+| 52 | Yaremenko Sveta              | Ukraina         |
+| 53 | Zubenko Anna                 | Ukraina         |
+| 54 | Świątek Luna "lunax"         | Polska          |
+| 55 | Żuk Bartosz                  | Polska          |
+| 56 | "Совесть"                    | Ukraina         |
 
 </center>
 
