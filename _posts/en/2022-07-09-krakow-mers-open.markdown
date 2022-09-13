@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-09-06 21:37:00 +0200
+last_modified_at: 2022-09-13 21:37:00 +0200
 categories: tournaments
 lang: en
 ---
@@ -39,11 +39,11 @@ TBA.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*56/80);"
-		aria-valuenow="56"
+		style="width: calc(100%*61/80);"
+		aria-valuenow="61"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		56/80
+		61/80
 	</div>
 </div>
 
@@ -74,34 +74,39 @@ TBA.
 |  21 | Jędryczka Matryna            | Poland        |
 |  22 | Kawa Bartosz                 | Poland        |
 |  23 | Kulhayeva Varvara            | Belarus       |
-|  24 | Lasota Szymon                | Poland        |
-|  25 | Le Duy "Sirocco"             | Great Britain |
-|  26 | Liberska-Adamczewska Jolanta | Poland        |
-|  27 | Libich Aleksandra "Harumi"   | Poland        |
-|  28 | Libich Artur "IzumiRaito"    | Poland        |
+|  24 | Le Duy "Sirocco"             | Great Britain |
+|  25 | Liberska-Adamczewska Jolanta | Poland        |
+|  26 | Libich Aleksandra "Harumi"   | Poland        |
+|  27 | Libich Artur "IzumiRaito"    | Poland        |
+|  28 | Majer Mirosław               | Poland        |
 |  29 | Maćkowski Mateusz "m3mx"     | Poland        |
-|  30 | Mądrecki Piotr               |               |
-|  31 | Nedokushev Mykhailo          | Ukraine       |
-|  32 | Nowicz Szymon                | Poland        |
-|  33 | "Olga"                       | Poland        |
-|  34 | Polański Paweł               | Poland        |
-|  35 | Popławska Nina               | Poland        |
-|  36 | Powęzka Roman                | Poland        |
-|  37 | Powęzka Tomasz               | Poland        |
-|  38 | Sekikawa Daiichiro "Dan"     | Japan         |
-|  39 | "Shawass"                    | Poland        |
-|  40 | Soga Itaru "Itaru"           | Poland        |
-|  41 | Stanaszek Mariusz            | Poland        |
-|  42 | Szudlich Urszula             | Poland        |
-|  43 | Thibaut Arnold               | Switzerland   |
-|  44 | Tomaszewski Jakub "Jaaqob"   | Poland        |
-|  45 | Veremenko Anastasiia         | Ukraine       |
-|  46 | Woźniak Mateusz              | Poland        |
-|  47 | Yaremenko Sveta              | Ukraine       |
-|  48 | Zubenko Anna                 | Ukraine       |
-|  49 | Świątek Luna "lunax"         | Poland        |
-|  50 | Żuk Bartosz                  | Poland        |
-|  51 | "Совесть"                    | Ukraine       |
+|  30 | Minias Marek                 | Poland        |
+|  31 | Miyano Takafumi "Taka"       | Japan         |
+|  32 | Mądrecki Piotr               |               |
+|  33 | Nedokushev Mykhailo          | Ukraine       |
+|  34 | Nowicz Szymon                | Poland        |
+|  35 | "Olga"                       | Poland        |
+|  36 | Polański Paweł               | Poland        |
+|  37 | "Pommeko"                    |               |
+|  38 | Popławska Nina               | Poland        |
+|  39 | Powęzka Roman                | Poland        |
+|  40 | Powęzka Tomasz               | Poland        |
+|  41 | Sekikawa Daiichiro "Dan"     | Japan         |
+|  42 | "Shawass"                    | Poland        |
+|  43 | Soga Itaru "Itaru"           | Poland        |
+|  44 | Spychała Jacek "Jackek"      | Poland        |
+|  45 | Stanaszek Mariusz            | Poland        |
+|  46 | Szudlich Urszula             | Poland        |
+|  47 | Thibaut Arnold               | Switzerland   |
+|  48 | Titow Jakub                  | Poland        |
+|  49 | Tomaszewski Jakub "Jaaqob"   | Poland        |
+|  50 | Veremenko Anastasiia         | Ukraine       |
+|  51 | Woźniak Mateusz              | Poland        |
+|  52 | Yaremenko Sveta              | Ukraine       |
+|  53 | Zubenko Anna                 | Ukraine       |
+|  54 | Świątek Luna "lunax"         | Poland        |
+|  55 | Żuk Bartosz                  | Poland        |
+|  56 | "Совесть"                    | Ukraine       |
 
 </center>
 
