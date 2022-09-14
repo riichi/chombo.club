@@ -39,11 +39,11 @@ TBA.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*61/80);"
-		aria-valuenow="61"
+		style="width: calc(100%*60/80);"
+		aria-valuenow="60"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		61/80
+		60/80
 	</div>
 </div>
 
@@ -79,34 +79,33 @@ TBA.
 |  26 | Libich Aleksandra "Harumi"   | Poland        |
 |  27 | Libich Artur "IzumiRaito"    | Poland        |
 |  28 | Majer Mirosław               | Poland        |
-|  29 | Maćkowski Mateusz "m3mx"     | Poland        |
-|  30 | Minias Marek                 | Poland        |
-|  31 | Miyano Takafumi "Taka"       | Japan         |
-|  32 | Mądrecki Piotr               |               |
-|  33 | Nedokushev Mykhailo          | Ukraine       |
-|  34 | Nowicz Szymon                | Poland        |
-|  35 | "Olga"                       | Poland        |
-|  36 | Polański Paweł               | Poland        |
-|  37 | "Pommeko"                    |               |
-|  38 | Popławska Nina               | Poland        |
-|  39 | Powęzka Roman                | Poland        |
-|  40 | Powęzka Tomasz               | Poland        |
-|  41 | Sekikawa Daiichiro "Dan"     | Japan         |
-|  42 | "Shawass"                    | Poland        |
-|  43 | Soga Itaru "Itaru"           | Poland        |
-|  44 | Spychała Jacek "Jackek"      | Poland        |
-|  45 | Stanaszek Mariusz            | Poland        |
-|  46 | Szudlich Urszula             | Poland        |
-|  47 | Thibaut Arnold               | Switzerland   |
-|  48 | Titow Jakub                  | Poland        |
-|  49 | Tomaszewski Jakub "Jaaqob"   | Poland        |
-|  50 | Veremenko Anastasiia         | Ukraine       |
-|  51 | Woźniak Mateusz              | Poland        |
-|  52 | Yaremenko Sveta              | Ukraine       |
-|  53 | Zubenko Anna                 | Ukraine       |
-|  54 | Świątek Luna "lunax"         | Poland        |
-|  55 | Żuk Bartosz                  | Poland        |
-|  56 | "Совесть"                    | Ukraine       |
+|  29 | Minias Marek                 | Poland        |
+|  30 | Miyano Takafumi "Taka"       | Japan         |
+|  31 | Mądrecki Piotr               |               |
+|  32 | Nedokushev Mykhailo          | Ukraine       |
+|  33 | Nowicz Szymon                | Poland        |
+|  34 | "Olga"                       | Poland        |
+|  35 | Polański Paweł               | Poland        |
+|  36 | "Pommeko"                    |               |
+|  37 | Popławska Nina               | Poland        |
+|  38 | Powęzka Roman                | Poland        |
+|  39 | Powęzka Tomasz               | Poland        |
+|  40 | Sekikawa Daiichiro "Dan"     | Japan         |
+|  41 | "Shawass"                    | Poland        |
+|  42 | Soga Itaru "Itaru"           | Poland        |
+|  43 | Spychała Jacek "Jackek"      | Poland        |
+|  44 | Stanaszek Mariusz            | Poland        |
+|  45 | Szudlich Urszula             | Poland        |
+|  46 | Thibaut Arnold               | Switzerland   |
+|  47 | Titow Jakub                  | Poland        |
+|  48 | Tomaszewski Jakub "Jaaqob"   | Poland        |
+|  49 | Veremenko Anastasiia         | Ukraine       |
+|  50 | Woźniak Mateusz              | Poland        |
+|  51 | Yaremenko Sveta              | Ukraine       |
+|  52 | Zubenko Anna                 | Ukraine       |
+|  53 | Świątek Luna "lunax"         | Poland        |
+|  54 | Żuk Bartosz                  | Poland        |
+|  55 | "Совесть"                    | Ukraine       |
 
 </center>
 

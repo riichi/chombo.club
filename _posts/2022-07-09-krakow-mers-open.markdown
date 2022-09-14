@@ -39,11 +39,11 @@ Zostanie ogłoszona w późniejszym terminie.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*61/80);"
-		aria-valuenow="61"
+		style="width: calc(100%*60/80);"
+		aria-valuenow="60"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		61/80
+		60/80
 	</div>
 </div>
 
@@ -79,34 +79,33 @@ Zostanie ogłoszona w późniejszym terminie.
 | 26 | Libich Aleksandra "Harumi"   | Polska          |
 | 27 | Libich Artur "IzumiRaito"    | Polska          |
 | 28 | Majer Mirosław               | Polska          |
-| 29 | Maćkowski Mateusz "m3mx"     | Polska          |
-| 30 | Minias Marek                 | Polska          |
-| 31 | Miyano Takafumi "Taka"       | Japonia         |
-| 32 | Mądrecki Piotr               |                 |
-| 33 | Nedokushev Mykhailo          | Ukraina         |
-| 34 | Nowicz Szymon                | Polska          |
-| 35 | "Olga"                       | Polska          |
-| 36 | Polański Paweł               | Polska          |
-| 37 | "Pommeko"                    |                 |
-| 38 | Popławska Nina               | Polska          |
-| 39 | Powęzka Roman                | Polska          |
-| 40 | Powęzka Tomasz               | Polska          |
-| 41 | Sekikawa Daiichiro "Dan"     | Japonia         |
-| 42 | "Shawass"                    | Polska          |
-| 43 | Soga Itaru "Itaru"           | Polska          |
-| 44 | Spychała Jacek "Jackek"      | Polska          |
-| 45 | Stanaszek Mariusz            | Polska          |
-| 46 | Szudlich Urszula             | Polska          |
-| 47 | Thibaut Arnold               | Szwajcaria      |
-| 48 | Titow Jakub                  | Polska          |
-| 49 | Tomaszewski Jakub "Jaaqob"   | Polska          |
-| 50 | Veremenko Anastasiia         | Ukraina         |
-| 51 | Woźniak Mateusz              | Polska          |
-| 52 | Yaremenko Sveta              | Ukraina         |
-| 53 | Zubenko Anna                 | Ukraina         |
-| 54 | Świątek Luna "lunax"         | Polska          |
-| 55 | Żuk Bartosz                  | Polska          |
-| 56 | "Совесть"                    | Ukraina         |
+| 29 | Minias Marek                 | Polska          |
+| 30 | Miyano Takafumi "Taka"       | Japonia         |
+| 31 | Mądrecki Piotr               |                 |
+| 32 | Nedokushev Mykhailo          | Ukraina         |
+| 33 | Nowicz Szymon                | Polska          |
+| 34 | "Olga"                       | Polska          |
+| 35 | Polański Paweł               | Polska          |
+| 36 | "Pommeko"                    |                 |
+| 37 | Popławska Nina               | Polska          |
+| 38 | Powęzka Roman                | Polska          |
+| 39 | Powęzka Tomasz               | Polska          |
+| 40 | Sekikawa Daiichiro "Dan"     | Japonia         |
+| 41 | "Shawass"                    | Polska          |
+| 42 | Soga Itaru "Itaru"           | Polska          |
+| 43 | Spychała Jacek "Jackek"      | Polska          |
+| 44 | Stanaszek Mariusz            | Polska          |
+| 45 | Szudlich Urszula             | Polska          |
+| 46 | Thibaut Arnold               | Szwajcaria      |
+| 47 | Titow Jakub                  | Polska          |
+| 48 | Tomaszewski Jakub "Jaaqob"   | Polska          |
+| 49 | Veremenko Anastasiia         | Ukraina         |
+| 50 | Woźniak Mateusz              | Polska          |
+| 51 | Yaremenko Sveta              | Ukraina         |
+| 52 | Zubenko Anna                 | Ukraina         |
+| 53 | Świątek Luna "lunax"         | Polska          |
+| 54 | Żuk Bartosz                  | Polska          |
+| 55 | "Совесть"                    | Ukraina         |
 
 </center>
 
