@@ -93,6 +93,9 @@ We invite you to the first MERS tournament in Kraków!
 
 **[Register here](https://forms.gle/n25tH2yqy7i7nW7DA)**
 
+**ATTENTION:** Registration will be closed on October 2nd &mdash; it will be the
+last day to submit your application.
+
 ## Players
 
 <div class="progress" style="margin-bottom: 0.5em">
