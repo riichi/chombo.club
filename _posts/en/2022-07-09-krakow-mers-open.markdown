@@ -27,7 +27,64 @@ We invite you to the first MERS tournament in Kraków!
 
 ## Agenda
 
-TBA.
+<center>
+<table>
+<thead>
+  <tr><th colspan="2" style="text-align: center">October 8th, 2022 (Saturday)</th></tr>
+</thead>
+<tbody>
+  <tr>
+    <td>11:00-12:00</td>
+    <td>Registration, kick-off</td>
+  </tr>
+  <tr>
+    <td>12:00-13:30</td>
+    <td>Hanchan I</td>
+  </tr>
+  <tr>
+    <td>13:30-15:00</td>
+    <td>Lunch break</td>
+  </tr>
+  <tr>
+    <td>15:00-16:30</td>
+    <td>Hanchan II</td>
+  </tr>
+  <tr>
+    <td>17:00-18:30</td>
+    <td>Hanchan III</td>
+  </tr>
+</tbody>
+<thead>
+  <tr><th colspan="2" style="text-align: center">October 9th, 2022 (Sunday)</th></tr>
+</thead>
+<tbody>
+  <tr>
+    <td>09:00-10:30</td>
+    <td>Hanchan IV</td>
+  </tr>
+  <tr>
+    <td>11:00-12:30</td>
+    <td>Hanchan V</td>
+  </tr>
+  <tr>
+    <td>12:30-14:00</td>
+    <td>Lunch break</td>
+  </tr>
+  <tr>
+    <td>14:00-15:30</td>
+    <td>Hanchan VI</td>
+  </tr>
+  <tr>
+    <td>16:00-17:30</td>
+    <td>Hanchan VII</td>
+  </tr>
+  <tr>
+    <td>17:45-18:30</td>
+    <td>Announcement of results, closing ceremony</td>
+  </tr>
+</tbody>
+</table>
+</center>
 
 ## Registration
 
