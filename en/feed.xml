@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2022-09-14T23:24:22+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/en/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-09-13T21:37:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;We invite you to the first MERS tournament in Kraków!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2022-09-15T19:32:50+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/en/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-09-13T21:37:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;We invite you to the first MERS tournament in Kraków!&lt;/p&gt;
 
 &lt;figure&gt;
   
@@ -14,12 +14,73 @@
   &lt;li&gt;Ruleset: EMA Riichi 2016&lt;/li&gt;
   &lt;li&gt;Hanchans: 7&lt;/li&gt;
   &lt;li&gt;Entry fee: between 100 and 150PLN, the exact amount will be announced later&lt;/li&gt;
-  &lt;li&gt;Participant limit: 80&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Participant limit: 80&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;EMA Observer: Linxuan He&lt;/li&gt;
+  &lt;li&gt;Referees: TBA&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;agenda&quot;&gt;Agenda&lt;/h2&gt;
 
-&lt;p&gt;TBA.&lt;/p&gt;
+&lt;center&gt;
+&lt;table id=&quot;mers-2022-agenda&quot;&gt;
+&lt;thead&gt;
+  &lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;October 8th (Saturday)&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;09:00-10:00&lt;/td&gt;
+    &lt;td&gt;Registration, opening ceremony&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;10:00-11:30&lt;/td&gt;
+    &lt;td&gt;Hanchan I&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;12:00-13:30&lt;/td&gt;
+    &lt;td&gt;Hanchan II&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;13:30-15:00&lt;/td&gt;
+    &lt;td&gt;Lunch break&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;15:00-16:30&lt;/td&gt;
+    &lt;td&gt;Hanchan III&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;17:00-18:30&lt;/td&gt;
+    &lt;td&gt;Hanchan IV&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;thead&gt;
+  &lt;tr&gt;&lt;th colspan=&quot;2&quot;&gt;October 9th (Sunday)&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td&gt;10:00-11:30&lt;/td&gt;
+    &lt;td&gt;Hanchan V&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;12:00-13:30&lt;/td&gt;
+    &lt;td&gt;Hanchan VI&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;13:30-15:00&lt;/td&gt;
+    &lt;td&gt;Lunch break&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;15:00-16:30&lt;/td&gt;
+    &lt;td&gt;Hanchan VII&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;16:45-17:30&lt;/td&gt;
+    &lt;td&gt;Announcement of results, closing ceremony&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/center&gt;
 
 &lt;h2 id=&quot;registration&quot;&gt;Registration&lt;/h2&gt;
 
