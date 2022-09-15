@@ -89,6 +89,29 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 </table>
 </center>
 
+## Dojazd
+
+<a href="/assets/images/mers-2022-map.png">
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu" />
+</a>
+
+Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
+najbliższy przystanek to **Ruczaj**, przykładowe
+połączenia tramwajowe z Dworca Głównego (przystanek **Teatr Słowackiego**):
+* 52, ok. 22 minuty,
+* 3 &#8594; 18, ok. 22 minuty ale wymaga przesiadki,
+* 50 &#8594; 17, ok. 32 minuty ze względu na okrężną trasę.
+
+Dojście z przystanku wymaga ok. pięciominutowego spaceru na Wydział Matematyki i
+Informatyki Uniwersytetu Jagiellońskiego.
+
+Niedaleko Wydziału (ok. 5 minut spacerem) znajduje się sklep Kaufland &mdash;
+można do niego wstąpić po drodze wysiadając przystanek wcześniej, na przystanku
+**Norymberska**.
+Warto pamiętać, że w niedzielę 9 października będzie on zamknięty.
+Szczegółowe instrukcje dojazdu można uzyskać korzystając z
+<https://krakow.jakdojade.pl> lub <https://maps.google.com>.
+
 ## Rejestracja
 
 **[Zapisy na turniej](https://forms.gle/n25tH2yqy7i7nW7DA)**
