@@ -25,6 +25,9 @@ We invite you to the first MERS tournament in Kraków!
 * Entry fee: between 100 and 150PLN, the exact amount will be announced later
 * Participant limit: 80
 
+* EMA Observer: Linxuan He
+* Referees: TBA
+
 ## Agenda
 
 <center>

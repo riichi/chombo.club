@@ -25,7 +25,7 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 * Opłata: będzie ogłoszona później (100-150 zł)
 * Limit osób: 80
 
-* Obserwator: Linxuan He
+* Obserwator EMA: Linxuan He
 * Sędziowie: TBA
 
 ## Agenda
