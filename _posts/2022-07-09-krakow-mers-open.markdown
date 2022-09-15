@@ -25,9 +25,69 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 * Opłata: będzie ogłoszona później (100-150 zł)
 * Limit osób: 80
 
+* Obserwator EMA: Linxuan He
+* Sędziowie: TBA
+
 ## Agenda
 
-Zostanie ogłoszona w późniejszym terminie.
+<center>
+<table id="mers-2022-agenda">
+<thead>
+  <tr><th colspan="2">Sobota 08.10.2022</th></tr>
+</thead>
+<tbody>
+  <tr>
+    <td>09:00-10:00</td>
+    <td>Rejestracja i otwarcie</td>
+  </tr>
+  <tr>
+    <td>10:00-11:30</td>
+    <td>1. hanchan</td>
+  </tr>
+  <tr>
+    <td>12:00-13:30</td>
+    <td>2. hanchan</td>
+  </tr>
+  <tr>
+    <td>13:30-15:00</td>
+    <td>Przerwa obiadowa</td>
+  </tr>
+  <tr>
+    <td>15:00-16:30</td>
+    <td>3. hanchan</td>
+  </tr>
+  <tr>
+    <td>17:00-18:30</td>
+    <td>4. hanchan</td>
+  </tr>
+</tbody>
+<thead>
+  <tr><th colspan="2">Niedziela 09.10.2022</th></tr>
+</thead>
+<tbody>
+  <tr>
+    <td>10:00-11:30</td>
+    <td>5. hanchan</td>
+  </tr>
+  <tr>
+    <td>12:00-13:30</td>
+    <td>6. hanchan</td>
+  </tr>
+  <tr>
+    <td>13:30-15:00</td>
+    <td>Przerwa obiadowa</td>
+  </tr>
+  <tr>
+    <td>15:00-16:30</td>
+    <td>7. hanchan</td>
+  </tr>
+  <tr>
+    <td>16:45-17:30</td>
+    <td>Ogłoszenie wyników i zamknięcie</td>
+  </tr>
+</tbody>
+</table>
+</center>
 
 ## Rejestracja
 

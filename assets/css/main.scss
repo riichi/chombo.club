@@ -69,3 +69,13 @@ address {
     }
   }
 }
+
+table#mers-2022-agenda {
+  th {
+    text-align: center;
+  }
+
+  td:nth-child(2) {
+    text-align: left;
+  }
+}

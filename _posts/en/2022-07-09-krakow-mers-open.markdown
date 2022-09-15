@@ -25,9 +25,69 @@ We invite you to the first MERS tournament in Kraków!
 * Entry fee: between 100 and 150PLN, the exact amount will be announced later
 * Participant limit: 80
 
+* EMA Observer: Linxuan He
+* Referees: TBA
+
 ## Agenda
 
-TBA.
+<center>
+<table id="mers-2022-agenda">
+<thead>
+  <tr><th colspan="2">October 8th (Saturday)</th></tr>
+</thead>
+<tbody>
+  <tr>
+    <td>09:00-10:00</td>
+    <td>Registration, opening ceremony</td>
+  </tr>
+  <tr>
+    <td>10:00-11:30</td>
+    <td>Hanchan I</td>
+  </tr>
+  <tr>
+    <td>12:00-13:30</td>
+    <td>Hanchan II</td>
+  </tr>
+  <tr>
+    <td>13:30-15:00</td>
+    <td>Lunch break</td>
+  </tr>
+  <tr>
+    <td>15:00-16:30</td>
+    <td>Hanchan III</td>
+  </tr>
+  <tr>
+    <td>17:00-18:30</td>
+    <td>Hanchan IV</td>
+  </tr>
+</tbody>
+<thead>
+  <tr><th colspan="2">October 9th (Sunday)</th></tr>
+</thead>
+<tbody>
+  <tr>
+    <td>10:00-11:30</td>
+    <td>Hanchan V</td>
+  </tr>
+  <tr>
+    <td>12:00-13:30</td>
+    <td>Hanchan VI</td>
+  </tr>
+  <tr>
+    <td>13:30-15:00</td>
+    <td>Lunch break</td>
+  </tr>
+  <tr>
+    <td>15:00-16:30</td>
+    <td>Hanchan VII</td>
+  </tr>
+  <tr>
+    <td>16:45-17:30</td>
+    <td>Announcement of results, closing ceremony</td>
+  </tr>
+</tbody>
+</table>
+</center>
 
 ## Registration
 
