@@ -93,6 +93,9 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 
 **[Zapisy na turniej](https://forms.gle/n25tH2yqy7i7nW7DA)**
 
+**UWAGA:** Rejestracja zostanie zamknięta 2 października &mdash; jest to
+ostatni dzień na wysłanie zgłoszenia.
+
 ## Gracze
 
 <div class="progress" style="margin-bottom: 0.5em">
