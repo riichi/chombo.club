@@ -92,7 +92,7 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 ## Dojazd
 
 <a href="/assets/images/mers-2022-map.png">
-  <img style="float: right; width: 50%; min-width: 400px;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu" />
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu" />
 </a>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;

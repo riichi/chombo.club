@@ -92,7 +92,7 @@ We invite you to the first MERS tournament in Kraków!
 ## How to get to the tournament
 
 <a href="/assets/images/mers-2022-map.png">
-  <img style="float: right; width: 50%; min-width: 400px;" src="/assets/images/mers-2022-map.png" alt="Commute map"/>
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map"/>
 </a>
 
 Generally speaking, we recommend taking a tram.
