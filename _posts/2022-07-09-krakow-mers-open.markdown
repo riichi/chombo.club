@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-09-13 21:37:00 +0200
+last_modified_at: 2022-09-17 21:37:00 +0200
 categories: tournaments
 lang: pl
 ---
@@ -125,11 +125,11 @@ ostatni dzień na wysłanie zgłoszenia.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*60/80);"
-		aria-valuenow="60"
+		style="width: calc(100%*62/80);"
+		aria-valuenow="62"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		60/80
+		62/80
 	</div>
 </div>
 
@@ -146,52 +146,54 @@ ostatni dzień na wysłanie zgłoszenia.
 |  7 | Chen Chaolei                 | Francja         |
 |  8 | Dessort Benoit               | Francja         |
 |  9 | Dwojacki Tomasz              | Polska          |
-| 10 | Fornalik Adrian "Miku"       | Polska          |
-| 11 | Fouques Julien               | Francja         |
-| 12 | Germeys Jasper "Yazphier"    | Szwecja         |
-| 13 | Gosk Łukasz "Żokun"          | Polska          |
-| 14 | Grzybowski Łukasz            | Polska          |
-| 15 | Hasegawa Shu                 | Japonia         |
-| 16 | He Linxuan                   | Hiszpania       |
-| 17 | Huynh Joe-Calberson          | Francja         |
-| 18 | Igarashi Tatsuya "夏夢想"    | Polska          |
-| 19 | Jarno Dominik "Dokku"        | Polska          |
-| 20 | "Jenkins"                    | Europa          |
-| 21 | Jędryczka Matryna            | Polska          |
-| 22 | Kawa Bartosz                 | Polska          |
-| 23 | Kulhayeva Varvara            | Białoruś        |
-| 24 | Le Duy "Sirocco"             | Wielka Brytania |
-| 25 | Liberska-Adamczewska Jolanta | Polska          |
-| 26 | Libich Aleksandra "Harumi"   | Polska          |
-| 27 | Libich Artur "IzumiRaito"    | Polska          |
-| 28 | Majer Mirosław               | Polska          |
-| 29 | Minias Marek                 | Polska          |
-| 30 | Miyano Takafumi "Taka"       | Japonia         |
-| 31 | Mądrecki Piotr               |                 |
-| 32 | Nedokushev Mykhailo          | Ukraina         |
-| 33 | Nowicz Szymon                | Polska          |
-| 34 | "Olga"                       | Polska          |
-| 35 | Polański Paweł               | Polska          |
-| 36 | "Pommeko"                    |                 |
-| 37 | Popławska Nina               | Polska          |
-| 38 | Powęzka Roman                | Polska          |
-| 39 | Powęzka Tomasz               | Polska          |
-| 40 | Sekikawa Daiichiro "Dan"     | Japonia         |
-| 41 | "Shawass"                    | Polska          |
-| 42 | Soga Itaru "Itaru"           | Polska          |
-| 43 | Spychała Jacek "Jackek"      | Polska          |
-| 44 | Stanaszek Mariusz            | Polska          |
-| 45 | Szudlich Urszula             | Polska          |
-| 46 | Thibaut Arnold               | Szwajcaria      |
-| 47 | Titow Jakub                  | Polska          |
-| 48 | Tomaszewski Jakub "Jaaqob"   | Polska          |
-| 49 | Veremenko Anastasiia         | Ukraina         |
-| 50 | Woźniak Mateusz              | Polska          |
-| 51 | Yaremenko Sveta              | Ukraina         |
-| 52 | Zubenko Anna                 | Ukraina         |
-| 53 | Świątek Luna "lunax"         | Polska          |
-| 54 | Żuk Bartosz                  | Polska          |
-| 55 | "Совесть"                    | Ukraina         |
+| 10 | Egorov Egor "PunchTheBag"    | Polska          |
+| 11 | Fornalik Adrian "Miku"       | Polska          |
+| 12 | Fouques Julien               | Francja         |
+| 13 | Germeys Jasper "Yazphier"    | Szwecja         |
+| 14 | Gosk Łukasz "Żokun"          | Polska          |
+| 15 | Grzybowski Łukasz            | Polska          |
+| 16 | Hasegawa Shu                 | Japonia         |
+| 17 | He Linxuan                   | Hiszpania       |
+| 18 | Huynh Joe-Calberson          | Francja         |
+| 19 | Igarashi Tatsuya "夏夢想"       | Polska          |
+| 20 | Jarno Dominik "Dokku"        | Polska          |
+| 21 | "Jenkins"                    | Europa          |
+| 22 | Jędryczka Matryna            | Polska          |
+| 23 | Kawa Bartosz                 | Polska          |
+| 24 | Kruk Paweł "Kruker"          | Polska          |
+| 25 | Kulhayeva Varvara            | Białoruś        |
+| 26 | Le Duy "Sirocco"             | Wielka Brytania |
+| 27 | Liberska-Adamczewska Jolanta | Polska          |
+| 28 | Libich Aleksandra "Harumi"   | Polska          |
+| 29 | Libich Artur "IzumiRaito"    | Polska          |
+| 30 | Majer Mirosław               | Polska          |
+| 31 | Minias Marek                 | Polska          |
+| 32 | Miyano Takafumi "Taka"       | Japonia         |
+| 33 | Mądrecki Piotr               |                 |
+| 34 | Nedokushev Mykhailo          | Ukraina         |
+| 35 | Nowicz Szymon                | Polska          |
+| 36 | "Olga"                       | Polska          |
+| 37 | Polański Paweł               | Polska          |
+| 38 | "Pommeko"                    |                 |
+| 39 | Popławska Nina               | Polska          |
+| 40 | Powęzka Roman                | Polska          |
+| 41 | Powęzka Tomasz               | Polska          |
+| 42 | Sekikawa Daiichiro "Dan"     | Japonia         |
+| 43 | "Shawass"                    | Polska          |
+| 44 | Soga Itaru "Itaru"           | Polska          |
+| 45 | Spychała Jacek "Jackek"      | Polska          |
+| 46 | Stanaszek Mariusz            | Polska          |
+| 47 | Szudlich Urszula             | Polska          |
+| 48 | Thibaut Arnold               | Szwajcaria      |
+| 49 | Titow Jakub                  | Polska          |
+| 50 | Tomaszewski Jakub "Jaaqob"   | Polska          |
+| 51 | Veremenko Anastasiia         | Ukraina         |
+| 52 | Woźniak Mateusz              | Polska          |
+| 53 | Yaremenko Sveta              | Ukraina         |
+| 54 | Zubenko Anna                 | Ukraina         |
+| 55 | Świątek Luna "lunax"         | Polska          |
+| 56 | Żuk Bartosz                  | Polska          |
+| 57 | "Совесть"                    | Ukraina         |
 
 </center>
 
