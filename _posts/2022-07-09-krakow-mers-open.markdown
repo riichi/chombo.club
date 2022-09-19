@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-09-17 21:37:00 +0200
+last_modified_at: 2022-09-19 21:37:00 +0200
 categories: tournaments
 lang: pl
 ---
@@ -116,20 +116,17 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 **[Zapisy na turniej](https://forms.gle/n25tH2yqy7i7nW7DA)**
 
-**UWAGA:** Rejestracja zostanie zamknięta 2 października &mdash; jest to
-ostatni dzień na wysłanie zgłoszenia.
-
 ## Gracze
 
 <div class="progress" style="margin-bottom: 0.5em">
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*62/80);"
-		aria-valuenow="62"
+		style="width: calc(100%*61/80);"
+		aria-valuenow="61"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		62/80
+		61/80
 	</div>
 </div>
 
@@ -179,21 +176,20 @@ ostatni dzień na wysłanie zgłoszenia.
 | 40 | Powęzka Roman                | Polska          |
 | 41 | Powęzka Tomasz               | Polska          |
 | 42 | Sekikawa Daiichiro "Dan"     | Japonia         |
-| 43 | "Shawass"                    | Polska          |
-| 44 | Soga Itaru "Itaru"           | Polska          |
-| 45 | Spychała Jacek "Jackek"      | Polska          |
-| 46 | Stanaszek Mariusz            | Polska          |
-| 47 | Szudlich Urszula             | Polska          |
-| 48 | Thibaut Arnold               | Szwajcaria      |
-| 49 | Titow Jakub                  | Polska          |
-| 50 | Tomaszewski Jakub "Jaaqob"   | Polska          |
-| 51 | Veremenko Anastasiia         | Ukraina         |
-| 52 | Woźniak Mateusz              | Polska          |
-| 53 | Yaremenko Sveta              | Ukraina         |
-| 54 | Zubenko Anna                 | Ukraina         |
-| 55 | Świątek Luna "lunax"         | Polska          |
-| 56 | Żuk Bartosz                  | Polska          |
-| 57 | "Совесть"                    | Ukraina         |
+| 43 | Soga Itaru "Itaru"           | Polska          |
+| 44 | Spychała Jacek "Jackek"      | Polska          |
+| 45 | Stanaszek Mariusz            | Polska          |
+| 46 | Szudlich Urszula             | Polska          |
+| 47 | Thibaut Arnold               | Szwajcaria      |
+| 48 | Titow Jakub                  | Polska          |
+| 49 | Tomaszewski Jakub "Jaaqob"   | Polska          |
+| 50 | Veremenko Anastasiia         | Ukraina         |
+| 51 | Woźniak Mateusz              | Polska          |
+| 52 | Yaremenko Sveta              | Ukraina         |
+| 53 | Zubenko Anna                 | Ukraina         |
+| 54 | Świątek Luna "lunax"         | Polska          |
+| 55 | Żuk Bartosz                  | Polska          |
+| 56 | "Совесть"                    | Ukraina         |
 
 </center>
 
