@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-09-19 21:37:00 +0200
+last_modified_at: 2022-09-26 21:37:00 +0200
 categories: tournaments
 lang: pl
 ---
@@ -116,17 +116,20 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 **[Zapisy na turniej](https://forms.gle/n25tH2yqy7i7nW7DA)**
 
+**UWAGA:** Rejestracja zostanie zamknięta 2 października &mdash; jest to
+ostatni dzień na wysłanie zgłoszenia.
+
 ## Gracze
 
 <div class="progress" style="margin-bottom: 0.5em">
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*61/80);"
-		aria-valuenow="61"
+		style="width: calc(100%*63/80);"
+		aria-valuenow="63"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		61/80
+		63/80
 	</div>
 </div>
 
@@ -137,59 +140,61 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 |  1 | Bacic Jakub                  | Polska          |
 |  2 | Bacic Marta                  | Polska          |
 |  3 | Baranowska Maria             | Polska          |
-|  4 | Borysiak Sonia Katarzyna     | Polska          |
-|  5 | Bronowicki Dawid             | Polska          |
-|  6 | Chabelska Katarzyna          | Polska          |
-|  7 | Chen Chaolei                 | Francja         |
-|  8 | Dessort Benoit               | Francja         |
-|  9 | Dwojacki Tomasz              | Polska          |
-| 10 | Egorov Egor "PunchTheBag"    | Polska          |
-| 11 | Fornalik Adrian "Miku"       | Polska          |
-| 12 | Fouques Julien               | Francja         |
-| 13 | Germeys Jasper "Yazphier"    | Szwecja         |
-| 14 | Gosk Łukasz "Żokun"          | Polska          |
-| 15 | Grzybowski Łukasz            | Polska          |
-| 16 | Hasegawa Shu                 | Japonia         |
-| 17 | He Linxuan                   | Hiszpania       |
-| 18 | Huynh Joe-Calberson          | Francja         |
-| 19 | Igarashi Tatsuya "夏夢想"       | Polska          |
-| 20 | Jarno Dominik "Dokku"        | Polska          |
-| 21 | "Jenkins"                    | Europa          |
-| 22 | Jędryczka Matryna            | Polska          |
-| 23 | Kawa Bartosz                 | Polska          |
-| 24 | Kruk Paweł "Kruker"          | Polska          |
-| 25 | Kulhayeva Varvara            | Białoruś        |
-| 26 | Le Duy "Sirocco"             | Wielka Brytania |
-| 27 | Liberska-Adamczewska Jolanta | Polska          |
-| 28 | Libich Aleksandra "Harumi"   | Polska          |
-| 29 | Libich Artur "IzumiRaito"    | Polska          |
-| 30 | Majer Mirosław               | Polska          |
-| 31 | Minias Marek                 | Polska          |
-| 32 | Miyano Takafumi "Taka"       | Japonia         |
-| 33 | Mądrecki Piotr               |                 |
-| 34 | Nedokushev Mykhailo          | Ukraina         |
-| 35 | Nowicz Szymon                | Polska          |
-| 36 | "Olga"                       | Polska          |
-| 37 | Polański Paweł               | Polska          |
-| 38 | "Pommeko"                    |                 |
-| 39 | Popławska Nina               | Polska          |
-| 40 | Powęzka Roman                | Polska          |
-| 41 | Powęzka Tomasz               | Polska          |
-| 42 | Sekikawa Daiichiro "Dan"     | Japonia         |
-| 43 | Soga Itaru "Itaru"           | Polska          |
-| 44 | Spychała Jacek "Jackek"      | Polska          |
-| 45 | Stanaszek Mariusz            | Polska          |
-| 46 | Szudlich Urszula             | Polska          |
-| 47 | Thibaut Arnold               | Szwajcaria      |
-| 48 | Titow Jakub                  | Polska          |
-| 49 | Tomaszewski Jakub "Jaaqob"   | Polska          |
-| 50 | Veremenko Anastasiia         | Ukraina         |
-| 51 | Woźniak Mateusz              | Polska          |
-| 52 | Yaremenko Sveta              | Ukraina         |
-| 53 | Zubenko Anna                 | Ukraina         |
-| 54 | Świątek Luna "lunax"         | Polska          |
-| 55 | Żuk Bartosz                  | Polska          |
-| 56 | "Совесть"                    | Ukraina         |
+|  4 | Borysiak Jacek Jakub         | Polska          |
+|  5 | Borysiak Sonia Katarzyna     | Polska          |
+|  6 | Bronowicki Dawid             | Polska          |
+|  7 | Chabelska Katarzyna          | Polska          |
+|  8 | Chen Chaolei                 | Francja         |
+|  9 | Dessort Benoit               | Francja         |
+| 10 | Dwojacki Tomasz              | Polska          |
+| 11 | Egorov Egor "PunchTheBag"    | Polska          |
+| 12 | Fornalik Adrian "Miku"       | Polska          |
+| 13 | Fouques Julien               | Francja         |
+| 14 | Germeys Jasper "Yazphier"    | Szwecja         |
+| 15 | Gosk Łukasz "Żokun"          | Polska          |
+| 16 | Grzybowski Łukasz            | Polska          |
+| 17 | Hasegawa Shu                 | Japonia         |
+| 18 | He Linxuan                   | Hiszpania       |
+| 19 | Huynh Joe-Calberson          | Francja         |
+| 20 | Igarashi Tatsuya "夏夢想"       | Polska          |
+| 21 | Jarno Dominik "Dokku"        | Polska          |
+| 22 | "Jenkins"                    | Europa          |
+| 23 | Jędryczka Matryna            | Polska          |
+| 24 | Kawa Bartosz                 | Polska          |
+| 25 | Kruk Paweł "Kruker"          | Polska          |
+| 26 | Kulhayeva Varvara            | Białoruś        |
+| 27 | Le Duy "Sirocco"             | Wielka Brytania |
+| 28 | Liberska-Adamczewska Jolanta | Polska          |
+| 29 | Libich Aleksandra "Harumi"   | Polska          |
+| 30 | Libich Artur "IzumiRaito"    | Polska          |
+| 31 | Majer Mirosław               | Polska          |
+| 32 | Minias Marek                 | Polska          |
+| 33 | Miyano Takafumi "Taka"       | Japonia         |
+| 34 | Mądrecki Piotr               |                 |
+| 35 | Nedokushev Mykhailo          | Ukraina         |
+| 36 | Nowicz Szymon                | Polska          |
+| 37 | "Olga"                       | Polska          |
+| 38 | Polański Paweł               | Polska          |
+| 39 | "Pommeko"                    |                 |
+| 40 | Popławska Nina               | Polska          |
+| 41 | Powęzka Roman                | Polska          |
+| 42 | Powęzka Tomasz               | Polska          |
+| 43 | Sekikawa Daiichiro "Dan"     | Japonia         |
+| 44 | Soga Itaru "Itaru"           | Polska          |
+| 45 | Spychała Jacek "Jackek"      | Polska          |
+| 46 | Stanaszek Mariusz            | Polska          |
+| 47 | Steck Devi                   | Szwajcaria      |
+| 48 | Szudlich Urszula             | Polska          |
+| 49 | Thibaut Arnold               | Szwajcaria      |
+| 50 | Titow Jakub                  | Polska          |
+| 51 | Tomaszewski Jakub "Jaaqob"   | Polska          |
+| 52 | Veremenko Anastasiia         | Ukraina         |
+| 53 | Woźniak Mateusz              | Polska          |
+| 54 | Yaremenko Sveta              | Ukraina         |
+| 55 | Zubenko Anna                 | Ukraina         |
+| 56 | Świątek Luna "lunax"         | Polska          |
+| 57 | Żuk Bartosz                  | Polska          |
+| 58 | "Совесть"                    | Ukraina         |
 
 </center>
 
