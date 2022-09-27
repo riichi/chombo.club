@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-09-26 21:37:00 +0200
+last_modified_at: 2022-09-27 21:37:00 +0200
 categories: tournaments
 lang: en
 ---
@@ -128,11 +128,11 @@ last day to submit your application.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*63/80);"
-		aria-valuenow="63"
+		style="width: calc(100%*64/80);"
+		aria-valuenow="64"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		63/80
+		64/80
 	</div>
 </div>
 
@@ -149,55 +149,56 @@ last day to submit your application.
 |   7 | Chabelska Katarzyna          | Poland        |
 |   8 | Chen Chaolei                 | France        |
 |   9 | Dessort Benoit               | France        |
-|  10 | Dwojacki Tomasz              | Poland        |
-|  11 | Egorov Egor "PunchTheBag"    | Poland        |
-|  12 | Fornalik Adrian "Miku"       | Poland        |
-|  13 | Fouques Julien               | France        |
-|  14 | Germeys Jasper "Yazphier"    | Sweden        |
-|  15 | Gosk Łukasz "Żokun"          | Poland        |
-|  16 | Grzybowski Łukasz            | Poland        |
-|  17 | Hasegawa Shu                 | Japan         |
-|  18 | He Linxuan                   | Spain         |
-|  19 | Huynh Joe-Calberson          | France        |
-|  20 | Igarashi Tatsuya "夏夢想"       | Poland        |
-|  21 | Jarno Dominik "Dokku"        | Poland        |
-|  22 | "Jenkins"                    | Europe        |
-|  23 | Jędryczka Matryna            | Poland        |
-|  24 | Kawa Bartosz                 | Poland        |
-|  25 | Kruk Paweł "Kruker"          | Poland        |
-|  26 | Kulhayeva Varvara            | Belarus       |
-|  27 | Le Duy "Sirocco"             | Great Britain |
-|  28 | Liberska-Adamczewska Jolanta | Poland        |
-|  29 | Libich Aleksandra "Harumi"   | Poland        |
-|  30 | Libich Artur "IzumiRaito"    | Poland        |
-|  31 | Majer Mirosław               | Poland        |
-|  32 | Minias Marek                 | Poland        |
-|  33 | Miyano Takafumi "Taka"       | Japan         |
-|  34 | Mądrecki Piotr               |               |
-|  35 | Nedokushev Mykhailo          | Ukraine       |
-|  36 | Nowicz Szymon                | Poland        |
-|  37 | "Olga"                       | Poland        |
-|  38 | Polański Paweł               | Poland        |
-|  39 | "Pommeko"                    |               |
-|  40 | Popławska Nina               | Poland        |
-|  41 | Powęzka Roman                | Poland        |
-|  42 | Powęzka Tomasz               | Poland        |
-|  43 | Sekikawa Daiichiro "Dan"     | Japan         |
-|  44 | Soga Itaru "Itaru"           | Poland        |
-|  45 | Spychała Jacek "Jackek"      | Poland        |
-|  46 | Stanaszek Mariusz            | Poland        |
-|  47 | Steck Devi                   | Switzerland   |
-|  48 | Szudlich Urszula             | Poland        |
-|  49 | Thibaut Arnold               | Switzerland   |
-|  50 | Titow Jakub                  | Poland        |
-|  51 | Tomaszewski Jakub "Jaaqob"   | Poland        |
-|  52 | Veremenko Anastasiia         | Ukraine       |
-|  53 | Woźniak Mateusz              | Poland        |
-|  54 | Yaremenko Sveta              | Ukraine       |
-|  55 | Zubenko Anna                 | Ukraine       |
-|  56 | Świątek Luna "lunax"         | Poland        |
-|  57 | Żuk Bartosz                  | Poland        |
-|  58 | "Совесть"                    | Ukraine       |
+|  10 | Diachenko Mykyta             |               |
+|  11 | Dwojacki Tomasz              | Poland        |
+|  12 | Egorov Egor "PunchTheBag"    | Poland        |
+|  13 | Fornalik Adrian "Miku"       | Poland        |
+|  14 | Fouques Julien               | France        |
+|  15 | Germeys Jasper "Yazphier"    | Sweden        |
+|  16 | Gosk Łukasz "Żokun"          | Poland        |
+|  17 | Grzybowski Łukasz            | Poland        |
+|  18 | Hasegawa Shu                 | Japan         |
+|  19 | He Linxuan                   | Spain         |
+|  20 | Huynh Joe-Calberson          | France        |
+|  21 | Igarashi Tatsuya "夏夢想"       | Poland        |
+|  22 | Jarno Dominik "Dokku"        | Poland        |
+|  23 | "Jenkins"                    | Europe        |
+|  24 | Jędryczka Matryna            | Poland        |
+|  25 | Kawa Bartosz                 | Poland        |
+|  26 | Kruk Paweł "Kruker"          | Poland        |
+|  27 | Kulhayeva Varvara            | Belarus       |
+|  28 | Le Duy "Sirocco"             | Great Britain |
+|  29 | Liberska-Adamczewska Jolanta | Poland        |
+|  30 | Libich Aleksandra "Harumi"   | Poland        |
+|  31 | Libich Artur "IzumiRaito"    | Poland        |
+|  32 | Majer Mirosław               | Poland        |
+|  33 | Minias Marek                 | Poland        |
+|  34 | Miyano Takafumi "Taka"       | Japan         |
+|  35 | Mądrecki Piotr               |               |
+|  36 | Nedokushev Mykhailo          | Ukraine       |
+|  37 | Nowicz Szymon                | Poland        |
+|  38 | "Olga"                       | Poland        |
+|  39 | Polański Paweł               | Poland        |
+|  40 | "Pommeko"                    |               |
+|  41 | Popławska Nina               | Poland        |
+|  42 | Powęzka Roman                | Poland        |
+|  43 | Powęzka Tomasz               | Poland        |
+|  44 | Sekikawa Daiichiro "Dan"     | Japan         |
+|  45 | Soga Itaru "Itaru"           | Poland        |
+|  46 | Spychała Jacek "Jackek"      | Poland        |
+|  47 | Stanaszek Mariusz            | Poland        |
+|  48 | Steck Devi                   | Switzerland   |
+|  49 | Szudlich Urszula             | Poland        |
+|  50 | Thibaut Arnold               | Switzerland   |
+|  51 | Titow Jakub                  | Poland        |
+|  52 | Tomaszewski Jakub "Jaaqob"   | Poland        |
+|  53 | Veremenko Anastasiia         | Ukraine       |
+|  54 | Woźniak Mateusz              | Poland        |
+|  55 | Yaremenko Sveta              | Ukraine       |
+|  56 | Zubenko Anna                 | Ukraine       |
+|  57 | Świątek Luna "lunax"         | Poland        |
+|  58 | Żuk Bartosz                  | Poland        |
+|  59 | "Совесть"                    | Ukraine       |
 
 </center>
 
