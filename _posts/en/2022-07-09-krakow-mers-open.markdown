@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-09-27 21:37:00 +0200
+last_modified_at: 2022-10-01 21:37:00 +0200
 categories: tournaments
 lang: en
 ---
@@ -128,11 +128,11 @@ last day to submit your application.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*63/80);"
-		aria-valuenow="63"
+		style="width: calc(100%*64/80);"
+		aria-valuenow="64"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		63/80
+		64/80
 	</div>
 </div>
 
@@ -188,16 +188,17 @@ last day to submit your application.
 |  46 | Stanaszek Mariusz            | Poland        |
 |  47 | Steck Devi                   | Switzerland   |
 |  48 | Szudlich Urszula             | Poland        |
-|  49 | Thibaut Arnold               | Switzerland   |
-|  50 | Titow Jakub                  | Poland        |
-|  51 | Tomaszewski Jakub "Jaaqob"   | Poland        |
-|  52 | Veremenko Anastasiia         | Ukraine       |
-|  53 | Woźniak Mateusz              | Poland        |
-|  54 | Yaremenko Sveta              | Ukraine       |
-|  55 | Zubenko Anna                 | Ukraine       |
-|  56 | Świątek Luna "lunax"         | Poland        |
-|  57 | Żuk Bartosz                  | Poland        |
-|  58 | "Совесть"                    | Ukraine       |
+|  49 | Tertre Manuel "Neral"        | France        |
+|  50 | Thibaut Arnold               | Switzerland   |
+|  51 | Titow Jakub                  | Poland        |
+|  52 | Tomaszewski Jakub "Jaaqob"   | Poland        |
+|  53 | Veremenko Anastasiia         | Ukraine       |
+|  54 | Woźniak Mateusz              | Poland        |
+|  55 | Yaremenko Sveta              | Ukraine       |
+|  56 | Zubenko Anna                 | Ukraine       |
+|  57 | Świątek Luna "lunax"         | Poland        |
+|  58 | Żuk Bartosz                  | Poland        |
+|  59 | "Совесть"                    | Ukraine       |
 
 </center>
 
