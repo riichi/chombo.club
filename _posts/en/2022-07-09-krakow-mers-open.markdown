@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-10-01 21:37:00 +0200
+last_modified_at: 2022-10-02 23:59:59 +0200
 categories: tournaments
 lang: en
 ---
@@ -117,10 +117,11 @@ offer free help in Polish and English.
 
 ## Registration
 
-**[Register here](https://forms.gle/n25tH2yqy7i7nW7DA)**
-
-**ATTENTION:** Registration will be closed on October 2nd &mdash; it will be the
-last day to submit your application.
+**Registration has been closed** – but you can add yourself to the reserve list.
+To do so, please send us an email with your name, surname, phone number, and
+optionally EMA ID to [contact@chombo.club](mailto:contact@chombo.club).
+Reserve players will be notified immediately in case of another player resigning
+from the tournament, in the order of submissions.
 
 ## Players
 
