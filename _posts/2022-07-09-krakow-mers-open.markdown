@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-10-01 21:37:00 +0200
+last_modified_at: 2022-10-02 23:59:59 +0200
 categories: tournaments
 lang: pl
 ---
@@ -114,10 +114,12 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 ## Rejestracja
 
-**[Zapisy na turniej](https://forms.gle/n25tH2yqy7i7nW7DA)**
-
-**UWAGA:** Rejestracja zostanie zamknięta 2 października &mdash; jest to
-ostatni dzień na wysłanie zgłoszenia.
+**Rejestracja została zamknięta** – można zgłaszać się na listę rezerwową.
+W tym celu prosimy o maila na adres
+[contact@chombo.club](mailto:contact@chombo.club) z następującymi informacjami:
+imię, nazwisko, numer telefonu i ewentualnie EMA ID.
+Gracze rezerwowi będą powiadamiani niezwłocznie w przypadku rezygnacji któregoś
+z uczestników turnieju, zgodnie z kolejnością zgłoszeń.
 
 ## Gracze
 
