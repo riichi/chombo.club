@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-10-02 23:59:59 +0200
+last_modified_at: 2022-10-03 21:37:00 +0200
 categories: tournaments
 lang: en
 ---
@@ -129,11 +129,11 @@ from the tournament, in the order of submissions.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*64/80);"
-		aria-valuenow="64"
+		style="width: calc(100%*63/80);"
+		aria-valuenow="63"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		64/80
+		63/80
 	</div>
 </div>
 
@@ -169,37 +169,36 @@ from the tournament, in the order of submissions.
 |  26 | Kulhayeva Varvara            | Belarus       |
 |  27 | Le Duy "Sirocco"             | Great Britain |
 |  28 | Liberska-Adamczewska Jolanta | Poland        |
-|  29 | Libich Aleksandra "Harumi"   | Poland        |
-|  30 | Libich Artur "IzumiRaito"    | Poland        |
-|  31 | Majer Mirosław               | Poland        |
-|  32 | Minias Marek                 | Poland        |
-|  33 | Miyano Takafumi "Taka"       | Japan         |
-|  34 | Mądrecki Piotr               |               |
-|  35 | Nedokushev Mykhailo          | Ukraine       |
-|  36 | Nowicz Szymon                | Poland        |
-|  37 | "Olga"                       | Poland        |
-|  38 | Polański Paweł               | Poland        |
-|  39 | "Pommeko"                    |               |
-|  40 | Popławska Nina               | Poland        |
-|  41 | Powęzka Roman                | Poland        |
-|  42 | Powęzka Tomasz               | Poland        |
-|  43 | Sekikawa Daiichiro "Dan"     | Japan         |
-|  44 | Soga Itaru "Itaru"           | Poland        |
-|  45 | Spychała Jacek "Jackek"      | Poland        |
-|  46 | Stanaszek Mariusz            | Poland        |
-|  47 | Steck Devi                   | Switzerland   |
-|  48 | Szudlich Urszula             | Poland        |
-|  49 | Tertre Manuel "Neral"        | France        |
-|  50 | Thibaut Arnold               | Switzerland   |
-|  51 | Titow Jakub                  | Poland        |
-|  52 | Tomaszewski Jakub "Jaaqob"   | Poland        |
-|  53 | Veremenko Anastasiia         | Ukraine       |
-|  54 | Woźniak Mateusz              | Poland        |
-|  55 | Yaremenko Sveta              | Ukraine       |
-|  56 | Zubenko Anna                 | Ukraine       |
-|  57 | Świątek Luna "lunax"         | Poland        |
-|  58 | Żuk Bartosz                  | Poland        |
-|  59 | "Совесть"                    | Ukraine       |
+|  29 | Libich Artur "IzumiRaito"    | Poland        |
+|  30 | Majer Mirosław               | Poland        |
+|  31 | Minias Marek                 | Poland        |
+|  32 | Miyano Takafumi "Taka"       | Japan         |
+|  33 | Mądrecki Piotr               |               |
+|  34 | Nedokushev Mykhailo          | Ukraine       |
+|  35 | Nowicz Szymon                | Poland        |
+|  36 | "Olga"                       | Poland        |
+|  37 | Polański Paweł               | Poland        |
+|  38 | "Pommeko"                    |               |
+|  39 | Popławska Nina               | Poland        |
+|  40 | Powęzka Roman                | Poland        |
+|  41 | Powęzka Tomasz               | Poland        |
+|  42 | Sekikawa Daiichiro "Dan"     | Japan         |
+|  43 | Soga Itaru "Itaru"           | Poland        |
+|  44 | Spychała Jacek "Jackek"      | Poland        |
+|  45 | Stanaszek Mariusz            | Poland        |
+|  46 | Steck Devi                   | Switzerland   |
+|  47 | Szudlich Urszula             | Poland        |
+|  48 | Tertre Manuel "Neral"        | France        |
+|  49 | Thibaut Arnold               | Switzerland   |
+|  50 | Titow Jakub                  | Poland        |
+|  51 | Tomaszewski Jakub "Jaaqob"   | Poland        |
+|  52 | Veremenko Anastasiia         | Ukraine       |
+|  53 | Woźniak Mateusz              | Poland        |
+|  54 | Yaremenko Sveta              | Ukraine       |
+|  55 | Zubenko Anna                 | Ukraine       |
+|  56 | Świątek Luna "lunax"         | Poland        |
+|  57 | Żuk Bartosz                  | Poland        |
+|  58 | "Совесть"                    | Ukraine       |
 
 </center>
 
