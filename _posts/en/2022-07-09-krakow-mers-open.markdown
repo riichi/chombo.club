@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-10-03 21:37:00 +0200
+last_modified_at: 2022-10-04 21:37:00 +0200
 categories: tournaments
 lang: en
 ---
@@ -22,11 +22,27 @@ We invite you to the first MERS tournament in Kraków!
 * Place: [Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Ruleset: EMA Riichi 2016
 * Hanchans: 7
-* Entry fee: between 100 and 150PLN, the exact amount will be announced later
+* Entry fee: 100PLN or 22EUR, paid at the venue or by bank transfer (PLN only):
+    - IBAN: `PL13 1140 2004 0000 3802 8180 7241`
+    - SWIFT/BIC: `BREXPLPWMBK`
+    - Account owner:
+      ```
+      Stowarzyszenie Krakowski Klub Chombo
+      ul. Grota-Roweckiego 31/13
+      30-348 Kraków
+      Poland
+      ```
+    - Title:
+      ```
+      <name and surname>
+      MERS 2022 registration fee
+      ```
 * Participant limit: 80
 
 * EMA Observer: Linxuan He
-* Referees: TBA
+* Referees:
+    - Marta Bacic
+    - Michał Herda
 
 ## Agenda
 
@@ -129,11 +145,11 @@ from the tournament, in the order of submissions.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*63/80);"
-		aria-valuenow="63"
+		style="width: calc(100%*60/80);"
+		aria-valuenow="60"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		63/80
+		60/80
 	</div>
 </div>
 
@@ -202,4 +218,4 @@ from the tournament, in the order of submissions.
 
 </center>
 
-...and 5 more
+...and 2 more

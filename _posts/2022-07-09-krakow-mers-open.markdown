@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-10-03 21:37:00 +0200
+last_modified_at: 2022-10-04 21:37:00 +0200
 categories: tournaments
 lang: pl
 ---
@@ -22,11 +22,26 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 * Miejsce: [Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Zasady: EMA Riichi 2016
 * Hanchany: 7
-* Opłata: będzie ogłoszona później (100-150 zł)
+* Opłata: 100PLN lub 22EUR, płatne na miejscu lub przelewem (tylko PLN):
+    - Nr konta: `13 1140 2004 0000 3802 8180 7241`
+    - Nazwa odbiorcy:
+      ```
+      Stowarzyszenie Krakowski Klub Chombo
+      ul. Grota-Roweckiego 31/13
+      30-348 Kraków
+      Poland
+      ```
+    - Tytuł:
+      ```
+      <imię i nazwisko>
+      wpisowe MERS 2022
+      ```
 * Limit osób: 80
 
 * Obserwator EMA: Linxuan He
-* Sędziowie: TBA
+* Sędziowie:
+    - Marta Bacic
+    - Michał Herda
 
 ## Agenda
 
@@ -127,11 +142,11 @@ z uczestników turnieju, zgodnie z kolejnością zgłoszeń.
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*63/80);"
-		aria-valuenow="63"
+		style="width: calc(100%*60/80);"
+		aria-valuenow="60"
 		aria-valuemin="0"
 		aria-valuemax="80">
-		63/80
+		60/80
 	</div>
 </div>
 
@@ -200,4 +215,4 @@ z uczestników turnieju, zgodnie z kolejnością zgłoszeń.
 
 </center>
 
-...i 5 więcej
+...i 2 więcej
