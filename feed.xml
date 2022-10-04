@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2022-10-03T17:21:34+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-10-03T21:37:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;Zapraszamy Was na pierwszy turniej MERS w Krakowie!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2022-10-04T11:47:07+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-10-04T21:37:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;Zapraszamy Was na pierwszy turniej MERS w Krakowie!&lt;/p&gt;
 
 &lt;figure&gt;
   
@@ -13,12 +13,33 @@
   &lt;li&gt;Miejsce: &lt;a href=&quot;https://goo.gl/maps/izBiryMK8gM9GpQd6&quot;&gt;Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Zasady: EMA Riichi 2016&lt;/li&gt;
   &lt;li&gt;Hanchany: 7&lt;/li&gt;
-  &lt;li&gt;Opłata: będzie ogłoszona później (100-150 zł)&lt;/li&gt;
+  &lt;li&gt;Opłata: 100PLN lub 22EUR, płatne na miejscu lub przelewem (tylko PLN):
+    &lt;ul&gt;
+      &lt;li&gt;Nr konta: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;13 1140 2004 0000 3802 8180 7241&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Nazwa odbiorcy:
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Stowarzyszenie Krakowski Klub Chombo
+ul. Grota-Roweckiego 31/13
+30-348 Kraków
+Poland
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tytuł:
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;imię i nazwisko&amp;gt;
+wpisowe MERS 2022
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Limit osób: 80&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Obserwator EMA: Linxuan He&lt;/li&gt;
-  &lt;li&gt;Sędziowie: TBA&lt;/li&gt;
+  &lt;li&gt;Sędziowie:
+    &lt;ul&gt;
+      &lt;li&gt;Marta Bacic&lt;/li&gt;
+      &lt;li&gt;Michał Herda&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;agenda&quot;&gt;Agenda&lt;/h2&gt;
@@ -119,8 +140,8 @@ z uczestników turnieju, zgodnie z kolejnością zgłoszeń.&lt;/p&gt;
 &lt;h2 id=&quot;gracze&quot;&gt;Gracze&lt;/h2&gt;
 
 &lt;div class=&quot;progress&quot; style=&quot;margin-bottom: 0.5em&quot;&gt;
-	&lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*63/80);&quot; aria-valuenow=&quot;63&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;80&quot;&gt;
-		63/80
+	&lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*60/80);&quot; aria-valuenow=&quot;60&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;80&quot;&gt;
+		60/80
 	&lt;/div&gt;
 &lt;/div&gt;
 
@@ -430,7 +451,7 @@ z uczestników turnieju, zgodnie z kolejnością zgłoszeń.&lt;/p&gt;
 
 &lt;/center&gt;
 
-&lt;p&gt;…i 5 więcej&lt;/p&gt;</content><author><name></name></author><category term="tournaments" /><summary type="html">Zapraszamy Was na pierwszy turniej MERS w Krakowie!</summary></entry><entry xml:lang="pl"><title type="html">Kraków Saki Cards Taikai 2022</title><link href="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.&lt;/p&gt;
+&lt;p&gt;…i 2 więcej&lt;/p&gt;</content><author><name></name></author><category term="tournaments" /><summary type="html">Zapraszamy Was na pierwszy turniej MERS w Krakowie!</summary></entry><entry xml:lang="pl"><title type="html">Kraków Saki Cards Taikai 2022</title><link href="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.&lt;/p&gt;
 
 &lt;figure&gt;
   

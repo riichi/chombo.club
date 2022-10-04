@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2022-10-03T17:21:34+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/en/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-10-03T21:37:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;We invite you to the first MERS tournament in Kraków!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2022-10-04T11:47:07+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Kraków MERS Open 2022</title><link href="https://chombo.club/en/tournaments/2022/07/09/krakow-mers-open/" rel="alternate" type="text/html" title="Kraków MERS Open 2022" /><published>2022-07-09T21:37:00+02:00</published><updated>2022-10-04T21:37:00+02:00</updated><id>https://chombo.club/tournaments/2022/07/09/krakow-mers-open</id><content type="html" xml:base="https://chombo.club/tournaments/2022/07/09/krakow-mers-open/">&lt;p&gt;We invite you to the first MERS tournament in Kraków!&lt;/p&gt;
 
 &lt;figure&gt;
   
@@ -13,12 +13,34 @@
   &lt;li&gt;Place: &lt;a href=&quot;https://goo.gl/maps/izBiryMK8gM9GpQd6&quot;&gt;Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Ruleset: EMA Riichi 2016&lt;/li&gt;
   &lt;li&gt;Hanchans: 7&lt;/li&gt;
-  &lt;li&gt;Entry fee: between 100 and 150PLN, the exact amount will be announced later&lt;/li&gt;
+  &lt;li&gt;Entry fee: 100PLN or 22EUR, paid at the venue or by bank transfer (PLN only):
+    &lt;ul&gt;
+      &lt;li&gt;IBAN: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;PL13 1140 2004 0000 3802 8180 7241&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;SWIFT/BIC: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;BREXPLPWMBK&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Account owner:
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Stowarzyszenie Krakowski Klub Chombo
+ul. Grota-Roweckiego 31/13
+30-348 Kraków
+Poland
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Title:
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;name and surname&amp;gt;
+MERS 2022 registration fee
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Participant limit: 80&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;EMA Observer: Linxuan He&lt;/li&gt;
-  &lt;li&gt;Referees: TBA&lt;/li&gt;
+  &lt;li&gt;Referees:
+    &lt;ul&gt;
+      &lt;li&gt;Marta Bacic&lt;/li&gt;
+      &lt;li&gt;Michał Herda&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;agenda&quot;&gt;Agenda&lt;/h2&gt;
@@ -121,8 +143,8 @@ from the tournament, in the order of submissions.&lt;/p&gt;
 &lt;h2 id=&quot;players&quot;&gt;Players&lt;/h2&gt;
 
 &lt;div class=&quot;progress&quot; style=&quot;margin-bottom: 0.5em&quot;&gt;
-	&lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*63/80);&quot; aria-valuenow=&quot;63&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;80&quot;&gt;
-		63/80
+	&lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*60/80);&quot; aria-valuenow=&quot;60&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;80&quot;&gt;
+		60/80
 	&lt;/div&gt;
 &lt;/div&gt;
 
@@ -432,7 +454,7 @@ from the tournament, in the order of submissions.&lt;/p&gt;
 
 &lt;/center&gt;
 
-&lt;p&gt;…and 5 more&lt;/p&gt;</content><author><name></name></author><category term="tournaments" /><summary type="html">We invite you to the first MERS tournament in Kraków!</summary></entry><entry xml:lang="en"><title type="html">Kraków Saki Cards Taikai 2022</title><link href="https://chombo.club/en/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe.&lt;/p&gt;
+&lt;p&gt;…and 2 more&lt;/p&gt;</content><author><name></name></author><category term="tournaments" /><summary type="html">We invite you to the first MERS tournament in Kraków!</summary></entry><entry xml:lang="en"><title type="html">Kraków Saki Cards Taikai 2022</title><link href="https://chombo.club/en/tournaments/2022/06/27/cracow-saki-cards-taikai/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2022" /><published>2022-06-27T21:00:00+02:00</published><updated>2022-06-27T21:00:00+02:00</updated><id>https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2022/06/27/cracow-saki-cards-taikai/">&lt;p&gt;We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe.&lt;/p&gt;
 
 &lt;figure&gt;
   
