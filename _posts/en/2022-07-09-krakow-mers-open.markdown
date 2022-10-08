@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-10-04 21:37:00 +0200
+last_modified_at: 2022-10-08 21:37:00 +0200
 categories: tournaments
 lang: en
 ---
@@ -73,7 +73,7 @@ We invite you to the first MERS tournament in Kraków!
     <td>Hanchan III</td>
   </tr>
   <tr>
-    <td>17:00-18:30</td>
+    <td>16:45-18:15</td>
     <td>Hanchan IV</td>
   </tr>
 </tbody>
@@ -86,19 +86,19 @@ We invite you to the first MERS tournament in Kraków!
     <td>Hanchan V</td>
   </tr>
   <tr>
-    <td>12:00-13:30</td>
+    <td>11:45-13:15</td>
     <td>Hanchan VI</td>
   </tr>
   <tr>
-    <td>13:30-15:00</td>
+    <td>13:15-14:45</td>
     <td>Lunch break</td>
   </tr>
   <tr>
-    <td>15:00-16:30</td>
+    <td>14:45-16:15</td>
     <td>Hanchan VII</td>
   </tr>
   <tr>
-    <td>16:45-17:30</td>
+    <td>16:30-17:15</td>
     <td>Announcement of results, closing ceremony</td>
   </tr>
 </tbody>

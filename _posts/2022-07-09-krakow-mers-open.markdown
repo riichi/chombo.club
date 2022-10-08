@@ -1,7 +1,7 @@
 ---
 title:  "Kraków MERS Open 2022"
 date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-10-04 21:37:00 +0200
+last_modified_at: 2022-10-08 21:37:00 +0200
 categories: tournaments
 lang: pl
 ---
@@ -72,7 +72,7 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
     <td>3. hanchan</td>
   </tr>
   <tr>
-    <td>17:00-18:30</td>
+    <td>16:45-18:15</td>
     <td>4. hanchan</td>
   </tr>
 </tbody>
@@ -85,19 +85,19 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
     <td>5. hanchan</td>
   </tr>
   <tr>
-    <td>12:00-13:30</td>
+    <td>11:45-13:15</td>
     <td>6. hanchan</td>
   </tr>
   <tr>
-    <td>13:30-15:00</td>
+    <td>13:15-14:45</td>
     <td>Przerwa obiadowa</td>
   </tr>
   <tr>
-    <td>15:00-16:30</td>
+    <td>14:45-16:15</td>
     <td>7. hanchan</td>
   </tr>
   <tr>
-    <td>16:45-17:30</td>
+    <td>16:30-17:15</td>
     <td>Ogłoszenie wyników i zamknięcie</td>
   </tr>
 </tbody>
