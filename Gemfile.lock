@@ -24,7 +24,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     autoprefixer-rails (10.4.7.0)
       execjs (~> 2)
-    bootstrap (5.2.1)
+    bootstrap (5.2.2)
       autoprefixer-rails (>= 9.1.0)
       popper_js (>= 2.11.6, < 3)
       sassc-rails (>= 2.0.0)
@@ -321,13 +321,13 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
-    zeitwerk (2.6.0)
+    zeitwerk (2.6.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap (= 5.2.1)
+  bootstrap (= 5.2.2)
   github-pages
   jekyll-archives
   jekyll-feed
