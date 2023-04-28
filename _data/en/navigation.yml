@@ -9,3 +9,5 @@ main:
     url: /contact/
   - title: "Calendar"
     url: /calendar/
+  - title: "ChomboGen"
+    url: https://hand.chombo.club/
