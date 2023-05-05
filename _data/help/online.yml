@@ -16,11 +16,11 @@
     - name: "Chrome Web Store: Tenhou English UI"
       description: Chrome extension that translates Tenhou UI to English
       description_pl: rozszerzenie do przeglądarki Chrome, które tłumaczy interfejs Tenhou na język angielski
-      url: https://addons.mozilla.org/_posts-US/firefox/addon/tenhou-english/
-    - name: "Firefox Add-ons: Tenhou English UI"
+      url: https://chrome.google.com/webstore/detail/tenhou-english-ui/jdackjfahmdepglkioclfdhbhdplnana
+    - name: "Firefox Add-ons: Tenhou UI translator"
       description: analogous extension for Firefox
       description_pl: analogiczne rozszerzenie dla przeglądarki Firefox
-      url: https://addons.mozilla.org/_posts-US/firefox/addon/tenhou-english/
+      url: https://addons.mozilla.org/en-US/firefox/addon/tenhou-ui-translator/
 
 - name: Mahjong Time
   description: advanced client with support for alternative Mahjong versions (Chinese and American, among others)

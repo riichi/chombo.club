@@ -52,3 +52,8 @@
   description: a set of tools for analyzing hands and point situations
   description_pl: zbiór narzędzi do analizy rąk i sytuacji punktowych
   url: https://riichi.harphield.com/tools/
+
+- name: Mahjong Tracker
+  description: mobile app that replaces point sticks with an easy to use interface
+  description_pl: aplikacja mobilna która pozwala zastąpić patyczki z punktami łatwym w użyciu interfejsem
+  url: https://mahjongtracker.com/
