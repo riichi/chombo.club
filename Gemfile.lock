@@ -23,7 +23,7 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     autoprefixer-rails (10.4.13.0)
       execjs (~> 2)
-    bootstrap (5.2.1)
+    bootstrap (5.2.3)
       autoprefixer-rails (>= 9.1.0)
       popper_js (>= 2.11.6, < 3)
       sassc-rails (>= 2.0.0)
@@ -324,7 +324,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bootstrap (= 5.2.1)
+  bootstrap (= 5.2.3)
   github-pages
   jekyll-archives
   jekyll-feed
