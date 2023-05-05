@@ -1,5 +1,5 @@
-- name: Rīchi Mahjong Basics - our series of videotutorials published on YouTube [EN subtitles]
-  name_pl: Podstawy Rīchi Mahjonga - nasza seria wideoporadników na YouTube
+- name: Rīchi Mahjong Basics — our series of videotutorials published on YouTube [EN subtitles]
+  name_pl: Podstawy Rīchi Mahjonga — nasza seria wideoporadników na YouTube
   url: https://youtube.com/playlist?list=PLb9pn6PWll9XyV5yoOcIAl004p30DLhe8
 
 - name: Tiles cheat sheet for beginners [PL]
@@ -16,3 +16,11 @@
 - name: European Mahjong Association rules
   name_pl: Reguły European Mahjong Association
   url: http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf
+
+- name: Riichi rules around the world
+  name_pl: Zestawienie zasad używanych na całym świecie
+  url: https://ooyamaneko.net/en/mahjong/rratw/index.php
+
+- name: The MAH-JONGG FAQs — a huge guide to mahjong, considering other variants as well
+  name_pl: The MAH-JONGG FAQs — ogromny poradnik do mahjonga, uwzględniajacy również inne warianty
+  url: https://sloperama.com/mahjongg/index.html

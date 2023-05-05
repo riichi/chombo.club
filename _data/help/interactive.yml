@@ -42,3 +42,13 @@
   description: single player Windows client with lots of customization options
   description_pl: klient dla jednego gracza dla systemu Windows z dużą liczbą opcji konfiguracyjnych
   url: https://mega.nz/#!GYQQRaRb!bbdXLYbyEsTMZb93Pa3_qdiyfy4QizE8kQAhCJ7_HOo
+
+- name: ChomboGen
+  description: our own hand image generator
+  description_pl: nasz własny generator obrazków rąk
+  url: https://hand.chombo.club/
+
+- name: Riichi Tools
+  description: a set of tools for analyzing hands and point situations
+  description_pl: zbiór narzędzi do analizy rąk i sytuacji punktowych
+  url: https://riichi.harphield.com/tools/
