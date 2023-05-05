@@ -16,12 +16,12 @@ $primary-color              : #214214 !default;
 //   ignored. feel free to fix if you can
 // why not just import root.sass?
 //   smoler css
-@import "../../bootstrap-5.2.1/assets/stylesheets/bootstrap/_functions";
-@import "../../bootstrap-5.2.1/assets/stylesheets/bootstrap/_variables";
-@import "../../bootstrap-5.2.1/assets/stylesheets/bootstrap/_maps";
-@import "../../bootstrap-5.2.1/assets/stylesheets/bootstrap/_mixins";
-@import "../../bootstrap-5.2.1/assets/stylesheets/bootstrap/_utilities";
-@import "../../bootstrap-5.2.1/assets/stylesheets/bootstrap/_progress";
+@import "../../bootstrap-5.2.3/assets/stylesheets/bootstrap/_functions";
+@import "../../bootstrap-5.2.3/assets/stylesheets/bootstrap/_variables";
+@import "../../bootstrap-5.2.3/assets/stylesheets/bootstrap/_maps";
+@import "../../bootstrap-5.2.3/assets/stylesheets/bootstrap/_mixins";
+@import "../../bootstrap-5.2.3/assets/stylesheets/bootstrap/_utilities";
+@import "../../bootstrap-5.2.3/assets/stylesheets/bootstrap/_progress";
 // done, time to wash hands
 
 @import "minimal-mistakes"; // main partials
