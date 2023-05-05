@@ -24,3 +24,11 @@
 - name: The MAH-JONGG FAQs — a huge guide to mahjong, considering other variants as well
   name_pl: The MAH-JONGG FAQs — ogromny poradnik do mahjonga, uwzględniajacy również inne warianty
   url: https://sloperama.com/mahjongg/index.html
+
+- name: Scoresheet [PL]
+  name_pl: Bloczek na punkty [PL]
+  url: /assets/download/mahjongscoresheetpl.pdf
+
+- name: Scoresheet [EN]
+  name_pl: Bloczek na punkty [EN]
+  url: /assets/download/mahjongscoresheeteng.pdf
