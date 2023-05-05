@@ -12,7 +12,24 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 * [Facebook]({{ site.footer.links[1].url }}) — gdzie informujemy o aktualnych i przyszłych wydarzeniach
 * [GitHub]({{ site.footer.links[2].url }}) — gdzie budujemy oprogramowanie pomagające rozwinąć umiejętności w Mahjongu
 
+## Stowarzyszenie
+
 [Pobierz statut w formacie PDF](https://github.com/riichi/statute-pl/releases/download/2021-06-17-1ee2a19/statut.pdf)
+
+### Władze Stowarzyszenia
+
+* Michał Herda — Prezes Zarządu
+* Mateusz Maćkowski — Wiceprezes Zarządu
+* Dawid Bronowicki — Członek Zarządu
+* Alex Grad — Członek Zarządu
+* Konrad Górka — Członek Zarządu
+
+### Komisja Rewizyjna
+
+* Marek Grzelak — Przewodniczący Komisji Rewizyjnej
+* Wojciech Sabała — Członek Komisji Rewizyjnej
+* Łukasz Sereda — Członek Komisji Rewizyjnej
+* Dominik Wołek — Członek Komisji Rewizyjnej
 
 ## Ulotka
 
