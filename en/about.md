@@ -16,11 +16,13 @@ You can find us on the following social networking websites:
 
 ### Authorities of the Association
 
-* Michał Herda — President of the Board
-* Mateusz Maćkowski — Vice President of the Board
+* Mateusz Maćkowski — President of the Board
+* Konrad Górka — Vice President of the Board
+* Michał Herda — Member of the Board
 * Dawid Bronowicki — Member of the Board
-* Alex Grad — Member of the Board
-* Konrad Górka — Member of the Board
+* Joanna Zalewska — Member of the Board
+* Szymon Nowicz — Member of the Board
+* Michał Tkaczyk — Member of the Board
 
 ### Audit Committee
 

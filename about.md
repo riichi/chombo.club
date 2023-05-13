@@ -18,11 +18,13 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 
 ### Władze Stowarzyszenia
 
-* Michał Herda — Prezes Zarządu
-* Mateusz Maćkowski — Wiceprezes Zarządu
+* Mateusz Maćkowski — Prezes Zarządu
+* Konrad Górka — Wiceprezes Zarządu
+* Michał Herda — Członek Zarządu
 * Dawid Bronowicki — Członek Zarządu
-* Alex Grad — Członek Zarządu
-* Konrad Górka — Członek Zarządu
+* Joanna Zalewska — Członek Zarządu
+* Szymon Nowicz — Członek Zarządu
+* Michał Tkaczyk — Członek Zarządu
 
 ### Komisja Rewizyjna
 
