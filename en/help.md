@@ -13,3 +13,6 @@ lang: en
 
 ## Mahjong online
 {% include help_items.html collection=site.data.help.online %}
+
+## Other Mahjong clubs
+{% include help_items.html collection=site.data.help.clubs %}
