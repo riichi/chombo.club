@@ -13,3 +13,6 @@ lang: pl
 
 ## Mahjong online
 {% include help_items_pl.html collection=site.data.help.online %}
+
+## Inne kluby Mahjongowe
+{% include help_items_pl.html collection=site.data.help.clubs %}
