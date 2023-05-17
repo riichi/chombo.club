@@ -15,4 +15,4 @@ lang: en
 {% include help_items.html collection=site.data.help.online %}
 
 ## Other Mahjong clubs
-{% include help_items_pl.html collection=site.data.help.clubs %}
+{% include help_items.html collection=site.data.help.clubs %}
