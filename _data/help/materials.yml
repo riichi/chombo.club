@@ -25,6 +25,10 @@
   name_pl: The MAH-JONGG FAQs — ogromny poradnik do mahjonga, uwzględniajacy również inne warianty
   url: https://sloperama.com/mahjongg/index.html
 
+- name: Yaku List [PL]
+  name_pl: Lista yaku
+  url: /assets/download/yaku_chombo.pdf
+
 - name: Scoresheet [PL]
   name_pl: Bloczek na punkty [PL]
   url: /assets/download/mahjongscoresheetpl.pdf
