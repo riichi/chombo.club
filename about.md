@@ -19,7 +19,7 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 ### Jak dołączyć?
 
 Zapraszamy wszystkich chętnych do zostania członkami Stowarzyszenia!
-Zgodnie z §12 Statutu, w tym celu należy opłacić składkę, złożyć deklarację członkowską oraz uzyskać rekomendację dwóch członków Stowarzyszenia.
+Zgodnie z §12 Statutu, w tym celu należy opłacić składkę, uzyskać rekomendację dwóch członków Stowarzyszenia oraz złożyć deklarację członkowską.
 Deklaracja może być złożona w formie papierowej lub też podpisana [profilem zaufanym](https://www.gov.pl/web/profilzaufany) i wysłana pocztą elektroniczną na adres `zarzad@chombo.club`.
 W razie wszelkich pytań/wątpliwości zachęcamy do kontaktu.
 
