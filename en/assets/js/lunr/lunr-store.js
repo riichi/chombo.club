@@ -76,4 +76,10 @@ var store = [{
         "tags": [],
         "url": "/tournaments/2022/07/09/krakow-mers-open/",
         "teaser": null
+      },{
+        "title": "Hatsumi Taikai",
+        "excerpt":"We invite you to the second MERS tournament in Kraków! About Date: 17th-18th February 2024 (Sat-Sun) Place: TBD, Kraków, Poland Ruleset: EMA Riichi 2016 Hanchans: 8 Entry fee: TBD, about 150 PLN Participant limit: 84 EMA Observer: TBD Referees: Mateusz Maćkowski TBD Agenda TBD Registration TBD - we will announce...","categories": ["tournaments"],
+        "tags": [],
+        "url": "/tournaments/2023/10/06/hatsumi-taikai/",
+        "teaser": null
       }]
