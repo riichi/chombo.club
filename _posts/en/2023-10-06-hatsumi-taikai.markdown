@@ -1,5 +1,5 @@
 ---
-title:  "Hatsumi Taikai 2024"
+title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
 last_modified_at: 2023-10-06 16:00:00 +0200
 categories: tournaments
@@ -18,7 +18,9 @@ We invite you to the second MERS tournament in Kraków!
 * Participant limit: 84
 
 * EMA Observer: TBD
-* Referees: TBD
+* Referees:
+  - Mateusz Maćkowski
+  - TBD
 
 ## Agenda
 
@@ -26,7 +28,7 @@ TBD
 
 ## Registration
 
-TBD
+TBD - we will announce it on our [fanpage](https://www.facebook.com/chombo.club)
 
 ## Players
 

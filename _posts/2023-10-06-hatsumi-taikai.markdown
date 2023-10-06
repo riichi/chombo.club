@@ -1,5 +1,5 @@
 ---
-title:  "Hatsumi Taikai 2024"
+title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
 last_modified_at: 2023-10-06 16:00:00 +0200
 categories: tournaments
@@ -18,7 +18,9 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 * Limit osób: 84
 
 * Obserwator EMA: TBD
-* Sędziowie: TBD
+* Sędziowie:
+  - Mateusz Maćkowski
+  - TBD
 
 ## Agenda
 
@@ -26,7 +28,7 @@ TBD
 
 ## Rejestracja
 
-TBD
+TBD - wyczekujcie ogłoszenia na naszym [fanpage'u](https://www.facebook.com/chombo.club)!
 
 ## Gracze
 
