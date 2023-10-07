@@ -21,7 +21,7 @@ We invite you to the second MERS tournament in Kraków!
   - Mateusz Maćkowski
   - TBD
 
-Scores will be tracked using the [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
+Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
 ## Agenda
