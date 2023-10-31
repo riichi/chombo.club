@@ -36,4 +36,6 @@ TBD
 
 ## Gracze
 
+<small>Ostatnia aktualizacja: {{ page.last_modified_at }}</small>
+
 TBD

@@ -36,4 +36,6 @@ TBD
 
 ## Players
 
+<small>Last updated: {{ page.last_modified_at }}</small>
+
 TBD
