@@ -22,7 +22,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 * Miejsce: TBD, Kraków
 * Zasady: EMA Riichi 2016
 * Hanchany: 8
-* Wpisowe: TBD, ok. 150 PLN
+* Wpisowe: TBD, ok. 150 PLN (~34 EUR)
 * Limit osób: 84
 * Obserwator EMA: TBD
 * Sędziowie:
