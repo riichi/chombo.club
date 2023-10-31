@@ -8,6 +8,14 @@ lang: pl
 
 Zapraszamy Was na drugi turniej MERS w Krakowie!
 
+{% capture fig_img %}
+![Hatsumi Taikai 2023]({{ "/assets/images/2023-10-06-hatsumi-taikai.png" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
+
 ## O turnieju
 
 * Data: 17-18 lutego 2024 (sobota-niedziela)
