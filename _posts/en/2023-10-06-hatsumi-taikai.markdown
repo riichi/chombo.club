@@ -22,7 +22,7 @@ We invite you to the second MERS tournament in Kraków!
 * Place: TBD, Kraków, Poland
 * Ruleset: EMA Riichi 2016
 * Hanchans: 8
-* Entry fee: TBD, about 150 PLN
+* Entry fee: TBD, about 150 PLN (~34 EUR)
 * Participant limit: 84
 * EMA Observer: TBD
 * Referees:
