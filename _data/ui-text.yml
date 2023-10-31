@@ -64,7 +64,7 @@ en-AU:
 # ------
 pl: &DEFAULT_PL
   title                      : "Krakowski Klub Chombo"
-  description                : "Krakowski Klub Chombo (KKC) to grupa graczy z Krakowa skupioną na grze i promocji japońskiego (Rīchi) Mahjonga."
+  description                : "Krakowski Klub Chombo (KKC) to grupa graczy z Krakowa skupiona na grze i promocji japońskiego (Rīchi) Mahjonga."
   skip_links                 :
   skip_primary_nav           :
   skip_content               :
