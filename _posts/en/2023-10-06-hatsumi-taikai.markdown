@@ -9,7 +9,7 @@ lang: en
 We invite you to the second MERS tournament in Kraków!
 
 {% capture fig_img %}
-![Hatsumi Taikai 2023]({{ "/assets/images/2023-10-06-hatsumi-taikai.png" | relative_url }})
+![Hatsumi Taikai]({{ "/assets/images/2023-10-06-hatsumi-taikai.png" | relative_url }})
 {% endcapture %}
 
 <figure>
