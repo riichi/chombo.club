@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-10-07 9:00:00 +0200
+last_modified_at: 2023-10-31 11:00:00 +0100
 categories: tournaments
 lang: en
 ---
@@ -30,7 +30,9 @@ TBD
 
 ## Registration
 
-TBD - we will announce it on our [fanpage](https://www.facebook.com/chombo.club)
+**[Register here](https://forms.gle/Q9MxGdNQU1fJbf746)**
+
+**ATTENTION:** Registration will be closed on January 31st &mdash; it will be the last day to submit your application.
 
 ## Players
 
