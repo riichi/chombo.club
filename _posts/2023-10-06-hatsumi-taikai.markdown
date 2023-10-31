@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-10-31 11:00:00 +0100
+last_modified_at: 2023-10-31 23:51:30 +0100
 categories: tournaments
 lang: pl
 ---
@@ -44,6 +44,25 @@ TBD
 
 ## Gracze
 
-<small>Ostatnia aktualizacja: {{ page.last_modified_at }}</small>
+<small>Ostatnia aktualizacja: 2023-10-31 23:51</small>
 
-TBD
+| Nr | Imię i nazwisko                          | Kraj                 | EMA ID                                                              |
+|---:|:-----------------------------------------|:---------------------|:--------------------------------------------------------------------|
+|  1 | Maciej Szostak                           | Polska               |                                                                     |
+|  2 | Aleksander Orlikowski                    | Polska               | [19000175](http://mahjong-europe.org/ranking/Players/19000175.html) |
+|  3 | Jakub Cieślik                            | Polska               |                                                                     |
+|  4 | Michał Tkaczyk                           | Polska               | [19000168](http://mahjong-europe.org/ranking/Players/19000168.html) |
+|  5 | Dominik Jarno                            | Polska               | [19000035](http://mahjong-europe.org/ranking/Players/19000035.html) |
+|  6 | Adrian Fornalik                          | Polska               | [19000120](http://mahjong-europe.org/ranking/Players/19000120.html) |
+|  7 | Martyna Jędryczka                        | Polska               | [19000102](http://mahjong-europe.org/ranking/Players/19000102.html) |
+|  8 | Łukasz Gosk                              | Polska               | [19000136](http://mahjong-europe.org/ranking/Players/19000136.html) |
+|  9 | Luna Świątek                             | Polska               | [19000143](http://mahjong-europe.org/ranking/Players/19000143.html) |
+| 10 | Konrad Ostrowski                         | Polska               | [19000153](http://mahjong-europe.org/ranking/Players/19000153.html) |
+| 11 | Paweł Kruk                               | Polska               | [19000111](http://mahjong-europe.org/ranking/Players/19000111.html) |
+| 12 | Nina Popławska                           | Polska               | [19000071](http://mahjong-europe.org/ranking/Players/19000071.html) |
+| 13 | Szymon Lasota                            | Polska               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
+| 14 | Maria Baranowska                         | Polska               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
+| 15 | Bartosz Żuk                              | Polska               | [19000006](http://mahjong-europe.org/ranking/Players/19000006.html) |
+| 16 | Mateusz Woźniak                          | Polska               | [19000003](http://mahjong-europe.org/ranking/Players/19000003.html) |
+| 17 | Sergio Matos Lima                        | Portugalia           | [12990014](http://mahjong-europe.org/ranking/Players/12990014.html) |
+| 18 | Jakub Titow                              | Polska               | [19000145](http://mahjong-europe.org/ranking/Players/19000145.html) |
