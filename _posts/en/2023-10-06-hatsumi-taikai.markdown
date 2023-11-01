@@ -57,15 +57,18 @@ TBD
 |  7 | Martyna Jędryczka                        | Poland               | [19000102](http://mahjong-europe.org/ranking/Players/19000102.html) |
 |  8 | Łukasz Gosk                              | Poland               | [19000136](http://mahjong-europe.org/ranking/Players/19000136.html) |
 |  9 | Luna Świątek                             | Poland               | [19000143](http://mahjong-europe.org/ranking/Players/19000143.html) |
-| 10 | Konrad Ostrowski                         | Poland               | [19000153](http://mahjong-europe.org/ranking/Players/19000153.html) |
-| 11 | Paweł Kruk                               | Poland               | [19000111](http://mahjong-europe.org/ranking/Players/19000111.html) |
-| 12 | Nina Popławska                           | Poland               | [19000071](http://mahjong-europe.org/ranking/Players/19000071.html) |
-| 13 | Szymon Lasota                            | Poland               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
-| 14 | Maria Baranowska                         | Poland               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
-| 15 | Bartosz Żuk                              | Poland               | [19000006](http://mahjong-europe.org/ranking/Players/19000006.html) |
-| 16 | Mateusz Woźniak                          | Poland               | [19000003](http://mahjong-europe.org/ranking/Players/19000003.html) |
-| 17 | Sergio Matos Lima                        | Portugal             | [12990014](http://mahjong-europe.org/ranking/Players/12990014.html) |
-| 18 | Jakub Titow                              | Poland               | [19000145](http://mahjong-europe.org/ranking/Players/19000145.html) |
-| 19 | Michał Waliszewski                       | Poland               | [19000171](http://mahjong-europe.org/ranking/Players/19000171.html) |
-| 20 | Artur Libich                             | Poland               | [19000039](http://mahjong-europe.org/ranking/Players/19000039.html) |
-| 21 | Aleksandra Malarz                        | Poland               |                                                                     |
+| 10 | Paweł Kruk                               | Poland               | [19000111](http://mahjong-europe.org/ranking/Players/19000111.html) |
+| 11 | Nina Popławska                           | Poland               | [19000071](http://mahjong-europe.org/ranking/Players/19000071.html) |
+| 12 | Szymon Lasota                            | Poland               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
+| 13 | Maria Baranowska                         | Poland               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
+| 14 | Bartosz Żuk                              | Poland               | [19000006](http://mahjong-europe.org/ranking/Players/19000006.html) |
+| 15 | Mateusz Woźniak                          | Poland               | [19000003](http://mahjong-europe.org/ranking/Players/19000003.html) |
+| 16 | Sergio Matos Lima                        | Portugal             | [12990014](http://mahjong-europe.org/ranking/Players/12990014.html) |
+| 17 | Jakub Titow                              | Poland               | [19000145](http://mahjong-europe.org/ranking/Players/19000145.html) |
+| 18 | Michał Waliszewski                       | Poland               | [19000171](http://mahjong-europe.org/ranking/Players/19000171.html) |
+| 19 | Artur Libich                             | Poland               | [19000039](http://mahjong-europe.org/ranking/Players/19000039.html) |
+| 20 | Aleksandra Malarz                        | Poland               |                                                                     |
+| 21 | Alex Grad                                | Poland               |                                                                     |
+| 22 | Olga Igarashi                            | Poland               | [19000087](http://mahjong-europe.org/ranking/Players/19000087.html) |
+| 23 | Jackek Spychala                          | Poland               | [19000141](http://mahjong-europe.org/ranking/Players/19000141.html) |
+| 24 | Konrad Marciniak                         | Poland               | [19000174](http://mahjong-europe.org/ranking/Players/19000174.html) |
