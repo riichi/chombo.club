@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-03 22:07:08 +0100
+last_modified_at: 2023-11-03 23:17:57 +0100
 categories: tournaments
 lang: pl
 ---
@@ -24,17 +24,20 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 * Hanchany: 8
 * Wpisowe: TBD, ok. 150 PLN (~34 EUR)
 * Limit osób: 84
-* Obserwator EMA: TBD
+* Obserwator EMA: ogłosimy wkrótce!
 * Sędziowie:
   - Mateusz Maćkowski
-  - TBD
+  - więcej wkrótce!
 
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
+Z reprezentantami **4** krajów i łączną liczbą **33** graczy, aktualny ranking turnieju MERS wynosi **2** (4 to maksimum).\
+<small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
+
 ## Agenda
 
-TBD
+Dostępna wkrótce!
 
 ## Rejestracja
 
@@ -54,31 +57,7 @@ TBD
 		aria-valuenow="33"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		Gracze: 33/84
-	</div>
-</div>
-
-<div class="progress" style="margin-bottom: 0.5em; font-size: 0.5rem; height: 0.7rem">
-	<div
-		class="progress-bar progress-bar-striped bg-success"
-		role="progressbar"
-		style="width: calc(100%*4/10);"
-		aria-valuenow="4"
-		aria-valuemin="0"
-		aria-valuemax="10">
-		Kraje biorące udział: 4
-	</div>
-</div>
-
-<div class="progress" style="margin-bottom: 0.5em; font-size: 0.5rem; height: 0.7rem">
-	<div
-		class="progress-bar progress-bar-striped bg-success"
-		role="progressbar"
-		style="width: calc(100%*2/4);"
-		aria-valuenow="2"
-		aria-valuemin="0"
-		aria-valuemax="4">
-		<span>MERS <a href="http://mahjong-europe.org/ranking/Basicsranking.html" class="text-info">(co to?)</a>: 2/4</span>
+		33/84
 	</div>
 </div>
 
