@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-03 23:17:57 +0100
+last_modified_at: 2023-11-04 00:00:04 +0100
 categories: tournaments
 lang: pl
 ---
@@ -19,10 +19,10 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 ## O turnieju
 
 * Data: 17-18 lutego 2024 (sobota-niedziela)
-* Miejsce: TBD, Kraków
+* Miejsce: [Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Zasady: EMA Riichi 2016
 * Hanchany: 8
-* Wpisowe: TBD, ok. 150 PLN (~34 EUR)
+* Wpisowe: ogłosimy wkrótce, ok. 150 PLN (~34 EUR)
 * Limit osób: 84
 * Obserwator EMA: ogłosimy wkrótce!
 * Sędziowie:
@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **4** krajów i łączną liczbą **33** graczy, aktualny ranking turnieju MERS wynosi **2** (4 to maksimum).\
+Z reprezentantami **4** krajów i łączną liczbą **33** graczy, aktualny ranking turnieju MERS wynosi **2.0** (4 to maksimum).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
