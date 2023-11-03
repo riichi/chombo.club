@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-03 21:37:10 +0100
+last_modified_at: 2023-11-03 22:07:08 +0100
 categories: tournaments
 lang: en
 ---
@@ -54,7 +54,31 @@ TBD
 		aria-valuenow="33"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		33/84
+		Players: 33/84
+	</div>
+</div>
+
+<div class="progress" style="margin-bottom: 0.5em; font-size: 0.5rem; height: 0.7rem">
+	<div
+		class="progress-bar progress-bar-striped bg-success"
+		role="progressbar"
+		style="width: calc(100%*4/10);"
+		aria-valuenow="4"
+		aria-valuemin="0"
+		aria-valuemax="10">
+		Participating countries: 4
+	</div>
+</div>
+
+<div class="progress" style="margin-bottom: 0.5em; font-size: 0.5rem; height: 0.7rem">
+	<div
+		class="progress-bar progress-bar-striped bg-success"
+		role="progressbar"
+		style="width: calc(100%*2/4);"
+		aria-valuenow="2"
+		aria-valuemin="0"
+		aria-valuemax="4">
+		<span>MERS <a href="http://mahjong-europe.org/ranking/Basicsranking.html" class="text-info">(what's this?)</a>: 2/4</span>
 	</div>
 </div>
 
