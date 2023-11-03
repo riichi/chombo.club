@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-03 21:37:10 +0100
+last_modified_at: 2023-11-03 22:06:42 +0100
 categories: tournaments
 lang: pl
 ---
