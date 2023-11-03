@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-03 15:37:02 +0100
+last_modified_at: 2023-11-03 21:37:10 +0100
 categories: tournaments
 lang: pl
 ---
@@ -50,11 +50,11 @@ TBD
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*31/84);"
-		aria-valuenow="31"
+		style="width: calc(100%*33/84);"
+		aria-valuenow="33"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		31/84
+		33/84
 	</div>
 </div>
 
@@ -93,5 +93,7 @@ TBD
 | 29 | Paulina Kakuba                           | Polska               |                                                                     |
 | 30 | Elmar Mohsenzada                         | Austria              | [01000154](http://mahjong-europe.org/ranking/Players/01000154.html) |
 | 31 | Marek Minias                             | Polska               | [19000139](http://mahjong-europe.org/ranking/Players/19000139.html) |
+| 32 | Sveta Yaremenko                          | Ukraine              | [21000055](http://mahjong-europe.org/ranking/Players/21000055.html) |
+| 33 | Maksym Ivanov                            | Ukraine              | [21000015](http://mahjong-europe.org/ranking/Players/21000015.html) |
 
 </div>
