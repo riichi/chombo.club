@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-04 00:00:04 +0100
+last_modified_at: 2023-11-04 00:20:56 +0100
 categories: tournaments
 lang: pl
 ---
@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **4** krajów i łączną liczbą **33** graczy, aktualny ranking turnieju MERS wynosi **2.0** (4 to maksimum).\
+Z reprezentantami **4** krajów i łączną liczbą **33** graczy, aktualny ranking turnieju MERS wynosi **2.0** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
