@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Hatsumi Taikai",
-        "excerpt":"We invite you to the second MERS tournament in Kraków! About Date: 17th-18th February 2024 (Sat-Sun) Place: TBD, Kraków, Poland Ruleset: EMA Riichi 2016 Hanchans: 8 Entry fee: TBD, about 150 PLN (~34 EUR) Participant limit: 84 EMA Observer: TBD Referees: Mateusz Maćkowski TBD Scores will be tracked using Mahjong...","categories": ["tournaments"],
+        "excerpt":"We invite you to the second MERS tournament in Kraków! About Date: 17th-18th February 2024 (Sat-Sun) Place: TBD, Kraków, Poland Ruleset: EMA Riichi 2016 Hanchans: 8 Entry fee: TBD, about 150 PLN (~34 EUR) Participant limit: 84 EMA Observer: coming soon! Referees: Mateusz Maćkowski more coming soon! Scores will be...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2023/10/06/hatsumi-taikai/",
         "teaser": null

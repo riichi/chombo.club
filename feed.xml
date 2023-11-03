@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2023-11-03T22:08:55+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2023-11-03T22:07:08+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/">&lt;p&gt;Zapraszamy Was na drugi turniej MERS w Krakowie!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2023-11-03T23:20:50+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2023-11-03T23:17:57+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/">&lt;p&gt;Zapraszamy Was na drugi turniej MERS w Krakowie!&lt;/p&gt;
 
 &lt;figure&gt;
   
@@ -15,11 +15,11 @@
   &lt;li&gt;Hanchany: 8&lt;/li&gt;
   &lt;li&gt;Wpisowe: TBD, ok. 150 PLN (~34 EUR)&lt;/li&gt;
   &lt;li&gt;Limit osób: 84&lt;/li&gt;
-  &lt;li&gt;Obserwator EMA: TBD&lt;/li&gt;
+  &lt;li&gt;Obserwator EMA: ogłosimy wkrótce!&lt;/li&gt;
   &lt;li&gt;Sędziowie:
     &lt;ul&gt;
       &lt;li&gt;Mateusz Maćkowski&lt;/li&gt;
-      &lt;li&gt;TBD&lt;/li&gt;
+      &lt;li&gt;więcej wkrótce!&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -27,9 +27,12 @@
 &lt;p&gt;Punkty będą śledzone za pomocą mobilnej aplikacji &lt;a href=&quot;https://mahjongtracker.com/&quot;&gt;Mahjong Tracker&lt;/a&gt; - polecamy zapoznać się
 z jej działaniem przed turniejem.&lt;/p&gt;
 
+&lt;p&gt;Z reprezentantami &lt;strong&gt;4&lt;/strong&gt; krajów i łączną liczbą &lt;strong&gt;33&lt;/strong&gt; graczy, aktualny ranking turnieju MERS wynosi &lt;strong&gt;2&lt;/strong&gt; (4 to maksimum).&lt;br /&gt;
+&lt;small&gt;Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć &lt;a href=&quot;http://mahjong-europe.org/ranking/Basicsranking.html&quot;&gt;na stronie EMA&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;agenda&quot;&gt;Agenda&lt;/h2&gt;
 
-&lt;p&gt;TBD&lt;/p&gt;
+&lt;p&gt;Dostępna wkrótce!&lt;/p&gt;
 
 &lt;h2 id=&quot;rejestracja&quot;&gt;Rejestracja&lt;/h2&gt;
 
@@ -39,23 +42,11 @@ z jej działaniem przed turniejem.&lt;/p&gt;
 
 &lt;h2 id=&quot;gracze&quot;&gt;Gracze&lt;/h2&gt;
 
-&lt;p&gt;&lt;small&gt;Ostatnia aktualizacja: 2023-11-03 22:07&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Ostatnia aktualizacja: 2023-11-03 23:17&lt;/small&gt;&lt;/p&gt;
 
 &lt;div class=&quot;progress&quot; style=&quot;margin-bottom: 0.5em&quot;&gt;
 	&lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*33/84);&quot; aria-valuenow=&quot;33&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;84&quot;&gt;
-		Gracze: 33/84
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;progress&quot; style=&quot;margin-bottom: 0.5em; font-size: 0.5rem; height: 0.7rem&quot;&gt;
-	&lt;div class=&quot;progress-bar progress-bar-striped bg-success&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*4/10);&quot; aria-valuenow=&quot;4&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;10&quot;&gt;
-		Kraje biorące udział: 4
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;progress&quot; style=&quot;margin-bottom: 0.5em; font-size: 0.5rem; height: 0.7rem&quot;&gt;
-	&lt;div class=&quot;progress-bar progress-bar-striped bg-success&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*2/4);&quot; aria-valuenow=&quot;2&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;4&quot;&gt;
-		&lt;span&gt;MERS &lt;a href=&quot;http://mahjong-europe.org/ranking/Basicsranking.html&quot; class=&quot;text-info&quot;&gt;(co to?)&lt;/a&gt;: 2/4&lt;/span&gt;
+		33/84
 	&lt;/div&gt;
 &lt;/div&gt;
 
