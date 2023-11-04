@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-04 15:37:11 +0100
+last_modified_at: 2023-11-04 21:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -32,7 +32,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **4** different countries and a total number of **33** contestants, the current MERS tournament ranking is **2.0** (with 4.0 being the maximum).\
+With representants of **4** different countries and a total number of **34** contestants, the current MERS tournament ranking is **2.0** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Coming soon!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*33/84);"
-		aria-valuenow="33"
+		style="width: calc(100%*34/84);"
+		aria-valuenow="34"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		33/84
+		34/84
 	</div>
 </div>
 
@@ -98,5 +98,6 @@ Coming soon!
 | 31 | Marek Minias                             | Poland               | [19000139](http://mahjong-europe.org/ranking/Players/19000139.html) |
 | 32 | Sveta Yaremenko                          | Ukraine              | [21000055](http://mahjong-europe.org/ranking/Players/21000055.html) |
 | 33 | Maksym Ivanov                            | Ukraine              | [21000015](http://mahjong-europe.org/ranking/Players/21000015.html) |
+| 34 | Tomasz Dąbski                            | Poland               |                                                                     |
 
 </div>
