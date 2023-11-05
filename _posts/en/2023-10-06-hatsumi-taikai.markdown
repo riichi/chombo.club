@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-04 21:37:12 +0100
+last_modified_at: 2023-11-05 21:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -67,7 +67,7 @@ Coming soon!
 |---:|:-----------------------------------------|:---------------------|:--------------------------------------------------------------------|
 |  1 | Maciej Szostak                           | Poland               |                                                                     |
 |  2 | Aleksander Orlikowski                    | Poland               | [19000175](http://mahjong-europe.org/ranking/Players/19000175.html) |
-|  3 | Jakub Cieślik                            | Poland               |                                                                     |
+|  3 | Jakub Cieślik                            | Poland               | [19000162](http://mahjong-europe.org/ranking/Players/19000162.html) |
 |  4 | Michał Tkaczyk                           | Poland               | [19000168](http://mahjong-europe.org/ranking/Players/19000168.html) |
 |  5 | Dominik Jarno                            | Poland               | [19000035](http://mahjong-europe.org/ranking/Players/19000035.html) |
 |  6 | Adrian Fornalik                          | Poland               | [19000120](http://mahjong-europe.org/ranking/Players/19000120.html) |
