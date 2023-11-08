@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-05 21:37:12 +0100
+last_modified_at: 2023-11-08 21:37:12 +0100
 categories: tournaments
 lang: pl
 ---
@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **4** krajów i łączną liczbą **34** graczy, aktualny ranking turnieju MERS wynosi **2.0** (maksimum to 4.0).\
+Z reprezentantami **4** krajów i łączną liczbą **35** graczy, aktualny ranking turnieju MERS wynosi **2.0** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Dostępna wkrótce!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*34/84);"
-		aria-valuenow="34"
+		style="width: calc(100%*35/84);"
+		aria-valuenow="35"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		34/84
+		35/84
 	</div>
 </div>
 
@@ -99,5 +99,6 @@ Dostępna wkrótce!
 | 32 | Sveta Yaremenko                          | Ukraina              | [21000055](http://mahjong-europe.org/ranking/Players/21000055.html) |
 | 33 | Maksym Ivanov                            | Ukraina              | [21000015](http://mahjong-europe.org/ranking/Players/21000015.html) |
 | 34 | Tomasz Dąbski                            | Polska               |                                                                     |
+| 35 | Marta Grajkowska                         | Polska               |                                                                     |
 
 </div>
