@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-09 15:37:12 +0100
+last_modified_at: 2023-11-11 21:37:05 +0100
 categories: tournaments
 lang: pl
 ---
@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **4** krajów i łączną liczbą **36** graczy, aktualny ranking turnieju MERS wynosi **2.0** (maksimum to 4.0).\
+Z reprezentantami **6** krajów i łączną liczbą **39** graczy, aktualny ranking turnieju MERS wynosi **2.5** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Dostępna wkrótce!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*36/84);"
-		aria-valuenow="36"
+		style="width: calc(100%*39/84);"
+		aria-valuenow="39"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		36/84
+		39/84
 	</div>
 </div>
 
@@ -101,5 +101,8 @@ Dostępna wkrótce!
 | 34 | Tomasz Dąbski                            | Polska               |                                                                     |
 | 35 | Marta Grajkowska                         | Polska               |                                                                     |
 | 36 | Krzysztof Dabrowski                      | Polska               | [19000157](http://mahjong-europe.org/ranking/Players/19000157.html) |
+| 37 | Kateryna Kondratenko                     | Ukrain               | [21000072](http://mahjong-europe.org/ranking/Players/21000072.html) |
+| 38 | Ken Nico Schultheiss                     | Germany              | [05100182](http://mahjong-europe.org/ranking/Players/05100182.html) |
+| 39 | Christopher Mielke                       | Germany              | [05000009](http://mahjong-europe.org/ranking/Players/05000009.html) |
 
 </div>
