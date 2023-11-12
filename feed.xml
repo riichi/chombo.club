@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2023-11-12T03:29:43+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2023-11-11T21:37:05+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/">&lt;p&gt;Zapraszamy Was na drugi turniej MERS w Krakowie!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2023-11-12T16:03:21+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2023-11-12T15:37:12+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/">&lt;p&gt;Zapraszamy Was na drugi turniej MERS w Krakowie!&lt;/p&gt;
 
 &lt;figure&gt;
   
@@ -27,7 +27,7 @@
 &lt;p&gt;Punkty będą śledzone za pomocą mobilnej aplikacji &lt;a href=&quot;https://mahjongtracker.com/&quot;&gt;Mahjong Tracker&lt;/a&gt; - polecamy zapoznać się
 z jej działaniem przed turniejem.&lt;/p&gt;
 
-&lt;p&gt;Z reprezentantami &lt;strong&gt;5&lt;/strong&gt; krajów i łączną liczbą &lt;strong&gt;39&lt;/strong&gt; graczy, aktualny ranking turnieju MERS wynosi &lt;strong&gt;2.0&lt;/strong&gt; (maksimum to 4.0).&lt;br /&gt;
+&lt;p&gt;Z reprezentantami &lt;strong&gt;6&lt;/strong&gt; krajów i łączną liczbą &lt;strong&gt;40&lt;/strong&gt; graczy, aktualny ranking turnieju MERS wynosi &lt;strong&gt;2.5&lt;/strong&gt; (maksimum to 4.0).&lt;br /&gt;
 &lt;small&gt;Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć &lt;a href=&quot;http://mahjong-europe.org/ranking/Basicsranking.html&quot;&gt;na stronie EMA&lt;/a&gt;.&lt;/small&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;agenda&quot;&gt;Agenda&lt;/h2&gt;
@@ -42,11 +42,11 @@ z jej działaniem przed turniejem.&lt;/p&gt;
 
 &lt;h2 id=&quot;gracze&quot;&gt;Gracze&lt;/h2&gt;
 
-&lt;p&gt;&lt;small&gt;Ostatnia aktualizacja: 2023-11-11 21:37&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Ostatnia aktualizacja: 2023-11-12 15:37&lt;/small&gt;&lt;/p&gt;
 
 &lt;div class=&quot;progress&quot; style=&quot;margin-bottom: 0.5em&quot;&gt;
-	&lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*39/84);&quot; aria-valuenow=&quot;39&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;84&quot;&gt;
-		39/84
+	&lt;div class=&quot;progress-bar progress-bar-striped&quot; role=&quot;progressbar&quot; style=&quot;width: calc(100%*40/84);&quot; aria-valuenow=&quot;40&quot; aria-valuemin=&quot;0&quot; aria-valuemax=&quot;84&quot;&gt;
+		40/84
 	&lt;/div&gt;
 &lt;/div&gt;
 
@@ -287,14 +287,20 @@ z jej działaniem przed turniejem.&lt;/p&gt;
       &lt;tr&gt;
         &lt;td style=&quot;text-align: right&quot;&gt;38&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Ken Nico Schultheiss&lt;/td&gt;
-        &lt;td style=&quot;text-align: left&quot;&gt;Germany&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Niemcy&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://mahjong-europe.org/ranking/Players/05100182.html&quot;&gt;05100182&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
         &lt;td style=&quot;text-align: right&quot;&gt;39&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;Christopher Mielke&lt;/td&gt;
-        &lt;td style=&quot;text-align: left&quot;&gt;Germany&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Niemcy&lt;/td&gt;
         &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://mahjong-europe.org/ranking/Players/05000009.html&quot;&gt;05000009&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;40&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Arnaud Wolf&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Francja&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;http://mahjong-europe.org/ranking/Players/04160112.html&quot;&gt;04160112&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
     &lt;/tbody&gt;
   &lt;/table&gt;
