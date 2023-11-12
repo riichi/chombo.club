@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-12 15:37:12 +0100
+last_modified_at: 2023-11-12 21:37:10 +0100
 categories: tournaments
 lang: en
 ---
@@ -32,7 +32,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **6** different countries and a total number of **40** contestants, the current MERS tournament ranking is **2.5** (with 4.0 being the maximum).\
+With representants of **6** different countries and a total number of **43** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Coming soon!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*40/84);"
-		aria-valuenow="40"
+		style="width: calc(100%*43/84);"
+		aria-valuenow="43"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		40/84
+		43/84
 	</div>
 </div>
 
@@ -105,5 +105,8 @@ Coming soon!
 | 38 | Ken Nico Schultheiss                     | Germany              | [05100182](http://mahjong-europe.org/ranking/Players/05100182.html) |
 | 39 | Christopher Mielke                       | Germany              | [05000009](http://mahjong-europe.org/ranking/Players/05000009.html) |
 | 40 | Arnaud Wolf                              | France               | [04160112](http://mahjong-europe.org/ranking/Players/04160112.html) |
+| 41 | Paweł Polański                           | Poland               | [19000041](http://mahjong-europe.org/ranking/Players/19000041.html) |
+| 42 | Pavel Druzhinin                          | Poland               | [19000167](http://mahjong-europe.org/ranking/Players/19000167.html) |
+| 43 | Oleksii Bezuhlyi                         | Ukraine              | [21000068](http://mahjong-europe.org/ranking/Players/21000068.html) |
 
 </div>
