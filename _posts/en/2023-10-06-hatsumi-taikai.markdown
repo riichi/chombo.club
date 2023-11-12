@@ -32,7 +32,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **6** different countries and a total number of **39** contestants, the current MERS tournament ranking is **2.5** (with 4.0 being the maximum).\
+With representants of **5** different countries and a total number of **39** contestants, the current MERS tournament ranking is **2.0** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -101,7 +101,7 @@ Coming soon!
 | 34 | Tomasz Dąbski                            | Poland               |                                                                     |
 | 35 | Marta Grajkowska                         | Poland               |                                                                     |
 | 36 | Krzysztof Dabrowski                      | Poland               | [19000157](http://mahjong-europe.org/ranking/Players/19000157.html) |
-| 37 | Kateryna Kondratenko                     | Ukrain               | [21000072](http://mahjong-europe.org/ranking/Players/21000072.html) |
+| 37 | Kateryna Kondratenko                     | Ukraine              | [21000072](http://mahjong-europe.org/ranking/Players/21000072.html) |
 | 38 | Ken Nico Schultheiss                     | Germany              | [05100182](http://mahjong-europe.org/ranking/Players/05100182.html) |
 | 39 | Christopher Mielke                       | Germany              | [05000009](http://mahjong-europe.org/ranking/Players/05000009.html) |
 

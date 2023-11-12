@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **6** krajów i łączną liczbą **39** graczy, aktualny ranking turnieju MERS wynosi **2.5** (maksimum to 4.0).\
+Z reprezentantami **5** krajów i łączną liczbą **39** graczy, aktualny ranking turnieju MERS wynosi **2.0** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -101,7 +101,7 @@ Dostępna wkrótce!
 | 34 | Tomasz Dąbski                            | Polska               |                                                                     |
 | 35 | Marta Grajkowska                         | Polska               |                                                                     |
 | 36 | Krzysztof Dabrowski                      | Polska               | [19000157](http://mahjong-europe.org/ranking/Players/19000157.html) |
-| 37 | Kateryna Kondratenko                     | Ukrain               | [21000072](http://mahjong-europe.org/ranking/Players/21000072.html) |
+| 37 | Kateryna Kondratenko                     | Ukraina              | [21000072](http://mahjong-europe.org/ranking/Players/21000072.html) |
 | 38 | Ken Nico Schultheiss                     | Germany              | [05100182](http://mahjong-europe.org/ranking/Players/05100182.html) |
 | 39 | Christopher Mielke                       | Germany              | [05000009](http://mahjong-europe.org/ranking/Players/05000009.html) |
 
