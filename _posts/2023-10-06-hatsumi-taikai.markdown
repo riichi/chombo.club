@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-12 21:37:10 +0100
+last_modified_at: 2023-11-13 09:37:12 +0100
 categories: tournaments
 lang: pl
 ---
@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **6** krajów i łączną liczbą **43** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
+Z reprezentantami **6** krajów i łączną liczbą **46** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Dostępna wkrótce!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*43/84);"
-		aria-valuenow="43"
+		style="width: calc(100%*46/84);"
+		aria-valuenow="46"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		43/84
+		46/84
 	</div>
 </div>
 
@@ -108,5 +108,8 @@ Dostępna wkrótce!
 | 41 | Paweł Polański                           | Polska               | [19000041](http://mahjong-europe.org/ranking/Players/19000041.html) |
 | 42 | Pavel Druzhinin                          | Polska               | [19000167](http://mahjong-europe.org/ranking/Players/19000167.html) |
 | 43 | Oleksii Bezuhlyi                         | Ukraina              | [21000068](http://mahjong-europe.org/ranking/Players/21000068.html) |
+| 44 | Anka Szatan                              | Polska               |                                                                     |
+| 45 | Jakub Rogala                             | Polska               | [19000156](http://mahjong-europe.org/ranking/Players/19000156.html) |
+| 46 | Dawid Kamiński                           | Polska               |                                                                     |
 
 </div>

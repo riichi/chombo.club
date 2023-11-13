@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-12 21:37:10 +0100
+last_modified_at: 2023-11-13 09:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -32,7 +32,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **6** different countries and a total number of **43** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
+With representants of **6** different countries and a total number of **46** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Coming soon!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*43/84);"
-		aria-valuenow="43"
+		style="width: calc(100%*46/84);"
+		aria-valuenow="46"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		43/84
+		46/84
 	</div>
 </div>
 
@@ -108,5 +108,8 @@ Coming soon!
 | 41 | Paweł Polański                           | Poland               | [19000041](http://mahjong-europe.org/ranking/Players/19000041.html) |
 | 42 | Pavel Druzhinin                          | Poland               | [19000167](http://mahjong-europe.org/ranking/Players/19000167.html) |
 | 43 | Oleksii Bezuhlyi                         | Ukraine              | [21000068](http://mahjong-europe.org/ranking/Players/21000068.html) |
+| 44 | Anka Szatan                              | Poland               |                                                                     |
+| 45 | Jakub Rogala                             | Poland               | [19000156](http://mahjong-europe.org/ranking/Players/19000156.html) |
+| 46 | Dawid Kamiński                           | Poland               |                                                                     |
 
 </div>
