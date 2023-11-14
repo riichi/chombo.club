@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-14 09:37:05 +0100
+last_modified_at: 2023-11-14 21:37:12 +0100
 categories: tournaments
 lang: pl
 ---
@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **6** krajów i łączną liczbą **55** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
+Z reprezentantami **6** krajów i łączną liczbą **56** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Dostępna wkrótce!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*55/84);"
-		aria-valuenow="55"
+		style="width: calc(100%*56/84);"
+		aria-valuenow="56"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		55/84
+		56/84
 	</div>
 </div>
 
@@ -120,5 +120,6 @@ Dostępna wkrótce!
 | 53 | Roman Powęzka                            | Polska               | [19000093](http://mahjong-europe.org/ranking/Players/19000093.html) |
 | 54 | Tomasz Powęzka                           | Polska               | [19000085](http://mahjong-europe.org/ranking/Players/19000085.html) |
 | 55 | Jolanta Liberska-Adamczewska             | Polska               |                                                                     |
+| 56 | Janet Wissuwa                            | Austria              | [01000147](http://mahjong-europe.org/ranking/Players/01000147.html) |
 
 </div>
