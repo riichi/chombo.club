@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-13 21:37:03 +0100
+last_modified_at: 2023-11-14 09:37:05 +0100
 categories: tournaments
 lang: en
 ---
@@ -32,7 +32,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **6** different countries and a total number of **53** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
+With representants of **6** different countries and a total number of **55** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Coming soon!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*53/84);"
-		aria-valuenow="53"
+		style="width: calc(100%*55/84);"
+		aria-valuenow="55"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		53/84
+		55/84
 	</div>
 </div>
 
@@ -77,7 +77,7 @@ Coming soon!
 | 10 | Paweł Kruk                               | Poland               | [19000111](http://mahjong-europe.org/ranking/Players/19000111.html) |
 | 11 | Nina Popławska                           | Poland               | [19000071](http://mahjong-europe.org/ranking/Players/19000071.html) |
 | 12 | Szymon Lasota                            | Poland               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
-| 13 | Maria Baranowska                         | Poland               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
+| 13 | Maria Baranowska                         | Poland               | [19000007](http://mahjong-europe.org/ranking/Players/19000007.html) |
 | 14 | Bartosz Żuk                              | Poland               | [19000006](http://mahjong-europe.org/ranking/Players/19000006.html) |
 | 15 | Mateusz Woźniak                          | Poland               | [19000003](http://mahjong-europe.org/ranking/Players/19000003.html) |
 | 16 | Sergio Matos Lima                        | Portugal             | [12990014](http://mahjong-europe.org/ranking/Players/12990014.html) |
@@ -118,5 +118,7 @@ Coming soon!
 | 51 | Mateusz Kamiński                         | Poland               |                                                                     |
 | 52 | Iwona Bobrek                             | Poland               |                                                                     |
 | 53 | Roman Powęzka                            | Poland               | [19000093](http://mahjong-europe.org/ranking/Players/19000093.html) |
+| 54 | Tomasz Powęzka                           | Poland               | [19000085](http://mahjong-europe.org/ranking/Players/19000085.html) |
+| 55 | Jolanta Liberska-Adamczewska             | Poland               |                                                                     |
 
 </div>

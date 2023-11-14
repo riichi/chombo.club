@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-13 21:37:03 +0100
+last_modified_at: 2023-11-14 09:37:05 +0100
 categories: tournaments
 lang: pl
 ---
@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **6** krajów i łączną liczbą **53** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
+Z reprezentantami **6** krajów i łączną liczbą **55** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Dostępna wkrótce!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*53/84);"
-		aria-valuenow="53"
+		style="width: calc(100%*55/84);"
+		aria-valuenow="55"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		53/84
+		55/84
 	</div>
 </div>
 
@@ -77,7 +77,7 @@ Dostępna wkrótce!
 | 10 | Paweł Kruk                               | Polska               | [19000111](http://mahjong-europe.org/ranking/Players/19000111.html) |
 | 11 | Nina Popławska                           | Polska               | [19000071](http://mahjong-europe.org/ranking/Players/19000071.html) |
 | 12 | Szymon Lasota                            | Polska               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
-| 13 | Maria Baranowska                         | Polska               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) |
+| 13 | Maria Baranowska                         | Polska               | [19000007](http://mahjong-europe.org/ranking/Players/19000007.html) |
 | 14 | Bartosz Żuk                              | Polska               | [19000006](http://mahjong-europe.org/ranking/Players/19000006.html) |
 | 15 | Mateusz Woźniak                          | Polska               | [19000003](http://mahjong-europe.org/ranking/Players/19000003.html) |
 | 16 | Sergio Matos Lima                        | Portugalia           | [12990014](http://mahjong-europe.org/ranking/Players/12990014.html) |
@@ -118,5 +118,7 @@ Dostępna wkrótce!
 | 51 | Mateusz Kamiński                         | Polska               |                                                                     |
 | 52 | Iwona Bobrek                             | Polska               |                                                                     |
 | 53 | Roman Powęzka                            | Polska               | [19000093](http://mahjong-europe.org/ranking/Players/19000093.html) |
+| 54 | Tomasz Powęzka                           | Polska               | [19000085](http://mahjong-europe.org/ranking/Players/19000085.html) |
+| 55 | Jolanta Liberska-Adamczewska             | Polska               |                                                                     |
 
 </div>
