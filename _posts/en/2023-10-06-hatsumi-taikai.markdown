@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-16 15:37:05 +0100
+last_modified_at: 2023-11-16 21:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -126,7 +126,7 @@ Coming soon!
 | 59 | Kunyan Zhao                              | Austria              |                                                                     |
 | 60 | Varvara Kulhayeva                        | Poland               | [19000146](http://mahjong-europe.org/ranking/Players/19000146.html) |
 | 61 | Mateusz Wieczorek                        | Poland               |                                                                     |
-| 62 | SHU HASEGAWA                             | Poland               | [19000170](http://mahjong-europe.org/ranking/Players/19000170.html) |
+| 62 | Shu Hasegawa                             | Poland               | [19000170](http://mahjong-europe.org/ranking/Players/19000170.html) |
 | 63 | Grzegorz Tkaczyk                         | Poland               |                                                                     |
 | 64 | Marta Bacic                              | Poland               | [19000067](http://mahjong-europe.org/ranking/Players/19000067.html) |
 | 65 | Jakub Bacic                              | Poland               | [19000066](http://mahjong-europe.org/ranking/Players/19000066.html) |
