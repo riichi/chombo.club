@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-16 09:37:12 +0100
+last_modified_at: 2023-11-16 15:37:05 +0100
 categories: tournaments
 lang: pl
 ---
@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **7** krajów i łączną liczbą **60** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
+Z reprezentantami **7** krajów i łączną liczbą **65** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Dostępna wkrótce!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*60/84);"
-		aria-valuenow="60"
+		style="width: calc(100%*65/84);"
+		aria-valuenow="65"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		60/84
+		65/84
 	</div>
 </div>
 
@@ -125,5 +125,10 @@ Dostępna wkrótce!
 | 58 | Alexander Doppelhofer                    | Austria              | [01000013](http://mahjong-europe.org/ranking/Players/01000013.html) |
 | 59 | Kunyan Zhao                              | Austria              |                                                                     |
 | 60 | Varvara Kulhayeva                        | Polska               | [19000146](http://mahjong-europe.org/ranking/Players/19000146.html) |
+| 61 | Mateusz Wieczorek                        | Polska               |                                                                     |
+| 62 | SHU HASEGAWA                             | Polska               | [19000170](http://mahjong-europe.org/ranking/Players/19000170.html) |
+| 63 | Grzegorz Tkaczyk                         | Polska               |                                                                     |
+| 64 | Marta Bacic                              | Polska               | [19000067](http://mahjong-europe.org/ranking/Players/19000067.html) |
+| 65 | Jakub Bacic                              | Polska               | [19000066](http://mahjong-europe.org/ranking/Players/19000066.html) |
 
 </div>
