@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-15 21:37:12 +0100
+last_modified_at: 2023-11-16 09:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -32,7 +32,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **7** different countries and a total number of **59** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
+With representants of **7** different countries and a total number of **60** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Coming soon!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*59/84);"
-		aria-valuenow="59"
+		style="width: calc(100%*60/84);"
+		aria-valuenow="60"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		59/84
+		60/84
 	</div>
 </div>
 
@@ -124,5 +124,6 @@ Coming soon!
 | 57 | Zijad Durakovic                          | Czech Republic       | [22000018](http://mahjong-europe.org/ranking/Players/22000018.html) |
 | 58 | Alexander Doppelhofer                    | Austria              | [01000013](http://mahjong-europe.org/ranking/Players/01000013.html) |
 | 59 | Kunyan Zhao                              | Austria              |                                                                     |
+| 60 | Varvara Kulhayeva                        | Poland               | [19000146](http://mahjong-europe.org/ranking/Players/19000146.html) |
 
 </div>
