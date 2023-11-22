@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-22 09:37:12 +0100
+last_modified_at: 2023-11-22 15:43:15 +0100
 categories: tournaments
 lang: pl
 ---
@@ -32,7 +32,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-Z reprezentantami **9** krajów i łączną liczbą **75** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
+Z reprezentantami **8** krajów EMA i łączną liczbą **75** graczy, aktualny ranking turnieju MERS wynosi **3.0** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -138,7 +138,7 @@ Dostępna wkrótce!
 | 71 | Joanna Patalon                           | Polska               | [19000062](http://mahjong-europe.org/ranking/Players/19000062.html) |
 | 72 | Oliwia Wolska                            | Polska               | [19000055](http://mahjong-europe.org/ranking/Players/19000055.html) |
 | 73 | Justyna Rak                              | Polska               | [19000063](http://mahjong-europe.org/ranking/Players/19000063.html) |
-| 74 | Victor Savard-Arseneault                 | Canada               |                                                                     |
+| 74 | Victor Savard-Arseneault                 | Kanada               |                                                                     |
 | 75 | Kevin Arighi Yusharyahya                 | Szwecja              | [09990156](http://mahjong-europe.org/ranking/Players/09990156.html) |
 
 </div>

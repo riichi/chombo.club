@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-22 09:37:12 +0100
+last_modified_at: 2023-11-22 15:43:15 +0100
 categories: tournaments
 lang: en
 ---
@@ -32,7 +32,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **9** different countries and a total number of **75** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
+With representants of **8** different EMA countries and a total number of **75** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
