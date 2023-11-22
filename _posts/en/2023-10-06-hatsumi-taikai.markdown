@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-22 15:43:15 +0100
+last_modified_at: 2023-11-22 21:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -32,7 +32,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **8** different EMA countries and a total number of **75** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
+With representants of **9** different EMA countries and a total number of **80** contestants, the current MERS tournament ranking is **3.0** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -53,11 +53,11 @@ Coming soon!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*75/84);"
-		aria-valuenow="75"
+		style="width: calc(100%*80/84);"
+		aria-valuenow="80"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		75/84
+		80/84
 	</div>
 </div>
 
@@ -140,5 +140,10 @@ Coming soon!
 | 73 | Justyna Rak                              | Poland               | [19000063](http://mahjong-europe.org/ranking/Players/19000063.html) |
 | 74 | Victor Savard-Arseneault                 | Canada               |                                                                     |
 | 75 | Kevin Arighi Yusharyahya                 | Sweden               | [09990156](http://mahjong-europe.org/ranking/Players/09990156.html) |
+| 76 | Michael Gürtl-Dusleag                    | Austria              | [01000125](http://mahjong-europe.org/ranking/Players/01000125.html) |
+| 77 | Mariusz Krause                           | Poland               |                                                                     |
+| 78 | Maciej Wrześniewski                      | Poland               |                                                                     |
+| 79 | Hubert Żmurko                            | Poland               |                                                                     |
+| 80 | Natalia Mecner                           | United Kingdom       | [11990138](http://mahjong-europe.org/ranking/Players/11990138.html) |
 
 </div>
