@@ -61,7 +61,7 @@ Dostępna wkrótce!
 	</div>
 </div>
 
-<div id="biggus-tablus" markdown="block">
+<div class="biggus-tablus" markdown="block">
 
 | Nr | Imię i nazwisko                          | Kraj                 | EMA ID                                                              |
 |---:|:-----------------------------------------|:---------------------|:--------------------------------------------------------------------|

@@ -61,7 +61,7 @@ Coming soon!
 	</div>
 </div>
 
-<div id="biggus-tablus" markdown="block">
+<div class="biggus-tablus" markdown="block">
 
 | Nr | Name                                     | Country              | EMA ID                                                              |
 |---:|:-----------------------------------------|:---------------------|:--------------------------------------------------------------------|

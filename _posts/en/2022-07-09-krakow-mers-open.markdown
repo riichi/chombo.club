@@ -153,7 +153,7 @@ from the tournament, in the order of submissions.
 	</div>
 </div>
 
-<center id="biggus-tablus" markdown="block">
+<center class="biggus-tablus" markdown="block">
 
 | No. | Name                         | Country       |
 |----:|:-----------------------------|:--------------|

@@ -150,7 +150,7 @@ z uczestników turnieju, zgodnie z kolejnością zgłoszeń.
 	</div>
 </div>
 
-<center id="biggus-tablus" markdown="block">
+<center class="biggus-tablus" markdown="block">
 
 | Nr | Nazwa                        | Kraj            |
 |---:|:-----------------------------|:----------------|
