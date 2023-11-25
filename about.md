@@ -23,7 +23,9 @@ Zgodnie z §12 Statutu, w tym celu należy opłacić składkę, uzyskać rekomen
 Deklaracja może być złożona w formie papierowej lub też podpisana [profilem zaufanym](https://www.gov.pl/web/profilzaufany) i wysłana pocztą elektroniczną na adres `zarzad@chombo.club`.
 W razie wszelkich pytań/wątpliwości zachęcamy do kontaktu.
 
-[Pobierz deklarację członkowską w formacie PDF]({{ "assets/download/deklaracja_czlonkowska.pdf" | relative_url }})
+Pobierz deklarację członkowską w formacie PDF:
+* [członek zwyczajny]({{ "assets/download/deklaracja_czlonek_zwyczajny.pdf" | relative_url }})
+* [członek wspierający]({{ "assets/download/deklaracja_czlonek_wspierajacy.pdf" | relative_url }})
 
 ### Władze Stowarzyszenia
 
