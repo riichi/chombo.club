@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-24 09:37:12 +0100
+last_modified_at: 2023-11-25 18:00:01 +0100
 categories: tournaments
 lang: en
 ---
@@ -32,7 +32,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **10** different EMA countries and a total number of **83** contestants, the current MERS tournament ranking is **4.0** (with 4.0 being the maximum).\
+With representants of **10** different EMA countries and a total number of **84** contestants, the current MERS tournament ranking is **4.0** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -40,6 +40,8 @@ With representants of **10** different EMA countries and a total number of **83*
 Coming soon!
 
 ## Registration
+
+**NOTE:** Currently, the tournament is full &mdash; however, you can still sign up for the waiting list and participate in the tournament if any of the registered players drop out.
 
 **[Register here](https://forms.gle/Q9MxGdNQU1fJbf746)**
 
@@ -53,11 +55,11 @@ Coming soon!
 	<div
 		class="progress-bar progress-bar-striped"
 		role="progressbar"
-		style="width: calc(100%*83/84);"
-		aria-valuenow="83"
+		style="width: calc(100%*84/84);"
+		aria-valuenow="84"
 		aria-valuemin="0"
 		aria-valuemax="84">
-		83/84
+		84/84
 	</div>
 </div>
 
@@ -148,5 +150,19 @@ Coming soon!
 | 81 | Anton Yarchuk                            | Ukraine              | [21000016](http://mahjong-europe.org/ranking/Players/21000016.html) |
 | 82 | Thibaut Arnold                           | Switzerland          | [16000035](http://mahjong-europe.org/ranking/Players/16000035.html) |
 | 83 | Tomasz Zieliński                         | Poland               |                                                                     |
+| 84 | Krzysztof Sośnicki                       | United Kingdom       | [11000021](http://mahjong-europe.org/ranking/Players/11000021.html) |
+
+</div>
+
+### Waiting list
+
+Players will be moved off the waiting list if any of the registered participants drop out. This will be done on a first come, first served basis.
+
+<div class="biggus-tablus" markdown="block">
+
+| Nr | Name                                     | Country              | EMA ID                                                              |
+|---:|:-----------------------------------------|:---------------------|:--------------------------------------------------------------------|
+|  1 | Jędrzej Adamczewski                      | Poland               |                                                                     |
+|  2 | Elias Boutaleb                           | France               | [04160115](http://mahjong-europe.org/ranking/Players/04160115.html) |
 
 </div>
