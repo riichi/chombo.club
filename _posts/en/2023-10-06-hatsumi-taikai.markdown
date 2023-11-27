@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-26 15:37:04 +0100
+last_modified_at: 2023-11-27 09:37:06 +0100
 categories: tournaments
 lang: en
 ---
@@ -165,5 +165,6 @@ Players will be moved off the waiting list if any of the registered participants
 |  1 | Jędrzej Adamczewski                      |                      | Poland               |                                                                     |
 |  2 | Elias Boutaleb                           |                      | France               | [04160115](http://mahjong-europe.org/ranking/Players/04160115.html) |
 |  3 | Jakub Szpyra                             | Kuboxxxxx            | Poland               |                                                                     |
+|  4 | Raziya Bizhanova                         | Shiro                | Belarus              | [20000012](http://mahjong-europe.org/ranking/Players/20000012.html) |
 
 </div>
