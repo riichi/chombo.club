@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-28 09:37:04 +0100
+last_modified_at: 2023-11-28 15:37:09 +0100
 categories: tournaments
 lang: pl
 ---
@@ -171,5 +171,6 @@ Gracze będą przeniesieni z listy oczekujących jeżeli któryś z zapisanych u
 |  7 | Tatsuya Igarashi                         |                      | Polska               | [19000091](http://mahjong-europe.org/ranking/Players/19000091.html) |
 |  8 | Maksim Amelevich                         |                      | Białoruś             | [20000006](http://mahjong-europe.org/ranking/Players/20000006.html) |
 |  9 | Uladzimir Tananushka                     | Uladz                | Białoruś             |                                                                     |
+| 10 | Tatsiana Mikhalchenya                    |                      | Białoruś             |                                                                     |
 
 </div>
