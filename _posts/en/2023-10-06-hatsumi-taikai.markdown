@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-28 21:37:12 +0100
+last_modified_at: 2023-11-29 09:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -172,5 +172,6 @@ Players will be moved off the waiting list if any of the registered participants
 |  8 | Maksim Amelevich                         |                      | Belarus              | [20000006](http://mahjong-europe.org/ranking/Players/20000006.html) |
 |  9 | Uladzimir Tananushka                     | Uladz                | Belarus              |                                                                     |
 | 10 | Tatsiana Mikhalchenya                    |                      | Belarus              |                                                                     |
+| 11 | Bartłomiej Żok                           |                      | Poland               | [19000124](http://mahjong-europe.org/ranking/Players/19000124.html) |
 
 </div>
