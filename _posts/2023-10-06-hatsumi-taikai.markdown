@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-30 15:37:12 +0100
+last_modified_at: 2023-11-30 21:37:03 +0100
 categories: tournaments
 lang: pl
 ---
@@ -173,5 +173,6 @@ Gracze będą przeniesieni z listy oczekujących jeżeli któryś z zapisanych u
 |  9 | Uladzimir Tananushka                     | Uladz                | Białoruś             |                                                                     |
 | 10 | Tatsiana Mikhalchenya                    |                      | Białoruś             |                                                                     |
 | 11 | Bartłomiej Żok                           |                      | Polska               | [19000124](http://mahjong-europe.org/ranking/Players/19000124.html) |
+| 12 | Aliaksei Yurechka                        |                      | Białoruś             |                                                                     |
 
 </div>
