@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-11-29 09:37:12 +0100
+last_modified_at: 2023-11-30 15:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -67,7 +67,7 @@ Coming soon!
 
 | Nr | Name                                     | Nickname             | Country              | EMA ID                                                              |
 |---:|:-----------------------------------------|:---------------------|:---------------------|:--------------------------------------------------------------------|
-|  1 | Maciej Szostak                           | Craix                | Poland               |                                                                     |
+|  1 | Maciej Szostak                           | Craix                | Poland               | [19000182](http://mahjong-europe.org/ranking/Players/19000182.html) |
 |  2 | Aleksander Orlikowski                    | Olson                | Poland               | [19000175](http://mahjong-europe.org/ranking/Players/19000175.html) |
 |  3 | Jakub Cieślik                            | Bobcat               | Poland               | [19000162](http://mahjong-europe.org/ranking/Players/19000162.html) |
 |  4 | Michał Tkaczyk                           |                      | Poland               | [19000168](http://mahjong-europe.org/ranking/Players/19000168.html) |
@@ -110,24 +110,24 @@ Coming soon!
 | 41 | Paweł Polański                           | Havelock             | Poland               | [19000041](http://mahjong-europe.org/ranking/Players/19000041.html) |
 | 42 | Pavel Druzhinin                          |                      | Poland               | [19000167](http://mahjong-europe.org/ranking/Players/19000167.html) |
 | 43 | Oleksii Bezuhlyi                         |                      | Ukraine              | [21000068](http://mahjong-europe.org/ranking/Players/21000068.html) |
-| 44 | Anka Szatan                              | Kropka               | Poland               |                                                                     |
+| 44 | Anka Szatan                              | Kropka               | Poland               | [19000187](http://mahjong-europe.org/ranking/Players/19000187.html) |
 | 45 | Jakub Rogala                             | Rogal                | Poland               | [19000156](http://mahjong-europe.org/ranking/Players/19000156.html) |
-| 46 | Dawid Kamiński                           | Kamień               | Poland               |                                                                     |
+| 46 | Dawid Kamiński                           | Kamień               | Poland               | [19000194](http://mahjong-europe.org/ranking/Players/19000194.html) |
 | 47 | Junjie Wei                               |                      | Austria              | [01000148](http://mahjong-europe.org/ranking/Players/01000148.html) |
-| 48 | Jacek Kosma                              | Jacek-kun            | Poland               |                                                                     |
-| 49 | Marta Kochańska                          | Vapi                 | Poland               |                                                                     |
-| 50 | Karolina Horbaczewska                    |                      | Poland               |                                                                     |
-| 51 | Mateusz Kamiński                         | Mathis               | Poland               |                                                                     |
-| 52 | Iwona Bobrek                             |                      | Poland               |                                                                     |
+| 48 | Jacek Kosma                              | Jacek-kun            | Poland               | [19000192](http://mahjong-europe.org/ranking/Players/19000192.html) |
+| 49 | Marta Kochańska                          | Vapi                 | Poland               | [19000184](http://mahjong-europe.org/ranking/Players/19000184.html) |
+| 50 | Karolina Horbaczewska                    |                      | Poland               | [19000193](http://mahjong-europe.org/ranking/Players/19000193.html) |
+| 51 | Mateusz Kamiński                         | Mathis               | Poland               | [19000196](http://mahjong-europe.org/ranking/Players/19000196.html) |
+| 52 | Iwona Bobrek                             |                      | Poland               | [19000195](http://mahjong-europe.org/ranking/Players/19000195.html) |
 | 53 | Roman Powęzka                            |                      | Poland               | [19000093](http://mahjong-europe.org/ranking/Players/19000093.html) |
 | 54 | Tomasz Powęzka                           |                      | Poland               | [19000085](http://mahjong-europe.org/ranking/Players/19000085.html) |
-| 55 | Jolanta Liberska-Adamczewska             |                      | Poland               |                                                                     |
+| 55 | Jolanta Liberska-Adamczewska             |                      | Poland               | [19000101](http://mahjong-europe.org/ranking/Players/19000101.html) |
 | 56 | Janet Wissuwa                            |                      | Austria              | [01000147](http://mahjong-europe.org/ranking/Players/01000147.html) |
 | 57 | Zijad Durakovic                          | Simon                | Czech Republic       | [22000018](http://mahjong-europe.org/ranking/Players/22000018.html) |
 | 58 | Alexander Doppelhofer                    | Fly                  | Austria              | [01000013](http://mahjong-europe.org/ranking/Players/01000013.html) |
 | 59 | Kunyan Zhao                              |                      | Austria              |                                                                     |
 | 60 | Varvara Kulhayeva                        |                      | Poland               | [19000146](http://mahjong-europe.org/ranking/Players/19000146.html) |
-| 61 | Mateusz Wieczorek                        |                      | Poland               |                                                                     |
+| 61 | Mateusz Wieczorek                        |                      | Poland               | [19000191](http://mahjong-europe.org/ranking/Players/19000191.html) |
 | 62 | Shu Hasegawa                             |                      | Poland               | [19000170](http://mahjong-europe.org/ranking/Players/19000170.html) |
 | 63 | Grzegorz Tkaczyk                         | dzitraks             | Poland               |                                                                     |
 | 64 | Marta Bacic                              |                      | Poland               | [19000067](http://mahjong-europe.org/ranking/Players/19000067.html) |
