@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-12-03 21:37:03 +0100
+last_modified_at: 2023-12-08 21:37:03 +0100
 categories: tournaments
 lang: en
 ---
@@ -170,7 +170,7 @@ Players will be moved off the waiting list if any of the registered participants
 |  6 | Chris Luntraru                           |                      | Romania              | [25000008](http://mahjong-europe.org/ranking/Players/25000008.html) |
 |  7 | Tatsuya Igarashi                         |                      | Poland               | [19000091](http://mahjong-europe.org/ranking/Players/19000091.html) |
 |  8 | Maksim Amelevich                         |                      | Belarus              | [20000006](http://mahjong-europe.org/ranking/Players/20000006.html) |
-|  9 | Uladzimir Tananushka                     | Uladz                | Belarus              |                                                                     |
+|  9 | Uladzimir Tananushka                     | Uladz                | Belarus              | [20000003](http://mahjong-europe.org/ranking/Players/20000003.html) |
 | 10 | Tatsiana Mikhalchenya                    |                      | Belarus              |                                                                     |
 | 11 | Bartłomiej Żok                           |                      | Poland               | [19000124](http://mahjong-europe.org/ranking/Players/19000124.html) |
 | 12 | Aliaksei Yurechka                        |                      | Belarus              |                                                                     |
