@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-12-12 15:37:03 +0100
+last_modified_at: 2023-12-12 21:37:03 +0100
 categories: tournaments
 lang: en
 ---
@@ -176,5 +176,6 @@ Players will be moved off the waiting list if any of the registered participants
 | 12 | Aliaksei Yurechka                        |                      | Belarus              |                                                                     |
 | 13 | Dominik Pawelec                          |                      | Poland               |                                                                     |
 | 14 | Mariusz Stanaszek                        |                      | Poland               |                                                                     |
+| 15 | Julia Buła                               |                      | Poland               |                                                                     |
 
 </div>
