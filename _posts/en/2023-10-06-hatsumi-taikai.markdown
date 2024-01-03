@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2023-12-27 15:37:12 +0100
+last_modified_at: 2024-01-03 21:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -177,5 +177,6 @@ Players will be moved off the waiting list if any of the registered participants
 | 13 | Mariusz Stanaszek                        |                      | Poland               |                                                                     |
 | 14 | Julia Buła                               |                      | Poland               |                                                                     |
 | 15 | Gerard Konopielko                        |                      | Poland               |                                                                     |
+| 16 | Konstantin Pakshaev                      | Derinov              | Norway               | [23000005](http://mahjong-europe.org/ranking/Players/23000005.html) |
 
 </div>
