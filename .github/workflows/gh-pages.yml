@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master
+  pull_request:
 
 jobs:
   github-pages:
@@ -21,6 +22,7 @@ jobs:
           docker rm -v $id
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GHTOKEN }}
           publish_dir: ./__build

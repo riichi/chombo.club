@@ -1,4 +1,4 @@
-FROM ruby:3.3-bullseye AS build
+FROM ruby:3.2-bullseye AS build
 
 WORKDIR /srv/jekyll
 COPY Gemfile Gemfile.lock /srv/jekyll/
