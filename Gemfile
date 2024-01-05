@@ -1,13 +1,12 @@
 source "https://rubygems.org"
 
-ruby "~> 3.2.0"
+ruby "~> 3.3.0"
 
-gem "github-pages", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
+gem "jekyll", "4.3.3"
+gem "jekyll-feed", "0.17.0"
+gem "jekyll-paginate", "1.1"
+gem "jekyll-archives", "2.2.1"
+gem "jekyll-polyglot", "1.7"
+
+gem "minimal-mistakes-jekyll", "4.24"
 gem "bootstrap", "5.3.2"
-
-group :jekyll_plugins do
-  gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem "jekyll-polyglot"
-end
