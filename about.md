@@ -25,6 +25,30 @@ W razie wszelkich pytań/wątpliwości zachęcamy do kontaktu.
 
 [Pobierz deklarację członkowską w formacie PDF]({{ "assets/download/deklaracja_czlonkowska.pdf" | relative_url }})
 
+#### Składka członkowska
+
+Przed dołączeniem do Stowarzyszenia należy uiścić składkę członkowską.
+Składka zarówno za pierwsze, jak i drugie półrocze 2024 roku wynosi 25 PLN (zatem za cały rok jest to 50 PLN).
+
+##### Dane do przelewu
+
+**Odbiorca**: Stowarzyszenie Krakowski Klub Chombo \
+**Numer konta**: `PL13 1140 2004 0000 3802 8180 7241` \
+**Tytuł**:
+```
+{imię i nazwisko} - składka członkowska za I połowę 2024 roku
+```
+
+lub
+```
+{imię i nazwisko} - składka członkowska za II połowę 2024 roku
+```
+
+lub
+```
+{imię i nazwisko} - składka członkowska za 2024 rok
+```
+
 ### Władze Stowarzyszenia
 
 * Mateusz Maćkowski — Prezes Zarządu
