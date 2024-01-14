@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2024-01-07T15:40:25+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-03T21:37:12+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>Zapraszamy Was na drugi turniej MERS w Krakowie!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2024-01-14T19:28:01+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-03T21:37:12+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>Zapraszamy Was na drugi turniej MERS w Krakowie!</p>
 
 <figure>
   
@@ -13,12 +13,30 @@
   <li>Miejsce: <a href="https://goo.gl/maps/izBiryMK8gM9GpQd6">Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków</a></li>
   <li>Zasady: EMA Riichi 2016</li>
   <li>Hanchany: 8</li>
-  <li>Wpisowe: ogłosimy wkrótce, ok. 150 PLN (~34 EUR)</li>
+  <li>Wpisowe: 150 PLN (35 EUR), płatne przelewem:
+    <ul>
+      <li>Płatność do <strong>7 lutego 2024</strong></li>
+      <li>Nr konta: <code class="language-plaintext highlighter-rouge">13 1140 2004 0000 3802 8180 7241</code></li>
+      <li>Nazwa odbiorcy:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Stowarzyszenie Krakowski Klub Chombo
+ul. Grota-Roweckiego 31/13
+30-348 Kraków
+Poland
+</code></pre></div>        </div>
+      </li>
+      <li>Tytuł:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;imię i nazwisko&gt; - wpisowe Hatsumi Taikai
+</code></pre></div>        </div>
+      </li>
+      <li>Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu przedturniejowym i po prostu wyślij nam przelew na kwotę mniejszą o 30/50 PLN, w zależności od tego, jaka zniżka Ci przysługuje. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.</li>
+    </ul>
+  </li>
   <li>Limit osób: 84</li>
   <li>Obserwator EMA: ogłosimy wkrótce!</li>
   <li>Sędziowie:
     <ul>
       <li>Mateusz Maćkowski</li>
+      <li>Fabien Sacha</li>
       <li>więcej wkrótce!</li>
     </ul>
   </li>
@@ -32,7 +50,70 @@ z jej działaniem przed turniejem.</p>
 
 <h2 id="agenda">Agenda</h2>
 
-<p>Dostępna wkrótce!</p>
+<table class="tournament-agenda">
+<thead>
+  <tr><th colspan="2">Sobota, 17 lutego</th></tr>
+</thead>
+<tbody>
+  <tr>
+    <td>09:00-09:45</td>
+    <td>Rejestracja</td>
+  </tr>
+  <tr>
+    <td>09:45-10:00</td>
+    <td>Otwarcie turnieju</td>
+  </tr>
+  <tr>
+    <td>10:00-11:30</td>
+    <td>1. hanchan</td>
+  </tr>
+  <tr>
+    <td>11:50-13:20</td>
+    <td>2. hanchan</td>
+  </tr>
+  <tr>
+    <td>13:20-14:45</td>
+    <td>Przerwa obiadowa</td>
+  </tr>
+  <tr>
+    <td>14:45-16:15</td>
+    <td>3. hanchan</td>
+  </tr>
+  <tr>
+    <td>16:35-18:05</td>
+    <td>4. hanchan</td>
+  </tr>
+</tbody>
+<thead>
+  <tr><th colspan="2">Niedziela, 18 lutego</th></tr>
+</thead>
+<tbody>
+  <tr>
+    <td>09:00-10:30</td>
+    <td>5. hanchan</td>
+  </tr>
+  <tr>
+    <td>10:50-12:20</td>
+    <td>6. hanchan</td>
+  </tr>
+  <tr>
+    <td>12:20-13:45</td>
+    <td>Przerwa obiadowa</td>
+  </tr>
+  <tr>
+    <td>13:45-15:15</td>
+    <td>7. hanchan</td>
+  </tr>
+  <tr>
+    <td>15:35-17:05</td>
+    <td>8. hanchan</td>
+  </tr>
+  <tr>
+    <td>17:15-17:45</td>
+    <td>Ogłoszenie wyników i zamknięcie</td>
+  </tr>
+</tbody>
+</table>
 
 <h2 id="rejestracja">Rejestracja</h2>
 
@@ -836,8 +917,7 @@ wpisowe MERS 2022
 
 <h2 id="agenda">Agenda</h2>
 
-<center>
-<table id="mers-2022-agenda">
+<table class="tournament-agenda">
 <thead>
   <tr><th colspan="2">Sobota 08.10.2022</th></tr>
 </thead>
@@ -893,7 +973,6 @@ wpisowe MERS 2022
   </tr>
 </tbody>
 </table>
-</center>
 
 <h2 id="dojazd">Dojazd</h2>
 

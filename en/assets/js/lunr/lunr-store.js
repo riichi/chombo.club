@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Hatsumi Taikai",
-        "excerpt":"We invite you to the second MERS tournament in Kraków! About Date: 17th-18th February 2024 (Sat-Sun) Place: Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków, Poland Ruleset: EMA Riichi 2016 Hanchans: 8 Entry fee: coming soon, about 150 PLN (~34 EUR) Participant limit: 84 EMA...","categories": ["tournaments"],
+        "excerpt":"We invite you to the second MERS tournament in Kraków! About Date: 17th-18th February 2024 (Sat-Sun) Place: Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków, Poland Ruleset: EMA Riichi 2016 Hanchans: 8 Entry fee: 150 PLN (35 EUR), paid by bank transfer (make sure you...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2023/10/06/hatsumi-taikai/",
         "teaser": null
