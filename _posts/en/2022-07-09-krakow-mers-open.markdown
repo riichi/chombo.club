@@ -46,8 +46,7 @@ We invite you to the first MERS tournament in Kraków!
 
 ## Agenda
 
-<center>
-<table id="mers-2022-agenda">
+<table class="tournament-agenda">
 <thead>
   <tr><th colspan="2">October 8th (Saturday)</th></tr>
 </thead>
@@ -103,7 +102,6 @@ We invite you to the first MERS tournament in Kraków!
   </tr>
 </tbody>
 </table>
-</center>
 
 ## How to get to the tournament
 
