@@ -45,8 +45,7 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 
 ## Agenda
 
-<center>
-<table id="mers-2022-agenda">
+<table class="tournament-agenda">
 <thead>
   <tr><th colspan="2">Sobota 08.10.2022</th></tr>
 </thead>
@@ -102,7 +101,6 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
   </tr>
 </tbody>
 </table>
-</center>
 
 ## Dojazd
 

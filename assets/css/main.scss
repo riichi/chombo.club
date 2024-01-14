@@ -64,7 +64,12 @@ address {
   }
 }
 
-table#mers-2022-agenda {
+table.tournament-agenda {
+  display: table;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+
   th {
     text-align: center;
   }
