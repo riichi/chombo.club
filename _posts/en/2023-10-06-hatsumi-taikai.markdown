@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-14 21:42:02 +0100
+last_modified_at: 2024-01-17 09:37:08 +0100
 categories: tournaments
 lang: en
 ---
@@ -39,7 +39,7 @@ We invite you to the second MERS tournament in Kraków!
       ```
     - It is possible to use the Polish Mahjong League membership discount - if you wish to take advantage of this, please indicate this in the pre-tournament form and simply send us a transfer for the amount less 30/50 PLN, depending on which discount you are entitled to. Please note that you must be an active PLM member with your membership fee paid.
 * Participant limit: 84
-* EMA Observer: coming soon!
+* EMA Observer: Michael Gürtl-Dusleag
 * Referees:
   - Mateusz Maćkowski
   - Fabien Sacha

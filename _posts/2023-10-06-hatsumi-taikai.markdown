@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-14 21:42:02 +0100
+last_modified_at: 2024-01-17 09:37:08 +0100
 categories: tournaments
 lang: pl
 ---
@@ -38,7 +38,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
       ```
     - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu przedturniejowym i po prostu wyślij nam przelew na kwotę mniejszą o 30/50 PLN, w zależności od tego, jaka zniżka Ci przysługuje. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
 * Limit osób: 84
-* Obserwator EMA: ogłosimy wkrótce!
+* Obserwator EMA: Michael Gürtl-Dusleag
 * Sędziowie:
   - Mateusz Maćkowski
   - Fabien Sacha
