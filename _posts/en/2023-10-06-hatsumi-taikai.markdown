@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-18 21:37:09 +0100
+last_modified_at: 2024-01-19 15:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -147,7 +147,7 @@ With representants of **10** different EMA countries and a total number of **84*
 | Nr | Name                                     | Nickname             | Country              | EMA ID                                                              |                         Fee                          |
 |---:|:-----------------------------------------|:---------------------|:---------------------|:--------------------------------------------------------------------|:----------------------------------------------------:|
 |  1 | Maciej Szostak                           | Craix                | Poland               | [19000182](http://mahjong-europe.org/ranking/Players/19000182.html) |                                                      |
-|  2 | Aleksander Orlikowski                    | Olson                | Poland               | [19000175](http://mahjong-europe.org/ranking/Players/19000175.html) |                                                      |
+|  2 | Aleksander Orlikowski                    | Olson                | Poland               | [19000175](http://mahjong-europe.org/ranking/Players/19000175.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  3 | Jakub Cieślik                            | Bobcat               | Poland               | [19000162](http://mahjong-europe.org/ranking/Players/19000162.html) |                                                      |
 |  4 | Michał Tkaczyk                           |                      | Poland               | [19000168](http://mahjong-europe.org/ranking/Players/19000168.html) |                                                      |
 |  5 | Dominik Jarno                            | Dokku                | Poland               | [19000035](http://mahjong-europe.org/ranking/Players/19000035.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
@@ -225,9 +225,9 @@ With representants of **10** different EMA countries and a total number of **84*
 | 77 | Hubert Żmurko                            |                      | Poland               |                                                                     |                                                      |
 | 78 | Natalia Mecner                           |                      | United Kingdom       | [11990138](http://mahjong-europe.org/ranking/Players/11990138.html) |                                                      |
 | 79 | Anton Yarchuk                            |                      | Ukraine              | [21000016](http://mahjong-europe.org/ranking/Players/21000016.html) |                                                      |
-| 80 | Thibaut Arnold                           |                      | Switzerland          | [16000035](http://mahjong-europe.org/ranking/Players/16000035.html) |                                                      |
+| 80 | Thibaut Arnold                           |                      | Switzerland          | [16000035](http://mahjong-europe.org/ranking/Players/16000035.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 81 | Tomasz Zieliński                         |                      | Poland               |                                                                     |                                                      |
-| 82 | Krzysztof Sośnicki                       |                      | United Kingdom       | [11000021](http://mahjong-europe.org/ranking/Players/11000021.html) |                                                      |
+| 82 | Krzysztof Sośnicki                       |                      | United Kingdom       | [11000021](http://mahjong-europe.org/ranking/Players/11000021.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 83 | Jędrzej Adamczewski                      |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 84 | Elias Boutaleb                           |                      | France               | [04160115](http://mahjong-europe.org/ranking/Players/04160115.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 
