@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-21 21:24:22 +0100
+last_modified_at: 2024-01-21 21:34:08 +0100
 categories: tournaments
 lang: pl
 ---
@@ -36,13 +36,15 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
       ```
       <imię i nazwisko> - wpisowe Hatsumi Taikai
       ```
-    - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu przedturniejowym i po prostu wyślij nam przelew na kwotę mniejszą o 30/50 PLN, w zależności od tego, jaka zniżka Ci przysługuje. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
+    - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu przedturniejowym i po prostu wyślij nam przelew na kwotę mniejszą o 30/50 PLN, w zależności od tego, jaka zniżka Ci przysługuje (30PLN w przypadku opłacenia obniżonej składki 50PLN za 2024 rok do 31 stycznia, 50PLN w przypadku opłacenia składki w normalnej wysokości 100PLN). Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
 * Limit osób: 84
 * Obserwator EMA: Michael Gürtl-Dusleag
 * Sędziowie:
   - Mateusz Maćkowski
   - Fabien Sacha
   - więcej wkrótce!
+* Obiad: wliczony w cenę wpisowego
+* Nagrody: trofea dla pierwszych trzech miejsc, gadżety klubowe dla pierwszych 10 miejsc
 
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
