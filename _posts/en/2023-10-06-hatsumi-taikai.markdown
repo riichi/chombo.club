@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-19 15:37:12 +0100
+last_modified_at: 2024-01-21 21:24:22 +0100
 categories: tournaments
 lang: en
 ---
@@ -117,6 +117,38 @@ With representants of **10** different EMA countries and a total number of **84*
   </tr>
 </tbody>
 </table>
+
+## How to get to the tournament
+
+<a href="/assets/images/mers-2022-map.png">
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map"/>
+</a>
+
+Generally speaking, we recommend taking a tram.
+Depending on your exact location, the connection can be direct, or may require
+you to change the tram on one of the stops.
+The stop you should arrive at is named **Ruczaj** and the following trams will
+take you there from the main train station:
+* Tram 52, direct connection with around 22 minutes of commute time
+* Tram 3 &#8594; 18, also ~22 minutes of time, but includes a change of tram
+* Tram 50 &#8594; 17, longer commute time (32 minutes) due to the route
+
+After leaving the tram, it will be just a 5-minute walk to arrive at the final
+destination (Jagiellonian University, Faculty of Mathematics and Information
+Technologies).
+
+If you want to drop by a shop, we can recommend getting off 1 stop earlier, on
+the **Norymberska** stop. There is a supermarket just next to the stop.
+
+The tournament venue also offers a free of charge parking space.
+
+Directions to the tournament site from public transport stops:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F" width="640" height="480"></iframe>
+
+In case you need more detailed instructions, you can use
+<https://krakow.jakdojade.pl> or <https://maps.google.com> &mdash; both
+offer free help in Polish and English.
 
 ## Registration
 
