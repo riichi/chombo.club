@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-19 15:37:12 +0100
+last_modified_at: 2024-01-21 21:24:22 +0100
 categories: tournaments
 lang: pl
 ---
@@ -116,6 +116,35 @@ Z reprezentantami **10** krajów EMA i łączną liczbą **84** graczy, aktualny
   </tr>
 </tbody>
 </table>
+
+## Dojazd
+
+<a href="/assets/images/mers-2022-map.png">
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu" />
+</a>
+
+Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
+najbliższy przystanek to **Ruczaj**, przykładowe
+połączenia tramwajowe z Dworca Głównego (przystanek **Teatr Słowackiego**):
+* 52, ok. 22 minuty,
+* 3 &#8594; 18, ok. 22 minuty ale wymaga przesiadki,
+* 50 &#8594; 17, ok. 32 minuty ze względu na okrężną trasę.
+
+Dojście z przystanku wymaga ok. pięciominutowego spaceru na Wydział Matematyki i
+Informatyki Uniwersytetu Jagiellońskiego.
+
+Niedaleko Wydziału (ok. 5 minut spacerem) znajduje się sklep Kaufland &mdash;
+można do niego wstąpić po drodze wysiadając przystanek wcześniej, na przystanku
+**Norymberska**.
+
+Na terenie turnieju jest również dostępny bezpłatny parking.
+
+Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
+
+<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F" width="640" height="480"></iframe>
+
+Szczegółowe instrukcje dojazdu można uzyskać korzystając z
+<https://krakow.jakdojade.pl> lub <https://maps.google.com>.
 
 ## Rejestracja
 
