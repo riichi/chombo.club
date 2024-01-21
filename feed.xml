@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2024-01-19T15:47:26+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-19T15:37:12+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>Zapraszamy Was na drugi turniej MERS w Krakowie!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2024-01-21T21:26:07+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-21T21:24:22+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>Zapraszamy Was na drugi turniej MERS w Krakowie!</p>
 
 <figure>
   
@@ -115,6 +115,37 @@ z jej działaniem przed turniejem.</p>
 </tbody>
 </table>
 
+<h2 id="dojazd">Dojazd</h2>
+
+<p><a href="/assets/images/mers-2022-map.png">
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu" />
+</a></p>
+
+<p>Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem —
+najbliższy przystanek to <strong>Ruczaj</strong>, przykładowe
+połączenia tramwajowe z Dworca Głównego (przystanek <strong>Teatr Słowackiego</strong>):</p>
+<ul>
+  <li>52, ok. 22 minuty,</li>
+  <li>3 → 18, ok. 22 minuty ale wymaga przesiadki,</li>
+  <li>50 → 17, ok. 32 minuty ze względu na okrężną trasę.</li>
+</ul>
+
+<p>Dojście z przystanku wymaga ok. pięciominutowego spaceru na Wydział Matematyki i
+Informatyki Uniwersytetu Jagiellońskiego.</p>
+
+<p>Niedaleko Wydziału (ok. 5 minut spacerem) znajduje się sklep Kaufland —
+można do niego wstąpić po drodze wysiadając przystanek wcześniej, na przystanku
+<strong>Norymberska</strong>.</p>
+
+<p>Na terenie turnieju jest również dostępny bezpłatny parking.</p>
+
+<p>Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:</p>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&amp;ehbc=2E312F" width="640" height="480"></iframe>
+
+<p>Szczegółowe instrukcje dojazdu można uzyskać korzystając z
+<a href="https://krakow.jakdojade.pl">https://krakow.jakdojade.pl</a> lub <a href="https://maps.google.com">https://maps.google.com</a>.</p>
+
 <h2 id="rejestracja">Rejestracja</h2>
 
 <p><strong>UWAGA:</strong> Obecnie lista zawodników jest pełna — nadal jednak można zapisać się na listę oczekujących i wziąć udział w turnieju, jeśli któryś z zarejestrowanych graczy zrezygnuje.</p>
@@ -125,7 +156,7 @@ z jej działaniem przed turniejem.</p>
 
 <h2 id="gracze">Gracze</h2>
 
-<p><small>Ostatnia aktualizacja: 2024-01-19 15:37</small></p>
+<p><small>Ostatnia aktualizacja: 2024-01-21 21:24</small></p>
 
 <div class="progress" style="margin-bottom: 0.5em">
 	<div class="progress-bar progress-bar-striped" role="progressbar" style="width: calc(100%*84/84);" aria-valuenow="84" aria-valuemin="0" aria-valuemax="84">
