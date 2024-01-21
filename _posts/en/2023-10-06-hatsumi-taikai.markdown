@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-21 21:53:18 +0100
+last_modified_at: 2024-01-21 22:18:19 +0100
 categories: tournaments
 lang: en
 ---
@@ -141,6 +141,7 @@ Technologies).
 
 If you want to drop by a shop, we can recommend getting off 1 stop earlier, on
 the **Norymberska** stop. There is a supermarket just next to the stop.
+(Please note that because of Polish laws, it will be closed on Sunday)
 
 The tournament venue also offers a free of charge parking space.
 
