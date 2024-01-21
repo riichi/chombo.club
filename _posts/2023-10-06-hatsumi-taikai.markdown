@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-21 21:53:18 +0100
+last_modified_at: 2024-01-21 22:18:19 +0100
 categories: tournaments
 lang: pl
 ---
@@ -138,6 +138,7 @@ Informatyki Uniwersytetu Jagiellońskiego.
 Niedaleko Wydziału (ok. 5 minut spacerem) znajduje się sklep Kaufland &mdash;
 można do niego wstąpić po drodze wysiadając przystanek wcześniej, na przystanku
 **Norymberska**.
+Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.
 
 Na terenie turnieju jest również dostępny bezpłatny parking.
 
