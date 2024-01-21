@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-21 21:34:08 +0100
+last_modified_at: 2024-01-21 21:53:18 +0100
 categories: tournaments
 lang: en
 ---
@@ -146,7 +146,7 @@ The tournament venue also offers a free of charge parking space.
 
 Directions to the tournament site from public transport stops:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 
 In case you need more detailed instructions, you can use
 <https://krakow.jakdojade.pl> or <https://maps.google.com> &mdash; both
