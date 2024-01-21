@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-21 22:56:09 +0100
+last_modified_at: 2024-01-21 23:13:20 +0100
 categories: tournaments
 lang: pl
 ---
@@ -42,7 +42,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 * Sędziowie:
   - Mateusz Maćkowski
   - Fabien Sacha
-  - Marta Bacic (sędzia grający)
+  - Marta Bacic (sędzia grająca)
   - więcej wkrótce!
 * Obiad: wliczony w cenę wpisowego
 * Nagrody: trofea dla pierwszych trzech miejsc, gadżety klubowe dla pierwszych 10 miejsc
