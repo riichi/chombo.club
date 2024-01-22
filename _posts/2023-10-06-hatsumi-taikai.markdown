@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-21 23:13:20 +0100
+last_modified_at: 2024-01-22 09:37:07 +0100
 categories: tournaments
 lang: pl
 ---
@@ -221,7 +221,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 | 41 | Paweł Polański                           | Havelock             | Polska               | [19000041](http://mahjong-europe.org/ranking/Players/19000041.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 42 | Oleksii Bezuhlyi                         |                      | Ukraina              | [21000068](http://mahjong-europe.org/ranking/Players/21000068.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 43 | Anka Szatan                              | Kropka               | Polska               | [19000187](http://mahjong-europe.org/ranking/Players/19000187.html) |                                                      |
-| 44 | Jakub Rogala                             | Rogal                | Polska               | [19000156](http://mahjong-europe.org/ranking/Players/19000156.html) |                                                      |
+| 44 | Jakub Rogala                             | Rogal                | Polska               | [19000156](http://mahjong-europe.org/ranking/Players/19000156.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 45 | Dawid Kamiński                           | Kamień               | Polska               | [19000194](http://mahjong-europe.org/ranking/Players/19000194.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 46 | Junjie Wei                               |                      | Austria              | [01000148](http://mahjong-europe.org/ranking/Players/01000148.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 47 | Jacek Kosma                              | Jacek-kun            | Polska               | [19000192](http://mahjong-europe.org/ranking/Players/19000192.html) |                                                      |
