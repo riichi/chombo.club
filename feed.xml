@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2024-01-22T10:32:33+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-22T09:37:07+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>Zapraszamy Was na drugi turniej MERS w Krakowie!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/" rel="alternate" type="text/html" /><updated>2024-01-22T15:44:19+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="pl"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-22T15:37:12+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>Zapraszamy Was na drugi turniej MERS w Krakowie!</p>
 
 <figure>
   
@@ -48,7 +48,7 @@ Poland
 <p>Punkty będą śledzone za pomocą mobilnej aplikacji <a href="https://mahjongtracker.com/">Mahjong Tracker</a> - polecamy zapoznać się
 z jej działaniem przed turniejem.</p>
 
-<p>Z reprezentantami <strong>10</strong> krajów EMA i łączną liczbą <strong>84</strong> graczy, aktualny ranking turnieju MERS wynosi <strong>4.0</strong> (maksimum to 4.0).<br />
+<p>Z reprezentantami <strong>9</strong> krajów EMA i łączną liczbą <strong>84</strong> graczy, aktualny ranking turnieju MERS wynosi <strong>3.5</strong> (maksimum to 4.0).<br />
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć <a href="http://mahjong-europe.org/ranking/Basicsranking.html">na stronie EMA</a>.</small></p>
 
 <h2 id="agenda">Agenda</h2>
@@ -160,7 +160,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
 
 <h2 id="gracze">Gracze</h2>
 
-<p><small>Ostatnia aktualizacja: 2024-01-22 09:37</small></p>
+<p><small>Ostatnia aktualizacja: 2024-01-22 15:37</small></p>
 
 <div class="progress" style="margin-bottom: 0.5em">
 	<div class="progress-bar progress-bar-striped" role="progressbar" style="width: calc(100%*84/84);" aria-valuenow="84" aria-valuemin="0" aria-valuemax="84">
@@ -236,18 +236,10 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000102.html">19000102</a></td>
-        <td style="text-align: center"> </td>
+        <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
         <td style="text-align: right">8</td>
-        <td style="text-align: left">Łukasz Gosk</td>
-        <td style="text-align: left">Żokun</td>
-        <td style="text-align: left">Polska</td>
-        <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000136.html">19000136</a></td>
-        <td style="text-align: center"> </td>
-      </tr>
-      <tr>
-        <td style="text-align: right">9</td>
         <td style="text-align: left">Luna Świątek</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -255,15 +247,15 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">10</td>
+        <td style="text-align: right">9</td>
         <td style="text-align: left">Paweł Kruk</td>
         <td style="text-align: left">Kruker</td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000111.html">19000111</a></td>
-        <td style="text-align: center"> </td>
+        <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">11</td>
+        <td style="text-align: right">10</td>
         <td style="text-align: left">Nina Popławska</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -271,7 +263,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">12</td>
+        <td style="text-align: right">11</td>
         <td style="text-align: left">Szymon Lasota</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -279,7 +271,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">13</td>
+        <td style="text-align: right">12</td>
         <td style="text-align: left">Maria Baranowska</td>
         <td style="text-align: left">Marysia</td>
         <td style="text-align: left">Polska</td>
@@ -287,7 +279,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">14</td>
+        <td style="text-align: right">13</td>
         <td style="text-align: left">Bartosz Żuk</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -295,15 +287,15 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">15</td>
+        <td style="text-align: right">14</td>
         <td style="text-align: left">Mateusz Woźniak</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000003.html">19000003</a></td>
-        <td style="text-align: center"> </td>
+        <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">16</td>
+        <td style="text-align: right">15</td>
         <td style="text-align: left">Sergio Matos Lima</td>
         <td style="text-align: left">Pommeko</td>
         <td style="text-align: left">Portugalia</td>
@@ -311,7 +303,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">17</td>
+        <td style="text-align: right">16</td>
         <td style="text-align: left">Jakub Titow</td>
         <td style="text-align: left">Tribell</td>
         <td style="text-align: left">Polska</td>
@@ -319,7 +311,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">18</td>
+        <td style="text-align: right">17</td>
         <td style="text-align: left">Michał Waliszewski</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -327,7 +319,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">19</td>
+        <td style="text-align: right">18</td>
         <td style="text-align: left">Artur Libich</td>
         <td style="text-align: left">IzumiRaito</td>
         <td style="text-align: left">Polska</td>
@@ -335,7 +327,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">20</td>
+        <td style="text-align: right">19</td>
         <td style="text-align: left">Aleksandra Malarz</td>
         <td style="text-align: left">Ola</td>
         <td style="text-align: left">Polska</td>
@@ -343,7 +335,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">21</td>
+        <td style="text-align: right">20</td>
         <td style="text-align: left">Alex Grad</td>
         <td style="text-align: left">Mironty</td>
         <td style="text-align: left">Polska</td>
@@ -351,7 +343,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">22</td>
+        <td style="text-align: right">21</td>
         <td style="text-align: left">Olga Igarashi</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -359,7 +351,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">23</td>
+        <td style="text-align: right">22</td>
         <td style="text-align: left">Jacek Spychala</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -367,7 +359,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">24</td>
+        <td style="text-align: right">23</td>
         <td style="text-align: left">Konrad Marciniak</td>
         <td style="text-align: left">kaem</td>
         <td style="text-align: left">Polska</td>
@@ -375,7 +367,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">25</td>
+        <td style="text-align: right">24</td>
         <td style="text-align: left">Szymon Nowicz</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -383,7 +375,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">26</td>
+        <td style="text-align: right">25</td>
         <td style="text-align: left">Ula Szudlich</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -391,7 +383,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">27</td>
+        <td style="text-align: right">26</td>
         <td style="text-align: left">Sonia Borysiak</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -399,7 +391,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">28</td>
+        <td style="text-align: right">27</td>
         <td style="text-align: left">Jacek Borysiak</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -407,7 +399,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">29</td>
+        <td style="text-align: right">28</td>
         <td style="text-align: left">Paulina Kakuba</td>
         <td style="text-align: left">zozol</td>
         <td style="text-align: left">Polska</td>
@@ -415,7 +407,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">30</td>
+        <td style="text-align: right">29</td>
         <td style="text-align: left">Elmar Mohsenzada</td>
         <td style="text-align: left">Tinkerbell</td>
         <td style="text-align: left">Austria</td>
@@ -423,7 +415,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">31</td>
+        <td style="text-align: right">30</td>
         <td style="text-align: left">Marek Minias</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -431,7 +423,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">32</td>
+        <td style="text-align: right">31</td>
         <td style="text-align: left">Sveta Yaremenko</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Ukraina</td>
@@ -439,7 +431,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">33</td>
+        <td style="text-align: right">32</td>
         <td style="text-align: left">Maksym Ivanov</td>
         <td style="text-align: left">Ulidtko</td>
         <td style="text-align: left">Ukraina</td>
@@ -447,7 +439,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">34</td>
+        <td style="text-align: right">33</td>
         <td style="text-align: left">Tomasz Dąbski</td>
         <td style="text-align: left">Ullei</td>
         <td style="text-align: left">Polska</td>
@@ -455,7 +447,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">35</td>
+        <td style="text-align: right">34</td>
         <td style="text-align: left">Marta Grajkowska</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -463,7 +455,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">36</td>
+        <td style="text-align: right">35</td>
         <td style="text-align: left">Krzysztof Dabrowski</td>
         <td style="text-align: left">Foryst</td>
         <td style="text-align: left">Polska</td>
@@ -471,7 +463,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">37</td>
+        <td style="text-align: right">36</td>
         <td style="text-align: left">Kateryna Kondratenko</td>
         <td style="text-align: left">Совiсть</td>
         <td style="text-align: left">Ukraina</td>
@@ -479,7 +471,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">38</td>
+        <td style="text-align: right">37</td>
         <td style="text-align: left">Ken Nico Schultheiss</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Niemcy</td>
@@ -487,7 +479,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">39</td>
+        <td style="text-align: right">38</td>
         <td style="text-align: left">Christopher Mielke</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Niemcy</td>
@@ -495,7 +487,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">40</td>
+        <td style="text-align: right">39</td>
         <td style="text-align: left">Arnaud Wolf</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Francja</td>
@@ -503,7 +495,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">41</td>
+        <td style="text-align: right">40</td>
         <td style="text-align: left">Paweł Polański</td>
         <td style="text-align: left">Havelock</td>
         <td style="text-align: left">Polska</td>
@@ -511,7 +503,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">42</td>
+        <td style="text-align: right">41</td>
         <td style="text-align: left">Oleksii Bezuhlyi</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Ukraina</td>
@@ -519,7 +511,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">43</td>
+        <td style="text-align: right">42</td>
         <td style="text-align: left">Anka Szatan</td>
         <td style="text-align: left">Kropka</td>
         <td style="text-align: left">Polska</td>
@@ -527,7 +519,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">44</td>
+        <td style="text-align: right">43</td>
         <td style="text-align: left">Jakub Rogala</td>
         <td style="text-align: left">Rogal</td>
         <td style="text-align: left">Polska</td>
@@ -535,7 +527,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">45</td>
+        <td style="text-align: right">44</td>
         <td style="text-align: left">Dawid Kamiński</td>
         <td style="text-align: left">Kamień</td>
         <td style="text-align: left">Polska</td>
@@ -543,7 +535,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">46</td>
+        <td style="text-align: right">45</td>
         <td style="text-align: left">Junjie Wei</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Austria</td>
@@ -551,7 +543,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">47</td>
+        <td style="text-align: right">46</td>
         <td style="text-align: left">Jacek Kosma</td>
         <td style="text-align: left">Jacek-kun</td>
         <td style="text-align: left">Polska</td>
@@ -559,7 +551,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">48</td>
+        <td style="text-align: right">47</td>
         <td style="text-align: left">Marta Kochańska</td>
         <td style="text-align: left">Vapi</td>
         <td style="text-align: left">Polska</td>
@@ -567,7 +559,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">49</td>
+        <td style="text-align: right">48</td>
         <td style="text-align: left">Karolina Horbaczewska</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -575,15 +567,15 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">50</td>
+        <td style="text-align: right">49</td>
         <td style="text-align: left">Mateusz Kamiński</td>
         <td style="text-align: left">Mathis</td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000196.html">19000196</a></td>
-        <td style="text-align: center"> </td>
+        <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">51</td>
+        <td style="text-align: right">50</td>
         <td style="text-align: left">Iwona Bobrek</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -591,7 +583,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">52</td>
+        <td style="text-align: right">51</td>
         <td style="text-align: left">Roman Powęzka</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -599,7 +591,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">53</td>
+        <td style="text-align: right">52</td>
         <td style="text-align: left">Tomasz Powęzka</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -607,7 +599,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">54</td>
+        <td style="text-align: right">53</td>
         <td style="text-align: left">Jolanta Liberska-Adamczewska</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -615,7 +607,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">55</td>
+        <td style="text-align: right">54</td>
         <td style="text-align: left">Janet Wissuwa</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Austria</td>
@@ -623,15 +615,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">56</td>
-        <td style="text-align: left">Zijad Durakovic</td>
-        <td style="text-align: left">Simon</td>
-        <td style="text-align: left">Czechy</td>
-        <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/22000018.html">22000018</a></td>
-        <td style="text-align: center"> </td>
-      </tr>
-      <tr>
-        <td style="text-align: right">57</td>
+        <td style="text-align: right">55</td>
         <td style="text-align: left">Alexander Doppelhofer</td>
         <td style="text-align: left">Fly</td>
         <td style="text-align: left">Austria</td>
@@ -639,7 +623,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">58</td>
+        <td style="text-align: right">56</td>
         <td style="text-align: left">Kunyan Zhao</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Austria</td>
@@ -647,7 +631,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">59</td>
+        <td style="text-align: right">57</td>
         <td style="text-align: left">Varvara Kulhayeva</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -655,7 +639,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">60</td>
+        <td style="text-align: right">58</td>
         <td style="text-align: left">Mateusz Wieczorek</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -663,7 +647,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">61</td>
+        <td style="text-align: right">59</td>
         <td style="text-align: left">Shu Hasegawa</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -671,7 +655,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">62</td>
+        <td style="text-align: right">60</td>
         <td style="text-align: left">Grzegorz Tkaczyk</td>
         <td style="text-align: left">dzitraks</td>
         <td style="text-align: left">Polska</td>
@@ -679,7 +663,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">63</td>
+        <td style="text-align: right">61</td>
         <td style="text-align: left">Marta Bacic</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -687,7 +671,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">64</td>
+        <td style="text-align: right">62</td>
         <td style="text-align: left">Jakub Bacic</td>
         <td style="text-align: left">JB</td>
         <td style="text-align: left">Polska</td>
@@ -695,7 +679,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">65</td>
+        <td style="text-align: right">63</td>
         <td style="text-align: left">Alex Leung</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Francja</td>
@@ -703,7 +687,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">66</td>
+        <td style="text-align: right">64</td>
         <td style="text-align: left">Mannokaran Zageeth</td>
         <td style="text-align: left">Zaike</td>
         <td style="text-align: left">Francja</td>
@@ -711,7 +695,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">67</td>
+        <td style="text-align: right">65</td>
         <td style="text-align: left">Ksenia Trishina</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Szwecja</td>
@@ -719,7 +703,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">68</td>
+        <td style="text-align: right">66</td>
         <td style="text-align: left">Marcin Kurek</td>
         <td style="text-align: left">Kuraj</td>
         <td style="text-align: left">Polska</td>
@@ -727,7 +711,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">69</td>
+        <td style="text-align: right">67</td>
         <td style="text-align: left">Joanna Patalon</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -735,7 +719,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">70</td>
+        <td style="text-align: right">68</td>
         <td style="text-align: left">Oliwia Wolska</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -743,7 +727,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">71</td>
+        <td style="text-align: right">69</td>
         <td style="text-align: left">Justyna Rak</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -751,7 +735,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">72</td>
+        <td style="text-align: right">70</td>
         <td style="text-align: left">Victor Savard-Arseneault</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Kanada</td>
@@ -759,7 +743,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">73</td>
+        <td style="text-align: right">71</td>
         <td style="text-align: left">Kevin Arighi Yusharyahya</td>
         <td style="text-align: left">Kevin</td>
         <td style="text-align: left">Szwecja</td>
@@ -767,7 +751,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">74</td>
+        <td style="text-align: right">72</td>
         <td style="text-align: left">Michael Gürtl-Dusleag</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Austria</td>
@@ -775,7 +759,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">75</td>
+        <td style="text-align: right">73</td>
         <td style="text-align: left">Mariusz Krause</td>
         <td style="text-align: left">Vox</td>
         <td style="text-align: left">Polska</td>
@@ -783,7 +767,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">76</td>
+        <td style="text-align: right">74</td>
         <td style="text-align: left">Maciej Wrześniewski</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -791,7 +775,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">77</td>
+        <td style="text-align: right">75</td>
         <td style="text-align: left">Hubert Żmurko</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -799,7 +783,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">78</td>
+        <td style="text-align: right">76</td>
         <td style="text-align: left">Natalia Mecner</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Wielka Brytania</td>
@@ -807,7 +791,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">79</td>
+        <td style="text-align: right">77</td>
         <td style="text-align: left">Anton Yarchuk</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Ukraina</td>
@@ -815,7 +799,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">80</td>
+        <td style="text-align: right">78</td>
         <td style="text-align: left">Thibaut Arnold</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Szwajcaria</td>
@@ -823,7 +807,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">81</td>
+        <td style="text-align: right">79</td>
         <td style="text-align: left">Tomasz Zieliński</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -831,7 +815,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">82</td>
+        <td style="text-align: right">80</td>
         <td style="text-align: left">Krzysztof Sośnicki</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Wielka Brytania</td>
@@ -839,7 +823,7 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">83</td>
+        <td style="text-align: right">81</td>
         <td style="text-align: left">Jędrzej Adamczewski</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
@@ -847,12 +831,28 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">84</td>
+        <td style="text-align: right">82</td>
         <td style="text-align: left">Elias Boutaleb</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Francja</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/04160115.html">04160115</a></td>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
+      </tr>
+      <tr>
+        <td style="text-align: right">83</td>
+        <td style="text-align: left">Jakub Szpyra</td>
+        <td style="text-align: left">Kuboxxxxx</td>
+        <td style="text-align: left">Polska</td>
+        <td style="text-align: left"> </td>
+        <td style="text-align: center"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: right">84</td>
+        <td style="text-align: left">Raziya Bizhanova</td>
+        <td style="text-align: left">Shiro</td>
+        <td style="text-align: left">Białoruś</td>
+        <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/20000012.html">20000012</a></td>
+        <td style="text-align: center"> </td>
       </tr>
     </tbody>
   </table>
@@ -878,104 +878,90 @@ Warto pamiętać, że w niedzielę 18 lutego będzie on zamknięty.</p>
     <tbody>
       <tr>
         <td style="text-align: right">1</td>
-        <td style="text-align: left">Jakub Szpyra</td>
-        <td style="text-align: left">Kuboxxxxx</td>
-        <td style="text-align: left">Polska</td>
-        <td style="text-align: left"> </td>
-      </tr>
-      <tr>
-        <td style="text-align: right">2</td>
-        <td style="text-align: left">Raziya Bizhanova</td>
-        <td style="text-align: left">Shiro</td>
-        <td style="text-align: left">Białoruś</td>
-        <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/20000012.html">20000012</a></td>
-      </tr>
-      <tr>
-        <td style="text-align: right">3</td>
         <td style="text-align: left">Vitalii Balaniuk</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Ukraina</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/21000005.html">21000005</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">4</td>
+        <td style="text-align: right">2</td>
         <td style="text-align: left">Chris Luntraru</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Rumunia</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/25000008.html">25000008</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">5</td>
+        <td style="text-align: right">3</td>
         <td style="text-align: left">Tatsuya Igarashi</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000091.html">19000091</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">6</td>
+        <td style="text-align: right">4</td>
         <td style="text-align: left">Maksim Amelevich</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Białoruś</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/20000006.html">20000006</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">7</td>
+        <td style="text-align: right">5</td>
         <td style="text-align: left">Uladzimir Tananushka</td>
         <td style="text-align: left">Uladz</td>
         <td style="text-align: left">Białoruś</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/20000003.html">20000003</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">8</td>
+        <td style="text-align: right">6</td>
         <td style="text-align: left">Tatsiana Mikhalchenya</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Białoruś</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">9</td>
+        <td style="text-align: right">7</td>
         <td style="text-align: left">Bartłomiej Żok</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000124.html">19000124</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">10</td>
+        <td style="text-align: right">8</td>
         <td style="text-align: left">Aliaksei Yurechka</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Białoruś</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">11</td>
+        <td style="text-align: right">9</td>
         <td style="text-align: left">Dominik Pawelec</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">12</td>
+        <td style="text-align: right">10</td>
         <td style="text-align: left">Mariusz Stanaszek</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">13</td>
+        <td style="text-align: right">11</td>
         <td style="text-align: left">Julia Buła</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">14</td>
+        <td style="text-align: right">12</td>
         <td style="text-align: left">Gerard Konopielko</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Polska</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">15</td>
+        <td style="text-align: right">13</td>
         <td style="text-align: left">Konstantin Pakshaev</td>
         <td style="text-align: left">Derinov</td>
         <td style="text-align: left">Norwegia</td>
