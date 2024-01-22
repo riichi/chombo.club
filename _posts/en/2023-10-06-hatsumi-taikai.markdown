@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-21 23:13:20 +0100
+last_modified_at: 2024-01-22 09:37:07 +0100
 categories: tournaments
 lang: en
 ---
@@ -225,7 +225,7 @@ offer free help in Polish and English.
 | 41 | Paweł Polański                           | Havelock             | Poland               | [19000041](http://mahjong-europe.org/ranking/Players/19000041.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 42 | Oleksii Bezuhlyi                         |                      | Ukraine              | [21000068](http://mahjong-europe.org/ranking/Players/21000068.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 43 | Anka Szatan                              | Kropka               | Poland               | [19000187](http://mahjong-europe.org/ranking/Players/19000187.html) |                                                      |
-| 44 | Jakub Rogala                             | Rogal                | Poland               | [19000156](http://mahjong-europe.org/ranking/Players/19000156.html) |                                                      |
+| 44 | Jakub Rogala                             | Rogal                | Poland               | [19000156](http://mahjong-europe.org/ranking/Players/19000156.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 45 | Dawid Kamiński                           | Kamień               | Poland               | [19000194](http://mahjong-europe.org/ranking/Players/19000194.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 46 | Junjie Wei                               |                      | Austria              | [01000148](http://mahjong-europe.org/ranking/Players/01000148.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 47 | Jacek Kosma                              | Jacek-kun            | Poland               | [19000192](http://mahjong-europe.org/ranking/Players/19000192.html) |                                                      |
