@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-22 15:37:12 +0100
+last_modified_at: 2024-01-22 21:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -91,7 +91,7 @@ With representants of **9** different EMA countries and a total number of **84**
   </tr>
 </tbody>
 <thead>
-  <tr><th colspan="2">Saturday, 18 February</th></tr>
+  <tr><th colspan="2">Sunday, 18 February</th></tr>
 </thead>
 <tbody>
   <tr>
@@ -252,7 +252,7 @@ offer free help in Polish and English.
 | 68 | Oliwia Wolska                            |                      | Poland               | [19000055](http://mahjong-europe.org/ranking/Players/19000055.html) |                                                      |
 | 69 | Justyna Rak                              |                      | Poland               | [19000063](http://mahjong-europe.org/ranking/Players/19000063.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 70 | Victor Savard-Arseneault                 |                      | Canada               |                                                                     |                                                      |
-| 71 | Kevin Arighi Yusharyahya                 | Kevin                | Sweden               | [09990156](http://mahjong-europe.org/ranking/Players/09990156.html) |                                                      |
+| 71 | Kevin Arighi Yusharyahya                 | Kevin                | Sweden               | [09990156](http://mahjong-europe.org/ranking/Players/09990156.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 72 | Michael Gürtl-Dusleag                    |                      | Austria              | [01000125](http://mahjong-europe.org/ranking/Players/01000125.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 73 | Mariusz Krause                           | Vox                  | Poland               |                                                                     |                                                      |
 | 74 | Maciej Wrześniewski                      |                      | Poland               |                                                                     |                                                      |
