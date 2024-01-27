@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-25 09:37:12 +0100
+last_modified_at: 2024-01-27 15:37:06 +0100
 categories: tournaments
 lang: en
 ---
@@ -182,7 +182,7 @@ offer free help in Polish and English.
 
 | Nr | Name                                     | Nickname             | Country              | EMA ID                                                              |                         Fee                          |
 |---:|:-----------------------------------------|:---------------------|:---------------------|:--------------------------------------------------------------------|:----------------------------------------------------:|
-|  1 | Maciej Szostak                           | Craix                | Poland               | [19000182](http://mahjong-europe.org/ranking/Players/19000182.html) |                                                      |
+|  1 | Maciej Szostak                           | Craix                | Poland               | [19000182](http://mahjong-europe.org/ranking/Players/19000182.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  2 | Aleksander Orlikowski                    | Olson                | Poland               | [19000175](http://mahjong-europe.org/ranking/Players/19000175.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  3 | Jakub Cieślik                            | Bobcat               | Poland               | [19000162](http://mahjong-europe.org/ranking/Players/19000162.html) |                                                      |
 |  4 | Michał Tkaczyk                           |                      | Poland               | [19000168](http://mahjong-europe.org/ranking/Players/19000168.html) |                                                      |
