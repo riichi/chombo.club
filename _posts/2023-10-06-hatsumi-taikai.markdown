@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-27 21:37:12 +0100
+last_modified_at: 2024-01-28 15:37:12 +0100
 categories: tournaments
 lang: pl
 ---
@@ -88,6 +88,10 @@ Z reprezentantami **9** krajów EMA i łączną liczbą **84** graczy, aktualny 
   <tr>
     <td>16:35-18:05</td>
     <td>4. hanchan</td>
+  </tr>
+  <tr>
+    <td>19:00-24:00</td>
+    <td>Afterparty — <a href="https://maps.app.goo.gl/rxV5KY1KKB24t9bVA">T.E.A. Time Brewpub</a></td>
   </tr>
 </tbody>
 <thead>
