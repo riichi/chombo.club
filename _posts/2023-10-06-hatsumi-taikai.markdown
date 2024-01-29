@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-28 15:37:12 +0100
+last_modified_at: 2024-01-29 15:37:12 +0100
 categories: tournaments
 lang: pl
 ---
@@ -220,7 +220,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 | 35 | Krzysztof Dabrowski                      | Foryst               | Polska               | [19000157](http://mahjong-europe.org/ranking/Players/19000157.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 36 | Kateryna Kondratenko                     | Совiсть              | Ukraina              | [21000072](http://mahjong-europe.org/ranking/Players/21000072.html) |                                                      |
 | 37 | Ken Nico Schultheiss                     |                      | Niemcy               | [05100182](http://mahjong-europe.org/ranking/Players/05100182.html) |                                                      |
-| 38 | Christopher Mielke                       |                      | Niemcy               | [05000009](http://mahjong-europe.org/ranking/Players/05000009.html) |                                                      |
+| 38 | Christopher Mielke                       |                      | Niemcy               | [05000009](http://mahjong-europe.org/ranking/Players/05000009.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 39 | Arnaud Wolf                              |                      | Francja              | [04160112](http://mahjong-europe.org/ranking/Players/04160112.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 40 | Paweł Polański                           | Havelock             | Polska               | [19000041](http://mahjong-europe.org/ranking/Players/19000041.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 41 | Oleksii Bezuhlyi                         |                      | Ukraina              | [21000068](http://mahjong-europe.org/ranking/Players/21000068.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
@@ -230,7 +230,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 | 45 | Junjie Wei                               |                      | Austria              | [01000148](http://mahjong-europe.org/ranking/Players/01000148.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 46 | Jacek Kosma                              | Jacek-kun            | Polska               | [19000192](http://mahjong-europe.org/ranking/Players/19000192.html) |                                                      |
 | 47 | Marta Kochańska                          | Vapi                 | Polska               | [19000184](http://mahjong-europe.org/ranking/Players/19000184.html) |                                                      |
-| 48 | Karolina Horbaczewska                    |                      | Polska               | [19000193](http://mahjong-europe.org/ranking/Players/19000193.html) |                                                      |
+| 48 | Karolina Horbaczewska                    |                      | Polska               | [19000193](http://mahjong-europe.org/ranking/Players/19000193.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 49 | Mateusz Kamiński                         | Mathis               | Polska               | [19000196](http://mahjong-europe.org/ranking/Players/19000196.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 50 | Iwona Bobrek                             |                      | Polska               | [19000195](http://mahjong-europe.org/ranking/Players/19000195.html) |                                                      |
 | 51 | Roman Powęzka                            |                      | Polska               | [19000093](http://mahjong-europe.org/ranking/Players/19000093.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
