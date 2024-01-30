@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2024-01-30T15:39:39+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/en/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-30T15:37:02+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>We invite you to the second MERS tournament in Kraków!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2024-01-30T21:49:34+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/en/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-30T21:37:12+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>We invite you to the second MERS tournament in Kraków!</p>
 
 <figure>
   
@@ -169,7 +169,7 @@ offer free help in Polish and English.</p>
 
 <h2 id="players">Players</h2>
 
-<p><small>Last updated: 2024-01-30 15:37</small></p>
+<p><small>Last updated: 2024-01-30 21:37</small></p>
 
 <div class="progress" style="margin-bottom: 0.5em">
 	<div class="progress-bar progress-bar-striped" role="progressbar" style="width: calc(100%*84/84);" aria-valuenow="84" aria-valuemin="0" aria-valuemax="84">
@@ -553,14 +553,6 @@ offer free help in Polish and English.</p>
       </tr>
       <tr>
         <td style="text-align: right">46</td>
-        <td style="text-align: left">Jacek Kosma</td>
-        <td style="text-align: left">Jacek-kun</td>
-        <td style="text-align: left">Poland</td>
-        <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000192.html">19000192</a></td>
-        <td style="text-align: center"> </td>
-      </tr>
-      <tr>
-        <td style="text-align: right">47</td>
         <td style="text-align: left">Marta Kochańska</td>
         <td style="text-align: left">Vapi</td>
         <td style="text-align: left">Poland</td>
@@ -568,7 +560,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">48</td>
+        <td style="text-align: right">47</td>
         <td style="text-align: left">Karolina Horbaczewska</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -576,7 +568,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">49</td>
+        <td style="text-align: right">48</td>
         <td style="text-align: left">Mateusz Kamiński</td>
         <td style="text-align: left">Mathis</td>
         <td style="text-align: left">Poland</td>
@@ -584,7 +576,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">50</td>
+        <td style="text-align: right">49</td>
         <td style="text-align: left">Iwona Bobrek</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -592,7 +584,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">51</td>
+        <td style="text-align: right">50</td>
         <td style="text-align: left">Roman Powęzka</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -600,7 +592,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">52</td>
+        <td style="text-align: right">51</td>
         <td style="text-align: left">Tomasz Powęzka</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -608,7 +600,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">53</td>
+        <td style="text-align: right">52</td>
         <td style="text-align: left">Jolanta Liberska-Adamczewska</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -616,7 +608,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">54</td>
+        <td style="text-align: right">53</td>
         <td style="text-align: left">Janet Wissuwa</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Austria</td>
@@ -624,7 +616,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">55</td>
+        <td style="text-align: right">54</td>
         <td style="text-align: left">Alexander Doppelhofer</td>
         <td style="text-align: left">Fly</td>
         <td style="text-align: left">Austria</td>
@@ -632,7 +624,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">56</td>
+        <td style="text-align: right">55</td>
         <td style="text-align: left">Kunyan Zhao</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Austria</td>
@@ -640,7 +632,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">57</td>
+        <td style="text-align: right">56</td>
         <td style="text-align: left">Varvara Kulhayeva</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -648,7 +640,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">58</td>
+        <td style="text-align: right">57</td>
         <td style="text-align: left">Mateusz Wieczorek</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -656,7 +648,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">59</td>
+        <td style="text-align: right">58</td>
         <td style="text-align: left">Shu Hasegawa</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -664,7 +656,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">60</td>
+        <td style="text-align: right">59</td>
         <td style="text-align: left">Grzegorz Tkaczyk</td>
         <td style="text-align: left">dzitraks</td>
         <td style="text-align: left">Poland</td>
@@ -672,7 +664,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">61</td>
+        <td style="text-align: right">60</td>
         <td style="text-align: left">Marta Bacic</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -680,7 +672,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">62</td>
+        <td style="text-align: right">61</td>
         <td style="text-align: left">Jakub Bacic</td>
         <td style="text-align: left">JB</td>
         <td style="text-align: left">Poland</td>
@@ -688,7 +680,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">63</td>
+        <td style="text-align: right">62</td>
         <td style="text-align: left">Alex Leung</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">France</td>
@@ -696,7 +688,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">64</td>
+        <td style="text-align: right">63</td>
         <td style="text-align: left">Mannokaran Zageeth</td>
         <td style="text-align: left">Zaike</td>
         <td style="text-align: left">France</td>
@@ -704,7 +696,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">65</td>
+        <td style="text-align: right">64</td>
         <td style="text-align: left">Ksenia Trishina</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Sweden</td>
@@ -712,7 +704,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">66</td>
+        <td style="text-align: right">65</td>
         <td style="text-align: left">Marcin Kurek</td>
         <td style="text-align: left">Kuraj</td>
         <td style="text-align: left">Poland</td>
@@ -720,7 +712,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">67</td>
+        <td style="text-align: right">66</td>
         <td style="text-align: left">Joanna Patalon</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -728,7 +720,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">68</td>
+        <td style="text-align: right">67</td>
         <td style="text-align: left">Oliwia Wolska</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -736,7 +728,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">69</td>
+        <td style="text-align: right">68</td>
         <td style="text-align: left">Justyna Rak</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -744,7 +736,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">70</td>
+        <td style="text-align: right">69</td>
         <td style="text-align: left">Victor Savard-Arseneault</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Canada</td>
@@ -752,7 +744,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">71</td>
+        <td style="text-align: right">70</td>
         <td style="text-align: left">Kevin Arighi Yusharyahya</td>
         <td style="text-align: left">Kevin</td>
         <td style="text-align: left">Sweden</td>
@@ -760,7 +752,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">72</td>
+        <td style="text-align: right">71</td>
         <td style="text-align: left">Michael Gürtl-Dusleag</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Austria</td>
@@ -768,7 +760,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">73</td>
+        <td style="text-align: right">72</td>
         <td style="text-align: left">Mariusz Krause</td>
         <td style="text-align: left">Vox</td>
         <td style="text-align: left">Poland</td>
@@ -776,7 +768,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">74</td>
+        <td style="text-align: right">73</td>
         <td style="text-align: left">Maciej Wrześniewski</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -784,7 +776,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">75</td>
+        <td style="text-align: right">74</td>
         <td style="text-align: left">Hubert Żmurko</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -792,7 +784,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">76</td>
+        <td style="text-align: right">75</td>
         <td style="text-align: left">Natalia Mecner</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">United Kingdom</td>
@@ -800,7 +792,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">77</td>
+        <td style="text-align: right">76</td>
         <td style="text-align: left">Anton Yarchuk</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Ukraine</td>
@@ -808,7 +800,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">78</td>
+        <td style="text-align: right">77</td>
         <td style="text-align: left">Thibaut Arnold</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Switzerland</td>
@@ -816,7 +808,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">79</td>
+        <td style="text-align: right">78</td>
         <td style="text-align: left">Tomasz Zieliński</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -824,7 +816,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">80</td>
+        <td style="text-align: right">79</td>
         <td style="text-align: left">Krzysztof Sośnicki</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">United Kingdom</td>
@@ -832,7 +824,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">81</td>
+        <td style="text-align: right">80</td>
         <td style="text-align: left">Jędrzej Adamczewski</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
@@ -840,7 +832,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">82</td>
+        <td style="text-align: right">81</td>
         <td style="text-align: left">Elias Boutaleb</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">France</td>
@@ -848,7 +840,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
-        <td style="text-align: right">83</td>
+        <td style="text-align: right">82</td>
         <td style="text-align: left">Jakub Szpyra</td>
         <td style="text-align: left">Kuboxxxxx</td>
         <td style="text-align: left">Poland</td>
@@ -856,11 +848,19 @@ offer free help in Polish and English.</p>
         <td style="text-align: center"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">84</td>
+        <td style="text-align: right">83</td>
         <td style="text-align: left">Raziya Bizhanova</td>
         <td style="text-align: left">Shiro</td>
         <td style="text-align: left">Belarus</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/20000012.html">20000012</a></td>
+        <td style="text-align: center"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: right">84</td>
+        <td style="text-align: left">Vitalii Balaniuk</td>
+        <td style="text-align: left"> </td>
+        <td style="text-align: left">Ukraine</td>
+        <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/21000005.html">21000005</a></td>
         <td style="text-align: center"> </td>
       </tr>
     </tbody>
@@ -887,90 +887,83 @@ offer free help in Polish and English.</p>
     <tbody>
       <tr>
         <td style="text-align: right">1</td>
-        <td style="text-align: left">Vitalii Balaniuk</td>
-        <td style="text-align: left"> </td>
-        <td style="text-align: left">Ukraine</td>
-        <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/21000005.html">21000005</a></td>
-      </tr>
-      <tr>
-        <td style="text-align: right">2</td>
         <td style="text-align: left">Chris Luntraru</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Romania</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/25000008.html">25000008</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">3</td>
+        <td style="text-align: right">2</td>
         <td style="text-align: left">Tatsuya Igarashi</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000091.html">19000091</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">4</td>
+        <td style="text-align: right">3</td>
         <td style="text-align: left">Maksim Amelevich</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Belarus</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/20000006.html">20000006</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">5</td>
+        <td style="text-align: right">4</td>
         <td style="text-align: left">Uladzimir Tananushka</td>
         <td style="text-align: left">Uladz</td>
         <td style="text-align: left">Belarus</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/20000003.html">20000003</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">6</td>
+        <td style="text-align: right">5</td>
         <td style="text-align: left">Tatsiana Mikhalchenya</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Belarus</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">7</td>
+        <td style="text-align: right">6</td>
         <td style="text-align: left">Bartłomiej Żok</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000124.html">19000124</a></td>
       </tr>
       <tr>
-        <td style="text-align: right">8</td>
+        <td style="text-align: right">7</td>
         <td style="text-align: left">Aliaksei Yurechka</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Belarus</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">9</td>
+        <td style="text-align: right">8</td>
         <td style="text-align: left">Dominik Pawelec</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">10</td>
+        <td style="text-align: right">9</td>
         <td style="text-align: left">Mariusz Stanaszek</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">11</td>
+        <td style="text-align: right">10</td>
         <td style="text-align: left">Julia Buła</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">12</td>
+        <td style="text-align: right">11</td>
         <td style="text-align: left">Gerard Konopielko</td>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
         <td style="text-align: left"> </td>
       </tr>
       <tr>
-        <td style="text-align: right">13</td>
+        <td style="text-align: right">12</td>
         <td style="text-align: left">Konstantin Pakshaev</td>
         <td style="text-align: left">Derinov</td>
         <td style="text-align: left">Norway</td>
