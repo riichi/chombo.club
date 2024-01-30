@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2024-01-29T15:42:23+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/en/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-29T15:37:12+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>We invite you to the second MERS tournament in Kraków!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2024-01-30T15:39:39+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/en/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-01-30T15:37:02+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>We invite you to the second MERS tournament in Kraków!</p>
 
 <figure>
   
@@ -169,7 +169,7 @@ offer free help in Polish and English.</p>
 
 <h2 id="players">Players</h2>
 
-<p><small>Last updated: 2024-01-29 15:37</small></p>
+<p><small>Last updated: 2024-01-30 15:37</small></p>
 
 <div class="progress" style="margin-bottom: 0.5em">
 	<div class="progress-bar progress-bar-striped" role="progressbar" style="width: calc(100%*84/84);" aria-valuenow="84" aria-valuemin="0" aria-valuemax="84">
@@ -341,7 +341,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: left">Ola</td>
         <td style="text-align: left">Poland</td>
         <td style="text-align: left"> </td>
-        <td style="text-align: center"> </td>
+        <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
         <td style="text-align: right">20</td>
@@ -637,7 +637,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Austria</td>
         <td style="text-align: left"> </td>
-        <td style="text-align: center"> </td>
+        <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
         <td style="text-align: right">57</td>
@@ -653,7 +653,7 @@ offer free help in Polish and English.</p>
         <td style="text-align: left"> </td>
         <td style="text-align: left">Poland</td>
         <td style="text-align: left"><a href="http://mahjong-europe.org/ranking/Players/19000191.html">19000191</a></td>
-        <td style="text-align: center"> </td>
+        <td style="text-align: center"><i aria-hidden="true" class="fa fa-fw fa-check"></i></td>
       </tr>
       <tr>
         <td style="text-align: right">59</td>
