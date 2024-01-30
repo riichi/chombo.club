@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-29 15:37:12 +0100
+last_modified_at: 2024-01-30 15:37:02 +0100
 categories: tournaments
 lang: en
 ---
@@ -205,7 +205,7 @@ offer free help in Polish and English.
 | 16 | Jakub Titow                              | Tribell              | Poland               | [19000145](http://mahjong-europe.org/ranking/Players/19000145.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 17 | Michał Waliszewski                       |                      | Poland               | [19000171](http://mahjong-europe.org/ranking/Players/19000171.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 18 | Artur Libich                             | IzumiRaito           | Poland               | [19000039](http://mahjong-europe.org/ranking/Players/19000039.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 19 | Aleksandra Malarz                        | Ola                  | Poland               |                                                                     |                                                      |
+| 19 | Aleksandra Malarz                        | Ola                  | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 20 | Alex Grad                                | Mironty              | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 21 | Olga Igarashi                            |                      | Poland               | [19000087](http://mahjong-europe.org/ranking/Players/19000087.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 22 | Jacek Spychala                           |                      | Poland               | [19000141](http://mahjong-europe.org/ranking/Players/19000141.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
@@ -242,9 +242,9 @@ offer free help in Polish and English.
 | 53 | Jolanta Liberska-Adamczewska             |                      | Poland               | [19000101](http://mahjong-europe.org/ranking/Players/19000101.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 54 | Janet Wissuwa                            |                      | Austria              | [01000147](http://mahjong-europe.org/ranking/Players/01000147.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 55 | Alexander Doppelhofer                    | Fly                  | Austria              | [01000013](http://mahjong-europe.org/ranking/Players/01000013.html) |                                                      |
-| 56 | Kunyan Zhao                              |                      | Austria              |                                                                     |                                                      |
+| 56 | Kunyan Zhao                              |                      | Austria              |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 57 | Varvara Kulhayeva                        |                      | Poland               | [19000146](http://mahjong-europe.org/ranking/Players/19000146.html) |                                                      |
-| 58 | Mateusz Wieczorek                        |                      | Poland               | [19000191](http://mahjong-europe.org/ranking/Players/19000191.html) |                                                      |
+| 58 | Mateusz Wieczorek                        |                      | Poland               | [19000191](http://mahjong-europe.org/ranking/Players/19000191.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 59 | Shu Hasegawa                             |                      | Poland               | [19000170](http://mahjong-europe.org/ranking/Players/19000170.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 60 | Grzegorz Tkaczyk                         | dzitraks             | Poland               |                                                                     |                                                      |
 | 61 | Marta Bacic                              |                      | Poland               | [19000067](http://mahjong-europe.org/ranking/Players/19000067.html) |                                                      |
