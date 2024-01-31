@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-01-30 21:37:12 +0100
+last_modified_at: 2024-01-31 09:37:09 +0100
 categories: tournaments
 lang: pl
 ---
@@ -241,7 +241,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 | 56 | Varvara Kulhayeva                        |                      | Polska               | [19000146](http://mahjong-europe.org/ranking/Players/19000146.html) |                                                      |
 | 57 | Mateusz Wieczorek                        |                      | Polska               | [19000191](http://mahjong-europe.org/ranking/Players/19000191.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 58 | Shu Hasegawa                             |                      | Polska               | [19000170](http://mahjong-europe.org/ranking/Players/19000170.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 59 | Grzegorz Tkaczyk                         | dzitraks             | Polska               |                                                                     |                                                      |
+| 59 | Grzegorz Tkaczyk                         | dzitraks             | Polska               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 60 | Marta Bacic                              |                      | Polska               | [19000067](http://mahjong-europe.org/ranking/Players/19000067.html) |                                                      |
 | 61 | Jakub Bacic                              | JB                   | Polska               | [19000066](http://mahjong-europe.org/ranking/Players/19000066.html) |                                                      |
 | 62 | Alex Leung                               |                      | Francja              | [04160110](http://mahjong-europe.org/ranking/Players/04160110.html) |                                                      |
