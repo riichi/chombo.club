@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-01 15:37:11 +0100
+last_modified_at: 2024-02-01 21:37:12 +0100
 categories: tournaments
 lang: pl
 ---
@@ -192,12 +192,12 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 |  7 | Martyna Jędryczka                        |                      | Polska               | [19000102](http://mahjong-europe.org/ranking/Players/19000102.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  8 | Luna Świątek                             |                      | Polska               | [19000143](http://mahjong-europe.org/ranking/Players/19000143.html) |                                                      |
 |  9 | Paweł Kruk                               | Kruker               | Polska               | [19000111](http://mahjong-europe.org/ranking/Players/19000111.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 10 | Nina Popławska                           |                      | Polska               | [19000071](http://mahjong-europe.org/ranking/Players/19000071.html) |                                                      |
+| 10 | Nina Popławska                           |                      | Polska               | [19000071](http://mahjong-europe.org/ranking/Players/19000071.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 11 | Szymon Lasota                            |                      | Polska               | [19000011](http://mahjong-europe.org/ranking/Players/19000011.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 12 | Maria Baranowska                         | Marysia              | Polska               | [19000007](http://mahjong-europe.org/ranking/Players/19000007.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 13 | Bartosz Żuk                              |                      | Polska               | [19000006](http://mahjong-europe.org/ranking/Players/19000006.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 14 | Mateusz Woźniak                          |                      | Polska               | [19000003](http://mahjong-europe.org/ranking/Players/19000003.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 15 | Sergio Matos Lima                        | Pommeko              | Portugalia           | [12990014](http://mahjong-europe.org/ranking/Players/12990014.html) |                                                      |
+| 15 | Sergio Matos Lima                        | Pommeko              | Portugalia           | [12990014](http://mahjong-europe.org/ranking/Players/12990014.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 16 | Jakub Titow                              | Tribell              | Polska               | [19000145](http://mahjong-europe.org/ranking/Players/19000145.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 17 | Michał Waliszewski                       |                      | Polska               | [19000171](http://mahjong-europe.org/ranking/Players/19000171.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 18 | Artur Libich                             | IzumiRaito           | Polska               | [19000039](http://mahjong-europe.org/ranking/Players/19000039.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
