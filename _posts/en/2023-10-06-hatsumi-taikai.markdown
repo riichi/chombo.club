@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-02 15:37:04 +0100
+last_modified_at: 2024-02-03 15:37:06 +0100
 categories: tournaments
 lang: en
 ---
@@ -212,8 +212,8 @@ offer free help in Polish and English.
 | 23 | Konrad Marciniak                         | kaem                 | Poland               | [19000174](http://mahjong-europe.org/ranking/Players/19000174.html) |                                                      |
 | 24 | Szymon Nowicz                            |                      | Poland               | [19000140](http://mahjong-europe.org/ranking/Players/19000140.html) |                                                      |
 | 25 | Ula Szudlich                             |                      | Poland               | [19000144](http://mahjong-europe.org/ranking/Players/19000144.html) |                                                      |
-| 26 | Sonia Borysiak                           |                      | Poland               | [19000042](http://mahjong-europe.org/ranking/Players/19000042.html) |                                                      |
-| 27 | Jacek Borysiak                           |                      | Poland               | [19000032](http://mahjong-europe.org/ranking/Players/19000032.html) |                                                      |
+| 26 | Sonia Borysiak                           |                      | Poland               | [19000042](http://mahjong-europe.org/ranking/Players/19000042.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 27 | Jacek Borysiak                           |                      | Poland               | [19000032](http://mahjong-europe.org/ranking/Players/19000032.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 28 | Paulina Kakuba                           | zozol                | Poland               |                                                                     |                                                      |
 | 29 | Elmar Mohsenzada                         | Tinkerbell           | Austria              | [01000154](http://mahjong-europe.org/ranking/Players/01000154.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 30 | Marek Minias                             |                      | Poland               | [19000139](http://mahjong-europe.org/ranking/Players/19000139.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
@@ -268,7 +268,7 @@ offer free help in Polish and English.
 | 79 | Elias Boutaleb                           |                      | France               | [04160115](http://mahjong-europe.org/ranking/Players/04160115.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 80 | Jakub Szpyra                             | Kuboxxxxx            | Poland               |                                                                     |                                                      |
 | 81 | Raziya Bizhanova                         | Shiro                | Belarus              | [20000012](http://mahjong-europe.org/ranking/Players/20000012.html) |                                                      |
-| 82 | Vitalii Balaniuk                         |                      | Ukraine              | [21000005](http://mahjong-europe.org/ranking/Players/21000005.html) |                                                      |
+| 82 | Vitalii Balaniuk                         |                      | Ukraine              | [21000005](http://mahjong-europe.org/ranking/Players/21000005.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 83 | Chris Luntraru                           |                      | Romania              | [25000008](http://mahjong-europe.org/ranking/Players/25000008.html) |                                                      |
 | 84 | Tatsuya Igarashi                         |                      | Poland               | [19000091](http://mahjong-europe.org/ranking/Players/19000091.html) |                                                      |
 
