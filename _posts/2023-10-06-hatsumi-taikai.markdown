@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-03 15:37:06 +0100
+last_modified_at: 2024-02-04 21:37:12 +0100
 categories: tournaments
 lang: pl
 ---
@@ -286,7 +286,6 @@ Gracze będą przeniesieni z listy oczekujących jeżeli któryś z zapisanych u
 |  6 | Dominik Pawelec                          |                      | Polska               |                                                                     |
 |  7 | Mariusz Stanaszek                        |                      | Polska               |                                                                     |
 |  8 | Julia Buła                               |                      | Polska               |                                                                     |
-|  9 | Gerard Konopielko                        |                      | Polska               |                                                                     |
-| 10 | Konstantin Pakshaev                      | Derinov              | Norwegia             | [23000005](http://mahjong-europe.org/ranking/Players/23000005.html) |
+|  9 | Konstantin Pakshaev                      | Derinov              | Norwegia             | [23000005](http://mahjong-europe.org/ranking/Players/23000005.html) |
 
 </div>
