@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-05 15:37:12 +0100
+last_modified_at: 2024-02-05 21:37:08 +0100
 categories: tournaments
 lang: pl
 ---
@@ -205,7 +205,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 | 20 | Alex Grad                                | Mironty              | Polska               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 21 | Olga Igarashi                            |                      | Polska               | [19000087](http://mahjong-europe.org/ranking/Players/19000087.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 22 | Jacek Spychala                           |                      | Polska               | [19000141](http://mahjong-europe.org/ranking/Players/19000141.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 23 | Konrad Marciniak                         | kaem                 | Polska               | [19000174](http://mahjong-europe.org/ranking/Players/19000174.html) |                                                      |
+| 23 | Konrad Marciniak                         | kaem                 | Polska               | [19000174](http://mahjong-europe.org/ranking/Players/19000174.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 24 | Szymon Nowicz                            |                      | Polska               | [19000140](http://mahjong-europe.org/ranking/Players/19000140.html) |                                                      |
 | 25 | Ula Szudlich                             |                      | Polska               | [19000144](http://mahjong-europe.org/ranking/Players/19000144.html) |                                                      |
 | 26 | Sonia Borysiak                           |                      | Polska               | [19000042](http://mahjong-europe.org/ranking/Players/19000042.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
