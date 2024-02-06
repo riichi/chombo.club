@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-06 15:37:13 +0100
+last_modified_at: 2024-02-06 21:37:04 +0100
 categories: tournaments
 lang: en
 ---
@@ -210,7 +210,7 @@ offer free help in Polish and English.
 | 21 | Olga Igarashi                            |                      | Poland               | [19000087](http://mahjong-europe.org/ranking/Players/19000087.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 22 | Jacek Spychala                           |                      | Poland               | [19000141](http://mahjong-europe.org/ranking/Players/19000141.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 23 | Konrad Marciniak                         | kaem                 | Poland               | [19000174](http://mahjong-europe.org/ranking/Players/19000174.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 24 | Szymon Nowicz                            |                      | Poland               | [19000140](http://mahjong-europe.org/ranking/Players/19000140.html) |                                                      |
+| 24 | Szymon Nowicz                            |                      | Poland               | [19000140](http://mahjong-europe.org/ranking/Players/19000140.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 25 | Ula Szudlich                             |                      | Poland               | [19000144](http://mahjong-europe.org/ranking/Players/19000144.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 26 | Sonia Borysiak                           |                      | Poland               | [19000042](http://mahjong-europe.org/ranking/Players/19000042.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 27 | Jacek Borysiak                           |                      | Poland               | [19000032](http://mahjong-europe.org/ranking/Players/19000032.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
@@ -256,7 +256,7 @@ offer free help in Polish and English.
 | 67 | Victor Savard-Arseneault                 |                      | Canada               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 68 | Kevin Arighi Yusharyahya                 | Kevin                | Sweden               | [09990156](http://mahjong-europe.org/ranking/Players/09990156.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 69 | Michael Gürtl-Dusleag                    |                      | Austria              | [01000125](http://mahjong-europe.org/ranking/Players/01000125.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 70 | Mariusz Krause                           | Vox                  | Poland               |                                                                     |                                                      |
+| 70 | Mariusz Krause                           | Vox                  | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 71 | Maciej Wrześniewski                      |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 72 | Hubert Żmurko                            |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 73 | Natalia Mecner                           |                      | United Kingdom       | [11990138](http://mahjong-europe.org/ranking/Players/11990138.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
