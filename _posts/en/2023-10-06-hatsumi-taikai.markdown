@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-06 21:37:04 +0100
+last_modified_at: 2024-02-07 09:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -41,11 +41,11 @@ We invite you to the second MERS tournament in Kraków!
 * Participant limit: 84
 * EMA Observer: Michael Gürtl-Dusleag
 * Referees:
+  - Michał Herda
   - Mateusz Maćkowski
   - Fabien Sacha
   - Marta Bacic (playing referee)
   - Szymon Nowicz (playing referee)
-  - more coming soon!
 * Lunch: included in the entry fee
 * Prizes: trophies for the first three places, club merchandise for the first 10 places
 

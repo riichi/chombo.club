@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-06 21:37:04 +0100
+last_modified_at: 2024-02-07 09:37:12 +0100
 categories: tournaments
 lang: pl
 ---
@@ -40,11 +40,11 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 * Limit osób: 84
 * Obserwator EMA: Michael Gürtl-Dusleag
 * Sędziowie:
+  - Michał Herda
   - Mateusz Maćkowski
   - Fabien Sacha
   - Marta Bacic (sędzia grająca)
   - Szymon Nowicz (sędzia grający)
-  - więcej wkrótce!
 * Obiad: wliczony w cenę wpisowego
 * Nagrody: trofea dla pierwszych trzech miejsc, gadżety klubowe dla pierwszych 10 miejsc
 
