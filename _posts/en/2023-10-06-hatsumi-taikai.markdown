@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-08 15:37:12 +0100
+last_modified_at: 2024-02-08 21:37:08 +0100
 categories: tournaments
 lang: en
 ---
@@ -192,7 +192,7 @@ offer free help in Polish and English.
 |  3 | Jakub Cieślik                            | Bobcat               | Poland               | [19000162](http://mahjong-europe.org/ranking/Players/19000162.html) |                                                      |
 |  4 | Michał Tkaczyk                           |                      | Poland               | [19000168](http://mahjong-europe.org/ranking/Players/19000168.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  5 | Dominik Jarno                            | Dokku                | Poland               | [19000035](http://mahjong-europe.org/ranking/Players/19000035.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-|  6 | Adrian Fornalik                          | Miku                 | Poland               | [19000120](http://mahjong-europe.org/ranking/Players/19000120.html) |                                                      |
+|  6 | Adrian Fornalik                          | Miku                 | Poland               | [19000120](http://mahjong-europe.org/ranking/Players/19000120.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  7 | Martyna Jędryczka                        |                      | Poland               | [19000102](http://mahjong-europe.org/ranking/Players/19000102.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  8 | Luna Świątek                             |                      | Poland               | [19000143](http://mahjong-europe.org/ranking/Players/19000143.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  9 | Paweł Kruk                               | Kruker               | Poland               | [19000111](http://mahjong-europe.org/ranking/Players/19000111.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
