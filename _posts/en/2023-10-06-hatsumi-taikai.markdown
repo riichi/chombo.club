@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-09 09:37:02 +0100
+last_modified_at: 2024-02-09 21:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -189,7 +189,7 @@ offer free help in Polish and English.
 |---:|:-----------------------------------------|:---------------------|:---------------------|:--------------------------------------------------------------------|:----------------------------------------------------:|
 |  1 | Maciej Szostak                           | Craix                | Poland               | [19000182](http://mahjong-europe.org/ranking/Players/19000182.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  2 | Aleksander Orlikowski                    | Olson                | Poland               | [19000175](http://mahjong-europe.org/ranking/Players/19000175.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-|  3 | Jakub Cieślik                            | Bobcat               | Poland               | [19000162](http://mahjong-europe.org/ranking/Players/19000162.html) |                                                      |
+|  3 | Jakub Cieślik                            | Bobcat               | Poland               | [19000162](http://mahjong-europe.org/ranking/Players/19000162.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  4 | Michał Tkaczyk                           |                      | Poland               | [19000168](http://mahjong-europe.org/ranking/Players/19000168.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  5 | Dominik Jarno                            | Dokku                | Poland               | [19000035](http://mahjong-europe.org/ranking/Players/19000035.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 |  6 | Adrian Fornalik                          | Miku                 | Poland               | [19000120](http://mahjong-europe.org/ranking/Players/19000120.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
