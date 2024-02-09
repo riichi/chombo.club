@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-08 21:37:08 +0100
+last_modified_at: 2024-02-09 09:37:02 +0100
 categories: tournaments
 lang: en
 ---
@@ -52,7 +52,7 @@ We invite you to the second MERS tournament in Kraków!
 Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
 themselves with the app before the tournament.
 
-With representants of **9** different EMA countries and a total number of **84** contestants, the current MERS tournament ranking is **3.5** (with 4.0 being the maximum).\
+With representants of **8** different EMA countries and a total number of **84** contestants, the current MERS tournament ranking is **3.5** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
 ## Agenda
@@ -248,29 +248,29 @@ offer free help in Polish and English.
 | 59 | Marta Bacic                              |                      | Poland               | [19000067](http://mahjong-europe.org/ranking/Players/19000067.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 60 | Jakub Bacic                              | JB                   | Poland               | [19000066](http://mahjong-europe.org/ranking/Players/19000066.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 61 | Alex Leung                               |                      | France               | [04160110](http://mahjong-europe.org/ranking/Players/04160110.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 62 | Mannokaran Zageeth                       | Zaike                | France               | [04160108](http://mahjong-europe.org/ranking/Players/04160108.html) |                                                      |
-| 63 | Ksenia Trishina                          |                      | Sweden               | [09990127](http://mahjong-europe.org/ranking/Players/09990127.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 64 | Marcin Kurek                             | Kuraj                | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 65 | Joanna Patalon                           |                      | Poland               | [19000062](http://mahjong-europe.org/ranking/Players/19000062.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 66 | Justyna Rak                              |                      | Poland               | [19000063](http://mahjong-europe.org/ranking/Players/19000063.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 67 | Victor Savard-Arseneault                 |                      | Canada               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 68 | Kevin Arighi Yusharyahya                 | Kevin                | Sweden               | [09990156](http://mahjong-europe.org/ranking/Players/09990156.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 69 | Michael Gürtl-Dusleag                    |                      | Austria              | [01000125](http://mahjong-europe.org/ranking/Players/01000125.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 70 | Mariusz Krause                           | Vox                  | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 71 | Maciej Wrześniewski                      |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 72 | Hubert Żmurko                            |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 73 | Natalia Mecner                           |                      | United Kingdom       | [11990138](http://mahjong-europe.org/ranking/Players/11990138.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 74 | Anton Yarchuk                            |                      | Ukraine              | [21000016](http://mahjong-europe.org/ranking/Players/21000016.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 75 | Krzysztof Sośnicki                       |                      | United Kingdom       | [11000021](http://mahjong-europe.org/ranking/Players/11000021.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 76 | Jędrzej Adamczewski                      |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 77 | Elias Boutaleb                           |                      | France               | [04160115](http://mahjong-europe.org/ranking/Players/04160115.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 78 | Jakub Szpyra                             | Kuboxxxxx            | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 79 | Raziya Bizhanova                         | Shiro                | Belarus              | [20000012](http://mahjong-europe.org/ranking/Players/20000012.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 80 | Vitalii Balaniuk                         |                      | Ukraine              | [21000005](http://mahjong-europe.org/ranking/Players/21000005.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 81 | Chris Luntraru                           |                      | Romania              | [25000008](http://mahjong-europe.org/ranking/Players/25000008.html) |                                                      |
-| 82 | Tatsuya Igarashi                         |                      | Poland               | [19000091](http://mahjong-europe.org/ranking/Players/19000091.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 83 | Maksim Amelevich                         |                      | Belarus              | [20000006](http://mahjong-europe.org/ranking/Players/20000006.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 84 | Uladzimir Tananushka                     | Uladz                | Belarus              | [20000003](http://mahjong-europe.org/ranking/Players/20000003.html) |                                                      |
+| 62 | Ksenia Trishina                          |                      | Sweden               | [09990127](http://mahjong-europe.org/ranking/Players/09990127.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 63 | Marcin Kurek                             | Kuraj                | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 64 | Joanna Patalon                           |                      | Poland               | [19000062](http://mahjong-europe.org/ranking/Players/19000062.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 65 | Justyna Rak                              |                      | Poland               | [19000063](http://mahjong-europe.org/ranking/Players/19000063.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 66 | Victor Savard-Arseneault                 |                      | Canada               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 67 | Kevin Arighi Yusharyahya                 | Kevin                | Sweden               | [09990156](http://mahjong-europe.org/ranking/Players/09990156.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 68 | Michael Gürtl-Dusleag                    |                      | Austria              | [01000125](http://mahjong-europe.org/ranking/Players/01000125.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 69 | Mariusz Krause                           | Vox                  | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 70 | Maciej Wrześniewski                      |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 71 | Hubert Żmurko                            |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 72 | Natalia Mecner                           |                      | United Kingdom       | [11990138](http://mahjong-europe.org/ranking/Players/11990138.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 73 | Anton Yarchuk                            |                      | Ukraine              | [21000016](http://mahjong-europe.org/ranking/Players/21000016.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 74 | Krzysztof Sośnicki                       |                      | United Kingdom       | [11000021](http://mahjong-europe.org/ranking/Players/11000021.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 75 | Jędrzej Adamczewski                      |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 76 | Elias Boutaleb                           |                      | France               | [04160115](http://mahjong-europe.org/ranking/Players/04160115.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 77 | Jakub Szpyra                             | Kuboxxxxx            | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 78 | Raziya Bizhanova                         | Shiro                | Belarus              | [20000012](http://mahjong-europe.org/ranking/Players/20000012.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 79 | Vitalii Balaniuk                         |                      | Ukraine              | [21000005](http://mahjong-europe.org/ranking/Players/21000005.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 80 | Tatsuya Igarashi                         |                      | Poland               | [19000091](http://mahjong-europe.org/ranking/Players/19000091.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 81 | Maksim Amelevich                         |                      | Belarus              | [20000006](http://mahjong-europe.org/ranking/Players/20000006.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 82 | Uladzimir Tananushka                     | Uladz                | Belarus              | [20000003](http://mahjong-europe.org/ranking/Players/20000003.html) |                                                      |
+| 83 | Tatsiana Mikhalchenya                    |                      | Belarus              |                                                                     |                                                      |
+| 84 | Bartłomiej Żok                           |                      | Poland               | [19000124](http://mahjong-europe.org/ranking/Players/19000124.html) |                                                      |
 
 </div>
 
@@ -282,12 +282,12 @@ Players will be moved off the waiting list if any of the registered participants
 
 | Nr | Name                                     | Nickname             | Country              | EMA ID                                                              |
 |---:|:-----------------------------------------|:---------------------|:---------------------|:--------------------------------------------------------------------|
-|  1 | Tatsiana Mikhalchenya                    |                      | Belarus              |                                                                     |
-|  2 | Bartłomiej Żok                           |                      | Poland               | [19000124](http://mahjong-europe.org/ranking/Players/19000124.html) |
-|  3 | Aliaksei Yurechka                        |                      | Belarus              |                                                                     |
-|  4 | Dominik Pawelec                          |                      | Poland               |                                                                     |
-|  5 | Mariusz Stanaszek                        |                      | Poland               |                                                                     |
-|  6 | Julia Buła                               |                      | Poland               |                                                                     |
-|  7 | Konstantin Pakshaev                      | Derinov              | Norway               | [23000005](http://mahjong-europe.org/ranking/Players/23000005.html) |
+|  1 | Aliaksei Yurechka                        |                      | Belarus              |                                                                     |
+|  2 | Dominik Pawelec                          |                      | Poland               |                                                                     |
+|  3 | Mariusz Stanaszek                        |                      | Poland               |                                                                     |
+|  4 | Julia Buła                               |                      | Poland               |                                                                     |
+|  5 | Konstantin Pakshaev                      | Derinov              | Norway               | [23000005](http://mahjong-europe.org/ranking/Players/23000005.html) |
+|  6 | Mannokaran Zageeth                       | Zaike                | France               | [04160108](http://mahjong-europe.org/ranking/Players/04160108.html) |
+|  7 | Chris Luntraru                           |                      | Romania              | [25000008](http://mahjong-europe.org/ranking/Players/25000008.html) |
 
 </div>
