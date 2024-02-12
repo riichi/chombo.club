@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-09 21:37:12 +0100
+last_modified_at: 2024-02-12 15:37:12 +0100
 categories: tournaments
 lang: en
 ---
@@ -268,9 +268,9 @@ offer free help in Polish and English.
 | 79 | Vitalii Balaniuk                         |                      | Ukraine              | [21000005](http://mahjong-europe.org/ranking/Players/21000005.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 80 | Tatsuya Igarashi                         |                      | Poland               | [19000091](http://mahjong-europe.org/ranking/Players/19000091.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 81 | Maksim Amelevich                         |                      | Belarus              | [20000006](http://mahjong-europe.org/ranking/Players/20000006.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 82 | Uladzimir Tananushka                     | Uladz                | Belarus              | [20000003](http://mahjong-europe.org/ranking/Players/20000003.html) |                                                      |
-| 83 | Tatsiana Mikhalchenya                    |                      | Belarus              |                                                                     |                                                      |
-| 84 | Bartłomiej Żok                           |                      | Poland               | [19000124](http://mahjong-europe.org/ranking/Players/19000124.html) |                                                      |
+| 82 | Uladzimir Tananushka                     | Uladz                | Belarus              | [20000003](http://mahjong-europe.org/ranking/Players/20000003.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 83 | Tatsiana Mikhalchenya                    |                      | Belarus              |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 84 | Bartłomiej Żok                           |                      | Poland               | [19000124](http://mahjong-europe.org/ranking/Players/19000124.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 
 </div>
 
