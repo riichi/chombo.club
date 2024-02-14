@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-14 15:37:08 +0100
+last_modified_at: 2024-02-14 21:37:09 +0100
 categories: tournaments
 lang: en
 ---
@@ -44,7 +44,6 @@ We invite you to the second MERS tournament in Kraków!
   - Michał Herda
   - Mateusz Maćkowski
   - Fabien Sacha
-  - Marta Bacic (playing referee)
   - Szymon Nowicz (playing referee)
 * Lunch: included in the entry fee
 * Prizes: trophies for the first three places, club merchandise for the first 10 places
@@ -269,8 +268,8 @@ offer free help in Polish and English.
 | 80 | Uladzimir Tananushka                     | Uladz                | Belarus              | [20000003](http://mahjong-europe.org/ranking/Players/20000003.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 81 | Tatsiana Mikhalchenya                    |                      | Belarus              |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 82 | Bartłomiej Żok                           |                      | Poland               | [19000124](http://mahjong-europe.org/ranking/Players/19000124.html) | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 83 | Aliaksei Yurechka                        |                      | Belarus              |                                                                     |                                                      |
-| 84 | Dominik Pawelec                          |                      | Poland               |                                                                     |                                                      |
+| 83 | Aliaksei Yurechka                        |                      | Belarus              |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 84 | Dominik Pawelec                          |                      | Poland               |                                                                     | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 
 </div>
 
