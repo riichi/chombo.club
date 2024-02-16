@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background: silver;
+            font-family: sans-serif;
+            margin: 0;
+        }
+
+        #container {
+            background: white;
+            margin: auto;
+            padding: 1em;
+            max-width: 960px;
+        }
+
+        img,
+        video {
+            display: block;
+            margin: auto;
+            max-width: 75vw;
+            max-height: 75vh;
+        }
+    </style>
+    <title>Mahjong Tracker manual</title>
+</head>
+
+<body>
+    <div id="container">
+        <h1>Mahjong Tracker manual</h1>
+
+        <h2>Installation and setup</h2>
+
+        <ul>
+            <li>Download the app on your Android device by searching for MAHJONG TRACKER or by following
+                <a href="https://play.google.com/store/apps/details?id=com.mahjongtracker.androidapp">this link</a>
+            </li>
+            <li>On the first run, you will be required to log in or register a new account</li>
+        </ul>
+
+        <h3>Settings</h3>
+
+        <p>The application has two settings:</p>
+
+        <ul>
+            <li>Keep screen on during game</li>
+            <li>Do Not Disturb Mode</li>
+        </ul>
+
+        <p>It is highly recommended to enable both. Do Not Disturb Mode will prevent notification banners from popping
+            up
+            where
+            other players can see them.</p>
+
+        <h2>Games view</h2>
+
+        <img src="10.png">
+
+        <!--
+            <h2>Creating a new game</h2>
+
+            <p>After tapping the "+" button, fill out the players names and tap CREATE.</p>
+
+            <p>The GAME SETTINGS tab is irrelevant for the purposes of this tournament.</p>
+
+            <img src="20.png" />
+        -->
+
+        <h2>Game view</h2>
+
+        <p>The game view is divided into two parts.</p>
+
+        <h3>Game board</h3>
+
+        <img src="30.png">
+
+        <h3>Scoresheet</h3>
+
+        <img src="31.jpg">
+
+        <h2>Finishing the round</h2>
+
+        <p>Tap the "+" button in the Game view. You will be presented with a menu with the following options:</p>
+
+        <h3>Tsumo</h3>
+
+        <ul>
+            <li>choose TSUMO</li>
+            <li>tap the player who won</li>
+            <li>enter han and fu values</li>
+            <li>tap the "checkmark" button</li>
+            <li>tap all players that declared riichi</li>
+            <li>tap the "submit" button</li>
+        </ul>
+
+        <video src="tsumo.mp4" controls></video>
+
+        <h3>Ron</h3>
+
+        <ul>
+            <li>choose RON</li>
+            <li>tap the player who lost</li>
+            <li>for each player who won:
+              <ul>
+                  <li>tap the player who won</li>
+                  <li>enter han and fu values</li>
+              </ul>
+            </li>
+            <li>tap the "checkmark" button</li>
+            <li>tap all players that declared riichi</li>
+            <li>tap the "submit" button</li>
+        </ul>
+
+        <video src="ron.mp4" controls></video>
+
+        <h3>Abortive draw</h3>
+
+        <ul>
+            <li>choose RYUUKYOKU</li>
+            <li>tap all players that were in tenpai</li>
+            <li>tap the "checkmark" button</li>
+            <li>tap all players that declared riichi</li>
+            <li>tap the "submit" button</li>
+        </ul>
+
+        <video src="abortivedraw.mp4" controls></video>
+
+        <h3>Chombo</h3>
+
+        <ul>
+            <li>choose CHONBO</li>
+            <li>tap the player who committed chombo</li>
+            <li>tap the "submit" button</li>
+        </ul>
+
+        <video src="chombo.mp4" controls></video>
+
+        <h3>Yakuman</h3>
+
+        <p>When a player gets a yakuman:</p>
+
+        <ul>
+            <li>follow the directions for RON or TSUMO</li>
+            <li>in the han and fu values dialog, check "Yakuman" (don't change the yakuman count)</li>
+            <li>tap the player that was liable for the yakuman, if applies (sekinin barai). Tap the player who won to
+                undo</li>
+            <li>follow the rest of directions for RON or TSUMO</li>
+        </ul>
+
+        <video src="yakuman.mp4" controls></video>
+
+        <h3>Finishing the game</h3>
+
+        <p>Access the main menu and tap "Finish game". A confirmation dialog will pop up.</p>
+
+        <p>Good luck and have fun!</p>
+    </div>
+</body>
+
+</html>
