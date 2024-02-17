@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-14 21:37:09 +0100
+last_modified_at: 2024-02-17 15:37:13 +0100
 categories: tournaments
 lang: en
 ---
@@ -107,19 +107,19 @@ With representants of **8** different EMA countries and a total number of **84**
     <td>Hanchan VI</td>
   </tr>
   <tr>
-    <td>12:20-13:45</td>
+    <td>12:20-13:15</td>
     <td>Lunch break</td>
   </tr>
   <tr>
-    <td>13:45-15:15</td>
+    <td>13:15-14:45</td>
     <td>Hanchan VII</td>
   </tr>
   <tr>
-    <td>15:35-17:05</td>
+    <td>15:05-16:35</td>
     <td>Hanchan VIII</td>
   </tr>
   <tr>
-    <td>17:15-17:45</td>
+    <td>16:45-17:15</td>
     <td>Announcement of results, closing ceremony</td>
   </tr>
 </tbody>
