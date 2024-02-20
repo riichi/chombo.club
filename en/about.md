@@ -30,3 +30,11 @@ You can find us on the following social networking websites:
 * Wojciech Sabała — Member of the Audit Committee
 * Łukasz Sereda — Member of the Audit Committee
 * Dominik Wołek — Member of the Audit Committee
+
+## Leaflet
+
+![Leaflet - front]({{ "assets/images/leaflet-en-1.png" | relative_url }})
+
+![Leaflet - back]({{ "assets/images/leaflet-en-2.png" | relative_url }})
+
+[Download the leaflet in the PDF format]({{ "assets/download/leaflet-en.pdf" | relative_url }})
