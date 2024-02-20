@@ -68,8 +68,8 @@ lub
 
 ## Ulotka
 
-![Leaflet1]({{ "assets/images/leaflet-v3-1.png" | relative_url }})
+![Ulotka - awers]({{ "assets/images/leaflet-pl-1.png" | relative_url }})
 
-![Leaflet2]({{ "assets/images/leaflet-v3-2.png" | relative_url }})
+![Ulotka - rewers]({{ "assets/images/leaflet-pl-2.png" | relative_url }})
 
-[Pobierz ulotkę w formacie PDF]({{ "assets/download/leaflet-v3.pdf" | relative_url }})
+[Pobierz ulotkę w formacie PDF]({{ "assets/download/leaflet-pl.pdf" | relative_url }})
