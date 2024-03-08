@@ -49,6 +49,26 @@ lub
 {imię i nazwisko} - składka członkowska za 2024 rok
 ```
 
+### 1,5% podatku
+
+Dzięki współpracy z [Fundacją Studencką „Młodzi-Młodym”](https://fsmm.pl/) istnieje możliwość przekazania 1,5% podatku dochodowego na Stowarzyszenie Krakowski Klub Chombo.
+W tym celu podczas wypełniania formularza PIT należy wpisać **KRS: 0000270261** z celem szczegółowym: **Stowarzyszenie Krakowski Klub Chombo 20106**.
+Szczegóły akcji dostępne są na [stronie internetowej Fundacji MM](https://fsmm.pl/20106/zagraj_z_nami_w_mahjonga).
+
+### Darowizna na cele statutowe
+
+Istnieje możliwość bezpośredniego wsparcia Stowarzyszenia poprzez przesłanie darowizny na cele statutowe.
+Dane do przelewu:
+
+**Odbiorca**: Stowarzyszenie Krakowski Klub Chombo \
+**Numer konta**: `PL13 1140 2004 0000 3802 8180 7241` \
+**Tytuł**:
+```
+Darowizna na cele statutowe stowarzyszenia
+```
+
+Każda kwota jest mile widziana!
+
 ### Władze Stowarzyszenia
 
 * Mateusz Maćkowski — Prezes Zarządu
