@@ -64,7 +64,7 @@ Dane do przelewu:
 **Numer konta**: `PL13 1140 2004 0000 3802 8180 7241` \
 **Tytuł**:
 ```
-Darowizna na cele statutowe stowarzyszenia
+Darowizna na cele statutowe Stowarzyszenia
 ```
 
 Każda kwota jest mile widziana!

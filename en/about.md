@@ -23,7 +23,7 @@ If you would like to send a donation to support the Krakow Chombo Club Associati
 **SWIFT/BIC**: BREXPLPWMBK\
 **Reference**:
 ```
-Donation for the association's statutory objectives
+Donation for the Association's statutory objectives
 ```
 
 Any amount is welcome!
