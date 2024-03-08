@@ -6,13 +6,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Michał Herda sędzią USMA",
-        "excerpt":"Z radością informujemy, że nasz klubowy kolega Michał Herda został certyfikowanym sędzią Górnośląskiego Związku Madżonga. Będzie on mógł od teraz sędziować gry rankingowe USMA oraz nie-MERS-owe (USMA) turnieje. Gratulacje!          ","categories": ["other"],
+        "excerpt":"Z radością informujemy, że nasz klubowy kolega Michał Herda został certyfikowanym sędzią Górnośląskiego Związku Madżonga. Będzie on mógł od teraz sędziować gry rankingowe USMA oraz nie-MERS-owe (USMA) turnieje. Gratulacje!           ","categories": ["other"],
         "tags": [],
         "url": "/other/2020/01/20/new-referee-michal-herda/",
         "teaser": null
       },{
         "title": "Krakowski Klub Chombo na Mahjong Retro Taikai",
-        "excerpt":"Czteroosobowa reprezentacja Krakowskiego Klubu Chombo wybrała się na Retro Mahjong Taikai i przywiozła trofea w postaci zupełnie niczego! Turniej był wspaniały, graliśmy na bambusowych kamieniach, a Mateusz Maćkowski dorobił się w warszawskim Auchanie nowej emotikony.          ","categories": ["other"],
+        "excerpt":"Czteroosobowa reprezentacja Krakowskiego Klubu Chombo wybrała się na Retro Mahjong Taikai i przywiozła trofea w postaci zupełnie niczego! Turniej był wspaniały, graliśmy na bambusowych kamieniach, a Mateusz Maćkowski dorobił się w warszawskim Auchanie nowej emotikony.           ","categories": ["other"],
         "tags": [],
         "url": "/other/2020/02/23/mahjong-retro-taikai/",
         "teaser": null
@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Mateusz Maćkowski sędzią EMA",
-        "excerpt":"W ten weekend (20-21.05.2023) nasza reprezentacja zameldowała się w Kopenhadze na Open Danish Championship. Przed weekendowymi zmaganiami odbyło się seminarium sędziowskie EMA, podczas którego Mateusz Maćkowski uzyskał tytuł certyfikowanego sędziego!   Serdecznie gratulujemy!          ","categories": ["other"],
+        "excerpt":"W ten weekend (20-21.05.2023) nasza reprezentacja zameldowała się w Kopenhadze na Open Danish Championship. Przed weekendowymi zmaganiami odbyło się seminarium sędziowskie EMA, podczas którego Mateusz Maćkowski uzyskał tytuł certyfikowanego sędziego!   Serdecznie gratulujemy!           ","categories": ["other"],
         "tags": [],
         "url": "/other/2023/05/20/new-referee-mateusz-mackowski/",
         "teaser": null
@@ -90,7 +90,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Szymon Nowicz sędzią EMA",
-        "excerpt":"Przed turniejem w Poznaniu, w piątek 10.11.2023, odbyło się seminarium EMA, podczas którego Szymon Nowicz zdobył uprawnienia do sędziowania zawodów organizowanych w ramach Europejskiego Związku Mahjonga (warto wspomnieć, że Szymon zdobył najwyższy wynik na teście!)   Serdecznie gratulujemy!          ","categories": ["other"],
+        "excerpt":"Przed turniejem w Poznaniu, w piątek 10.11.2023, odbyło się seminarium EMA, podczas którego Szymon Nowicz zdobył uprawnienia do sędziowania zawodów organizowanych w ramach Europejskiego Związku Mahjonga (warto wspomnieć, że Szymon zdobył najwyższy wynik na teście!)   Serdecznie gratulujemy!           ","categories": ["other"],
         "tags": [],
         "url": "/other/2023/11/15/new-referee-szymon-nowicz/",
         "teaser": null

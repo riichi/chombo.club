@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Michał Herda has become a USMA referee",
-        "excerpt":"We are happy to announce that our colleague Michał Herda has become an Upper Silesian Mahjong Association-certified referee. He is now eligible for refereeing USMA ranked games as well as non-MERS (USMA) tournaments. Congratulations!          ","categories": ["other"],
+        "excerpt":"We are happy to announce that our colleague Michał Herda has become an Upper Silesian Mahjong Association-certified referee. He is now eligible for refereeing USMA ranked games as well as non-MERS (USMA) tournaments. Congratulations!           ","categories": ["other"],
         "tags": [],
         "url": "/other/2020/01/20/new-referee-michal-herda/",
         "teaser": null
@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Mateusz Maćkowski has become an EMA referee",
-        "excerpt":"This weekend (20-21 May 2023), our national team went to Copenhagen for the Open Danish Championship. Before the weekend’s battles, an EMA refereeing seminar was held, during which Mateusz Maćkowski was awarded the title of certified referee!   Congratulations!          ","categories": ["other"],
+        "excerpt":"This weekend (20-21 May 2023), our national team went to Copenhagen for the Open Danish Championship. Before the weekend’s battles, an EMA refereeing seminar was held, during which Mateusz Maćkowski was awarded the title of certified referee!   Congratulations!           ","categories": ["other"],
         "tags": [],
         "url": "/other/2023/05/20/new-referee-mateusz-mackowski/",
         "teaser": null
@@ -90,7 +90,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Szymon Nowicz has become an EMA referee",
-        "excerpt":"Just before the tournament in Poznań, on Friday 10 Nov 2023, an EMA seminar was held, during which Szymon Nowicz was qualified to judge competitions organised within the European Mahjong Association (it’s worth mentioning that Szymon obtained the highest score on the test!).   Congratulations!          ","categories": ["other"],
+        "excerpt":"Just before the tournament in Poznań, on Friday 10 Nov 2023, an EMA seminar was held, during which Szymon Nowicz was qualified to judge competitions organised within the European Mahjong Association (it’s worth mentioning that Szymon obtained the highest score on the test!).   Congratulations!           ","categories": ["other"],
         "tags": [],
         "url": "/other/2023/11/15/new-referee-szymon-nowicz/",
         "teaser": null
