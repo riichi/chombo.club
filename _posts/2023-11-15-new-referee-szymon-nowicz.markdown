@@ -9,10 +9,4 @@ Przed turniejem w Poznaniu, w piątek 10.11.2023, odbyło się seminarium EMA, p
 
 Serdecznie gratulujemy!
 
-{% capture fig_img %}
-![Szymon Nowicz]({{ "/assets/images/2023-11-15-szymon-nowicz.jpg" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{% include figure.html alt="Szymon Nowicz" filename="2023-11-15-szymon-nowicz.jpg" %}

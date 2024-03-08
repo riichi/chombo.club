@@ -8,13 +8,7 @@ lang: pl
 
 Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 
-{% capture fig_img %}
-![Kraków MERS Open 2022]({{ "/assets/images/2022-10-08-mers-open.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{% include figure.html alt="Kraków MERS Open 2022" filename="2022-10-08-mers-open.png" %}
 
 ## O turnieju
 

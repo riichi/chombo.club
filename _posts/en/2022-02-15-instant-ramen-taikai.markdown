@@ -5,13 +5,7 @@ categories: tournaments
 lang: en
 ---
 
-{% capture fig_img %}
-![Instant Ramen Taikai]({{ "/assets/images/2022-02-15-instant-ramen-taikai.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{% include figure.html alt="Instant Ramen Taikai" filename="2022-02-15-instant-ramen-taikai.png" %}
 
 It's time for the first chicken-flavored riichi tournament in Kraków!
 The tournament will be held on 3rd April 2022 in [Boardowa Cafe](http://boardowa.pl/)
