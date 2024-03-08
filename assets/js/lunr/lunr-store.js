@@ -77,9 +77,21 @@ var store = [{
         "url": "/tournaments/2022/07/09/krakow-mers-open/",
         "teaser": null
       },{
+        "title": "Mateusz Maćkowski sędzią EMA",
+        "excerpt":"W ten weekend (20-21.05.2023) nasza reprezentacja zameldowała się w Kopenhadze na Open Danish Championship. Przed weekendowymi zmaganiami odbyło się seminarium sędziowskie EMA, podczas którego Mateusz Maćkowski uzyskał tytuł certyfikowanego sędziego!   Serdecznie gratulujemy!          ","categories": ["other"],
+        "tags": [],
+        "url": "/other/2023/05/20/new-referee-mateusz-mackowski/",
+        "teaser": null
+      },{
         "title": "Hatsumi Taikai",
         "excerpt":"Zapraszamy Was na drugi turniej MERS w Krakowie! O turnieju Data: 17-18 lutego 2024 (sobota-niedziela) Miejsce: Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków Zasady: EMA Riichi 2016 Hanchany: 8 Wpisowe: 150 PLN (35 EUR), płatne przelewem: Płatność do 7 lutego 2024 Nr konta: 13 1140 2004...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2023/10/06/hatsumi-taikai/",
+        "teaser": null
+      },{
+        "title": "Szymon Nowicz sędzią EMA",
+        "excerpt":"Przed turniejem w Poznaniu, w piątek 10.11.2023, odbyło się seminarium EMA, podczas którego Szymon Nowicz zdobył uprawnienia do sędziowania zawodów organizowanych w ramach Europejskiego Związku Mahjonga (warto wspomnieć, że Szymon zdobył najwyższy wynik na teście!)   Serdecznie gratulujemy!          ","categories": ["other"],
+        "tags": [],
+        "url": "/other/2023/11/15/new-referee-szymon-nowicz/",
         "teaser": null
       }]

@@ -77,9 +77,21 @@ var store = [{
         "url": "/tournaments/2022/07/09/krakow-mers-open/",
         "teaser": null
       },{
+        "title": "Mateusz Maćkowski has become an EMA referee",
+        "excerpt":"This weekend (20-21 May 2023), our national team went to Copenhagen for the Open Danish Championship. Before the weekend’s battles, an EMA refereeing seminar was held, during which Mateusz Maćkowski was awarded the title of certified referee!   Congratulations!          ","categories": ["other"],
+        "tags": [],
+        "url": "/other/2023/05/20/new-referee-mateusz-mackowski/",
+        "teaser": null
+      },{
         "title": "Hatsumi Taikai",
         "excerpt":"We invite you to the second MERS tournament in Kraków! About Date: 17th-18th February 2024 (Sat-Sun) Place: Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków, Poland Ruleset: EMA Riichi 2016 Hanchans: 8 Entry fee: 150 PLN (35 EUR), paid by bank transfer (make sure you...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2023/10/06/hatsumi-taikai/",
+        "teaser": null
+      },{
+        "title": "Szymon Nowicz has become an EMA referee",
+        "excerpt":"Just before the tournament in Poznań, on Friday 10 Nov 2023, an EMA seminar was held, during which Szymon Nowicz was qualified to judge competitions organised within the European Mahjong Association (it’s worth mentioning that Szymon obtained the highest score on the test!).   Congratulations!          ","categories": ["other"],
+        "tags": [],
+        "url": "/other/2023/11/15/new-referee-szymon-nowicz/",
         "teaser": null
       }]
