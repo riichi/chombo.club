@@ -5,13 +5,7 @@ categories: other
 lang: pl
 ---
 
-{% capture fig_img %}
-![Stowarzyszenie Krakowski Klub Chombo]({{ "/assets/images/2021-08-09-stowarzyszenie-kkc.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{% include figure.html alt="Stowarzyszenie Krakowski Klub Chombo" filename="2021-08-09-stowarzyszenie-kkc.png" %}
 
 Stało się — z dniem 29 lipca 2021 roku Krakowski Klub Chombo stał się oficjalnie stowarzyszeniem. Jest to zwieńczenie niemal dwuletniego procesu — jednego roku wspólnej gry i planów na przyszłość, oraz kolejnego, który poświęciliśmy na proces formalny i rozwój idei stowarzyszenia. Mamy nadzieję, że oficjalna forma stowarzyszenia pozwoli nam na organizowanie lepszych wydarzeń, a członkom klubu na łatwiejsze reprezentowanie regionu na arenie krajowej i międzynarodowej. Nie spoczywamy na laurach — już planujemy pierwsze duże wydarzenie jako stowarzyszenie, czyli krakowski turniej, który najprawdopodobniej odbędzie się w ostatnim kwartale tego roku!
 

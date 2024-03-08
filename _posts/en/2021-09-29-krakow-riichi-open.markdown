@@ -5,13 +5,7 @@ categories: tournaments
 lang: en
 ---
 
-{% capture fig_img %}
-![Kraków Riichi Open]({{ "/assets/images/2021-09-29-krakow-riichi-open.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{% include figure.html alt="Kraków Riichi Open" filename="2021-09-29-krakow-riichi-open.png" %}
 
 Just as we said back when we finished work on creating our association, Krakow
 Chombo Club is proud to announce the first open Riichi Mahjong tournament in
