@@ -5,13 +5,7 @@ categories: tournaments
 lang: pl
 ---
 
-{% capture fig_img %}
-![Kraków Riichi Open]({{ "/assets/images/2021-09-29-krakow-riichi-open.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{% include figure.html alt="Kraków Riichi Open" filename="2021-09-29-krakow-riichi-open.png" %}
 
 Zgodnie z zapowiedzią przy okazji ogłoszenia o utworzeniu stowarzyszenia,
 Krakowski Klub Chombo ma przyjemność ogłosić pierwszy otwarty krakowski turniej

@@ -5,13 +5,7 @@ categories: tournaments
 lang: pl
 ---
 
-{% capture fig_img %}
-![Instant Ramen Taikai]({{ "/assets/images/2022-02-15-instant-ramen-taikai.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{% include figure.html alt="Instant Ramen Taikai" filename="2022-02-15-instant-ramen-taikai.png" %}
 
 Czas na pierwszy krakowski turniej riichi o smaku kurczaka! Turniej odbędzie się 3 kwietnia 2022 roku
 w kawiarni [Boardowa](http://boardowa.pl/) i będzie rozgrywany na zmodyfikowanych
