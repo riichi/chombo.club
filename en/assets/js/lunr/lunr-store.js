@@ -42,7 +42,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Equipment: review of the white tile set from e-go.pl",
-        "excerpt":"Hey! This is Michał Herda from the Krakow Chombo Club. Today I’m happy to show you a review of the riichi mahjong set from the online e-go.pl shop. The mahjong set cost me 269 PLN and contains tiles and accessories for playing Japanese riichi mahjong. During the review, I’ll make...","categories": ["other"],
+        "excerpt":"Hey! This is Michał Herda from the Krakow Chombo Club. Today I’m happy to show you a review of the riichi mahjong set from the online e-go.pl shop. The mahjong set cost me 269 PLN (March 2024 update: 449 PLN) and contains tiles and accessories for playing Japanese riichi mahjong....","categories": ["other"],
         "tags": [],
         "url": "/other/2021/06/15/review-e-go-white-tiles/",
         "teaser": null
