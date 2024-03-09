@@ -1,11 +1,12 @@
 ---
 title:  "Ekwipunek: recenzja zestawu białego z e-go.pl"
 date:   2021-06-15 8:00:00 +0100
+last_modified_at: 2024-03-09 11:54:21 +0100
 categories: other
 lang: pl
 ---
 
-Cześć! Tutaj Michał Herda z Krakowskiego Klubu Chombo. Dzisiaj prezentuję recenzję [zestawu do mahjonga japońskiego](http://ponnuki.nazwa.pl/e-go/index.php?main_page=product_info&cPath=17&products_id=211) z internetowego sklepu [e-go.pl](http://e-go.pl/). Zestaw w momencie zakupu kosztował 269 PLN i zawiera kamienie oraz akcesoria do gry w mahjonga japońskiego.
+Cześć! Tutaj Michał Herda z Krakowskiego Klubu Chombo. Dzisiaj prezentuję recenzję [zestawu do mahjonga japońskiego](https://www.e-go.pl/mahjong/japonski-mahjong-bialy.html) z internetowego sklepu [e-go.pl](http://e-go.pl/). Zestaw w momencie zakupu kosztował 269 PLN (stan na marzec 2024: 449 PLN) i zawiera kamienie oraz akcesoria do gry w mahjonga japońskiego.
 W trakcie recenzji zestaw będę tu i ówdzie porównywał do (porządnie już zużytego) egzemplarza [zestawu produkcji polskiej firmy Grapet](https://www.ceneo.pl/35993142).
 
 ## Przegląd

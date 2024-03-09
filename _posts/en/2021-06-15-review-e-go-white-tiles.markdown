@@ -1,11 +1,12 @@
 ---
 title:  "Equipment: review of the white tile set from e-go.pl"
 date:   2021-06-15 8:00:00 +0100
+last_modified_at: 2024-03-09 11:54:21 +0100
 categories: other
 lang: en
 ---
 
-Hey! This is Michał Herda from the Krakow Chombo Club. Today I'm happy to show you a review of [the riichi mahjong set](http://ponnuki.nazwa.pl/e-go/index.php?main_page=product_info&cPath=17&products_id=211) from the online [e-go.pl](http://e-go.pl/) shop. The mahjong set cost me 269 PLN and contains tiles and accessories for playing Japanese riichi mahjong.
+Hey! This is Michał Herda from the Krakow Chombo Club. Today I'm happy to show you a review of [the riichi mahjong set](https://www.e-go.pl/mahjong/japanise-mahjong-white.html) from the online [e-go.pl](http://e-go.pl/) shop. The mahjong set cost me 269 PLN (March 2024 update: 449 PLN) and contains tiles and accessories for playing Japanese riichi mahjong.
 
 During the review, I'll make some comparisons to a (somewhat heavily used) [set made by the Polish company Grapet](https://www.ceneo.pl/35993142).
 
