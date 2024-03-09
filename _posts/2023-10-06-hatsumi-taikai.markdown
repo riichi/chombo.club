@@ -1,14 +1,20 @@
 ---
 title:  "Hatsumi Taikai"
 date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-17 15:37:13 +0100
+last_modified_at: 2024-03-09 09:37:06 +0100
 categories: tournaments
 lang: pl
 ---
 
 Zapraszamy Was na drugi turniej MERS w Krakowie!
 
-{% include figure.html alt="Hatsumi Taikai" filename="2023-10-06-hatsumi-taikai.png" %}
+{% capture fig_img %}
+![Hatsumi Taikai]({{ "/assets/images/2023-10-06-hatsumi-taikai.png" | relative_url }})
+{% endcapture %}
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+</figure>
 
 ## O turnieju
 
