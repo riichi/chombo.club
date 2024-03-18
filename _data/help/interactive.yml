@@ -25,6 +25,11 @@
   description_pl: ćwiczenie chinitsu
   url: https://www.gamedesign.jp/games/minimahjong/
 
+- name: Riichi Scoring Trainer
+  description: hand scoring trainer running in web browser
+  description_pl: trainer pomagający przyswoić zasady punktowania rąk działający w przeglądarce internetowej
+  url: https://scoringtrainer.konbamwa.net/
+
 - name: Mahjong Scores Trainer by Horneds
   description: hand scoring trainer running in web browser
   description_pl: trainer pomagający przyswoić zasady punktowania rąk działający w przeglądarce internetowej
@@ -47,6 +52,11 @@
   description: our own hand image generator
   description_pl: nasz własny generator obrazków rąk
   url: https://hand.chombo.club/
+
+- name: Mahjong Tools
+  description: a tool for calculating winning tiles and total scores of a given hand
+  description_pl: narzędzie wyświetlające wygrywające kamienie dla danej ręki oraz obliczające punkty dla każdego przypadku
+  url: https://mahjong-tools.com/
 
 - name: Riichi Tools
   description: a set of tools for analyzing hands and point situations
