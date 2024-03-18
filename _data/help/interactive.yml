@@ -30,11 +30,6 @@
   description_pl: trainer pomagający przyswoić zasady punktowania rąk działający w przeglądarce internetowej
   url: https://scoringtrainer.konbamwa.net/
 
-- name: Mahjong Scores Trainer by Horneds
-  description: hand scoring trainer running in web browser
-  description_pl: trainer pomagający przyswoić zasady punktowania rąk działający w przeglądarce internetowej
-  url: https://mahjong.horneds.com/
-
 - name: Riichi Mahjong Scoring Quiz
   description: trainer that helps to learn the hand scoring rules
   description_pl: kolejny trainer pomagający przyswoić układy i punktację
