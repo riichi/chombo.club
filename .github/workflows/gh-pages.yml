@@ -21,7 +21,7 @@ jobs:
           docker cp "$id:/usr/share/nginx/html/." ./__build
           docker rm -v $id
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
