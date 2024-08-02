@@ -94,4 +94,10 @@ var store = [{
         "tags": [],
         "url": "/other/2023/11/15/new-referee-szymon-nowicz/",
         "teaser": null
+      },{
+        "title": "Mamy siedzibę!",
+        "excerpt":"Jak być może już wiecie, udało nam się pozyskać siedzibę. Teraz nadeszła pora na ogłoszenie regularnych spotkań, które będą się w niej odbywać! Organizować będziemy dwa typy spotkań — luźne granie oraz gry rankingowe zaliczane do rankingu USMA, prowadzonego przez naszych śląskich przyjaciół. Szczegóły: Adres siedziby: ul. Studencka 6/8, 31-116...","categories": ["other"],
+        "tags": [],
+        "url": "/other/2024/07/27/headquarters/",
+        "teaser": null
       }]

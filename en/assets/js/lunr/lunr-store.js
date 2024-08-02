@@ -94,4 +94,10 @@ var store = [{
         "tags": [],
         "url": "/other/2023/11/15/new-referee-szymon-nowicz/",
         "teaser": null
+      },{
+        "title": "We've got a headquarters!",
+        "excerpt":"As some of you might already know, we’ve managed to secure our own place to play mahjong. Now it’s time to share some details regarding regular meetings that’ll be taking place there! We’ll be organizing two types of meetings — casual games and ranked games that’ll count towards the USMA...","categories": ["other"],
+        "tags": [],
+        "url": "/other/2024/07/27/headquarters/",
+        "teaser": null
       }]
