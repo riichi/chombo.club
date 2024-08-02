@@ -8,6 +8,8 @@ lang: pl
 Możesz się z nami skontaktować za pośrednictwem:
 * [Serwera Discorda]({{ site.footer.links[0].url }})
 * [Strony na Facebooku]({{ site.footer.links[1].url }})
+* [Strony na Instagramie]({{ site.footer.links[2].url }})
+* [Profilu na X (dawniej Twitter)]({{ site.footer.links[3].url }})
 * Poczty e-mail: [contact@chombo.club](mailto:contact@chombo.club)
 
 <hr>
