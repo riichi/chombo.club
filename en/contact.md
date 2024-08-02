@@ -8,6 +8,8 @@ lang: en
 You can contact us directly by:
 * [Discord server]({{ site.footer.links[0].url }})
 * [Facebook page]({{ site.footer.links[1].url }})
+* [Instagram page]({{ site.footer.links[2].url }})
+* [X (formerly Twitter) page]({{ site.footer.links[3].url }})
 * Email: [contact@chombo.club](mailto:contact@chombo.club)
 
 <hr>

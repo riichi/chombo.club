@@ -10,7 +10,9 @@ Krakowski Klub Chombo (KKC; ang. Krakow Chombo Club, KCC) to stowarzyszenie zlok
 Można nas znaleźć na poniższych sieciach społecznościowych:
 * [Discord]({{ site.footer.links[0].url }}) — gdzie prowadzimy codzienne rozmowy
 * [Facebook]({{ site.footer.links[1].url }}) — gdzie informujemy o aktualnych i przyszłych wydarzeniach
-* [GitHub]({{ site.footer.links[2].url }}) — gdzie budujemy oprogramowanie pomagające rozwinąć umiejętności w Mahjongu
+* [Instagram]({{ site.footer.links[2].url }}) — gdzie publikujemy zdjęcia z naszych wydarzeń i spotkań
+* [X (dawniej Twitter)]({{ site.footer.links[3].url }}) — gdzie informujemy międzynarodową społeczność o naszych zmaganiach ligowych i na turniejach
+* [GitHub]({{ site.footer.links[4].url }}) — gdzie budujemy oprogramowanie pomagające rozwinąć umiejętności w Mahjongu
 
 ## Stowarzyszenie
 
