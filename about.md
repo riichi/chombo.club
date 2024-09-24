@@ -74,7 +74,6 @@ Każda kwota jest mile widziana!
 ### Władze Stowarzyszenia
 
 * Mateusz Maćkowski — Prezes Zarządu
-* Michał Tkaczyk — Wiceprezes Zarządu
 * Dawid Bronowicki — Członek Zarządu
 * Michał Herda — Członek Zarządu
 * Aleksandra Malarz — Członek Zarządu
