@@ -27,6 +27,20 @@ W razie wszelkich pytań/wątpliwości zachęcamy do kontaktu.
 
 [Pobierz deklarację członkowską w formacie PDF]({{ "assets/download/deklaracja_czlonkowska.pdf" | relative_url }})
 
+#### Dlaczego?
+
+Dołączając do Stowarzyszenia Krakowski Klub Chombo:
+
+* uzyskujesz możliwość wypożyczenia sprzętu Stowarzyszenia,
+* możesz wziąć czynny i bierny udział w wyborach do władz Stowarzyszenia,
+* otrzymujesz konto mailowe w domenie `@chombo.club` wraz z kontem w usłudze Google Workspace,
+* otrzymujesz dostęp do kont premium w różnych serwisach internetowych (Canva Pro),
+* dostajesz koszulkę klubową z własnym nazwiskiem,
+* otrzymujesz możliwość uczestnictwa w wyjazdach klubowych,
+* możesz się rozwinąć w ramach organizacji wydarzeń i aktywności Stowarzyszenia,
+* otrzymujesz rangę członkowską oraz dostęp do dodatkowych kanałów na serwerze Discord Krakowskiego Klubu Chombo,
+* wspierasz rozwój Mahjonga w Małopolsce!
+
 #### Składka członkowska
 
 Przed dołączeniem do Stowarzyszenia należy uiścić składkę członkowską.
