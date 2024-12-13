@@ -1,5 +1,5 @@
 - name: Mahjong Quiz from chuuren.fr
-  name_pl: Quiz Mahjongowy z chuuren.fr
+  name_pl: Quiz mahjongowy z chuuren.fr
   url: http://www.chuuren.fr/vrac/test/?ln=en
 
 - name: Mahjong Efficiency Trainer
@@ -7,7 +7,7 @@
 
 - name: Gamedesign Flash Mahjong
   description: very good single player Mahjong client in browser
-  description_pl: bardzo dobry przeglądarkowy klient Mahjonga dla jednego gracza
+  description_pl: bardzo dobry przeglądarkowy klient mahjonga dla jednego gracza
   url: https://www.gamedesign.jp/flash/mahjong/mahjong_e.html
 
 - name: Gamedesign Unity Mahjong

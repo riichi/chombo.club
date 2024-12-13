@@ -5,14 +5,14 @@ permalink: /about/
 lang: pl
 ---
 
-Krakowski Klub Chombo (KKC; ang. Krakow Chombo Club, KCC) to stowarzyszenie zlokalizowane w Krakowie. Naszym celem działania jest japoński (tzw. Riichi) Mahjong: promowanie gry na obszarze Małopolski, nauczanie początkujących i rozwijanie umiejętności zaawansowanych graczy oraz współpraca z innymi stowarzyszeniami o zbliżonych celach. Stowarzyszenie powstało w 2019 roku dzięki współpracy studentów Uniwersytetu Jagiellońskiego i rozrasta się od tamtego czasu.
+Krakowski Klub Chombo (KKC; ang. Krakow Chombo Club, KCC) to stowarzyszenie zlokalizowane w Krakowie. Naszym celem działania jest japoński (tzw. riichi) mahjong: promowanie gry na obszarze Małopolski, nauczanie początkujących i rozwijanie umiejętności zaawansowanych graczy oraz współpraca z innymi stowarzyszeniami o zbliżonych celach. Stowarzyszenie powstało w 2019 roku dzięki współpracy studentów Uniwersytetu Jagiellońskiego i rozrasta się od tamtego czasu.
 
 Można nas znaleźć na poniższych sieciach społecznościowych:
 * [Discord]({{ site.footer.links[0].url }}) — gdzie prowadzimy codzienne rozmowy
 * [Facebook]({{ site.footer.links[1].url }}) — gdzie informujemy o aktualnych i przyszłych wydarzeniach
 * [Instagram]({{ site.footer.links[2].url }}) — gdzie publikujemy zdjęcia z naszych wydarzeń i spotkań
 * [X (dawniej Twitter)]({{ site.footer.links[3].url }}) — gdzie informujemy międzynarodową społeczność o naszych zmaganiach ligowych i na turniejach
-* [GitHub]({{ site.footer.links[4].url }}) — gdzie budujemy oprogramowanie pomagające rozwinąć umiejętności w Mahjongu
+* [GitHub]({{ site.footer.links[4].url }}) — gdzie budujemy oprogramowanie pomagające rozwinąć umiejętności w mahjongu
 
 ## Stowarzyszenie
 
@@ -39,7 +39,7 @@ Dołączając do Stowarzyszenia Krakowski Klub Chombo:
 * otrzymujesz możliwość uczestnictwa w wyjazdach klubowych,
 * możesz się rozwinąć w ramach organizacji wydarzeń i aktywności Stowarzyszenia,
 * otrzymujesz rangę członkowską oraz dostęp do dodatkowych kanałów na serwerze Discord Krakowskiego Klubu Chombo,
-* wspierasz rozwój Mahjonga w Małopolsce!
+* wspierasz rozwój mahjonga w Małopolsce!
 
 #### Składka członkowska
 

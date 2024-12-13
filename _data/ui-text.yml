@@ -4,7 +4,7 @@
 # -----------------
 en: &DEFAULT_EN
   title                      : "Kraków Chombo Club"
-  description                : "Kraków Chombo Club (KCC) is a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong."
+  description                : "Association focused on playing and promoting Japanese (Riichi) Mahjong."
   skip_links                 : "Skip links"
   skip_primary_nav           : "Skip to primary navigation"
   skip_content               : "Skip to content"
@@ -64,7 +64,7 @@ en-AU:
 # ------
 pl: &DEFAULT_PL
   title                      : "Krakowski Klub Chombo"
-  description                : "Krakowski Klub Chombo (KKC) to grupa graczy z Krakowa skupiona na grze i promocji japońskiego (Rīchi) Mahjonga."
+  description                : "Stowarzyszenie skupione na grze i promocji japońskiego (riichi) mahjonga."
   skip_links                 :
   skip_primary_nav           :
   skip_content               :

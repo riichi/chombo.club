@@ -12,7 +12,7 @@ You can find us on the following social networking websites:
 * [Facebook]({{ site.footer.links[1].url }}) — where we keep you informed about current and future events
 * [Instagram]({{ site.footer.links[2].url }}) — where we publish photos from our events and meetings
 * [X (formerly Twitter)]({{ site.footer.links[3].url }}) — where we inform international community about our league and tournament competitions
-* [GitHub]({{ site.footer.links[4     ].url }}) — where we keep the software we build to help improve Mahjong skills
+* [GitHub]({{ site.footer.links[4].url }}) — where we keep the software we build to help improve Mahjong skills
 
 ## Association
 
