@@ -100,4 +100,10 @@ var store = [{
         "tags": [],
         "url": "/other/2024/07/27/headquarters/",
         "teaser": null
+      },{
+        "title": "Kupowanie zestawu do mahjonga — jak wybrać ten najlepszy?",
+        "excerpt":"Zakup zestawu do mahjonga może stanowić nie lada wyzwanie. Wynika to przede wszystkim z bardzo dużej ich różnorodności i dostępności na rynku. Poczynając od samego miejsca zakupu poprzez rodzaje, wielkość a także samą jakość wykonania kamieni — jest w czym wybierać. Niniejszy poradnik ma na celu ułatwienie wyboru odpowiedniego zestawu...","categories": ["other"],
+        "tags": [],
+        "url": "/other/2024/12/13/how-to-buy-mahjong-set/",
+        "teaser": null
       }]
