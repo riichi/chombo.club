@@ -5,7 +5,7 @@ categories: other
 lang: pl
 ---
 
-Zakup zestawu do mahjonga może stanowić nie lada wyzwanie. Wynika to przede wszystkim z bardzo dużej ich różnorodności i dostępności na rynku. Poczynając od samego miejsca zakupu poprzez rodzaje, wielkość a także samą jakość wykonania kamieni — jest w czym wybierać. Niniejszy poradnik ma na celu ułatwienie wyboru odpowiedniego zestawu do mahjonga — zarówno jeśli chodzi o jakość jego wykonania, miejsce zakupu, jak również i wielkość kamieni.
+Ostatnimi czasy najczęściej zadawanymi pytaniami - zarówno na naszym serwerze na Discordzie, we wiadomościach na Facebooku oraz mailowo – są te poruszające kwestie, gdzie można kupić zestaw do mahjonga, ile kosztuje takowy oraz jak odróżnić zestaw do mahjonga japońskiego od innych. Wspólnie postanowiliśmy stworzyć poradnik, który powinien w pewnym stopniu rozjaśnić te frapujące kwestie.
 
 ## Własny zestaw do mahjonga — czy jest mi on naprawdę potrzebny?
 
@@ -21,15 +21,15 @@ Jeśli nie mamy czterech graczy, w tym kogoś, kto już umie grać, warto poważ
 
 Zakup samego zestawu to nie wszystko. Warto także pomyśleć o tym, aby zapewnić sobie i innym grającym jak największy komfort gry. Do tego celu idealnie sprawdzi się mata do mahjonga. Z jej wykorzystaniem nie tylko poprawimy komfort gry, ale też zadbamy o to, aby kamienie nie ulegały tak szybko zniszczeniu.
 
-Mata do mahjonga to kawałek materiału, który rozkłada się na stole celem ochrony kamieni przed uszkodzeniem ich (np. poprzez uderzanie o twardy blat) tudzież stołu przed kamieniami (analogicznie). Mata do mahjonga co do zasady nie stanowi stałego elementu zestawu do mahjonga i jest kupowana osobno.  
+Mata do mahjonga to kawałek materiału, który rozkłada się na stole celem ochrony zarówno kamieni, jak i blatu, przed zniszczeniem. Mata do mahjonga zasadniczo nie stanowi stałego elementu zestawu do mahjonga i jest kupowana osobno.  
 Czy posiadanie maty jest konieczne? Granie kamieniami na twardym stole, czy nawet podłodze, jest oczywiście możliwe, ale trzeba liczyć się z takimi konsekwencjami, do których najczęściej zalicza się:
 
 * **Hałas**: Dźwięk mycia (tj. mieszania) kamieni na twardym stole jest bardzo głośny i może być słyszany nawet w promieniu 50 metrów.
 * **Uszkodzenie kamieni**: Jakkolwiek nylon, z którego wytwarzane są nowoczesne kamienie do mahjonga, jest dość trwały, to możliwe jest pojawienie się wyszczerbień czy innych uszkodzeń, które skutkują tym, że zestaw nie nadaje się do poważnej gry, jako że wyszczerbione kamienie łatwo jest rozpoznać.
 
-Granie z wykorzystaniem maty do mahjonga z wysokimi brzegami ma też takie zalety, że łatwiej jest równo układać kamienie i trudniej zrzucić je ze stołu w trakcie mieszania, a co więcej — jeśli do gry używamy punktów-patyczków (点棒, *tenbou*) — maty typu Junk Mat mają przy brzegu maty rowki pozwalające na wygodne przechowywanie punktów.
+Gra z wykorzystaniem maty do mahjonga z wysokimi brzegami posiada spore zalety, do których możemy zaliczyć ułatwienie budowania równego muru, możliwość dokładniejszego mieszania kamieni (listwy chronią je przed wypadnięciem z maty) oraz w przypadku Junk Maty możliwość przechowywania patyczków punktowych (点棒, tenbou) w dedykowanych rowkach.
 
-Zakupienie maty ma jednak tę oczywistą wadę, że za nią samą oraz za jej import trzeba zapłacić. Zwłaszcza to ostatnie może być kosztowne. Wynika to z tego, że zwijana mata do mahjonga po zwinięciu pozostaje dość długa. To z kolei sprawia, że przedsiębiorstwa transportowe mogą żądać większych opłat za jej przewóz.  Alternatywą dla dedykowanych do mahjonga mat jest tutaj wykorzystanie kawałka sukna (tzw. ang. *speed cloth,* czyli materiału używanego przy produkcji np. stołów do pokera). Można także własnoręcznie skonstruować blat do mahjonga, który byłby pokryty np. wykładziną.
+Zakupienie maty ma jednak tę oczywistą wadę, że za nią samą oraz za jej import trzeba zapłacić. Zwłaszcza to ostatnie może być kosztowne. Wynika to z tego, że mata do mahjonga jest po zwinięciu pozostaje dość długa. To z kolei sprawia, że przedsiębiorstwa transportowe mogą żądać większych opłat za jej przewóz.  Alternatywą dla maty do mahjonga może być kawałek sukna (ang. *speed cloth,* czyli materiału używanego przy produkcji np. stołów do pokera). Można także własnoręcznie skonstruować blat do mahjonga, który byłby pokryty np. wykładziną.
 
 Przy zakupie zestawu do mahjonga należy, naszym zdaniem, rozważyć zakupienie również porządnej maty. Jeśli nie macie na nią budżetu, warto jest pomyśleć nad zorganizowaniem sobie innego rodzaju podkładki do gry.
 
@@ -59,7 +59,7 @@ Wyżej cenowo stoją słynne „Grapety” czy też „Madżong”. Trzeba jedna
 
 {% include figure.html alt="Zestaw Grapet" filename="how-to-buy-mahjong-set/image4.jpg" %}
 
-Drugim zestawem dostępnym w Polsce są [białe kamienie z e-go](https://www.e-go.pl/mahjong/japonski-mahjong-bialy.html). W grudniu 2024 ich cena wynosi 449&nbsp;PLN i należy się zastanowić czy nie lepiej wydać tych pieniędzy na japońskie kamienie.  
+Drugim zestawem dostępnym w Polsce są [białe kamienie z e-go](https://www.e-go.pl/mahjong/japonski-mahjong-bialy.html). W grudniu 2024 ich cena wynosi 449&nbsp;PLN i należy się zastanowić, czy nie lepiej zainwestować i kupić zestawu importowanego z Japonii.
 Recenzja tych kamieni i porównanie ich z Grapetami jest dostępne [na naszej stronie](https://chombo.club/other/2021/06/15/review-e-go-white-tiles/).
 
 ## Zestawy dostępne w Japonii
@@ -70,12 +70,13 @@ Kamienie te dostępne są w różnych wariantach, z różnymi kombinacjami żeto
 
 Wadą japońskich zestawów jest to, że trzeba je sprowadzić z zagranicy. Koszty dostawy nie są małe i w przypadku japońskiego Amazona wynoszą około 5000&nbsp;JPY (około 135&nbsp;PLN za samą przesyłkę), ale za to jest szybka, bo zazwyczaj trwa mniej niż tydzień.
 
-Tańsza wersja AMOS-ów to [AMOS Begin](https://www.amazon.co.jp/dp/B09MLZZ5K6), kosztujące ok. 5500&nbsp;JPY + 6200&nbsp;JPY przesyłka — razem około 310&nbsp;PLN.  
-Droższa wersja AMOS-ów to [AMOS Smart](https://www.amazon.co.jp/AMOS-Smart-Mahjong-Tile/dp/B09MLZS79M/) — kosztują ok. 6200&nbsp;JPY, a przesyłka kolejne 6800&nbsp;JPY, czyli około 350&nbsp;PLN. Możecie również skusić się na trochę [droższą wersję](https://www.amazon.co.jp/dp/B0C6QFVFBM) z kolorowymi patykami kosztującą 8600&nbsp;JPY.
+### Czym różnią się zestawy AMOS?
 
-### Czym się różnią AMOS BEGIN i AMOS SMART?
+Najtańszą wersją AMOS-ów jest zestaw [AMOS Begin](https://www.amazon.co.jp/dp/B09MLZZ5K6), kosztujące ok. 5500&nbsp;JPY + 6200&nbsp;JPY przesyłka — razem około 310&nbsp;PLN.  Są to kamienie nieco mniejsze, o wysokości 26mm (jeżeli spotkacie nas na konwencie, to właśnie tego rozmiaru kamieniami będziecie mieli okazję zagrać).
 
-AMOS Begin są nieco mniejsze — mają 26 mm szerokości, podczas gdy Smarty mają 28 mm. Nie jest to duża różnica, jednak odczuwalna podczas gry, a trzeba pamiętać, że preferencje się różnią. Smarty dodatkowo mają znaczniki yakitori, ale ich obecność nie jest konieczna do gry.
+Idąc cenowo w górę, kolejny zestaw AMOS-ów to [AMOS Smart](https://www.amazon.co.jp/AMOS-Smart-Mahjong-Tile/dp/B09MLZS79M/) — kosztuje ok. 6200&nbsp;JPY, a przesyłka kolejne 6800&nbsp;JPY, czyli około 350&nbsp;PLN. Możecie również skusić się na trochę [droższą wersję](https://www.amazon.co.jp/dp/B0C6QFVFBM) z kolorowymi patykami kosztującą 8600&nbsp;JPY.
+
+Smarty mają rozmiar 28 mm. Nie jest to duża różnica, jednak odczuwalna podczas gry. W skład tego zestawu wchodzą dodatkowo znaczniki yakitori, ale ich obecność nie jest konieczna do gry.
 
 Nieco wyżej wśród AMOS-ów stoją [Masters](https://www.amazon.co.jp/-/en/Taiyo-Giken-Mahjong-Tile-Masters/dp/B09MLZBNF1). Posiadają one znaczniki yakitori, żetony shuugi, hayahaya i kompas. Kosztują ok. 7200&nbsp;JPY, przesyłka 7000&nbsp;JPY, czyli około 380&nbsp;PLN.
 
@@ -110,7 +111,7 @@ Prawdopodobnie szukając mat natkniecie się też na [takie](https://www.amazon.
 [takie](https://www.amazon.co.jp/-/en/Jean-easy-mat/dp/B000QUHCEQ).   
 Są grube, ciężkie i niewygodne. Ich jedyną zaletą jest to, że przy intensywnym mieszaniu nie przesuwają się po stole, ale przenoszenie ich, rozwijanie i zwijanie jest mało wygodne.
 
-Inną alternatywą są maty na stoły bez listew, które można znaleźć na AliExpressie, Allegro czy na stronie [Yellow Mountain Imports](https://www.ymimports.com/collections/mahjong/mahjong-table-covers?srsltid=AfmBOoodP1Ju4Jm3lqosnoG5zh91KWj57dm41cguNEpQp0dy4-5YemEK), jednakże granie na macie bez listew, które służą zarówno do wyrównywania murów, jak i przetrzymywania liczmanów (Junk Mat) może być utrudnione, biorąc pod uwagę rozmiar kamieni do riichi.
+Inną alternatywą są maty na stoły bez listew, które można znaleźć na AliExpressie, Allegro czy na stronie [Yellow Mountain Imports](https://www.ymimports.com/collections/mahjong/mahjong-table-covers?srsltid=AfmBOoodP1Ju4Jm3lqosnoG5zh91KWj57dm41cguNEpQp0dy4-5YemEK), jednakże granie na macie bez listew, które służą zarówno do wyrównywania murów (może być utrudnione, biorąc pod uwagę rozmiar kamieni do riichi), jak i przetrzymywania patyczków punktowych (Junk Mat).
 
 {% include figure.html alt="Mata materiałowa" filename="how-to-buy-mahjong-set/image10.jpg" %}
 
@@ -175,7 +176,7 @@ Poniżej tabelka podsumowująca omówione zestawy:
         <td style="text-align:left" rowspan="3">Zawartość wszelkich aktualnych setów od AMOS można zobaczyć w
             <a href="https://www.youtube.com/watch?v=LUwu27IoCJM">tym filmie</a>.
         </td>
-        <td style="text-align:left" rowspan="3"></td>
+        <td style="text-align:left">5500&nbsp;JPY + 6200&nbsp;JPY przesyłka - około 310&nbsp;PLN</td>
         <td style="text-align:left" rowspan="3">Zestawy o podobnej zawartości, różnią się rozmiarem i jakością liczmanów oraz znaczników rundy (na zdjęciu zestaw AMOS Mater)</td>
     </tr>
     <tr>
@@ -183,6 +184,7 @@ Poniżej tabelka podsumowująca omówione zestawy:
         <td style="text-align:left">Dobra</td>
         <td style="text-align:left">28 mm</td>
         <td style="text-align:left"></td>
+        <td style="text-align:left">6200&nbsp;JPY + 6800&nbsp;JPY przesyłka - około 350&nbsp;PLN</td>
     </tr>
     <tr>
         <td style="text-align:left"><strong>AMOS Masters, etc…</strong></td>
@@ -191,6 +193,7 @@ Poniżej tabelka podsumowująca omówione zestawy:
         <td style="text-align:left">
           <a href="/assets/images/how-to-buy-mahjong-set/image24.jpg">[1]</a>
         </td>
+        <td style="text-align:left">7200&nbsp;JPY + 7000&nbsp;JPY przesyłka - około 380&nbsp;PLN</td>
     </tr>
     <tr>
         <td style="text-align:left"><strong>AMOS Complete Gear</strong></td>
@@ -201,7 +204,7 @@ Poniżej tabelka podsumowująca omówione zestawy:
           <a href="/assets/images/how-to-buy-mahjong-set/image21.jpg">[2]</a>
         </td>
         <td style="text-align:left">144 kamienie (w tym kwiaty i 4 czerwone dory) w zamszowych tackach, kolorowe liczmany, żetony, znacznik rundy, kości, kompas, znaczniki yakitori — wszystko w solidnej twardej walizce</td>
-        <td style="text-align:left">Około 10000&nbsp;JPY + przesyłka i cło około 7000&nbsp;JPY</td>
+        <td style="text-align:left">11000&nbsp;JPY + 8500&nbsp;JPY przesyłka - około 440&nbsp;PLN</td>
         <td style="text-align:left"></td>
     </tr>
     <tr>
