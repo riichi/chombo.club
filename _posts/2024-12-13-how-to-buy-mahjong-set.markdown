@@ -29,7 +29,7 @@ Czy posiadanie maty jest konieczne? Granie kamieniami na twardym stole, czy nawe
 
 Gra z wykorzystaniem maty do mahjonga z wysokimi brzegami posiada spore zalety, do których możemy zaliczyć ułatwienie budowania równego muru, możliwość dokładniejszego mieszania kamieni (listwy chronią je przed wypadnięciem z maty) oraz w przypadku Junk Maty możliwość przechowywania patyczków punktowych (点棒, tenbou) w dedykowanych rowkach.
 
-Zakupienie maty ma jednak tę oczywistą wadę, że za nią samą oraz za jej import trzeba zapłacić. Zwłaszcza to ostatnie może być kosztowne. Wynika to z tego, że mata do mahjonga jest po zwinięciu pozostaje dość długa. To z kolei sprawia, że przedsiębiorstwa transportowe mogą żądać większych opłat za jej przewóz.  Alternatywą dla maty do mahjonga może być kawałek sukna (ang. *speed cloth,* czyli materiału używanego przy produkcji np. stołów do pokera). Można także własnoręcznie skonstruować blat do mahjonga, który byłby pokryty np. wykładziną.
+Zakupienie maty ma jednak tę oczywistą wadę, że za nią samą oraz za jej import trzeba zapłacić. Zwłaszcza to ostatnie może być kosztowne. Wynika to z tego, że mata do mahjonga jest po zwinięciu nadal dość długa. To z kolei sprawia, że przedsiębiorstwa transportowe mogą żądać większych opłat za jej przewóz.  Alternatywą dla maty do mahjonga może być kawałek sukna (ang. *speed cloth,* czyli materiału używanego przy produkcji np. stołów do pokera). Można także własnoręcznie skonstruować blat do mahjonga, który byłby pokryty np. wykładziną.
 
 Przy zakupie zestawu do mahjonga należy, naszym zdaniem, rozważyć zakupienie również porządnej maty. Jeśli nie macie na nią budżetu, warto jest pomyśleć nad zorganizowaniem sobie innego rodzaju podkładki do gry.
 
