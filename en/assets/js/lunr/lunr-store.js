@@ -102,7 +102,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Kupowanie zestawu do mahjonga — jak wybrać ten najlepszy?",
-        "excerpt":"Zakup zestawu do mahjonga może stanowić nie lada wyzwanie. Wynika to przede wszystkim z bardzo dużej ich różnorodności i dostępności na rynku. Poczynając od samego miejsca zakupu poprzez rodzaje, wielkość a także samą jakość wykonania kamieni — jest w czym wybierać. Niniejszy poradnik ma na celu ułatwienie wyboru odpowiedniego zestawu...","categories": ["other"],
+        "excerpt":"Ostatnimi czasy najczęściej zadawanymi pytaniami - zarówno na naszym serwerze na Discordzie, we wiadomościach na Facebooku oraz mailowo – są te poruszające kwestie, gdzie można kupić zestaw do mahjonga, ile kosztuje takowy oraz jak odróżnić zestaw do mahjonga japońskiego od innych. Wspólnie postanowiliśmy stworzyć poradnik, który powinien w pewnym stopniu...","categories": ["other"],
         "tags": [],
         "url": "/other/2024/12/13/how-to-buy-mahjong-set/",
         "teaser": null
