@@ -5,7 +5,7 @@ categories: other
 lang: pl
 ---
 
-Ostatnimi czasy najczęściej zadawanymi pytaniami - zarówno na naszym serwerze na Discordzie, we wiadomościach na Facebooku oraz mailowo – są te poruszające kwestie, gdzie można kupić zestaw do mahjonga, ile kosztuje takowy oraz jak odróżnić zestaw do mahjonga japońskiego od innych. Wspólnie postanowiliśmy stworzyć poradnik, który powinien w pewnym stopniu rozjaśnić te frapujące kwestie.
+Ostatnimi czasy najczęściej zadawanymi pytaniami - zarówno na naszym serwerze na Discordzie, w wiadomościach na Facebooku oraz mailowo – są te poruszające kwestie, gdzie można kupić zestaw do mahjonga, ile kosztuje takowy oraz jak odróżnić zestaw do mahjonga japońskiego od innych. Wspólnie postanowiliśmy stworzyć poradnik, który powinien w pewnym stopniu rozjaśnić te frapujące kwestie.
 
 ## Własny zestaw do mahjonga — czy jest mi on naprawdę potrzebny?
 
