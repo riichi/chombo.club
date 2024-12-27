@@ -78,3 +78,15 @@ table.tournament-agenda {
     text-align: left;
   }
 }
+
+table.all-borders {
+  border-collapse: collapse;
+
+  th {
+    border: 2px solid mix(#000, $border-color, 25%);
+  }
+
+  td {
+    border: 1px solid mix(#000, $border-color, 25%);
+  }
+}
