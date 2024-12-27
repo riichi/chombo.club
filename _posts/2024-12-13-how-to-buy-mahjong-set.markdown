@@ -21,7 +21,7 @@ Jeśli nie mamy czterech graczy, w tym kogoś, kto już umie grać, warto poważ
 
 Zakup samego zestawu to nie wszystko. Warto także pomyśleć o tym, aby zapewnić sobie i innym grającym jak największy komfort gry. Do tego celu idealnie sprawdzi się mata do mahjonga. Z jej wykorzystaniem nie tylko poprawimy komfort gry, ale też zadbamy o to, aby kamienie nie ulegały tak szybko zniszczeniu.
 
-Mata do mahjonga to kawałek materiału, który rozkłada się na stole celem ochrony zarówno kamieni, jak i blatu, przed zniszczeniem. Mata do mahjonga zasadniczo nie stanowi stałego elementu zestawu do mahjonga i jest kupowana osobno.  
+Mata do mahjonga to kawałek materiału, który rozkłada się na stole celem ochrony zarówno kamieni, jak i blatu, przed zniszczeniem. Mata do mahjonga zasadniczo nie stanowi stałego elementu zestawu do mahjonga i jest kupowana osobno.
 Czy posiadanie maty jest konieczne? Granie kamieniami na twardym stole, czy nawet podłodze, jest oczywiście możliwe, ale trzeba liczyć się z takimi konsekwencjami, do których najczęściej zalicza się:
 
 * **Hałas**: Dźwięk mycia (tj. mieszania) kamieni na twardym stole jest bardzo głośny i może być słyszany nawet w promieniu 50 metrów.
@@ -90,7 +90,7 @@ Jeśli nie lubisz Amazona, zestawy można kupić też pośrednio od producenta, 
 
 #### [YMI — Yellow Mountain Imports](https://www.amazon.pl/Yellow-Mountain-Imports-Japoński-Mahjong/dp/B003UU129U?ref_=ast_sto_dp&th=1&psc=1)
 
-Są to kamienie, których dostępność w Europie czy Stanach jest dużo lepsza, są one jednak minimalnie płytsze i trochę gorszej jakości od kamieni AMOS, niemniej jednak są one tańsze od kamieni Taiyo Chemicals (Oficjalny sklep YMI na Amazon.pl wycenia zestaw na 290&nbsp;PLN + darmowa dostawa). Same kamienie możecie dostać w rozmiarze 26 mm oraz 30 mm ([żółte](https://www.amazon.pl/Yellow-Mountain-Imports-Japoński-Mahjong/dp/B08FM1CL1S/ref=sr_1_7?__mk_pl_PL=ÅMÅŽÕÑ&crid=2SIPBVQCV4ROB&dib=eyJ2IjoiMSJ9.ukzauhsQi_BDC6fJ16MCNDWX8LHnSWHYnYz4Fud3sJLFId-84Z2M77_WFc3M1ksk1dfqpg1dwfRTfLM5eQsGxXSFiZDD7LTJ6jGCu-6nmavmnUXyWLE45-XQDCrBuLpEewo1oLvIC7XRNMLTxxe5cEzZyXTqxwpG1SpiHpWqraGRDVTowyOOGgpe555ugADoh3RR7u3vLjI560V7Zedh6ZI13zvfOtb1w7jS2k7ZWzeuYp0hUfiIbCes5jgIONGk6A0ijPQStbEfl0kfED0vO__mYXm_yNFYfbCCLCQYkizONLsGWr0qAUVemxzl3XW1cuysU9G9AcMqnuHewqzn4Hd1fNYLvHWn3jDuxY9qss-k9TdJDdG9JHE6Ej4TmqRtrq6kE5wR_65v-fy1mo2RRDzWaiDrwe_vKpFCuxvBCp8cA24j2wFqWr5do-vMkE-E.Cfw0-2M21Y_dlrXeVA0MakBFFOKX1ciE0Kzn-RaSdnQ&dib_tag=se&keywords=mahjong&qid=1733997234&sprefix=mahjong%2Caps%2C96&sr=8-7) lub [zielone](https://www.amazon.pl/Yellow-Mountain-Imports-Japoński-Mahjong/dp/B0BX2W6YJY/ref=sr_1_8?__mk_pl_PL=ÅMÅŽÕÑ&crid=2SIPBVQCV4ROB&dib=eyJ2IjoiMSJ9.ukzauhsQi_BDC6fJ16MCNDWX8LHnSWHYnYz4Fud3sJLFId-84Z2M77_WFc3M1ksk1dfqpg1dwfRTfLM5eQsGxXSFiZDD7LTJ6jGCu-6nmavmnUXyWLE45-XQDCrBuLpEewo1oLvIC7XRNMLTxxe5cEzZyXTqxwpG1SpiHpWqraGRDVTowyOOGgpe555ugADoh3RR7u3vLjI560V7Zedh6ZI13zvfOtb1w7jS2k7ZWzeuYp0hUfiIbCes5jgIONGk6A0ijPQStbEfl0kfED0vO__mYXm_yNFYfbCCLCQYkizONLsGWr0qAUVemxzl3XW1cuysU9G9AcMqnuHewqzn4Hd1fNYLvHWn3jDuxY9qss-k9TdJDdG9JHE6Ej4TmqRtrq6kE5wR_65v-fy1mo2RRDzWaiDrwe_vKpFCuxvBCp8cA24j2wFqWr5do-vMkE-E.Cfw0-2M21Y_dlrXeVA0MakBFFOKX1ciE0Kzn-RaSdnQ&dib_tag=se&keywords=mahjong&qid=1733997234&sprefix=mahjong%2Caps%2C96&sr=8-8&th=1) plecki — są one odpowiednio droższe)  
+Są to kamienie, których dostępność w Europie czy Stanach jest dużo lepsza, są one jednak minimalnie płytsze i trochę gorszej jakości od kamieni AMOS, niemniej jednak są one tańsze od kamieni Taiyo Chemicals (Oficjalny sklep YMI na Amazon.pl wycenia zestaw na 290&nbsp;PLN + darmowa dostawa). Same kamienie możecie dostać w rozmiarze 26 mm oraz 30 mm ([żółte](https://www.amazon.pl/Yellow-Mountain-Imports-Japoński-Mahjong/dp/B08FM1CL1S/ref=sr_1_7?__mk_pl_PL=ÅMÅŽÕÑ&crid=2SIPBVQCV4ROB&dib=eyJ2IjoiMSJ9.ukzauhsQi_BDC6fJ16MCNDWX8LHnSWHYnYz4Fud3sJLFId-84Z2M77_WFc3M1ksk1dfqpg1dwfRTfLM5eQsGxXSFiZDD7LTJ6jGCu-6nmavmnUXyWLE45-XQDCrBuLpEewo1oLvIC7XRNMLTxxe5cEzZyXTqxwpG1SpiHpWqraGRDVTowyOOGgpe555ugADoh3RR7u3vLjI560V7Zedh6ZI13zvfOtb1w7jS2k7ZWzeuYp0hUfiIbCes5jgIONGk6A0ijPQStbEfl0kfED0vO__mYXm_yNFYfbCCLCQYkizONLsGWr0qAUVemxzl3XW1cuysU9G9AcMqnuHewqzn4Hd1fNYLvHWn3jDuxY9qss-k9TdJDdG9JHE6Ej4TmqRtrq6kE5wR_65v-fy1mo2RRDzWaiDrwe_vKpFCuxvBCp8cA24j2wFqWr5do-vMkE-E.Cfw0-2M21Y_dlrXeVA0MakBFFOKX1ciE0Kzn-RaSdnQ&dib_tag=se&keywords=mahjong&qid=1733997234&sprefix=mahjong%2Caps%2C96&sr=8-7) lub [zielone](https://www.amazon.pl/Yellow-Mountain-Imports-Japoński-Mahjong/dp/B0BX2W6YJY/ref=sr_1_8?__mk_pl_PL=ÅMÅŽÕÑ&crid=2SIPBVQCV4ROB&dib=eyJ2IjoiMSJ9.ukzauhsQi_BDC6fJ16MCNDWX8LHnSWHYnYz4Fud3sJLFId-84Z2M77_WFc3M1ksk1dfqpg1dwfRTfLM5eQsGxXSFiZDD7LTJ6jGCu-6nmavmnUXyWLE45-XQDCrBuLpEewo1oLvIC7XRNMLTxxe5cEzZyXTqxwpG1SpiHpWqraGRDVTowyOOGgpe555ugADoh3RR7u3vLjI560V7Zedh6ZI13zvfOtb1w7jS2k7ZWzeuYp0hUfiIbCes5jgIONGk6A0ijPQStbEfl0kfED0vO__mYXm_yNFYfbCCLCQYkizONLsGWr0qAUVemxzl3XW1cuysU9G9AcMqnuHewqzn4Hd1fNYLvHWn3jDuxY9qss-k9TdJDdG9JHE6Ej4TmqRtrq6kE5wR_65v-fy1mo2RRDzWaiDrwe_vKpFCuxvBCp8cA24j2wFqWr5do-vMkE-E.Cfw0-2M21Y_dlrXeVA0MakBFFOKX1ciE0Kzn-RaSdnQ&dib_tag=se&keywords=mahjong&qid=1733997234&sprefix=mahjong%2Caps%2C96&sr=8-8&th=1) plecki — są one odpowiednio droższe)
 
 {% include figure.html alt="Zestaw YMI" filename="how-to-buy-mahjong-set/image6.jpg" %}
 
@@ -104,11 +104,11 @@ Na OLX, Facebook Marketplace i eBayu możecie znaleźć dość losowe zestawy �
 
 Przeczytaliście to wszystko i cena was przeraża? Jest jeszcze jedna rzecz, którą możecie zrobić — jedyne co będzie do niej potrzebne, to znajomy w Japonii lub własny wyjazd. W sklepach z przedmiotami z drugiej ręki, takich jak Hard Off, możecie znaleźć tanie i dobre zestawy — na przykład kamienie z bambusowymi tyłami. Wtedy koszt zestawu potrafi spaść nawet poniżej 1000&nbsp;JPY. Oczywiście nie każdy zestaw zestawowi równy, więc warto dopytać się o opinię na przykład na naszym [Discordzie](https://discord.chombo.club/). Należy przede wszystkim dopilnować, żeby kamienie nie były ukruszone ani pomazane na brzegach lub tyłach. Kamienie można pomalować samemu, jeśli kolory nieco się starły.
 
-Wybraliście zestaw i nie jest to Prime Gear? Kochacie swój stół i nie chcecie zrujnować kamieni, za które zapłaciliście prawie pół tysiąca?  
+Wybraliście zestaw i nie jest to Prime Gear? Kochacie swój stół i nie chcecie zrujnować kamieni, za które zapłaciliście prawie pół tysiąca?
 Wracamy do mat — tu również najlepszym producentem jest Taiyo. Mają dostępne dwa rodzaje mat, z miejscem na liczmany ([Junk Mat](https://www.amazon.co.jp/-/en/ジャンクマット-JUNK-MAT-Mahjong-Mat/dp/B0017KHW3A)) i bez tego miejsca ([Light Mat](https://www.amazon.co.jp/-/en/Light-Mat/dp/B005VD6DKW/)).
 
 Prawdopodobnie szukając mat natkniecie się też na [takie](https://www.amazon.co.jp/-/en/Simple-Standard-Mahjong-Feeling-Perfect/dp/B002ODEGEM), [takie](https://www.amazon.co.jp/-/en/MJN-NYMT-Nintendo-Mah-jongg-mat/dp/B000CNF09G), lub
-[takie](https://www.amazon.co.jp/-/en/Jean-easy-mat/dp/B000QUHCEQ).   
+[takie](https://www.amazon.co.jp/-/en/Jean-easy-mat/dp/B000QUHCEQ).
 Są grube, ciężkie i niewygodne. Ich jedyną zaletą jest to, że przy intensywnym mieszaniu nie przesuwają się po stole, ale przenoszenie ich, rozwijanie i zwijanie jest mało wygodne.
 
 Inną alternatywą są maty na stoły bez listew, które można znaleźć na AliExpressie, Allegro czy na stronie [Yellow Mountain Imports](https://www.ymimports.com/collections/mahjong/mahjong-table-covers?srsltid=AfmBOoodP1Ju4Jm3lqosnoG5zh91KWj57dm41cguNEpQp0dy4-5YemEK), jednakże granie na macie bez listew, które służą zarówno do wyrównywania murów (może być utrudnione, biorąc pod uwagę rozmiar kamieni do riichi), jak i przetrzymywania patyczków punktowych (Junk Mat).
@@ -119,13 +119,13 @@ Być może po przeczytaniu tego wpisu odnosicie wrażenie, że Taiyo nam za nieg
 
 ## Cła i podatki od importowanych towarów
 
-Standardowo przy zamówieniach z zagranicy dopłacić należy 23% VAT-u i opłatę dla przewoźnika — w przypadku Poczty Polskiej jest to 8,50&nbsp;PLN.   
+Standardowo przy zamówieniach z zagranicy dopłacić należy 23% VAT-u i opłatę dla przewoźnika — w przypadku Poczty Polskiej jest to 8,50&nbsp;PLN.
 Japoński Amazon uwzględnia te opłaty przy zamawianiu zestawów, jednak przy zamówieniach przez proxy należy liczyć się z dodatkowymi, poza VAT-em i opłatą przewoźnika, opłatami za pośrednictwo mogącymi wynosić np. 10% wartości zamówienia.
 
 ## Podsumowanie
 
 Poniżej tabelka podsumowująca omówione zestawy:
-<table style="font-size:.6em">
+<table style="font-size:.6em" class="all-borders">
     <thead>
     <tr>
         <th style="text-align:left">Nazwa zestawu</th>
