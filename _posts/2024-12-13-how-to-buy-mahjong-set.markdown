@@ -3,6 +3,7 @@ title: "Kupowanie zestawu do mahjonga — jak wybrać ten najlepszy?"
 date: 2024-12-13 14:00:00 +0100
 categories: other
 lang: pl
+lang-exclusive: ["pl"]
 ---
 
 Ostatnimi czasy najczęściej zadawanymi pytaniami - zarówno na naszym serwerze na Discordzie, w wiadomościach na Facebooku oraz mailowo – są te poruszające kwestie, gdzie można kupić zestaw do mahjonga, ile kosztuje takowy oraz jak odróżnić zestaw do mahjonga japońskiego od innych. Wspólnie postanowiliśmy stworzyć poradnik, który powinien w pewnym stopniu rozjaśnić te frapujące kwestie.
