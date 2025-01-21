@@ -88,9 +88,9 @@ Każda kwota jest mile widziana!
 ### Władze Stowarzyszenia
 
 * Mateusz Maćkowski — Prezes Zarządu
+* Aleksandra Malarz — Wiceprezes Zarządu
 * Dawid Bronowicki — Członek Zarządu
 * Michał Herda — Członek Zarządu
-* Aleksandra Malarz — Członek Zarządu
 * Szymon Nowicz — Członek Zarządu
 * Aleksander Orlikowski — Członek Zarządu
 
