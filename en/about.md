@@ -33,9 +33,9 @@ Any amount is welcome!
 ### Authorities of the Association
 
 * Mateusz Maćkowski — President of the Board
+* Aleksandra Malarz — Vice President of the Board
 * Dawid Bronowicki — Member of the Board
 * Michał Herda — Member of the Board
-* Aleksandra Malarz — Member of the Board
 * Szymon Nowicz — Member of the Board
 * Aleksander Orlikowski — Member of the Board
 
