@@ -44,7 +44,8 @@ Dołączając do Stowarzyszenia Krakowski Klub Chombo:
 #### Składka członkowska
 
 Przed dołączeniem do Stowarzyszenia należy uiścić składkę członkowską.
-Składka zarówno za pierwsze, jak i drugie półrocze 2024 roku wynosi 25 PLN (zatem za cały rok jest to 50 PLN).
+Składka zarówno za pierwsze, jak i drugie półrocze 2025 roku wynosi 30 PLN (zatem za cały rok jest to 60 PLN).
+Pierwsza składka kandydata wstępującego w poczet członków Stowarzyszenia jest obniżona o 5 złotych za każdy pełny miesiąc, który upłynął od początku półrocza.
 
 ##### Dane do przelewu
 
@@ -52,17 +53,17 @@ Składka zarówno za pierwsze, jak i drugie półrocze 2024 roku wynosi 25 PLN (
 **Numer konta**: `PL13 1140 2004 0000 3802 8180 7241` \
 **Tytuł**:
 ```
-{imię i nazwisko} - składka członkowska za I połowę 2024 roku
+{imię i nazwisko} - składka członkowska za I połowę 2025 roku
 ```
 
 lub
 ```
-{imię i nazwisko} - składka członkowska za II połowę 2024 roku
+{imię i nazwisko} - składka członkowska za II połowę 2025 roku
 ```
 
 lub
 ```
-{imię i nazwisko} - składka członkowska za 2024 rok
+{imię i nazwisko} - składka członkowska za 2025 rok
 ```
 
 ### 1,5% podatku
