@@ -106,4 +106,10 @@ var store = [{
         "tags": [],
         "url": "/other/2024/12/13/how-to-buy-mahjong-set/",
         "teaser": null
+      },{
+        "title": "Kraków Saki Cards Taikai 2025",
+        "excerpt":"Zapraszamy Was na drugi w Polsce turniej mahjonga z Saki Kartami! O turnieju Data: 26 lipca 2025 (sobota) Miejsce: Siedziba Krakowskiego Klubu Chombo Zasady: modified EMA Riichi 2016 + saki cards 1.3 Hanchany: 4 Wpisowe: około 50PLN Limit osób: 16 (Przy dużym zainteresowaniu może zostać zwiększony) Sędziowie: Szymon Nowicz (sędzia...","categories": ["tournaments"],
+        "tags": [],
+        "url": "/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/",
+        "teaser": null
       }]
