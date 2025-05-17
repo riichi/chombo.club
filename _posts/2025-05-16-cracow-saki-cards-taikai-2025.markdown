@@ -32,11 +32,10 @@ Ręka z trzynastoma lub więcej han jest liczona jako yakuman.
 
 ### Dodatkowe yaku: Nagashi Mangan (流し満貫)
 
-* Zdobyte jeśli podczas ryuukyoku gracz spełnia wszystkie poniższe warunki
-
-* Wszystkie widoczne odrzuty to 1, 9 lub honory
-* Żaden kamień odrzucony przez gracza nie został zameldowany
-* Gracz ma zamkniętą rękę
+* Zdobyte jeśli podczas ryuukyoku gracz spełnia wszystkie poniższe warunki:
+  * Wszystkie widoczne odrzuty to 1, 9 lub honory
+  * Żaden kamień odrzucony przez gracza nie został zameldowany
+  * Gracz ma zamkniętą rękę
 
 * Zawsze warte 5 han (mangan), nie łączy się z innymi yaku i dorami.
 
