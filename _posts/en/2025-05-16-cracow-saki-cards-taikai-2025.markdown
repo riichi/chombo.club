@@ -66,6 +66,9 @@ There are 63 cards in the deck, each with a unique ability.
 
 |   No. | Name            | Nickname | Country | Paid |
 | ----: | :-------------- | :------- | :------ | :--: |
-|     1 |                 |          |         |      |
-
+| 1   | Szymon Nowicz        |              | Poland  |           |
+| 2   | Michał Waliszewski   |              | Poland  |           |
+| 3   | Michał Tkaczyk       | HANNYA般若    | Poland  |           |
+| 4   | Aleksander Orlikowski| Olson        | Poland  |           |
+| 5   | Dawid Bronowicki     |              | Poland  |           |
 </div>
