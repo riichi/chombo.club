@@ -69,6 +69,10 @@ Są 63 karty w talii, każda z własną umiejętnością.
 
 |   Nr | Imię i nazwisko | Pseudonim | Kraj | Wpisowe |
 | ---: | :-------------- | :-------- | :--- | :-----: |
-|    1 |                 |           |      |         |
+| 1   | Szymon Nowicz           |             | Polska  |         |
+| 2   | Michał Waliszewski      |             | Polska  |         |
+| 3   | Michał Tkaczyk          | HANNYA般若   | Polska  |         |
+| 4   | Aleksander Orlikowski   | Olson       | Polska  |         |
+| 5   | Dawid Bronowicki        |             | Polska  |         |
 
 </div>
