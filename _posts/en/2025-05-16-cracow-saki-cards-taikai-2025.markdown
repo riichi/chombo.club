@@ -17,7 +17,7 @@ We invite you to the second-ever Polish tournament using Saki Cards!
 * Hanchans: 4
 * Fee: around 50 PLN
 * Participant limit: 16 (might be increased if there's high interest)
-* Judges:  
+* Judges:
   - Szymon Nowicz (will also be playing)
 * Lunch: not provided (on your own)
 * Scoring: Point sticks
@@ -45,7 +45,7 @@ There are 3 red fives in the game, one per suit.
 
 ### Saki Cards 1.3
 
-Before the game starts, the first dealer gives each player 7 cards from the deck.  
+Before the game starts, the first dealer gives each player 7 cards from the deck.
 Each player chooses one card, then passes the remaining cards to the player on their right. This continues until everyone has 6 cards. The rest are discarded.
 
 Players then select 1 of their 6 cards after seeing their starting hand and place it face-down. Once everyone is ready, they reveal their chosen cards.
@@ -71,4 +71,5 @@ There are 63 cards in the deck, each with a unique ability.
 | 3   | Michał Tkaczyk       | HANNYA般若    | Poland  |           |
 | 4   | Aleksander Orlikowski| Olson        | Poland  |           |
 | 5   | Dawid Bronowicki     |              | Poland  |           |
+
 </div>
