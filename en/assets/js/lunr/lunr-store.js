@@ -102,7 +102,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Kraków Saki Cards Taikai 2025",
-        "excerpt":"We invite you to the second-ever Polish tournament using Saki Cards! About Date: 26th July 2025 (Saturday) Place: Headquarters of Kraków Chombo Club Rules: modified EMA Riichi 2016 + Saki Cards 1.3 Hanchans: 4 Fee: around 50 PLN Participant limit: 16 (might be increased if there’s high interest) Judges: Szymon...","categories": ["tournaments"],
+        "excerpt":"We invite you to the second-ever Polish tournament using Saki Cards! About Date: 26th July 2025 (Saturday) Place: Headquarters of Kraków Chombo Club Rules: modified EMA Riichi 2016 + Saki Cards 1.3 Hanchans: 4 Fee: around 50 PLN Participant limit: 16 (might be increased if there’s high interest) Referees: Szymon...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/",
         "teaser": null
