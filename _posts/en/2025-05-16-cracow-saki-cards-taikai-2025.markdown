@@ -17,7 +17,7 @@ We invite you to the second-ever Polish tournament using Saki Cards!
 * Hanchans: 4
 * Fee: around 50 PLN
 * Participant limit: 16 (might be increased if there's high interest)
-* Judges:
+* Referees:
   - Szymon Nowicz (will also be playing)
 * Lunch: not provided (on your own)
 * Scoring: Point sticks
@@ -71,5 +71,8 @@ There are 63 cards in the deck, each with a unique ability.
 | 3   | Michał Tkaczyk       | HANNYA般若    | Poland  |           |
 | 4   | Aleksander Orlikowski| Olson        | Poland  |           |
 | 5   | Dawid Bronowicki     |              | Poland  |           |
+| 6   | Luna Świątek |             | Poland  |         |
+| 7   | Albert Ślusarek |Quadrax| Poland  |         |
+| 8   | Małgorzata Krakowian |まるちゃん| Poland  |         |
 
 </div>

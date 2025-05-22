@@ -74,5 +74,8 @@ Są 63 karty w talii, każda z własną umiejętnością.
 | 3   | Michał Tkaczyk          | HANNYA般若   | Polska  |         |
 | 4   | Aleksander Orlikowski   | Olson       | Polska  |         |
 | 5   | Dawid Bronowicki        |             | Polska  |         |
+| 6   | Luna Świątek |             | Polska  |         |
+| 7   | Albert Ślusarek |Quadrax| Polska  |         |
+| 8   | Małgorzata Krakowian |まるちゃん| Polska  |         |
 
 </div>
