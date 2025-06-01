@@ -8,5 +8,5 @@ gem "jekyll-paginate", "1.1"
 gem "jekyll-archives", "2.3.0"
 gem "jekyll-polyglot", "1.9.0"
 
-gem "minimal-mistakes-jekyll", "4.27.0"
+gem "minimal-mistakes-jekyll", "4.27.1"
 gem "bootstrap", "5.3.5"
