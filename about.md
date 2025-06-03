@@ -16,7 +16,7 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 
 ## Stowarzyszenie
 
-[Pobierz statut w formacie PDF](https://github.com/riichi/statute-pl/releases/download/release-2024-06-27/statut.pdf)
+[Pobierz statut w formacie PDF](https://github.com/riichi/statute-pl/releases/download/release-2025-05-22/statut.pdf)
 
 ### Jak dołączyć?
 
@@ -91,15 +91,20 @@ Każda kwota jest mile widziana!
 * Mateusz Maćkowski — Prezes Zarządu
 * Aleksandra Malarz — Wiceprezes Zarządu
 * Dawid Bronowicki — Członek Zarządu
-* Michał Herda — Członek Zarządu
 * Szymon Nowicz — Członek Zarządu
 * Aleksander Orlikowski — Członek Zarządu
+* Anna Szatan — Członek Zarządu
+* Michał Tkaczyk — Członek Zarządu
 
 ### Komisja Rewizyjna
 
 * Rafał Burczyński — Przewodniczący Komisji Rewizyjnej
 * Konrad Górka — Członek Komisji Rewizyjnej
 * Marek Grzelak — Członek Komisji Rewizyjnej
+
+### Członkowie Honorowi
+
+* Michał Herda
 
 ## Ulotka
 
