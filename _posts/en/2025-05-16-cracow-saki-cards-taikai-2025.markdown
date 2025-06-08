@@ -52,7 +52,7 @@ Players then select 1 of their 6 cards after seeing their starting hand and plac
 
 There are 63 cards in the deck, each with a unique ability.
 
-[View the Saki Cards Rulebook](https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing)
+You can view all the Saki Cards [here](https://t.co/cV5TU1qJVW) and access the Saki Cards Rulebook [here](https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing)
 
 ## Registration
 
@@ -74,5 +74,7 @@ There are 63 cards in the deck, each with a unique ability.
 | 6   | Luna Świątek |             | Poland  |         |
 | 7   | Albert Ślusarek |Quadrax| Poland  |         |
 | 8   | Małgorzata Krakowian |まるちゃん| Poland  |         |
+| 9   | Anton Lu|Anton| Austria  |         |
+| 10  | Jakub Szpyra|Kuboxxxxx| Poland  |         |
 
 </div>
