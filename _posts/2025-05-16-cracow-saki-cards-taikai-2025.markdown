@@ -53,7 +53,7 @@ gotowi.
 
 Są 63 karty w talii, każda z własną umiejętnością. 
 
-[Rulebook Saki Kart](https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing)
+Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tutaj [Rulebook Saki Kart](https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing)
 
 ## Rejestracja
 
@@ -76,6 +76,8 @@ Są 63 karty w talii, każda z własną umiejętnością.
 | 5   | Dawid Bronowicki        |             | Polska  |         |
 | 6   | Luna Świątek |             | Polska  |         |
 | 7   | Albert Ślusarek |Quadrax| Polska  |         |
-| 8   | Małgorzata Krakowian |まるちゃん| Polska  |         |
+| 8   | Małgorzata Krakowian|まるちゃん| Polska  |         |
+| 9   | Anton Lu|Anton| Austria  |         |
+| 10  | Jakub Szpyra|Kuboxxxxx| Polska  |         |
 
 </div>
