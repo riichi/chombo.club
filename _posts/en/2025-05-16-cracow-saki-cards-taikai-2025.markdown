@@ -76,5 +76,6 @@ You can view all the Saki Cards [here](https://t.co/cV5TU1qJVW) and access the S
 | 8   | Małgorzata Krakowian |まるちゃん| Poland  |         |
 | 9   | Anton Lu|Anton| Austria  |         |
 | 10  | Jakub Szpyra|Kuboxxxxx| Poland  |         |
+| 11  | Tom Kristian Moen|Kloro| Norway  |         |
 
 </div>
