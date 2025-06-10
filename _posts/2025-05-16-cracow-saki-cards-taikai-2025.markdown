@@ -80,5 +80,7 @@ Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tuta
 | 9   | Anton Lu|Anton| Austria  |         |
 | 10  | Jakub Szpyra|Kuboxxxxx| Polska  |         |
 | 11  | Tom Kristian Moen|Kloro| Norwegia  |         |
+| 12  | Brandon Picq|Linami|Francja|         |
+
 
 </div>
