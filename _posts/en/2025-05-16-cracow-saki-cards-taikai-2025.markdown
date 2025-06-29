@@ -50,6 +50,8 @@ Each player chooses one card, then passes the remaining cards to the player on t
 
 Players then select 1 of their 6 cards after seeing their starting hand and place it face-down. Once everyone is ready, they reveal their chosen cards.
 
+During the match, players must change their characters every round and cannot select the same card again until 5 out of 6 of their cards are played. When a player has only a single available card, all cards become available again and character rotation starts anew. 
+
 There are 63 cards in the deck, each with a unique ability.
 
 You can view all the Saki Cards [here](https://t.co/cV5TU1qJVW) and access the Saki Cards Rulebook [here](https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing)
@@ -78,5 +80,6 @@ You can view all the Saki Cards [here](https://t.co/cV5TU1qJVW) and access the S
 | 10  | Jakub Szpyra|Kuboxxxxx| Poland  |         |
 | 11  | Tom Kristian Moen|Kloro| Norway  |         |
 | 12  | Brandon Picq|Linami|France|         |
+| 13  | Arkadiusz Natanek|Kenatan|Poland|         |
 
 </div>
