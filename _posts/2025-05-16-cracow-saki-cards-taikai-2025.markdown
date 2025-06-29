@@ -52,7 +52,7 @@ należy ją położyć zakrytą przed sobą i odkryć, gdy wszyscy gracze są go
 
 Podczas meczu gracze muszą zmieniać swoją postać co rundę i nie mogą wybrać tej samej karty, dopóki nie zagrają 5 z 6 swoich kart. Gdy graczowi zostanie tylko jedna dostępna karta, wszystkie karty ponownie stają się dostępne, a rotacja postaci zaczyna się od nowa.
 
-W talii znajduje się 63 karty, każda z unikalną umiejętnością.
+W talii znajdują się 63 karty, każda z unikalną umiejętnością.
 
 Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tutaj [Rulebook Saki Kart](https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing)
 
