@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2025-06-10T21:11:19+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Kraków Saki Cards Taikai 2025</title><link href="https://chombo.club/en/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2025" /><published>2025-05-17T16:00:00+02:00</published><updated>2025-05-17T16:00:00+02:00</updated><id>https://chombo.club/tournaments/2025/05/17/cracow-saki-cards-taikai-2025</id><content type="html" xml:base="https://chombo.club/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/"><![CDATA[<p>We invite you to the second-ever Polish tournament using Saki Cards!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2025-06-30T12:13:06+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Kraków Saki Cards Taikai 2025</title><link href="https://chombo.club/en/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2025" /><published>2025-05-17T16:00:00+02:00</published><updated>2025-05-17T16:00:00+02:00</updated><id>https://chombo.club/tournaments/2025/05/17/cracow-saki-cards-taikai-2025</id><content type="html" xml:base="https://chombo.club/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/"><![CDATA[<p>We invite you to the second-ever Polish tournament using Saki Cards!</p>
 
 <figure>
   
@@ -55,6 +55,8 @@
 Each player chooses one card, then passes the remaining cards to the player on their right. This continues until everyone has 6 cards. The rest are discarded.</p>
 
 <p>Players then select 1 of their 6 cards after seeing their starting hand and place it face-down. Once everyone is ready, they reveal their chosen cards.</p>
+
+<p>During the match, players must change their characters every round and cannot select the same card again until 5 out of 6 of their cards are played. When a player has only a single available card, all cards become available again and character rotation starts anew.</p>
 
 <p>There are 63 cards in the deck, each with a unique ability.</p>
 
@@ -163,6 +165,13 @@ Each player chooses one card, then passes the remaining cards to the player on t
         <td style="text-align: left">Brandon Picq</td>
         <td style="text-align: left">Linami</td>
         <td style="text-align: left">France</td>
+        <td style="text-align: center"> </td>
+      </tr>
+      <tr>
+        <td style="text-align: right">13</td>
+        <td style="text-align: left">Arkadiusz Natanek</td>
+        <td style="text-align: left">Kenatan</td>
+        <td style="text-align: left">Poland</td>
         <td style="text-align: center"> </td>
       </tr>
     </tbody>
