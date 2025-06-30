@@ -45,13 +45,14 @@ W grze są 3 czerwone piątki, po jednej w każdym kolorze.
 ### Saki Karty 1.3
 
 Przed rozpoczęciem gry pierwszy oya rozdaje każdemu graczowi po 7 kart z talii,
-każdy gracz wybiera jedną kartę po czym podaje resztę graczowi po prawej, aż każdy gracz będzie miał 6 kart na ręce. Pozostałe karty odrzucamy.
+każdy gracz wybiera jedną kartę, po czym podaje resztę graczowi po prawej, aż każdy gracz będzie miał 6 kart na ręce. Pozostałe karty odrzucamy.
 
 Gracze wybierają swoją kartę z sześciu po zobaczeniu swojej startowej ręki,
-należy ją położyć zakrytą przed sobą i odkryć gdy wszyscy gracze są
-gotowi.
+należy ją położyć zakrytą przed sobą i odkryć, gdy wszyscy gracze są gotowi.
 
-Są 63 karty w talii, każda z własną umiejętnością. 
+Podczas meczu gracze muszą zmieniać swoją postać co rundę i nie mogą wybrać tej samej karty, dopóki nie zagrają 5 z 6 swoich kart. Gdy graczowi zostanie tylko jedna dostępna karta, wszystkie karty ponownie stają się dostępne, a rotacja postaci zaczyna się od nowa.
+
+W talii znajdują się 63 karty, każda z unikalną umiejętnością.
 
 Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tutaj [Rulebook Saki Kart](https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing)
 
@@ -81,6 +82,7 @@ Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tuta
 | 10  | Jakub Szpyra|Kuboxxxxx| Polska  |         |
 | 11  | Tom Kristian Moen|Kloro| Norwegia  |         |
 | 12  | Brandon Picq|Linami|Francja|         |
+| 13  | Arkadiusz Natanek|Kenatan|Polska|         |
 
 
 </div>
