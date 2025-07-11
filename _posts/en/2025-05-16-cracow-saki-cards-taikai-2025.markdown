@@ -73,13 +73,11 @@ You can view all the Saki Cards [here](https://t.co/cV5TU1qJVW) and access the S
 | 3   | Michał Tkaczyk       | HANNYA般若    | Poland  |           |
 | 4   | Aleksander Orlikowski| Olson        | Poland  |           |
 | 5   | Dawid Bronowicki     |              | Poland  |           |
-| 6   | Luna Świątek |             | Poland  |         |
-| 7   | Albert Ślusarek |Quadrax| Poland  |         |
-| 8   | Małgorzata Krakowian |まるちゃん| Poland  |         |
-| 9   | Anton Lu|Anton| Austria  |         |
-| 10  | Jakub Szpyra|Kuboxxxxx| Poland  |         |
-| 11  | Tom Kristian Moen|Kloro| Norway  |         |
-| 12  | Brandon Picq|Linami|France|         |
-| 13  | Arkadiusz Natanek|Kenatan|Poland|         |
+| 6   | Albert Ślusarek |Quadrax| Poland  |         |
+| 7   | Anton Lu|Anton| Austria  |         |
+| 8   | Jakub Szpyra|Kuboxxxxx| Poland  |         |
+| 9   | Tom Kristian Moen|Kloro| Norway  |         |
+| 10  | Brandon Picq|Linami|France|         |
+| 11  | Arkadiusz Natanek|Kenatan|Poland|         |
 
 </div>
