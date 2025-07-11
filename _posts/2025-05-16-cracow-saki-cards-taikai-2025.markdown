@@ -75,14 +75,12 @@ Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tuta
 | 3   | Michał Tkaczyk          | HANNYA般若   | Polska  |         |
 | 4   | Aleksander Orlikowski   | Olson       | Polska  |         |
 | 5   | Dawid Bronowicki        |             | Polska  |         |
-| 6   | Luna Świątek |             | Polska  |         |
-| 7   | Albert Ślusarek |Quadrax| Polska  |         |
-| 8   | Małgorzata Krakowian|まるちゃん| Polska  |         |
-| 9   | Anton Lu|Anton| Austria  |         |
-| 10  | Jakub Szpyra|Kuboxxxxx| Polska  |         |
-| 11  | Tom Kristian Moen|Kloro| Norwegia  |         |
-| 12  | Brandon Picq|Linami|Francja|         |
-| 13  | Arkadiusz Natanek|Kenatan|Polska|         |
+| 6   | Albert Ślusarek |Quadrax| Polska  |         |
+| 7   | Anton Lu|Anton| Austria  |         |
+| 8   | Jakub Szpyra|Kuboxxxxx| Polska  |         |
+| 9   | Tom Kristian Moen|Kloro| Norwegia  |         |
+| 10  | Brandon Picq|Linami|Francja|         |
+| 11  | Arkadiusz Natanek|Kenatan|Polska|         |
 
 
 </div>
