@@ -15,7 +15,20 @@ Zapraszamy Was na drugi w Polsce turniej mahjonga z Saki Kartami!
 * Miejsce: [Siedziba Krakowskiego Klubu Chombo](https://maps.app.goo.gl/g6bFtG5Zi9b4SSH37)
 * Zasady: **modified** EMA Riichi 2016 + saki cards 1.3
 * Hanchany: 4
-* Wpisowe: około 50PLN
+* Wpisowe: 55 PLN (13 EUR), płatne przelewem:
+    - Płatność do **25 lipca 2025**
+    - Nr konta: `13 1140 2004 0000 3802 8180 7241`
+    - Nazwa odbiorcy:
+      ```
+      Stowarzyszenie Krakowski Klub Chombo
+      ul. Grota-Roweckiego 31/13
+      30-348 Kraków
+      Poland
+      ```
+    - Tytuł:
+      ```
+      <imię i nazwisko> - wpisowe Kraków Saki Cards Taikai
+      ```
 * Limit osób: 16 (Przy dużym zainteresowaniu może zostać zwiększony)
 * Sędziowie:
   - Szymon Nowicz (sędzia grający)
@@ -56,6 +69,61 @@ W talii znajdują się 63 karty, każda z unikalną umiejętnością.
 
 Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tutaj [Rulebook Saki Kart](https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing)
 
+## Agenda
+
+<table class="tournament-agenda">
+  <thead>
+    <tr><th colspan="2">Agenda Turnieju</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08:30–09:15</td>
+      <td>Rejestracja</td>
+    </tr>
+    <tr>
+      <td>09:15–10:45</td>
+      <td>1. hanchan</td>
+    </tr>
+    <tr>
+      <td>10:45–11:00</td>
+      <td>Przerwa</td>
+    </tr>
+    <tr>
+      <td>11:00–12:30</td>
+      <td>2. hanchan</td>
+    </tr>
+    <tr>
+      <td>12:30–12:45</td>
+      <td>Przerwa</td>
+    </tr>
+    <tr>
+      <td>12:45–14:15</td>
+      <td>3. hanchan</td>
+    </tr>
+    <tr>
+      <td>14:15–15:45</td>
+      <td>Przerwa obiadowa</td>
+    </tr>
+    <tr>
+      <td>15:45–17:15</td>
+      <td>4. hanchan</td>
+    </tr>
+    <tr>
+      <td>17:15–17:30</td>
+      <td>Przerwa</td>
+    </tr>
+    <tr>
+      <td>17:30–19:00</td>
+      <td>5. hanchan</td>
+    </tr>
+    <tr>
+      <td>19:00–19:30</td>
+      <td>Zamknięcie turnieju</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Rejestracja
 
 
@@ -70,9 +138,9 @@ Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tuta
 
 |   Nr | Imię i nazwisko | Pseudonim | Kraj | Wpisowe |
 | ---: | :-------------- | :-------- | :--- | :-----: |
-| 1   | Szymon Nowicz           |             | Polska  |         |
+| 1   | Szymon Nowicz           |             | Polska  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 2   | Michał Waliszewski      |             | Polska  |         |
-| 3   | Michał Tkaczyk          | HANNYA般若   | Polska  |         |
+| 3   | Michał Tkaczyk          | HANNYA般若   | Polska  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 4   | Aleksander Orlikowski   | Olson       | Polska  |         |
 | 5   | Dawid Bronowicki        |             | Polska  |         |
 | 6   | Albert Ślusarek |Quadrax| Polska  |         |
@@ -81,6 +149,7 @@ Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tuta
 | 9   | Tom Kristian Moen|Kloro| Norwegia  |         |
 | 10  | Brandon Picq|Linami|Francja|         |
 | 11  | Arkadiusz Natanek|Kenatan|Polska|         |
+| 12  | Dominik Jarno |Dokku|Polska| <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 
 
 </div>
