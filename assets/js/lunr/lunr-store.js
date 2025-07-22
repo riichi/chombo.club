@@ -108,7 +108,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Kraków Saki Cards Taikai 2025",
-        "excerpt":"Zapraszamy Was na drugi w Polsce turniej mahjonga z Saki Kartami! O turnieju Data: 26 lipca 2025 (sobota) Miejsce: Siedziba Krakowskiego Klubu Chombo Zasady: modified EMA Riichi 2016 + saki cards 1.3 Hanchany: 4 Wpisowe: około 50PLN Limit osób: 16 (Przy dużym zainteresowaniu może zostać zwiększony) Sędziowie: Szymon Nowicz (sędzia...","categories": ["tournaments"],
+        "excerpt":"Zapraszamy Was na drugi w Polsce turniej mahjonga z Saki Kartami! O turnieju Data: 26 lipca 2025 (sobota) Miejsce: Siedziba Krakowskiego Klubu Chombo Zasady: modified EMA Riichi 2016 + saki cards 1.3 Hanchany: 4 Wpisowe: 55 PLN (13 EUR), płatne przelewem: Płatność do 25 lipca 2025 Nr konta: 13 1140...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/",
         "teaser": null
