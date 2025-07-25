@@ -138,16 +138,16 @@ You can view all the Saki Cards [here](https://t.co/cV5TU1qJVW) and access the S
 |   No. | Name            | Nickname | Country | Paid |
 | ----: | :-------------- | :------- | :------ | :--: |
 | 1   | Szymon Nowicz        |              | Poland  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 2   | Michał Waliszewski   |              | Poland  |           |
+| 2   | Michał Waliszewski   |              | Poland  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |           |
 | 3   | Michał Tkaczyk       | HANNYA般若    | Poland  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 4   | Aleksander Orlikowski| Olson        | Poland  |           |
+| 4   | Aleksander Orlikowski| Olson        | Poland  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 5   | Dawid Bronowicki     |              | Poland  |           |
-| 6   | Albert Ślusarek |Quadrax| Poland  |         |
-| 7   | Anton Lu|Anton| Austria  |         |
-| 8   | Jakub Szpyra|Kuboxxxxx| Poland  |         |
-| 9   | Tom Kristian Moen|Kloro| Norway  |         |
-| 10  | Brandon Picq|Linami|France|         |
-| 11  | Arkadiusz Natanek|Kenatan|Poland|         |
-| 12  | Dominik Jarno |Dokku|Poland| <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 6   | Anton Lu|Anton| Austria  |         |
+| 7   | Jakub Szpyra|Kuboxxxxx| Poland  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 8   | Tom Kristian Moen|Kloro| Norway  |         |
+| 9   | Brandon Picq|Linami|France|         |
+| 10  | Arkadiusz Natanek|Kenatan|Poland|         |
+| 11  | Dominik Jarno |Dokku|Poland| <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 12  | Paweł Polański |Havelock|Polska| <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 
 </div>

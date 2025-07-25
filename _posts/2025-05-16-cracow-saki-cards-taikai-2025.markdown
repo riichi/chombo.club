@@ -139,17 +139,17 @@ Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tuta
 |   Nr | Imię i nazwisko | Pseudonim | Kraj | Wpisowe |
 | ---: | :-------------- | :-------- | :--- | :-----: |
 | 1   | Szymon Nowicz           |             | Polska  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 2   | Michał Waliszewski      |             | Polska  |         |
+| 2   | Michał Waliszewski      |             | Polska  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 | 3   | Michał Tkaczyk          | HANNYA般若   | Polska  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
-| 4   | Aleksander Orlikowski   | Olson       | Polska  |         |
-| 5   | Dawid Bronowicki        |             | Polska  |         |
-| 6   | Albert Ślusarek |Quadrax| Polska  |         |
-| 7   | Anton Lu|Anton| Austria  |         |
-| 8   | Jakub Szpyra|Kuboxxxxx| Polska  |         |
-| 9   | Tom Kristian Moen|Kloro| Norwegia  |         |
-| 10  | Brandon Picq|Linami|Francja|         |
-| 11  | Arkadiusz Natanek|Kenatan|Polska|         |
-| 12  | Dominik Jarno |Dokku|Polska| <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 4   | Aleksander Orlikowski   | Olson       | Polska  | <i aria-hidden="true" class="fa fa-fw fa-check"></i>|
+| 5   | Dawid Bronowicki        |             | Polska  | <i aria-hidden="true" class="fa fa-fw fa-check"></i>|
+| 6   | Anton Lu|Anton| Austria  |         |
+| 7   | Jakub Szpyra|Kuboxxxxx| Polska  | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 8   | Tom Kristian Moen|Kloro| Norwegia  |         |
+| 9   | Brandon Picq|Linami|Francja|         |
+| 10  | Arkadiusz Natanek|Kenatan|Polska|         |
+| 11  | Dominik Jarno |Dokku|Polska| <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+| 12  | Paweł Polański |Havelock|Polska| <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
 
 
 </div>
