@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#container {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  display: grid;
+}
+
+#poncat {
+  min-width: 50%;
+  max-width: 50%;
+  animation: mymove 30s cubic-bezier(.53,.04,.43,.94) infinite;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  transform-origin: 50% 50%;
+}
+
+@keyframes mymove {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(21600deg); filter: hue-rotate(14400deg);}
+}
+
+#pralka {
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  transform-origin: 50% 50%;
+}
+
+#piana {
+  min-width: 50%;
+  max-width: 50%;
+  animation: piana 4s cubic-bezier(.53,.04,.43,.94) infinite;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  transform-origin: 50% 50%;
+}
+
+@keyframes piana {
+  0% {transform: translatey(60px);}
+  50% {transform: translatey(80px);}
+  100% {transform: translatey(60px);}
+}
+
+</style>
+</head>
+<body style="margin: 0px; padding: 0px;">
+
+<div>
+<div id="container">
+  <img id="poncat" src="kfchii.png"/>
+</div>
+
+<div>
+<div id="container">
+  <img id="piana" src="foam.png"/>
+</div>
+
+<div id="container">
+  <img id="pralka" src="pralka.png"/>
+</div>
+</div>
+
+</body>
+</html>
