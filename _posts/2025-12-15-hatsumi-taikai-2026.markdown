@@ -17,7 +17,7 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 * Zasady: EMA Riichi 2025
 * Hanchany: 8
 * Wpisowe: ok. 200 PLN (47 EUR), płatne przelewem, dokładne informacje podamy w styczniu
-<---
+<!---
     - Płatność do **7 lutego 2024**
     - Nr konta: `13 1140 2004 0000 3802 8180 7241`
     - Nazwa odbiorcy:
@@ -120,7 +120,7 @@ Dokładną agendę ogłosimy wkrótce, turniej zacznie się około godziny 9:00 
 </table>
 --->
 
-<---
+<!---
 ## Dojazd
 
 <a href="/assets/images/mers-2022-map.png">
@@ -154,7 +154,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 --->
 
 ## Rejestracja
-<---
+<!---
 **UWAGA:** Obecnie lista zawodników jest pełna &mdash; nadal jednak można zapisać się na listę oczekujących i wziąć udział w turnieju, jeśli któryś z zarejestrowanych graczy zrezygnuje.
 --->
 
@@ -162,9 +162,9 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 **UWAGA:** Rejestracja zostanie zamknięta 31 stycznia &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
-<!--
+
 ## Gracze
 
 
 </div>
--->
+
