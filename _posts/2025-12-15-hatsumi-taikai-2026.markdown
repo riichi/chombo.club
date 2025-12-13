@@ -17,7 +17,8 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 * Zasady: EMA Riichi 2025
 * Hanchany: 8
 * Wpisowe: ok. 200 PLN (47 EUR), płatne przelewem, dokładne informacje podamy w styczniu
-<!---
+    - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu rejestracji i po prostu wyślij nam przelew na kwotę mniejszą o 50 PLN. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
+    <!--
     - Płatność do **7 lutego 2024**
     - Nr konta: `13 1140 2004 0000 3802 8180 7241`
     - Nazwa odbiorcy:
@@ -31,8 +32,7 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
       ```
       <imię i nazwisko> - wpisowe Hatsumi Taikai
       ```
-	  --->
-    - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu rejestracji i po prostu wyślij nam przelew na kwotę mniejszą o 50 PLN. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
+	  -->
 * Limit osób: 84
 * Obserwator EMA: Wkrótce
 * Sędziowie:
@@ -47,7 +47,7 @@ z jej działaniem przed turniejem.
 
 ## Agenda
 
-Dokładną agendę ogłosimy wkrótce, turniej zacznie się około godziny 9:00 w sobotę i skońćzy około godziny 17:00 w niedzielę 
+Dokładną agendę ogłosimy wkrótce, turniej zacznie się około godziny 9:00 w sobotę i skończy około godziny 17:00 w niedzielę 
 
 <!---
 <table class="tournament-agenda">
