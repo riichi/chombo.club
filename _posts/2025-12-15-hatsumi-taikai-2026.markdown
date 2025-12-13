@@ -12,7 +12,7 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 
 ## O turnieju
 
-* Data: 17-18 lutego 2024 (sobota-niedziela)
+* Data: 14-15 lutego 2026 (sobota-niedziela)
 * Miejsce: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
 * Zasady: EMA Riichi 2025
 * Hanchany: 8
@@ -33,7 +33,7 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
       <imię i nazwisko> - wpisowe Hatsumi Taikai
       ```
 	  -->
-* Limit osób: 84
+* Limit osób: 64
 * Obserwator EMA: Wkrótce
 * Sędziowie:
   - Mateusz Maćkowski
