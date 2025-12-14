@@ -8,7 +8,7 @@ lang: pl
 
 Zapraszamy Was na trzeci turniej MERS w Krakowie!
 
-{% include figure.html alt="Hatsumi Taikai" filename="2025-12-15-hatsumi-taikai.png" %}
+{% include figure.html alt="Hatsumi Taikai" filename="2025-12-15-hatsumi-taikai-2026.png" %}
 
 ## O turnieju
 
