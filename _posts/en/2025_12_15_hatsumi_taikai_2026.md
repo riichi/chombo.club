@@ -8,7 +8,7 @@ lang: en
 
 We invite you to the third MERS tournament in Kraków!
 
-{% include figure.html alt="Hatsumi Taikai" filename="2025-12-15-hatsumi-taikai.png-2026" %}
+{% include figure.html alt="Hatsumi Taikai" filename="2025-12-15-hatsumi-taikai-2026.png" %}
 
 ## About the tournament
 
