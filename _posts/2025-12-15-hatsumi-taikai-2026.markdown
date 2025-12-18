@@ -19,7 +19,8 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 * Hanchany: 8
 * Wpisowe: ok. 200 PLN (47 EUR), płatne przelewem, dokładne informacje podamy w styczniu
     - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu rejestracji i po prostu wyślij nam przelew na kwotę mniejszą o 50 PLN. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
-    <!--
+
+<!--
     - Płatność do **7 lutego 2024**
     - Nr konta: `13 1140 2004 0000 3802 8180 7241`
     - Nazwa odbiorcy:
@@ -33,7 +34,8 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
       ```
       <imię i nazwisko> - wpisowe Hatsumi Taikai
       ```
-	  -->
+-->
+
 * Limit osób: 64
 * Obserwator EMA: Wkrótce
 * Sędziowie:
@@ -45,12 +47,11 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-
 ## Agenda
 
 Dokładną agendę ogłosimy wkrótce, turniej zacznie się około godziny 9:00 w sobotę i skończy około godziny 17:00 w niedzielę 
 
-<!---
+<!--
 <table class="tournament-agenda">
 <thead>
   <tr><th colspan="2">Sobota, 14 lutego</th></tr>
@@ -119,9 +120,9 @@ Dokładną agendę ogłosimy wkrótce, turniej zacznie się około godziny 9:00 
   </tr>
 </tbody>
 </table>
---->
+-->
 
-<!---
+<!--
 ## Dojazd
 
 <a href="/assets/images/mers-2022-map.png">
@@ -152,7 +153,7 @@ Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
 
---->
+-->
 
 ## Rejestracja
 <!---
@@ -163,10 +164,6 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 **UWAGA:** Rejestracja zostanie zamknięta 31 stycznia &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
-
 ## Gracze
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=495684573&single=true&widget=false&headers=false&chrome=false" width="100%" height="1000" frameborder="0"></iframe>
-
-</div>
-
