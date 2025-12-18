@@ -166,7 +166,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 ## Gracze
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=1136704239&single=true&widget=false&headers=false&chrome=false&range=A1:F64" width="100%" height="1000" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=495684573&single=true&widget=false&headers=false&chrome=false" width="100%" height="1000" frameborder="0"></iframe>
 
 </div>
 
