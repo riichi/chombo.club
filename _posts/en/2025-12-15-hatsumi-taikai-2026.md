@@ -19,7 +19,8 @@ We invite you to the third MERS tournament in Kraków!
 * Hanchans: 8
 * Entry fee: approx. 200 PLN (47 EUR), paid by bank transfer, detailed information will be provided in January
     - It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.
-    <!--
+
+<!--
     - Payment deadline: **7 February 2024**
     - IBAN: `PL13 1140 2004 0000 3802 8180 7241`
     - Account owner:
@@ -33,7 +34,8 @@ We invite you to the third MERS tournament in Kraków!
       ```
       <name and surname> - Hatsumi Taikai registration fee
       ```
-      -->
+-->
+
 * Participant limit: 64
 * EMA Observer: Coming soon
 * Referees:
@@ -44,12 +46,11 @@ We invite you to the third MERS tournament in Kraków!
 
 Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarize themselves with the app before the tournament.
 
-
 ## Agenda
 
 The detailed agenda will be announced soon. The tournament will start at around 9:00 on Saturday and end at around 17:00 on Sunday.
 
-<!---
+<!--
 <table class="tournament-agenda">
 <thead>
   <tr><th colspan="2">Saturday, 14 February</th></tr>
@@ -118,9 +119,9 @@ The detailed agenda will be announced soon. The tournament will start at around 
   </tr>
 </tbody>
 </table>
---->
+-->
 
-<!---
+<!--
 ## How to get there
 
 <a href="/assets/images/mers-2022-map.png">
@@ -147,21 +148,17 @@ Directions from public transport stops:
 Detailed directions can be found using
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
 
---->
+-->
 
 ## Registration
-<!---
+<!--
 **NOTE:** Currently, the player list is full — however, you can still sign up for the waiting list and take part in the tournament if any of the registered players withdraw.
---->
+-->
 
 **[Tournament registration](https://forms.gle/6dxErS7b4yJgAu519)**
 
 **ATTENTION:** Registration will be closed on January 31st — this is the last day to submit a valid application.
 
-
 ## Players
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=495684573&single=true&widget=false&headers=false&chrome=false" width="100%" height="1000" frameborder="0"></iframe>
-
-</div>
-
