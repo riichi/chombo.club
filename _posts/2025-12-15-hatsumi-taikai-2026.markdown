@@ -15,7 +15,7 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 * Data: 14-15 lutego 2026 (sobota-niedziela)
 * Miejsce: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
 * Zasady: **EMA Riichi 2025**
-  - Prosimy o zapoznanie się ze zmianami w nowych zasadach EMA 2026 przed turniejem.
+  - Prosimy o zapoznanie się ze zmianami w nowych zasadach EMA 2025 przed turniejem.
 * Hanchany: 8
 * Wpisowe: ok. 200 PLN (47 EUR), płatne przelewem, dokładne informacje podamy w styczniu
     - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu rejestracji i po prostu wyślij nam przelew na kwotę mniejszą o 50 PLN. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
@@ -41,6 +41,9 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 * Sędziowie:
   - Mateusz Maćkowski
   - więcej wkrótce
+* Gracze rezerwowi:
+  - Aleksandra Malarz
+  - Aleksandra Hobot
 * Obiad: wliczony w cenę wpisowego
 * Nagrody: trofea dla pierwszych trzech miejsc.
 
