@@ -15,7 +15,7 @@ We invite you to the third MERS tournament in Kraków!
 * Date: 14<sup>th</sup>-15<sup>th</sup> February 2026 (Sat-Sun)
 * Place: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
 * Ruleset: **EMA Riichi 2025**
-  - We ask you to familiarise yourself with the changes in the new EMA 2026 ruleset before the tournament.
+  - We ask you to familiarise yourself with the changes in the new EMA 2025 ruleset before the tournament.
 * Hanchans: 8
 * Entry fee: approx. 200 PLN (47 EUR), paid by bank transfer, detailed information will be provided in January
     - It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.
@@ -41,6 +41,9 @@ We invite you to the third MERS tournament in Kraków!
 * Referees:
   - Mateusz Maćkowski
   - more coming soon
+* Substitute players:
+  - Aleksandra Malarz
+  - Aleksandra Hobot
 * Lunch: included in the entry fee
 * Prizes: trophies for the first three places.
 
