@@ -1,7 +1,7 @@
 ---
 title:  "Hatsumi Taikai 2026"
 date:   2025-12-15 20:00:00 +0200
-last_modified_at:
+last_modified_at: 2025-12-24 11:00:00 +0200
 categories: tournaments
 lang: en
 ---
@@ -154,9 +154,9 @@ Detailed directions can be found using
 -->
 
 ## Registration
-<!--
+
 **NOTE:** Currently, the player list is full — however, you can still sign up for the waiting list and take part in the tournament if any of the registered players withdraw.
--->
+
 
 **[Tournament registration](https://forms.gle/6dxErS7b4yJgAu519)**
 
