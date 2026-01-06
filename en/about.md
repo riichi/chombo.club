@@ -35,15 +35,20 @@ Any amount is welcome!
 * Mateusz Maćkowski — President of the Board
 * Aleksandra Malarz — Vice President of the Board
 * Dawid Bronowicki — Member of the Board
-* Michał Herda — Member of the Board
 * Szymon Nowicz — Member of the Board
 * Aleksander Orlikowski — Member of the Board
+* Anna Szatan — Member of the Board
+* Michał Tkaczyk — Member of the Board
 
 ### Audit Committee
 
 * Rafał Burczyński — Chairman of the Audit Committee
 * Konrad Górka — Member of the Audit Committee
 * Marek Grzelak — Member of the Audit Committee
+
+### Honorary Members
+
+* Michał Herda
 
 ## Leaflet
 
