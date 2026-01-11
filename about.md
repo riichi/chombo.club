@@ -50,7 +50,7 @@ Pierwsza składka kandydata wstępującego w poczet członków Stowarzyszenia je
 ##### Dane do przelewu
 
 **Odbiorca**: Stowarzyszenie Krakowski Klub Chombo \
-**Numer konta**: `PL13 1140 2004 0000 3802 8180 7241` \
+**Numer konta**: `PL71 1870 1045 2078 1088 3294 0001` \
 **Tytuł**:
 ```
 {imię i nazwisko} - składka członkowska za I połowę 2025 roku
@@ -78,7 +78,7 @@ Istnieje możliwość bezpośredniego wsparcia Stowarzyszenia poprzez przesłani
 Dane do przelewu:
 
 **Odbiorca**: Stowarzyszenie Krakowski Klub Chombo \
-**Numer konta**: `PL13 1140 2004 0000 3802 8180 7241` \
+**Numer konta**: `PL71 1870 1045 2078 1088 3294 0001` \
 **Tytuł**:
 ```
 Darowizna na cele statutowe Stowarzyszenia
