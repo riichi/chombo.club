@@ -21,8 +21,8 @@ You can find us on the following social networking websites:
 If you would like to send a donation to support the Krakow Chombo Club Association, you can do that by making a bank transfer in the PLN or EUR currency to the following bank account:
 
 **Recipient**: Stowarzyszenie Krakowski Klub Chombo\
-**IBAN**: PL13 1140 2004 0000 3802 8180 7241\
-**SWIFT/BIC**: BREXPLPWMBK\
+**IBAN**: `PL71 1870 1045 2078 1088 3294 0001`\
+**SWIFT/BIC**: `NESBPLPW`\
 **Reference**:
 ```
 Donation for the Association's statutory objectives
