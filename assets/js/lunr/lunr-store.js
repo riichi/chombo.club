@@ -118,4 +118,10 @@ var store = [{
         "tags": [],
         "url": "/tournaments/2025/12/15/hatsumi-taikai-2026/",
         "teaser": null
+      },{
+        "title": "3884,13 zł z 1,5% podatku – Dziękujemy!",
+        "excerpt":"Dziękujemy z całego serca! Dzięki Waszemu wsparciu i przekazaniu 1,5% podatku na rzecz naszego Stowarzyszenia udało się zebrać 3884,13 zł – to dla nas ogromna pomoc i realna motywacja do dalszego działania! Zebrane środki pozwalają nam pokrywać koszty czynszu, inwestować w sprzęt do gry (m.in. w przyszłości automatyczny stół mahjongowy)...","categories": ["other"],
+        "tags": [],
+        "url": "/other/2026/01/13/1-5-percent/",
+        "teaser": null
       }]

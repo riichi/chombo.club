@@ -112,4 +112,10 @@ var store = [{
         "tags": [],
         "url": "/tournaments/2025/12/15/hatsumi-taikai-2026/",
         "teaser": null
+      },{
+        "title": "3884.13 PLN from the 1.5% tax – Thank you!",
+        "excerpt":"Thank you from the bottom of our hearts! Thanks to your support and the allocation of 1.5% of your tax to our Association, we managed to collect 3884.13 PLN – this is a huge help for us and a real motivation for further action! The collected funds allow us to...","categories": ["other"],
+        "tags": [],
+        "url": "/other/2026/01/13/1-5-percent/",
+        "teaser": null
       }]
