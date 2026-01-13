@@ -37,9 +37,11 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 -->
 
 * Limit osób: 64
-* Obserwator EMA: Wkrótce
+* Obserwator EMA: Ivar Bouwman
 * Sędziowie:
   - Mateusz Maćkowski
+  - Jakub Bacic 
+  - Szymon Nowicz - sędzia grający
   - więcej wkrótce
 * Gracze rezerwowi:
   - Aleksandra Malarz

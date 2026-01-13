@@ -37,10 +37,11 @@ We invite you to the third MERS tournament in Kraków!
 -->
 
 * Participant limit: 64
-* EMA Observer: Coming soon
+* EMA Observer: Ivar Bouwman
 * Referees:
   - Mateusz Maćkowski
-  - more coming soon
+  - Jakub Bacic
+  - Szymon Nowicz - Playing referee
 * Substitute players:
   - Aleksandra Malarz
   - Aleksandra Hobot
