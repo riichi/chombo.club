@@ -84,7 +84,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Hatsumi Taikai",
-        "excerpt":"Zapraszamy Was na drugi turniej MERS w Krakowie! O turnieju Data: 17-18 lutego 2024 (sobota-niedziela) Miejsce: Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków Zasady: EMA Riichi 2016 Hanchany: 8 Wpisowe: 150 PLN (35 EUR), płatne przelewem: Płatność do 7 lutego 2024 Nr konta: 13 1140 2004...","categories": ["tournaments"],
+        "excerpt":"Zapraszamy Was na drugi turniej MERS w Krakowie! O turnieju Data: 17-18 lutego 2024 (sobota-niedziela) Miejsce: Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków Zasady: EMA Riichi 2016 Hanchany: 8 Wpisowe: 150 PLN (35 EUR) Limit osób: 84 Obserwator EMA: Michael Gürtl-Dusleag Sędziowie: Michał Herda Mateusz Maćkowski...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2023/10/06/hatsumi-taikai/",
         "teaser": null
