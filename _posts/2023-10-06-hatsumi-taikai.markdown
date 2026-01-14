@@ -16,21 +16,7 @@ Zapraszamy Was na drugi turniej MERS w Krakowie!
 * Miejsce: [Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Zasady: EMA Riichi 2016
 * Hanchany: 8
-* Wpisowe: 150 PLN (35 EUR), płatne przelewem:
-    - Płatność do **7 lutego 2024**
-    - Nr konta: `13 1140 2004 0000 3802 8180 7241`
-    - Nazwa odbiorcy:
-      ```
-      Stowarzyszenie Krakowski Klub Chombo
-      ul. Grota-Roweckiego 31/13
-      30-348 Kraków
-      Poland
-      ```
-    - Tytuł:
-      ```
-      <imię i nazwisko> - wpisowe Hatsumi Taikai
-      ```
-    - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu przedturniejowym i po prostu wyślij nam przelew na kwotę mniejszą o 30/50 PLN, w zależności od tego, jaka zniżka Ci przysługuje (30PLN w przypadku opłacenia obniżonej składki 50PLN za 2024 rok do 31 stycznia, 50PLN w przypadku opłacenia składki w normalnej wysokości 100PLN). Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
+* Wpisowe: 150 PLN (35 EUR)
 * Limit osób: 84
 * Obserwator EMA: Michael Gürtl-Dusleag
 * Sędziowie:

@@ -16,22 +16,7 @@ We invite you to the second MERS tournament in Kraków!
 * Place: [Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków, Poland](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Ruleset: EMA Riichi 2016
 * Hanchans: 8
-* Entry fee: 150 PLN (35 EUR), paid by bank transfer (make sure you cover all the bank transfer fees, if any!):
-    - Deadline: **7 February 2024**
-    - IBAN: `PL13 1140 2004 0000 3802 8180 7241`
-    - SWIFT/BIC: `BREXPLPWMBK`
-    - Account owner:
-      ```
-      Stowarzyszenie Krakowski Klub Chombo
-      ul. Grota-Roweckiego 31/13
-      30-348 Kraków
-      Poland
-      ```
-    - Reference:
-      ```
-      <name and surname> - Hatsumi Taikai registration fee
-      ```
-    - It is possible to use the Polish Mahjong League membership discount - if you wish to take advantage of this, please indicate this in the pre-tournament form and simply send us a transfer for the amount less 30/50 PLN, depending on which discount you are entitled to (30PLN if you pay the reduced fee of 50PLN before 31 January 2024, 50PLN if you pay the regular fee of 100PLN). Please note that you must be an active PLM member with your membership fee paid.
+* Entry fee: 150 PLN (35 EUR)
 * Participant limit: 84
 * EMA Observer: Michael Gürtl-Dusleag
 * Referees:
