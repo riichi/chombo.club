@@ -72,7 +72,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Kraków MERS Open 2022",
-        "excerpt":"We invite you to the first MERS tournament in Kraków! About Date: 8th-9th October 2022 (Sat-Sun) Place: Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków Ruleset: EMA Riichi 2016 Hanchans: 7 Entry fee: 100PLN or 22EUR, paid at the venue or by bank transfer (PLN...","categories": ["tournaments"],
+        "excerpt":"We invite you to the first MERS tournament in Kraków! About Date: 8th-9th October 2022 (Sat-Sun) Place: Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków Ruleset: EMA Riichi 2016 Hanchans: 7 Entry fee: 100PLN or 22EUR Participant limit: 80 EMA Observer: Linxuan He Referees: Marta...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2022/07/09/krakow-mers-open/",
         "teaser": null

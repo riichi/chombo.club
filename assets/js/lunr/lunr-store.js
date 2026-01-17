@@ -72,7 +72,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Kraków MERS Open 2022",
-        "excerpt":"Zapraszamy Was na pierwszy turniej MERS w Krakowie! O turnieju Data: 8-9 października 2022 (sobota-niedziela) Miejsce: Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków Zasady: EMA Riichi 2016 Hanchany: 7 Opłata: 100PLN lub 22EUR, płatne na miejscu lub przelewem (tylko PLN): Nr konta: 13 1140 2004 0000...","categories": ["tournaments"],
+        "excerpt":"Zapraszamy Was na pierwszy turniej MERS w Krakowie! O turnieju Data: 8-9 października 2022 (sobota-niedziela) Miejsce: Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków Zasady: EMA Riichi 2016 Hanchany: 7 Opłata: 100PLN lub 22EUR Limit osób: 80 Obserwator EMA: Linxuan He Sędziowie: Marta Bacic Michał Herda Agenda...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2022/07/09/krakow-mers-open/",
         "teaser": null
