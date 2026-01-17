@@ -19,7 +19,7 @@ We invite you to the third MERS tournament in Kraków!
 * Hanchans: 8
 * Entry fee: 210 PLN (50 EUR), paid by bank transfer. You can send either EUR or PLN.
     - It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.
-    - Payment deadline: **7 February 2026**
+    - Payment deadline: **31 January 2026**
     - IBAN: `PL71 1870 1045 2078 1088 3294 0001`
     - SWIFT/BIC: `NESBPLPW`
     - Account owner:
