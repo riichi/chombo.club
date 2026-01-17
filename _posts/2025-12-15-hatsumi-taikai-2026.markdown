@@ -137,7 +137,7 @@ W okolicy jest dużo sklepów spożywczych, a w razie potrzeby większych zakup�
 
 Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F" style="width: 100%; height: 480px;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
