@@ -19,7 +19,7 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 * Hanchany: 8
 * Wpisowe: 210 PLN (50 EUR), płatne przelewem
     - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu rejestracji i po prostu wyślij nam przelew na kwotę mniejszą o 50 PLN. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
-    - Płatność do **7 lutego 2024**
+    - Płatność do **7 lutego 2026**
     - Nr konta: `71 1870 1045 2078 1088 3294 0001`
     - Nazwa odbiorcy:
       ```
@@ -37,7 +37,7 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 * Obserwator EMA: Ivar Bouwman
 * Sędziowie:
   - Mateusz Maćkowski
-  - Jakub Bacic 
+  - Jakub Bacic
   - Szymon Nowicz - sędzia grający
   - Łukasz Grzybowski - sędzia grający
 * Gracze rezerwowi:

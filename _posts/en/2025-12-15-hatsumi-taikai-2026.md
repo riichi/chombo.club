@@ -19,7 +19,7 @@ We invite you to the third MERS tournament in Kraków!
 * Hanchans: 8
 * Entry fee: 210 PLN (50 EUR), paid by bank transfer. You can send either EUR or PLN.
     - It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.
-    - Payment deadline: **7 February 2024**
+    - Payment deadline: **7 February 2026**
     - IBAN: `PL71 1870 1045 2078 1088 3294 0001`
     - SWIFT/BIC: `NESBPLPW`
     - Account owner:
@@ -50,8 +50,6 @@ We invite you to the third MERS tournament in Kraków!
 Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarize themselves with the app before the tournament.
 
 ## Agenda
-
-The detailed agenda will be announced soon. The tournament will start at around 9:00 on Saturday and end at around 17:00 on Sunday.
 
 <table class="tournament-agenda">
 <thead>
@@ -88,7 +86,7 @@ The detailed agenda will be announced soon. The tournament will start at around 
   </tr>
 </tbody>
 <thead>
-  <tr><th colspan="2">Sunday, 15th February </th></tr>
+  <tr><th colspan="2">Sunday, 15th February</th></tr>
 </thead>
 <tbody>
   <tr>
@@ -139,8 +137,6 @@ Directions from public transport stops:
 
 Detailed directions can be found using
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
-
--->
 
 ## Registration
 
