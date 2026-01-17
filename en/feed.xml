@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2026-01-14T21:51:28+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">3884.13 PLN from the 1.5% tax – Thank you!</title><link href="https://chombo.club/en/other/2026/01/13/1-5-percent/" rel="alternate" type="text/html" title="3884.13 PLN from the 1.5% tax – Thank you!" /><published>2026-01-13T22:00:00+01:00</published><updated>2026-01-13T22:00:00+01:00</updated><id>https://chombo.club/other/2026/01/13/1-5-percent</id><content type="html" xml:base="https://chombo.club/other/2026/01/13/1-5-percent/"><![CDATA[<p>Thank you from the bottom of our hearts!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2026-01-17T11:27:37+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">3884.13 PLN from the 1.5% tax – Thank you!</title><link href="https://chombo.club/en/other/2026/01/13/1-5-percent/" rel="alternate" type="text/html" title="3884.13 PLN from the 1.5% tax – Thank you!" /><published>2026-01-13T22:00:00+01:00</published><updated>2026-01-13T22:00:00+01:00</updated><id>https://chombo.club/other/2026/01/13/1-5-percent</id><content type="html" xml:base="https://chombo.club/other/2026/01/13/1-5-percent/"><![CDATA[<p>Thank you from the bottom of our hearts!</p>
 
 <p>Thanks to your support and the allocation of 1.5% of your tax to our Association, we managed to collect <strong>3884.13 PLN</strong> – this is a huge help for us and a real motivation for further action!</p>
 
@@ -32,30 +32,25 @@ Together we can achieve even more!</p>
     </ul>
   </li>
   <li>Hanchans: 8</li>
-  <li>Entry fee: approx. 200 PLN (47 EUR), paid by bank transfer, detailed information will be provided in January
+  <li>Entry fee: 210 PLN (50 EUR), paid by bank transfer. You can send either EUR or PLN.
     <ul>
       <li>It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.</li>
+      <li>Payment deadline: <strong>7 February 2024</strong></li>
+      <li>IBAN: <code class="language-plaintext highlighter-rouge">PL71 1870 1045 2078 1088 3294 0001</code></li>
+      <li>SWIFT/BIC: <code class="language-plaintext highlighter-rouge">NESBPLPW</code></li>
+      <li>Account owner:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Stowarzyszenie Krakowski Klub Chombo
+ul. Grota-Roweckiego 31/13
+30-348 Kraków
+Poland
+</code></pre></div>        </div>
+      </li>
+      <li>Reference:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;name and surname&gt; - Hatsumi Taikai 2026 registration fee
+</code></pre></div>        </div>
+      </li>
     </ul>
   </li>
-</ul>
-
-<!--
-    - Payment deadline: **7 February 2024**
-    - IBAN: `PL13 1140 2004 0000 3802 8180 7241`
-    - Account owner:
-      ```
-      Stowarzyszenie Krakowski Klub Chombo
-      ul. Grota-Roweckiego 31/13
-      30-348 Kraków
-      Poland
-      ```
-    - Reference:
-      ```
-      <name and surname> - Hatsumi Taikai registration fee
-      ```
--->
-
-<ul>
   <li>Participant limit: 64</li>
   <li>EMA Observer: Ivar Bouwman</li>
   <li>Referees:
@@ -63,6 +58,7 @@ Together we can achieve even more!</p>
       <li>Mateusz Maćkowski</li>
       <li>Jakub Bacic</li>
       <li>Szymon Nowicz - Playing referee</li>
+      <li>Łukasz Grzybowski - Playing referee</li>
     </ul>
   </li>
   <li>Substitute players:
@@ -81,10 +77,9 @@ Together we can achieve even more!</p>
 
 <p>The detailed agenda will be announced soon. The tournament will start at around 9:00 on Saturday and end at around 17:00 on Sunday.</p>
 
-<!--
 <table class="tournament-agenda">
 <thead>
-  <tr><th colspan="2">Saturday, 14 February</th></tr>
+  <tr><th colspan="2">Saturday, 14th February</th></tr>
 </thead>
 <tbody>
   <tr>
@@ -93,7 +88,7 @@ Together we can achieve even more!</p>
   </tr>
   <tr>
     <td>09:45-10:00</td>
-    <td>Opening ceremony</td>
+    <td>Opening Ceremony</td>
   </tr>
   <tr>
     <td>10:00-11:30</td>
@@ -104,24 +99,20 @@ Together we can achieve even more!</p>
     <td>Hanchan II</td>
   </tr>
   <tr>
-    <td>13:20-14:45</td>
-    <td>Lunch break</td>
+    <td>13:20-14:20</td>
+    <td>Lunch Break</td>
   </tr>
   <tr>
-    <td>14:45-16:15</td>
+    <td>14:20-15:50</td>
     <td>Hanchan III</td>
   </tr>
   <tr>
-    <td>16:35-18:05</td>
+    <td>16:10-17:40</td>
     <td>Hanchan IV</td>
-  </tr>
-  <tr>
-    <td>19:00-24:00</td>
-    <td>After-party — <a href="https://maps.app.goo.gl/rxV5KY1KKB24t9bVA">T.E.A. Time Brewpub</a></td>
   </tr>
 </tbody>
 <thead>
-  <tr><th colspan="2">Sunday, 15 February</th></tr>
+  <tr><th colspan="2">Sunday, 15th February </th></tr>
 </thead>
 <tbody>
   <tr>
@@ -133,53 +124,48 @@ Together we can achieve even more!</p>
     <td>Hanchan VI</td>
   </tr>
   <tr>
-    <td>12:20-13:15</td>
-    <td>Lunch break</td>
+    <td>12:20-13:10</td>
+    <td>Lunch Break</td>
   </tr>
   <tr>
-    <td>13:15-14:45</td>
+    <td>13:10-14:40</td>
     <td>Hanchan VII</td>
   </tr>
   <tr>
-    <td>15:05-16:35</td>
+    <td>15:00-16:30</td>
     <td>Hanchan VIII</td>
   </tr>
   <tr>
-    <td>16:45-17:15</td>
-    <td>Announcement of results and closing ceremony</td>
+    <td>16:40-17:10</td>
+    <td>Announcement of results, closing ceremony</td>
   </tr>
 </tbody>
 </table>
--->
 
-<!--
-## How to get there
+<h2 id="how-to-get-there">How to get there</h2>
 
-<a href="/en/assets/images/mers-2022-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map" />
-</a>
+<p><a href="/en/assets/images/mers-2026-map.png">
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Commute map" />
+</a></p>
 
-We recommend taking a tram or bus to the venue — the nearest stop is **Ruczaj**.
-Example tram connections from the Main Railway Station (stop **Teatr Słowackiego**):
-* Tram 52, approx. 22 minutes,
-* Tram 3 &#8594; 18, approx. 22 minutes but requires a transfer,
-* Tram 50 &#8594; 17, approx. 32 minutes due to a longer route.
+<p>Generally speaking, we recommend taking a tram. The nearest stop to the tournament venue is <strong>Zabłocie</strong>. Below are example tram connections from the <strong>Main Railway Station</strong>:</p>
 
-After leaving the stop, it is about a five-minute walk to the venue.
+<ul>
+  <li><strong>Tram 50</strong> from stop <strong>Dworzec Główny Tunel</strong>, direct connection with around 10 minutes of commute time</li>
+  <li><strong>Tram 20</strong>  from stop <strong>Teatr Słowackiego</strong>, also around 10 minutes of commute time</li>
+</ul>
 
-There is a Kaufland supermarket nearby (about a 5-minute walk) — you can get off one stop earlier at **Norymberska**.
-Please note that it will be closed on Sunday.
+<p>After leaving the tram, the building is located right next to the stop — you only need to cross the road.
+There are many convenience stores in the area, and if larger shopping is needed, Galeria Kazimierz is located nearby, where there is a Carrefour store. (Please note that due to Polish law, the store will be closed on <strong>Sunday, 15 February</strong>. The convenience stores remain open.)</p>
 
-Free parking is also available at the venue.
+<p>Directions from public transport stops:</p>
 
-Directions from public transport stops:
+<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&amp;ehbc=2E312F" style="width: 100%; height: 480px;"></iframe>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
+<p>Detailed directions can be found using
+<a href="https://krakow.jakdojade.pl">https://krakow.jakdojade.pl</a> or <a href="https://maps.google.com">https://maps.google.com</a>.</p>
 
-Detailed directions can be found using
-<https://krakow.jakdojade.pl> or <https://maps.google.com>.
-
--->
+<p>–&gt;</p>
 
 <h2 id="registration">Registration</h2>
 

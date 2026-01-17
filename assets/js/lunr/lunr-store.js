@@ -114,7 +114,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Hatsumi Taikai 2026",
-        "excerpt":"Zapraszamy Was na trzeci turniej MERS w Krakowie! O turnieju Data: 14-15 lutego 2026 (sobota-niedziela) Miejsce: Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków Zasady: EMA Riichi 2025 Prosimy o zapoznanie się ze zmianami w nowych zasadach EMA 2025 przed turniejem. Hanchany: 8 Wpisowe: ok. 200 PLN (47 EUR),...","categories": ["tournaments"],
+        "excerpt":"Zapraszamy Was na trzeci turniej MERS w Krakowie! O turnieju Data: 14-15 lutego 2026 (sobota-niedziela) Miejsce: Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków Zasady: EMA Riichi 2025 Prosimy o zapoznanie się ze zmianami w nowych zasadach EMA 2025 przed turniejem. Hanchany: 8 Wpisowe: 210 PLN (50 EUR), płatne...","categories": ["tournaments"],
         "tags": [],
         "url": "/tournaments/2025/12/15/hatsumi-taikai-2026/",
         "teaser": null
