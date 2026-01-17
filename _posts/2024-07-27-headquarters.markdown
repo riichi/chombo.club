@@ -19,7 +19,7 @@ Terminy:
 Na koniec — utrzymanie siedziby swoje kosztuje, więc gdyby ktoś z Was miał ochotę wesprzeć naszą działalność, może to zrobić, wysyłając przelew na poniższe dane:
 * Adresat: `Stowarzyszenie Krakowski Klub Chombo`
 * Tytuł: `Darowizna na cele statutowe stowarzyszenia`
-* Nr konta: `13 1140 2004 0000 3802 8180 7241`
+* Nr konta: `71 1870 1045 2078 1088 3294 0001`
 
 Za wszystkie darowizny z góry serdecznie dziękujemy!
 

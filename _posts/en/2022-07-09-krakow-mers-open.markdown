@@ -16,21 +16,7 @@ We invite you to the first MERS tournament in Kraków!
 * Place: [Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Ruleset: EMA Riichi 2016
 * Hanchans: 7
-* Entry fee: 100PLN or 22EUR, paid at the venue or by bank transfer (PLN only):
-    - IBAN: `PL13 1140 2004 0000 3802 8180 7241`
-    - SWIFT/BIC: `BREXPLPWMBK`
-    - Account owner:
-      ```
-      Stowarzyszenie Krakowski Klub Chombo
-      ul. Grota-Roweckiego 31/13
-      30-348 Kraków
-      Poland
-      ```
-    - Title:
-      ```
-      <name and surname>
-      MERS 2022 registration fee
-      ```
+* Entry fee: 100PLN or 22EUR
 * Participant limit: 80
 
 * EMA Observer: Linxuan He

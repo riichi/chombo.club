@@ -16,20 +16,7 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 * Miejsce: [Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Zasady: EMA Riichi 2016
 * Hanchany: 7
-* Opłata: 100PLN lub 22EUR, płatne na miejscu lub przelewem (tylko PLN):
-    - Nr konta: `13 1140 2004 0000 3802 8180 7241`
-    - Nazwa odbiorcy:
-      ```
-      Stowarzyszenie Krakowski Klub Chombo
-      ul. Grota-Roweckiego 31/13
-      30-348 Kraków
-      Poland
-      ```
-    - Tytuł:
-      ```
-      <imię i nazwisko>
-      wpisowe MERS 2022
-      ```
+* Opłata: 100PLN lub 22EUR
 * Limit osób: 80
 
 * Obserwator EMA: Linxuan He

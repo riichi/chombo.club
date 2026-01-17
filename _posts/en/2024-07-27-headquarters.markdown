@@ -19,8 +19,8 @@ Terminy:
 Lastly, if you would like to support our activities you can do it via bank transfer with following details:
 * Recipient: `Stowarzyszenie Krakowski Klub Chombo`
 * Reference: `Donation for the association's statutory purposes`
-* IBAN: `PL13 1140 2004 0000 3802 8180 7241`
-* SWIFT/BIC: `BREXPLPWMBK`
+* IBAN: `PL71 1870 1045 2078 1088 3294 0001`
+* SWIFT/BIC: `NESBPLPW`
 
 Thank you very kindly for the donations!
 
