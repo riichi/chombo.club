@@ -17,7 +17,7 @@ We invite you to the third MERS tournament in Kraków!
 * Ruleset: **EMA Riichi 2025**
   - We ask you to familiarise yourself with the changes in the new EMA 2025 ruleset before the tournament.
 * Hanchans: 8
-* Entry fee: approx. 200 PLN (47 EUR), paid by bank transfer, detailed information will be provided in January
+* Entry fee: 210 PLN (50 EUR), paid by bank transfer. You can send either EUR or PLN.
     - It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.
     - Payment deadline: **7 February 2024**
     - IBAN: `PL71 1870 1045 2078 1088 3294 0001`
