@@ -53,7 +53,7 @@ Scores will be tracked using the mobile application [Mahjong Tracker](https://ma
 
 <table class="tournament-agenda">
 <thead>
-  <tr><th colspan="2">Saturday, 14th February</th></tr>
+  <tr><th colspan="2">Saturday, 14 February</th></tr>
 </thead>
 <tbody>
   <tr>
@@ -86,7 +86,7 @@ Scores will be tracked using the mobile application [Mahjong Tracker](https://ma
   </tr>
 </tbody>
 <thead>
-  <tr><th colspan="2">Sunday, 15th February</th></tr>
+  <tr><th colspan="2">Sunday, 15 February</th></tr>
 </thead>
 <tbody>
   <tr>
