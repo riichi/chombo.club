@@ -22,6 +22,6 @@ Możesz się z nami skontaktować za pośrednictwem:
 <p>
     KRS: 0000913968<br/>
     NIP: 6762600919<br/>
-    IBAN: PL13 1140 2004 0000 3802 8180 7241
+    IBAN: PL71 1870 1045 2078 1088 3294 0001
 </p>
 </address>

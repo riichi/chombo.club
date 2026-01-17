@@ -19,10 +19,9 @@ We invite you to the third MERS tournament in Kraków!
 * Hanchans: 8
 * Entry fee: approx. 200 PLN (47 EUR), paid by bank transfer, detailed information will be provided in January
     - It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.
-
-<!--
     - Payment deadline: **7 February 2024**
-    - IBAN: `PL13 1140 2004 0000 3802 8180 7241`
+    - IBAN: `PL71 1870 1045 2078 1088 3294 0001`
+    - SWIFT/BIC: `NESBPLPW`
     - Account owner:
       ```
       Stowarzyszenie Krakowski Klub Chombo
@@ -32,9 +31,8 @@ We invite you to the third MERS tournament in Kraków!
       ```
     - Reference:
       ```
-      <name and surname> - Hatsumi Taikai registration fee
+      <name and surname> - Hatsumi Taikai 2026 registration fee
       ```
--->
 
 * Participant limit: 64
 * EMA Observer: Ivar Bouwman
@@ -42,6 +40,7 @@ We invite you to the third MERS tournament in Kraków!
   - Mateusz Maćkowski
   - Jakub Bacic
   - Szymon Nowicz - Playing referee
+  - Łukasz Grzybowski - Playing referee
 * Substitute players:
   - Aleksandra Malarz
   - Aleksandra Hobot
@@ -54,10 +53,9 @@ Scores will be tracked using the mobile application [Mahjong Tracker](https://ma
 
 The detailed agenda will be announced soon. The tournament will start at around 9:00 on Saturday and end at around 17:00 on Sunday.
 
-<!--
 <table class="tournament-agenda">
 <thead>
-  <tr><th colspan="2">Saturday, 14 February</th></tr>
+  <tr><th colspan="2">Saturday, 14th February</th></tr>
 </thead>
 <tbody>
   <tr>
@@ -66,7 +64,7 @@ The detailed agenda will be announced soon. The tournament will start at around 
   </tr>
   <tr>
     <td>09:45-10:00</td>
-    <td>Opening ceremony</td>
+    <td>Opening Ceremony</td>
   </tr>
   <tr>
     <td>10:00-11:30</td>
@@ -77,24 +75,20 @@ The detailed agenda will be announced soon. The tournament will start at around 
     <td>Hanchan II</td>
   </tr>
   <tr>
-    <td>13:20-14:45</td>
-    <td>Lunch break</td>
+    <td>13:20-14:20</td>
+    <td>Lunch Break</td>
   </tr>
   <tr>
-    <td>14:45-16:15</td>
+    <td>14:20-15:50</td>
     <td>Hanchan III</td>
   </tr>
   <tr>
-    <td>16:35-18:05</td>
+    <td>16:10-17:40</td>
     <td>Hanchan IV</td>
-  </tr>
-  <tr>
-    <td>19:00-24:00</td>
-    <td>After-party — <a href="https://maps.app.goo.gl/rxV5KY1KKB24t9bVA">T.E.A. Time Brewpub</a></td>
   </tr>
 </tbody>
 <thead>
-  <tr><th colspan="2">Sunday, 15 February</th></tr>
+  <tr><th colspan="2">Sunday, 15th February </th></tr>
 </thead>
 <tbody>
   <tr>
@@ -106,48 +100,42 @@ The detailed agenda will be announced soon. The tournament will start at around 
     <td>Hanchan VI</td>
   </tr>
   <tr>
-    <td>12:20-13:15</td>
-    <td>Lunch break</td>
+    <td>12:20-13:10</td>
+    <td>Lunch Break</td>
   </tr>
   <tr>
-    <td>13:15-14:45</td>
+    <td>13:10-14:40</td>
     <td>Hanchan VII</td>
   </tr>
   <tr>
-    <td>15:05-16:35</td>
+    <td>15:00-16:30</td>
     <td>Hanchan VIII</td>
   </tr>
   <tr>
-    <td>16:45-17:15</td>
-    <td>Announcement of results and closing ceremony</td>
+    <td>16:40-17:10</td>
+    <td>Announcement of results, closing ceremony</td>
   </tr>
 </tbody>
 </table>
--->
 
-<!--
+
 ## How to get there
 
-<a href="/assets/images/mers-2022-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map" />
+<a href="/assets/images/mers-2026-map.png">
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Commute map" />
 </a>
 
-We recommend taking a tram or bus to the venue — the nearest stop is **Ruczaj**.
-Example tram connections from the Main Railway Station (stop **Teatr Słowackiego**):
-* Tram 52, approx. 22 minutes,
-* Tram 3 &#8594; 18, approx. 22 minutes but requires a transfer,
-* Tram 50 &#8594; 17, approx. 32 minutes due to a longer route.
+Generally speaking, we recommend taking a tram. The nearest stop to the tournament venue is **Zabłocie**. Below are example tram connections from the **Main Railway Station**:
 
-After leaving the stop, it is about a five-minute walk to the venue.
+* **Tram 50** from stop **Dworzec Główny Tunel**, direct connection with around 10 minutes of commute time
+* **Tram 20**  from stop **Teatr Słowackiego**, also around 10 minutes of commute time
 
-There is a Kaufland supermarket nearby (about a 5-minute walk) — you can get off one stop earlier at **Norymberska**.
-Please note that it will be closed on Sunday.
-
-Free parking is also available at the venue.
+After leaving the tram, the building is located right next to the stop — you only need to cross the road.
+There are many convenience stores in the area, and if larger shopping is needed, Galeria Kazimierz is located nearby, where there is a Carrefour store. (Please note that due to Polish law, the store will be closed on **Sunday, 15 February**. The convenience stores remain open.)
 
 Directions from public transport stops:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F" style="width: 100%; height: 480px;"></iframe>
 
 Detailed directions can be found using
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
