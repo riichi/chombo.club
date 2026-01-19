@@ -90,3 +90,14 @@ table.all-borders {
     border: 1px solid mix(#000, $border-color, 25%);
   }
 }
+
+.wide-iframe {
+  width: 100%;
+
+  @media (min-width: 760px) {
+    width: 760px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
