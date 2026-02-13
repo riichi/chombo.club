@@ -44,6 +44,7 @@ We invite you to the third MERS tournament in Kraków!
 * Substitute players:
   - Aleksandra Malarz
   - Aleksandra Hobot
+  - Dominik Műller
 * Lunch: included in the entry fee
 * Prizes: trophies for the first three places.
 
