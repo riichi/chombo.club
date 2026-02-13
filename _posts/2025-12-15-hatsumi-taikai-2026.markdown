@@ -43,6 +43,7 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 * Gracze rezerwowi:
   - Aleksandra Malarz
   - Aleksandra Hobot
+  - Dominik Műller
 * Obiad: wliczony w cenę wpisowego
 * Nagrody: trofea dla pierwszych trzech miejsc.
 
