@@ -1,4 +1,3 @@
-
 ---
 title:  "I Played at 4\* free rate mahjong parlors in Japan, here are my thoughts."
 date:   2026-04-15 12:00:00 +0200
