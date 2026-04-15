@@ -1,4 +1,3 @@
-
 ---
 title:  "Grałem w 4* free-rate parlorach w Japonii, moje przemyślenia"
 date:   2026-04-15 12:00:00 +0200
