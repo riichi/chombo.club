@@ -124,4 +124,10 @@ var store = [{
         "tags": [],
         "url": "/other/2026/01/13/1-5-percent/",
         "teaser": null
+      },{
+        "title": "Mahjong Parlors In Japan A Blog Post",
+        "excerpt":"--- title: \"Grałem w 4* free-rate parlorach w Japonii, moje przemyślenia\" date: 2026-04-15 12:00:00 +0200 categories: blog lang: pl --- Podczas mojego dwutygodniowego pobytu w Japonii miałem okazję zagrać w kilku parlorach mahjonga w Tokio i Osace. Poniżej przedstawiam moje przemyślenia i doświadczenia z wizyt w tych miejscach. ## Bellbird...","categories": [],
+        "tags": [],
+        "url": "/2026/04/15/Mahjong-parlors-in-japan-a-blog-post/",
+        "teaser": null
       }]
