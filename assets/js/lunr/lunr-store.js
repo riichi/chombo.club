@@ -130,10 +130,4 @@ var store = [{
         "tags": [],
         "url": "/blog/2026/04/15/Mahjong-parlors-in-japan-a-blog-post/",
         "teaser": null
-      },{
-        "title": null,
-        "excerpt":"During my two-week stay in Japan, I played at several mahjong parlors across Tokyo and Osaka. Below are my thoughts and experiences from visiting these different locations. Bellbird Shinbashi Location: Shinbashi, Tokyo This is one of the most popular parlors for Westerners. They play M-League rules, and the staff are...","categories": [],
-        "tags": null,
-        "url": "/2026/04/15/2026-04-15-Mahjong-parlors-in-japan-a-blog-post/",
-        "teaser": null
       }]
