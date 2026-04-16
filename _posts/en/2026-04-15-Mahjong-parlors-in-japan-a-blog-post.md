@@ -1,5 +1,5 @@
 ---
-title:  "I played at 4* free rate mahjong parlors in Japan, here are my thoughts."
+title:  "I played at 4* no-rate mahjong parlors in Japan, here are my thoughts."
 date:   2026-04-15 12:00:00 +0200
 categories: blog
 lang: en
@@ -10,14 +10,14 @@ During my two-week stay in Japan, I played at several mahjong parlors across Tok
 ## Bellbird Shinbashi
 **Location:** Shinbashi, Tokyo
 
-This is one of the most popular parlors for Westerners. They play M-League rules, and the staff are very friendly. Beginners are warmly welcomed. The official pricing for "Free" (open) play is **600 JPY per game**, though for some reason I felt like I ended up paying more than that. Soft drinks are included in the price. 
+This is one of the most popular parlors for Westerners. They play M-League rules, and the staff are very friendly. Beginners are warmly welcomed. The official pricing for no-rate play is **600 JPY per game**, though for some reason I felt like I ended up paying more than that. Soft drinks are included in the price. 
 
 The room can get quite loud, and the staff announcements felt a bit intrusive. The player base is diverse, ranging from beginners to highly experienced players. As a foreigner, you are more likely to be seated at a beginner's table. To assist with scoring, every table features both a digital scoring display and a physical scoring table on all four sides to help you determine exactly how much to pay. E-cigarettes are permitted indoors, so be prepared for the smell. Once seated, you will typically play multiple *hanchan* with the same group, which can occasionally feel repetitive.
 
 {% include figure.html alt="Bellbird Shinbashi parlor" filename="2026-04-15-bellbird-shinbashi.jpg" %}
 
 ### Bellbird Shinbashi Grow
-Normally, this sub-location is strictly for "set" tables (renting a table for a pre-arranged group of four). However, during one weekend of my stay, the main store was closed—likely for a private event—and "free" games were hosted here instead. The overall experience was nearly identical to the main Bellbird Shinbashi location.
+Normally, this sub-location is strictly for "set" tables (renting a table for a pre-arranged group of four). However, during one weekend of my stay, the main store was closed—likely for a private event—and no-rate games were hosted here instead. The overall experience was nearly identical to the main Bellbird Shinbashi location.
 
 {% include figure.html alt="Bellbird Shinbashi Grow parlor" filename="2026-04-15-bellbird-grow.jpg" %}
 
@@ -57,7 +57,7 @@ Communication with the staff is manageable using basic English and Google Transl
 ## 2mame
 **Location:** Namba/Shinsaibashi, Osaka
 
-This is a *sanma* (three-player mahjong) parlor in Osaka featuring free-rate Kansai *sanma*. It was the most unique establishment I visited. Instead of paying per game, there is a daily entry fee of 500 JPY. Additionally, you purchase the store's internal currency to play with (the minimum buy-in is around 2000 JPY). 
+This is a *sanma* (three-player mahjong) parlor in Osaka featuring no-rate Kansai *sanma*. It was the most unique establishment I visited. Instead of paying per game, there is a daily entry fee of 500 JPY. Additionally, you purchase the store's internal currency to play with (the minimum buy-in is around 2000 JPY). 
 
 The currency consists of *mame* and *tsubu* (1 *mame* equals 10 *tsubu*, and 1 *mame* is valued at 200 JPY). They offer a special promotion for new customers: 4000 JPY worth of *mame* for 3000 JPY. Each *hanchan* costs 1.2 *mame* paid to the store, but you can win *mame* back from other players based on the final scores. 
 
@@ -67,7 +67,7 @@ The rules include *shuugi* (tips) for *ippatsu* and *ura dora*, and a *shiro poc
 
 ## Summary and Recommendations
 
-If you are planning your own mahjong pilgrimage, your choice should depend on your experience level and what you want out of the session. I recommend **Bellbird** for beginners who want to play without much stress, as the environment is very welcoming to those still learning the ropes. If you are already experienced but still want a "no-rate" (free) option that feels more relaxed, **ML Stadium** is a great choice. For those seeking serious play with high-level opponents and a different group of players each round, **JPML Dojo** is the place to be. Finally, if you are in Osaka and want to play something different than usual *yonma*, although fun, **2mame** offers a fantastic introduction to Kansai *sanma*. I have also heard that **Toyonaka Mahjong** is another "no-rate" and gaijin-friendly parlor in Osaka, though I didn't have the chance to visit it myself during this trip as it was closed on the day.
+If you are planning your own mahjong pilgrimage, your choice should depend on your experience level and what you want out of the session. I recommend **Bellbird** for beginners who want to play without much stress, as the environment is very welcoming to those still learning the ropes. If you are already experienced but still want a "no-rate"  option that feels more relaxed, **ML Stadium** is a great choice. For those seeking serious play with high-level opponents and a different group of players each round, **JPML Dojo** is the place to be. Finally, if you are in Osaka and want to play something different than usual *yonma*, although fun, **2mame** offers a fantastic introduction to Kansai *sanma*. I have also heard that **Toyonaka Mahjong** is another "no-rate" and gaijin-friendly parlor in Osaka, though I didn't have the chance to visit it myself during this trip as it was closed on the day.
 
 ---
 
