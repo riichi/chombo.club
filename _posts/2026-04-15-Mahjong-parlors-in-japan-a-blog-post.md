@@ -17,7 +17,7 @@ W lokalu bywa dość głośno, ogłoszenia obsługi momentami bywały bardzo nac
 {% include figure.html alt="Parlor Bellbird Shinbashi" filename="2026-04-15-bellbird-shinbashi.jpg" %}
 
 ### Bellbird Shinbashi Grow
-Zazwyczaj ten dodatkowy lokal przeznaczony jest wyłącznie dla stołów typu „set” (wynajęcie stołu dla zorganizowanej czteroosobowej grupy). Jednak w jeden z weekendów mojego pobytu główny salon był zamknięty, najprawdopodobniej z powodu prywatnej imprezy i w zastępstwie otwarto tutaj gry „no-rate”. Ogólne wrażenia były niemal identyczne jak w głównym salonie Bellbird Shinbashi.
+Zazwyczaj ten dodatkowy lokal przeznaczony jest wyłącznie dla stołów typu „set” (wynajęcie stołu dla zorganizowanej czteroosobowej grupy). Jednak w jeden z weekendów mojego pobytu główny salon był zamknięty, najprawdopodobniej z powodu prywatnej imprezy i w zastępstwie otwarto tutaj gry free play no-rate gry. Ogólne wrażenia były niemal identyczne jak w głównym salonie Bellbird Shinbashi.
 
 {% include figure.html alt="Salon Bellbird Shinbashi Grow" filename="2026-04-15-bellbird-grow.jpg" %}
 
