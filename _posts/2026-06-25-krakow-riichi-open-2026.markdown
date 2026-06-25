@@ -21,7 +21,7 @@ Zapraszamy na turniej Riichi Mahjong organizowany we współpracy z Upper Silesi
 * Organizatorzy: Krakowski Klub Chombo & Upper Silesian Mahjong Association
 * Limit osób: TBA
 * Sędziowie: Michał Tkaczyk
-* Obiad: we własnym zakresie
+* Obiad: we własnym zakresie — w przerwie obiadowej zapraszamy grupowo do [Food Hall Hala Lipowa](https://maps.app.goo.gl/CvYvhfHwxhiMrtaw5), gdzie znajdziesz wiele różnych stoisk z jedzeniem dla każdego gustu
 * Punktacja: Mahjong Tracker
 
 ## USMA Cup
