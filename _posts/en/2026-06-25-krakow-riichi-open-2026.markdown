@@ -17,7 +17,20 @@ We invite you to a Riichi Mahjong tournament organized in cooperation with the U
   - No multiple yakumans allowed
   - Chombo: 20,000 points after UMA
 * Hanchans: 5
-* Fee: TBA
+* Fee: 30 PLN (7 EUR), paid by bank transfer. You can send either EUR or PLN.
+  - IBAN: `PL71 1870 1045 2078 1088 3294 0001`
+  - SWIFT/BIC: `NESBPLPW`
+  - Account owner:
+    ```
+    Stowarzyszenie Krakowski Klub Chombo
+    ul. Grota-Roweckiego 31/13
+    30-348 Kraków
+    Poland
+    ```
+  - Reference:
+    ```
+    <name and surname> - Krakow Riichi Open 2026 registration fee
+    ```
 * Organisers: Krakowski Klub Chombo & Upper Silesian Mahjong Association
 * Participant limit: TBA
 * Referee: Michał Tkaczyk
