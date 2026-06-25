@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2026-06-25T19:26:51+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">USMA Cup: Kraków Riichi Open 2026</title><link href="https://chombo.club/en/tournaments/2026/06/25/krakow-riichi-open-2026/" rel="alternate" type="text/html" title="USMA Cup: Kraków Riichi Open 2026" /><published>2026-06-25T12:00:00+02:00</published><updated>2026-06-25T12:00:00+02:00</updated><id>https://chombo.club/tournaments/2026/06/25/krakow-riichi-open-2026</id><content type="html" xml:base="https://chombo.club/tournaments/2026/06/25/krakow-riichi-open-2026/"><![CDATA[<p>We invite you to a Riichi Mahjong tournament organized in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2026-06-25T19:56:23+02:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">USMA Cup: Kraków Riichi Open 2026</title><link href="https://chombo.club/en/tournaments/2026/06/25/krakow-riichi-open-2026/" rel="alternate" type="text/html" title="USMA Cup: Kraków Riichi Open 2026" /><published>2026-06-25T12:00:00+02:00</published><updated>2026-06-25T12:00:00+02:00</updated><id>https://chombo.club/tournaments/2026/06/25/krakow-riichi-open-2026</id><content type="html" xml:base="https://chombo.club/tournaments/2026/06/25/krakow-riichi-open-2026/"><![CDATA[<p>We invite you to a Riichi Mahjong tournament organized in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!</p>
 
 <figure>
   
@@ -18,7 +18,23 @@
     </ul>
   </li>
   <li>Hanchans: 5</li>
-  <li>Fee: TBA</li>
+  <li>Fee: 30 PLN (7 EUR), paid by bank transfer. You can send either EUR or PLN.
+    <ul>
+      <li>IBAN: <code class="language-plaintext highlighter-rouge">PL71 1870 1045 2078 1088 3294 0001</code></li>
+      <li>SWIFT/BIC: <code class="language-plaintext highlighter-rouge">NESBPLPW</code></li>
+      <li>Account owner:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Stowarzyszenie Krakowski Klub Chombo
+ul. Grota-Roweckiego 31/13
+30-348 Kraków
+Poland
+</code></pre></div>        </div>
+      </li>
+      <li>Reference:
+        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;name and surname&gt; - Krakow Riichi Open 2026 registration fee
+</code></pre></div>        </div>
+      </li>
+    </ul>
+  </li>
   <li>Organisers: Krakowski Klub Chombo &amp; Upper Silesian Mahjong Association</li>
   <li>Participant limit: TBA</li>
   <li>Referee: Michał Tkaczyk</li>
