@@ -17,7 +17,19 @@ Zapraszamy na turniej Riichi Mahjong organizowany we współpracy z Upper Silesi
   - Brak możliwości łączenia yakumanów
   - Chombo: 20 000 punktów po UMA
 * Hanchany: 5
-* Wpisowe: 30PLN
+* Wpisowe: 30PLN, płatne przelewem
+  - Nr konta: `71 1870 1045 2078 1088 3294 0001`
+  - Nazwa odbiorcy:
+    ```
+    Stowarzyszenie Krakowski Klub Chombo
+    ul. Grota-Roweckiego 31/13
+    30-348 Kraków
+    Poland
+    ```
+  - Tytuł:
+    ```
+    <imię i nazwisko> - wpisowe Kraków Riichi Open 2026
+    ```
 * Organizatorzy: Krakowski Klub Chombo & Upper Silesian Mahjong Association
 * Limit osób: TBA
 * Sędziowie: Michał Tkaczyk
