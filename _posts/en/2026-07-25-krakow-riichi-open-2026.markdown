@@ -21,7 +21,7 @@ We invite you to a Riichi Mahjong tournament organized in cooperation with the U
 * Organisers: Krakowski Klub Chombo & Upper Silesian Mahjong Association
 * Participant limit: TBA
 * Referee: Michał Tkaczyk
-* Lunch: not provided (on your own)
+* Lunch: not provided — during the lunch break we will head together to [Food Hall Hala Lipowa](https://maps.app.goo.gl/CvYvhfHwxhiMrtaw5), a food hall with a wide variety of stalls to suit every taste
 * Scoring: Mahjong Tracker
 
 ## USMA Cup
