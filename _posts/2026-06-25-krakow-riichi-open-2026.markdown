@@ -108,4 +108,4 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 ## Gracze
 
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=495684573&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>
+<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" height="1000" frameborder="0"></iframe>
