@@ -130,4 +130,10 @@ var store = [{
         "tags": [],
         "url": "/blog/2026/04/15/Mahjong-parlors-in-japan-a-blog-post/",
         "teaser": null
+      },{
+        "title": "USMA Cup: Kraków Riichi Open 2026",
+        "excerpt":"Zapraszamy na turniej Riichi Mahjong organizowany we współpracy z Upper Silesian Mahjong Association w ramach cyklu USMA Cup! O turnieju Data: 25 lipca 2026 (sobota) Miejsce: Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków Zasady: USMA 2026 Brak możliwości łączenia yakumanów Chombo: 20 000 punktów po UMA Hanchany: 5...","categories": ["tournaments"],
+        "tags": [],
+        "url": "/tournaments/2026/06/25/krakow-riichi-open-2026/",
+        "teaser": null
       }]
