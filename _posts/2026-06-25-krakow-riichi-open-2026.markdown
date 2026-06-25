@@ -78,7 +78,7 @@ Turniej jest zaliczany do cyklu **USMA Cup** — serii 4 turniejów, z których 
   </tbody>
 </table>
 
-##Dojazd
+## Dojazd
 
 <a href="/assets/images/mers-2026-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Mapa dojazdu" />
@@ -100,7 +100,7 @@ Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
 
-# Rejestracja
+## Rejestracja
 
 **[Zapisy na turniej](https://forms.gle/kEwprx2xghdxy1D28)**
 
@@ -108,4 +108,4 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 ## Gracze
 
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=true&amp;headers=false" height="1000" frameborder="0"></iframe>
+<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" height="1000" frameborder="0"></iframe>
