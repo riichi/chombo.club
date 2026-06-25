@@ -17,7 +17,7 @@ Zapraszamy na turniej Riichi Mahjong organizowany we współpracy z Upper Silesi
   - Brak możliwości łączenia yakumanów
   - Chombo: 20 000 punktów po UMA
 * Hanchany: 5
-* Wpisowe: 30PLN, płatne przelewem
+* Wpisowe: 30 PLN, płatne przelewem
   - Nr konta: `71 1870 1045 2078 1088 3294 0001`
   - Nazwa odbiorcy:
     ```

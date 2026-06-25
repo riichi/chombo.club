@@ -17,7 +17,7 @@ We invite you to a Riichi Mahjong tournament organized in cooperation with the U
   - No multiple yakumans allowed
   - Chombo: 20,000 points after UMA
 * Hanchans: 5
-* Fee: 30 PLN (7EUR), paid by bank transfer. You can send either EUR or PLN.
+* Fee: 30 PLN (7 EUR), paid by bank transfer. You can send either EUR or PLN.
   - IBAN: `PL71 1870 1045 2078 1088 3294 0001`
   - SWIFT/BIC: `NESBPLPW`
   - Account owner:
