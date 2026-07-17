@@ -1,10 +1,18 @@
-- name: Rīchi Mahjong Basics — our series of videotutorials published on YouTube [EN subtitles]
-  name_pl: Podstawy Rīchi Mahjonga — nasza seria wideoporadników na YouTube
+- name: Riichi Mahjong Basics — our series of videotutorials published on YouTube [EN subtitles]
+  name_pl: Podstawy Riichi Mahjonga — nasza seria wideoporadników na YouTube
   url: https://youtube.com/playlist?list=PLb9pn6PWll9XyV5yoOcIAl004p30DLhe8
 
 - name: Tiles cheat sheet for beginners [PL]
   name_pl: Ściąga z kamieniami dla początkujących
   url: /assets/download/kamienie.pdf
+
+- name: Riichi Mahjong Wiki
+  name_pl: Riichi Mahjong Wiki
+  url: https://riichi.wiki
+
+- name: Multilingual comprehensive Riichi help sheets
+  name_pl: Wielojęzyczne obszerne ściągi do Riichi, w tym po Polsku
+  url: https://zes.sx/riichi/
 
 - name: How to Play Japanese Mahjong - A Comprehensive Walkthrough by HanaYoriUta (3.5h)
   name_pl: How to Play Japanese Mahjong - A Comprehensive Walkthrough by HanaYoriUta (3,5godz)
@@ -13,12 +21,16 @@
 - name: Riichi Book
   url: https://dainachiba.github.io/RiichiBooks/
 
-- name: European Mahjong Association rules
-  name_pl: Reguły European Mahjong Association
-  url: http://mahjong-europe.org/portal/images/docs/Riichi-rules-2016-EN.pdf
+- name: European Mahjong Association rules 2025
+  name_pl: Reguły European Mahjong Association 2025
+  url: http://mahjong-europe.org/portal/images/docs/Riichi-rules-2025-EN.pdf
+  
+- name: European Mahjong Association rules 2025 [PL]
+  name_pl: Reguły European Mahjong Association 2025 [EN]
+  url: /assets/download/PL_Zasady_Riichi_Mahjong.pdf
 
 - name: Riichi rules around the world
-  name_pl: Zestawienie zasad używanych na całym świecie
+  name_pl: Zestawienie zasad riichi używanych na całym świecie
   url: https://ooyamaneko.net/en/mahjong/rratw/index.php
 
 - name: The MAH-JONGG FAQs — a huge guide to mahjong, considering other variants as well
