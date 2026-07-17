@@ -30,10 +30,15 @@
   description_pl: trainer pomagający przyswoić zasady punktowania rąk działający w przeglądarce internetowej
   url: https://scoringtrainer.konbamwa.net/
 
-- name: Riichi Mahjong Scoring Quiz
-  description: trainer that helps to learn the hand scoring rules
-  description_pl: kolejny trainer pomagający przyswoić układy i punktację
-  url: https://github.com/chairbender/riichi-mahjong-scoring-quiz
+- name: Riichi Scoring Trainer
+  description: hand scoring trainer running in web browser
+  description_pl: trainer pomagający przyswoić zasady punktowania rąk działający w przeglądarce internetowej
+  url: https://scoringtrainer.konbamwa.net/
+  
+- name: Mahjong Trainer
+  description: Offline browser scoring and chinitsu trainer, can be added as a PWA
+  description_pl: Przeglądrkowy trainer punktacji i chinitsu, można dodać jako PWA
+  url: https://erdostom.github.io/mahjongtrainer/
 
 - name: R Mahjong
   url: https://play.google.com/store/apps/details?id=com.arttech.rmahjong

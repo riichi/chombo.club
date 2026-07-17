@@ -1,11 +1,19 @@
 - name: Map of Mahjong clubs around the world
   name_pl: Mapa klubów mahjonga na świecie
-  url: https://www.google.com/maps/d/viewer?mid=1f1LC7j8_BfJDNcVvJ7PyxrJKqBo&hl=en_US&usp=sharing
+  url: https://www.google.com/maps/d/u/0/viewer?mid=1-fd94vfZVpRGfSXFRMKBpSWDjijlwrzL&ll=26.694247711283083%2C0&z=2
 
 - name: Polish League of Mahjong
   name_pl: Polska Liga Mahjonga
-  url: https://mahjong.waw.pl/
+  url: https://mahjong.org.pl/
 
 - name: Upper Silesian Mahjong Association
   name_pl: Górnośląski Związek Mahjonga
   url: https://mahjongsilesia.wordpress.com/
+  
+- name: Mahjong Kaszëbë
+  name_pl: Mahjong Kaszëbë
+  url: https://mahjongkaszebe.pl
+
+- name: Chiithorn
+  name_pl: Chiithorn
+  url: https://chiithorn.pl
