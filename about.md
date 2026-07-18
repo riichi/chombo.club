@@ -13,7 +13,8 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 * [Instagram]({{ site.footer.links[2].url }}) — gdzie publikujemy zdjęcia z naszych wydarzeń i spotkań
 * [X (dawniej Twitter)]({{ site.footer.links[3].url }}) — gdzie informujemy międzynarodową społeczność o naszych zmaganiach ligowych i na turniejach
 * [GitHub]({{ site.footer.links[4].url }}) — gdzie budujemy oprogramowanie pomagające rozwinąć umiejętności w mahjongu
-
+* [YouTube]({{ site.footer.links[5].url }}) — gdzie wrzucamy nasze poradniki i inne wideo
+ 
 ## Stowarzyszenie
 
 [Pobierz statut w formacie PDF](https://github.com/riichi/statute-pl/releases/download/release-2025-07-27/statut.pdf)
@@ -90,7 +91,7 @@ Każda kwota jest mile widziana!
 
 * Mateusz Maćkowski — Prezes Zarządu
 * Aleksandra Malarz — Wiceprezes Zarządu
-* Dawid Bronowicki — Członek Zarządu
+* Kosma Kotschmarów — Członek Zarządu
 * Szymon Nowicz — Członek Zarządu
 * Aleksander Orlikowski — Członek Zarządu
 * Anna Szatan — Członek Zarządu
