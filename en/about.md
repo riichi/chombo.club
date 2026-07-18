@@ -13,6 +13,7 @@ You can find us on the following social networking websites:
 * [Instagram]({{ site.footer.links[2].url }}) — where we publish photos from our events and meetings
 * [X (formerly Twitter)]({{ site.footer.links[3].url }}) — where we inform international community about our league and tournament competitions
 * [GitHub]({{ site.footer.links[4].url }}) — where we keep the software we build to help improve Mahjong skills
+* [YouTube]({{ site.footer.links[5].url }}) — where we publish our guides and other videos
 
 ## Association
 
@@ -34,7 +35,7 @@ Any amount is welcome!
 
 * Mateusz Maćkowski — President of the Board
 * Aleksandra Malarz — Vice President of the Board
-* Dawid Bronowicki — Member of the Board
+* Kosma Kotschmarów — Member of the Board
 * Szymon Nowicz — Member of the Board
 * Aleksander Orlikowski — Member of the Board
 * Anna Szatan — Member of the Board
