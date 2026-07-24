@@ -13,7 +13,7 @@ Zapraszamy na turniej Riichi Mahjong organizowany we współpracy z Upper Silesi
 
 * Data: 25 lipca 2026 (sobota)
 * Miejsce: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
-* Zasady: [**USMA 2026**](https://mahjongsilesia.wordpress.com/wp-content/uploads/2026/04/zasady-usma-2026.pdf)
+* Zasady: [**USMA 2026**](https://mahjongsilesia.wordpress.com/wp-content/uploads/2026/06/zasady-usma-2026-r1.pdf)
   - Brak możliwości łączenia yakumanów
   - Chombo: 20 000 punktów po UMA
 * Hanchany: 5
@@ -31,7 +31,7 @@ Zapraszamy na turniej Riichi Mahjong organizowany we współpracy z Upper Silesi
     <imię i nazwisko> - wpisowe Kraków Riichi Open 2026
     ```
 * Organizatorzy: Krakowski Klub Chombo & Upper Silesian Mahjong Association
-* Limit osób: TBA
+* Limit osób: 32
 * Sędziowie: Michał Tkaczyk
 * Obiad: we własnym zakresie — w przerwie obiadowej zapraszamy grupowo do [Food Hall Hala Lipowa](https://maps.app.goo.gl/CvYvhfHwxhiMrtaw5), gdzie znajdziesz wiele różnych stoisk z jedzeniem dla każdego gustu
 * Punktacja: Mahjong Tracker
