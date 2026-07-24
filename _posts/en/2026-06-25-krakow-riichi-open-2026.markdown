@@ -13,7 +13,7 @@ We invite you to a Riichi Mahjong tournament organized in cooperation with the U
 
 * Date: 25th July 2026 (Saturday)
 * Place: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
-* Rules: [**USMA 2026**](https://mahjongsilesia.wordpress.com/wp-content/uploads/2026/04/zasady-usma-2026.pdf)
+* Rules: [**USMA 2026**](https://mahjongsilesia.wordpress.com/wp-content/uploads/2026/06/zasady-usma-2026-r1.pdf)
   - No multiple yakumans allowed
   - Chombo: 20,000 points after UMA
 * Hanchans: 5
@@ -32,7 +32,7 @@ We invite you to a Riichi Mahjong tournament organized in cooperation with the U
     <name and surname> - Krakow Riichi Open 2026 registration fee
     ```
 * Organisers: Krakowski Klub Chombo & Upper Silesian Mahjong Association
-* Participant limit: TBA
+* Participant limit: 32
 * Referee: Michał Tkaczyk
 * Lunch: not provided — during the lunch break we will head together to [Food Hall Hala Lipowa](https://maps.app.goo.gl/CvYvhfHwxhiMrtaw5), a food hall with a wide variety of stalls to suit every taste
 * Scoring: Mahjong Tracker
