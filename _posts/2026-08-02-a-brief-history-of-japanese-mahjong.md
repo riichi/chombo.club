@@ -1,0 +1,56 @@
+---
+title:  "Krótka historia japońskiego mahjonga"
+date:   2026-08-02 12:00:00 +0200
+categories: blog
+lang: pl
+---
+
+Mahjong nie posiada tak długiej historii, jak mogłoby się wydawać, ale jest to historia bez wątpienia złożona i rozległa, zwłaszcza że gra rozpowszechniła się niezależnie w wielu regionach Azji, a później także poza nią. Nie wnikając w genezę gry w Chinach, przejdźmy od razu do Japonii. Konkretnie cofnijmy się do lat 20. ubiegłego wieku. W 1929 roku powstała pierwsza w Japonii organizacja zreszająca graczy mahjonga. Była to Japońska Federacja Mahjonga (日本麻雀連盟) i jej pierwszym prezesem był znany pisarz Kikuchi Kan. Grali oni w wariant nazywany Arushiiaru lub też Klasyczny Japoński Mahjong. Nazwa Arushiiaru pochodzi od chińskiego określenia na liczbę 22, ponieważ była to najmniejsza liczba punktów bazowych, jaką można było osiągnąć.
+
+Wariant ten różnił się mocno od współczesnego mahjonga. Po pierwsze, do wygrania ręki nie trzeba było mieć yaku (tudzież: nie trzeba było mieć hanów, istniały ręce o wartości 0 han). Wystarczył standardowy kształt ręki w postaci 4 grupy + 1 para (wyjątek: chiitoitsu warte 0 han i 100 fu). Yaku oczywiście istniały, jednak ich lista była znacznie krótsza od współczesnej, różniły się też wartościami han. Nie istniały dory, chociaż istniał martwy mur. Nie uznawano riichi, a przynajmniej nie tak jak dzisiaj – zadeklarować riichi można było wyłącznie w pierwszej turze gry (podobnie jak dziś double riichi). Istniał furiten, jednak dało się go obejść, jeśli się go zadeklarowało, i wówczas dopuszczano wygraną na ron. Gra toczyła się przez 4 rundy wiatru po 4 rozdania, od East 1 do North 4.
+
+{% include figure.html alt="Tabelka punktów Arushiiaru" filename="2026-08-02-arushiaru-scoring-table.png" %}
+*Tabelka punktów Arushiiaru*
+
+Skoro o punktach mowa, tak wyglądała tabelka punktów w Arushiiaru. Oryginalnie wynik zależał wyłącznie od fu, których – jak widzimy – nie zaokrąglano do dziesiątek, co znacznie rozszerza nam tabelkę. Hany były tutaj drugorzędne, otrzymywało się je wyłącznie za yaku i przeliczało się na fu (typowo dla każdego hana fu mnożyło się przez dwa). W zależności od tsumo/ron i oya/ko, a także wartości fu/han odnajdywało się w tabelce wartość "bazową". Ta wartość mnożona przez współczynniki (różne w zależności od tego, kto wygrał i jak) i zaokrąglona do najbliższej 10 dawała nam finalną wartość wygranej.
+
+{% include figure.html alt="Tabelka liczenia punktów na podstawie bazy" filename="2026-08-02-base-point-calculation.png" %}
+*Tabelka liczenia punktów na podstawie bazy*
+
+Ogólny przepływ punktów był znacznie niższy niż we współczesnym mahjongu, liczmany posiadały 1/10 swojej obecnej wartości. Gra zaczynała się z 2000 punktami, a najwyższą możliwą wygraną do zdobycia był mangan.
+
+Powiedzmy teraz kilka słów o manganie. Słowo mangan oznacza w bardzo wolnym tłumaczeniu "kupę forsy" a w praktyce – limit, najwyższą możliwą wygraną. W języku angielskim czasem tłumaczy się słowo mangan jako "Limit". Ówczesne mangany warte były 2000 punktów dla ko, 3000 dla oya. Mangan można było zdobyć poprzez kumulowanie różnych yaku – wówczas nazywało się to kazumangan (数満貫) lub kazoemangan (数え満貫). Lecz jeśli złożyło się rękę wyjątkowo trudną lub rzadką, tak że mangan osiągało się tym jednym układem, wówczas nazywało się to yakumangan (役満貫). Stąd też pochodzi słowo yakuman – mangan zdobyty za pomocą tylko jednego yaku. Dlatego też oryginalnie yakumangan i zwykły mangan posiadały taką samą wartość.
+
+Powyższy wariant był najpowszechniejszy w tamtym okresie, lecz – jak to w grach towarzyskich zwykle bywa – tak naprawdę każdy stół ustalał swoje zasady. Z czasem zaczęło rozpowszechniać się tak zwane tochuu riichi (途中リーチ), czyli riichi w trakcie gry, nie tylko na starcie. Wspomniana już wcześniej Japońska Federacja Mahjonga nie uznawała jednak tochuu riichi za praworządną zasadę.
+
+{% include figure.html alt="Podobizna Amano Daizou" filename="2026-08-02-amano-daizou.png" %}
+*Podobizna Amano Daizou*
+
+Pewnego razu jeden z członków federacji, Amano Daizou (天野大三), postanowił stworzyć własny zestaw reguł do gry w mahjonga, niezupełnie zgadzający się z tymi propagowanymi przez swoją organizację. W okresie od 11 listopada do 5 grudnia 1952 publikował w gazecie Houchi Shinbun (報知新聞) zasady gry opierającej się mocno na tochuu riichi – u niego nazywane po prostu riichi. Rozgrywka toczyła się w formie tontonsen (東々戦), czyli dwie rundy wiatru wschodniego, od East 1 do East 8. Nadal można było wygrać bez yaku, ale po raz pierwszy wprowadzono opcjonalną zasadę honba i dora. Furiten dotyczył wyłącznie genbutsu, z innych czekań można było wygrać. Pojawiła się także nowa wysoka wygrana – daimangan/duży mangan (大満貫), warty 1,5 mangana. Dla odróżnienia inne wysoko warte, ale mniej rzadkie ręce nazywano shoumangan/mały mangan (小満貫). Specjalne traktowanie otrzymywał jedynie chuuren poutou jako baimangan (倍満貫), warty 2 razy wartość mangana.
+
+Powyższe reguły były pierwszą w historii skodyfikowaną wersją riichi mahjonga. Nazywano je – od nazwy gazety – "regułami Houchi" (報知ルール).
+
+Pewne nazwy yaku brzmiały wówczas nieco inaczej niż obecnie. Bardziej powszechne były nazwy imitujące chińską wymowę od zjapońszczonych, np. taa-san-yuan zamiast Daisangen, ii-chii-ton-kan zamiast Ikkitsuukan, san-sou-tou-shun zamiast Sanshokudoujun czy pin-hou zamiast Pinfu. Kokushimusou nazywało się w ogóle inaczej, mianowicie shii-san-yao-chuu (dosł. trzynaście granicznych klocków).
+
+Co ciekawe, ludowe zasady z lat 40. głosiły, że dora nie była odsłaniana na początku gry, lecz po wygranej. Odwracano pierwszy kamień z brzegu martwego muru i jeśli gracz posiadał w ręce identyczny kamień, to otrzymywał z góry ustaloną liczbę punktów. Dopiero reguły Houchi ustanowiły dorę jako kamień trzeci z brzegu oraz że to kolejny kamień po odwróconym stanowi dorę. Dodatkowo nową dorę odwracano, kiedy wszystkie obecne dory zostały wyrzucone przez graczy (lub gdy ktoś zrobił z nich kan). Dopiero wiele lat później zamieniono tę zasadę na odwracanie dory po wykonaniu kana.
+
+Co się wydarzyło dalej? Federacji niezbyt spodobała się samowolka Amano, który został przez członka organizacji potajemnie zgłoszony na policję. Wypuszczono go dopiero po gęstych tłumaczeniach, jakoby jego wersja mahjonga miała podnieść poziom rywalizacji. Odzyskał wolność, lecz Federacja w odwecie za "zdradę" pozbawiła go rangi i miejsca w zarządzie. Powiedzieli mu wręcz: "Jeśli kiedykolwiek zaakceptujemy zasady riichi, zgłosimy się do ciebie". Wówczas Amano odszedł z Federacji i założył własną konkurencyjną organizację nazywaną Japońskim Związkiem Mahjonga (日本牌棋院). W niej zamierzał skupiać się na riichi.
+
+Na tym nie skończyły się pionierskie działania Amano dla współczesnego mahjonga. W 1957 opublikował kolejny wariant reguł zwany "All 1-Han Shibari" (オール一飜縛り規程) lub też "reguły tokijskie" (東京ルール). W tym wariancie po raz pierwszy pojawiło się wymaganie minimum 1 hana, innymi słowy posiadanie yaku, aby zadeklarować wygraną (ta zasada weszła na stałe do riichi mahjonga i funkcjonuje do dziś). Wprowadzono furiten na oba czekania do ryanmenu, nawet jeśli tylko jeden kamień został odrzucony. Dodano także regułę zoroba (ゾロ場) w myśl której w zależności od rzutu kostką do wygrywającej ręki dodawało się bonusowe hany. Miało to służyć podniesieniu wartości wygranych. Nadal istniały duże i małe mangany, a chuuren poutou ponownie otrzymał swoją własną ligę – choumangan/super mangan (数満貫), warty 4 razy wartość mangana. Wygląda na to, że już od dziesięcioleci chuuren uznawany był za wyjątkową rękę nawet pośród tych najwyżej punktowanych.
+
+W 1967 Amano opublikował tzw. "nowe reguły" (現代ルール). W nich pierwszy raz zaokrąglano fu do dziesiątek, wprowadzono bazoro (場ゾロ), oka i ura-dorę, również używane do dzisiaj. Później publikował inne warianty, m.in. agitujące za usunięciem martwego muru, jednak one nie osiągnęły szczególnej popularności.
+
+Opowiedzmy chwilę o bazoro, ponieważ – mimo że nadal żywe w punktacji mahjonga – tak naprawdę mało kto zdaje sobie sprawę z jego istnienia. Zarówno nazwa zoroba, jak i bazoro pochodzą od słowa zorome (ゾロ目) oznaczającego identyczne liczby w rzucie kilkoma kośćmi. Pomyślmy o powszechnych grach hazardowych opartych na rzucie kością. Jeśli dealer wyrzuca takie same oczka na dwóch kościach, podwaja mu się wynik, ponieważ przy hazardzie naturalną chęcią jest osiągać jak największe wygrane. Tutaj jest podobnie. Przy regule zoroba rzut kością wyznaczał nam, ile hanów doliczamy do ręki wygranego. Jeśli wypadły dwie takie same liczby od 2 do 5, doliczaliśmy 1 han, jeśli dwie takie same 1 lub 6 – doliczaliśmy 2 hany. Z czasem jednak ta reguła uległa zmianie.
+
+Bazoro (zwane też ban-ban, den-den, ryanzoro, zoro-zoro) było nową regułą, w myśl której każdy wygrywający otrzymywał dodatkowe dwa hany do wartości swojej ręki. Rzut kością czy inne okoliczności nie miały znaczenia – po prostu dwa hany wliczało się już zawsze. Dla przykładu, jeśli wygrało się ręką wartą 1 han 30 fu, tak naprawdę wartość ręki wynosiła 3 hany 30 fu. Z tego tytułu niektóre tabelki punktów zaczynały się nie od 1 han, a od 3 han. A w jaki sposób to przetrwało do współczesności? Otóż bazoro jest już niejako domyślnie wliczone we współczesne tabelki punktów. Przykładowo weźmy rękę wartą 1 han 30 fu. Han podwaja nam fu – razem 60. Jeśli zrobiliśmy tsumo jako ko, to pozostali gracze płacą nam 60 (ko) + 60 (ko) + 120 (oya płaci dwa razy) = 240. Ale jeśli dodamy 2 hany (podwajamy fu jeszcze dwa razy), to wynik nagle zmienia się na 240 (ko) + 240 (ko) + 480 (oya) = 960. Zaokrąglając do setek, wychodzi 1000 – dokładnie tyle, ile wynosi 1 han 30 fu we współczesnych tabelkach! Właśnie dlatego, pomimo że bazoro teoretycznie wciąż istnieje, nie trzeba go liczyć, ponieważ jest ono już wkalkulowane w wynik. Gdybyśmy jednak liczyli w staromodny sposób, na podstawie fu, to korzystając z bazoro otrzymamy właściwy wynik.
+
+Strasznie to pogmatwane... Nic dziwnego, że inne warianty mahjonga poza Japonią zupełnie pozbyły się podziału na fu i hany i ujednoliciły punktację. Jednak liczenie na podstawie punktów bazowych posiada pewien niezaprzeczalny urok, subtelną logikę, której nie sposób zanegować.
+
+Z czasem punkty w mahjongu rosły coraz bardziej poprzez dodawanie różnych reguł – kandora, akadora i inne. Nazywano to inflacją mahjonga lub też infure (インフレ). Wartości liczmanów podniesiono razy 10, mangan nie był już jedyną wielką wygraną, pojawiły się hanemany, baimany, sanbaimany. Swego czasu sanbaiman, yonbaiman i gobaiman były nazywane yakumanem, później zostało to ustrukturyzowane. Ostatecznie yakuman otrzymał wartość równą czterokrotności mangana. Dla uproszczenia obliczeń zaczęto zaokrąglać fu do dziesiątek, zaś całkowity wynik do setek i... tak oto dotarliśmy aż do dzisiaj, gdzie riichi mahjong znacznie przesłonił Arushiiaru, a nawet stał się popularny w krajach posiadających własne warianty mahjonga, jak Chiny, Singapur czy Tajwan.
+
+Zabawny pozostaje fakt, że chociaż Japońska Federacja Mahjonga wciąż uznaje za swój wiodący wariant Arushiiaru, oficjalnie uznali zasady riichi mahjonga za drugi dopuszczalny wariant w 2016 roku, w 34 lata po śmierci Amano.
+
+---
+
+Autor: *Yuria*
+Warmińsko-Mazurski Klub Mahjonga „Hassouhatsu”
