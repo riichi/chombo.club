@@ -130,4 +130,10 @@ var store = [{
         "tags": [],
         "url": "/tournaments/2026/06/25/krakow-riichi-open-2026/",
         "teaser": null
+      },{
+        "title": "A Brief History of Japanese Mahjong",
+        "excerpt":"Mahjong does not have as long a history as one might assume, but its history is undoubtedly complex and extensive, especially since the game spread independently across many regions of Asia and later to the rest of the world. Without delving into the origins of the game in China, let...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2026/08/02/a-brief-history-of-japanese-mahjong/",
+        "teaser": null
       }]

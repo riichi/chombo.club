@@ -136,4 +136,10 @@ var store = [{
         "tags": [],
         "url": "/tournaments/2026/06/25/krakow-riichi-open-2026/",
         "teaser": null
+      },{
+        "title": "Krótka historia japońskiego mahjonga",
+        "excerpt":"Mahjong nie posiada tak długiej historii, jak mogłoby się wydawać, ale jest to historia bez wątpienia złożona i rozległa, zwłaszcza że gra rozpowszechniła się niezależnie w wielu regionach Azji, a później także poza nią. Nie wnikając w genezę gry w Chinach, przejdźmy od razu do Japonii. Konkretnie cofnijmy się do...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/2026/08/02/a-brief-history-of-japanese-mahjong/",
+        "teaser": null
       }]
