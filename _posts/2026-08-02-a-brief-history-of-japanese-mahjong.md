@@ -52,5 +52,5 @@ Zabawny pozostaje fakt, że chociaż Japońska Federacja Mahjonga wciąż uznaje
 
 ---
 
-Autor: *Yuria*
+Autor: *Yuria*  
 Warmińsko-Mazurski Klub Mahjonga „Hassouhatsu”
