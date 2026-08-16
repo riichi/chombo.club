@@ -5,15 +5,15 @@
 - name: Mahjong Efficiency Trainer
   url: https://euophrys.itch.io/mahjong-efficiency-trainer
 
+- name: Tri Nitro Tiles Exercises
+  description: nanikiru (what would you discard) puzzles plus chinitsu wait and efficiency trainers
+  description_pl: zadania typu nanikiru (what would you discard) oraz trainery czekań i efektywności w chinitsu
+  url: https://www.tnt-sessions.com/exercices
+
 - name: Gamedesign Flash Mahjong
   description: very good single player Mahjong client in browser
   description_pl: bardzo dobry przeglądarkowy klient mahjonga dla jednego gracza
   url: https://www.gamedesign.jp/flash/mahjong/mahjong_e.html
-
-- name: Gamedesign Unity Mahjong
-  description: as above, but works with Unity plugin
-  description_pl: jak wyżej, ale działa z wtyczką Unity
-  url: https://www.gamedesign.jp/unity/mahjong/mahjong.html
 
 - name: Gamedesign Minimahjong
   description: single player client with simplified rules
@@ -23,21 +23,16 @@
 - name: Gamedesign Bamboo
   description: chinitsu exercise
   description_pl: ćwiczenie chinitsu
-  url: https://www.gamedesign.jp/games/minimahjong/
+  url: https://www.gamedesign.jp/flash/bamboo/bamboo.html
 
 - name: Riichi Scoring Trainer
   description: hand scoring trainer running in web browser
   description_pl: trainer pomagający przyswoić zasady punktowania rąk działający w przeglądarce internetowej
   url: https://scoringtrainer.konbamwa.net/
 
-- name: Riichi Scoring Trainer
-  description: hand scoring trainer running in web browser
-  description_pl: trainer pomagający przyswoić zasady punktowania rąk działający w przeglądarce internetowej
-  url: https://scoringtrainer.konbamwa.net/
-  
 - name: Mahjong Trainer
-  description: Offline browser scoring and chinitsu trainer, can be added as a PWA
-  description_pl: Przeglądrkowy trainer punktacji i chinitsu, można dodać jako PWA
+  description: offline browser scoring and chinitsu trainer, can be added as a PWA
+  description_pl: przeglądarkowy trainer punktacji i chinitsu, można dodać jako PWA
   url: https://erdostom.github.io/mahjongtrainer/
 
 - name: R Mahjong
