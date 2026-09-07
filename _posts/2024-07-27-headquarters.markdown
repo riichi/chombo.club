@@ -1,6 +1,7 @@
 ---
 title:  "Mamy siedzibę!"
 date:   2024-07-27 19:21:00 +0100
+last_modified_at: 2026-09-07 17:50:00 +0100
 categories: other
 lang: pl
 ---
