@@ -28,7 +28,7 @@ Normally, this sub-location is strictly for "set" tables (renting a table for a 
 
 This is the official store of the Japan Professional Mahjong League (JPML) and another popular destination for Westerners. I visited twice: once on a Thursday and once on a Friday. 
 
-I didn't do my research well enough, and on my first visit (Thursday), they were playing JPML A rules—no *ippatsu*, no *ura dora*, and no *kan dora*. I stayed for two games and got my ass beat. The atmosphere felt like everyone was out to kill me, which wasn't a great feeling. On my second visit, they played WRC rules, and the atmosphere was much better. I’d suggest not coming here unless you can quickly calculate your hand score in Japanese and generally play well. 
+I didn't do my research well enough, and on my first visit (Friday), they were playing JPML A rules—no *ippatsu*, no *ura dora*, and no *kan dora*. I stayed for two games and got my ass beat. The atmosphere felt like everyone was out to kill me, which wasn't a great feeling. On my second visit, they played WRC rules, and the atmosphere was much better. I’d suggest not coming here unless you can quickly calculate your hand score in Japanese and generally play well. 
 
 It is significantly cheaper than other options, offering discounts for students and women:
 * **Standard:** 500 JPY per game
