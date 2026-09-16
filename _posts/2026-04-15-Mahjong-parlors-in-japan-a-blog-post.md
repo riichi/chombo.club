@@ -28,7 +28,7 @@ Zazwyczaj ten dodatkowy lokal przeznaczony jest wyłącznie dla stołów typu �
 
 Jest to oficjalny parlor Japan Professional Mahjong League (JPML) i kolejne niezwykle popularne miejsce wśród graczy z Zachodu. Odwiedziłem je dwukrotnie: raz w czwartek i raz w piątek. 
 
-Nie zrobiłem odpowiedniego researchu i podczas mojej pierwszej wizyty (w czwartek) obowiązywały zasady JPML A, czyli bez ippatsu, bez ura dory i bez kan dory. Zostałem na dwie gry i obie mocno przegrałem. Atmosfera była taka, jakby wszyscy chcieli mnie zabić. Przy mojej drugiej wizycie grano już normalnie na zasadach WRC i atmosfera była o wiele lepsza. Raczej odradzam przychodzenie tutaj, jeśli nie potraficie powiedzieć ile warta jest wasza ręka po japońsku i ogólnie nie gracie na wysokim poziomie. Jeśli potraficie, polecam jak najbardziej. 
+Nie zrobiłem odpowiedniego researchu i podczas mojej pierwszej wizyty (w piątek) obowiązywały zasady JPML A, czyli bez ippatsu, bez ura dory i bez kan dory. Zostałem na dwie gry i obie mocno przegrałem. Atmosfera była taka, jakby wszyscy chcieli mnie zabić. Przy mojej drugiej wizycie grano już normalnie na zasadach WRC i atmosfera była o wiele lepsza. Raczej odradzam przychodzenie tutaj, jeśli nie potraficie powiedzieć ile warta jest wasza ręka po japońsku i ogólnie nie gracie na wysokim poziomie. Jeśli potraficie, polecam jak najbardziej. 
 
 Lokal ten jest znacznie tańszy od innych opcji, a dodatkowo oferuje zniżki dla studentów i kobiet:
 * **Standard:** 500 JPY za grę
