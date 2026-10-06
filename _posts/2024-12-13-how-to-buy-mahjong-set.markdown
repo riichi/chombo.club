@@ -120,7 +120,7 @@ Być może po przeczytaniu tego wpisu odnosicie wrażenie, że Taiyo nam za nieg
 
 ## Cła i podatki od importowanych towarów
 
-Standardowo przy zamówieniach z zagranicy dopłacić należy 23% VAT-u i opłatę dla przewoźnika — w przypadku Poczty Polskiej jest to 8,50&nbsp;PLN.
+Standardowo przy zamówieniach z zagranicy dopłacić należy 23% VAT-u i opłatę dla przewoźnika — w przypadku Poczty Polskiej jest to 20&nbsp;PLN.
 Japoński Amazon uwzględnia te opłaty przy zamawianiu zestawów, jednak przy zamówieniach przez proxy należy liczyć się z dodatkowymi, poza VAT-em i opłatą przewoźnika, opłatami za pośrednictwo mogącymi wynosić np. 10% wartości zamówienia.
 
 ## Podsumowanie
