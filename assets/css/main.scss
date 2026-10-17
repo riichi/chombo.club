@@ -6,18 +6,6 @@
 
 $primary-color              : #214214 !default;
 
-@import "../../bootstrap-5.3.8/assets/stylesheets/bootstrap/functions";
-@import "../../bootstrap-5.3.8/assets/stylesheets/bootstrap/variables";
-@import "../../bootstrap-5.3.8/assets/stylesheets/bootstrap/variables-dark";
-@import "../../bootstrap-5.3.8/assets/stylesheets/bootstrap/maps";
-@import "../../bootstrap-5.3.8/assets/stylesheets/bootstrap/mixins";
-@import "../../bootstrap-5.3.8/assets/stylesheets/bootstrap/root";
-@import "../../bootstrap-5.3.8/assets/stylesheets/bootstrap/utilities";
-
-@import "../../bootstrap-5.3.8/assets/stylesheets/bootstrap/progress";
-
-@import "../../bootstrap-5.3.8/assets/stylesheets/bootstrap/utilities/api";
-
 @import "minimal-mistakes"; // main partials
 
 .masthead, .masthead .greedy-nav {
@@ -25,7 +13,6 @@ $primary-color              : #214214 !default;
 }
 
 .lang-switcher {
-  -ms-flex-item-align: center;
   align-self: center;
   border: 0;
   outline: none;
@@ -100,4 +87,29 @@ table.all-borders {
     left: 50%;
     transform: translateX(-50%);
   }
+}
+
+.progress {
+  display: flex;
+  height: 1rem;
+  overflow: hidden;
+  font-size: $type-size-7;
+  background-color: $lighter-gray;
+  border-radius: $border-radius;
+}
+
+.progress-bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  background-color: $primary-color;
+}
+
+.progress-bar-striped {
+  background-image: linear-gradient(45deg, rgba(#fff, 0.15) 25%, transparent 25%, transparent 50%, rgba(#fff, 0.15) 50%, rgba(#fff, 0.15) 75%, transparent 75%, transparent);
+  background-size: 1rem 1rem;
 }
