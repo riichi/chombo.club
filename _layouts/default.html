@@ -1,42 +1,38 @@
 ---
 layout: compress
 ---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
 
 <!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.17.2 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
-<head>
-  {% include head.html %}
-  {% include head/custom.html %}
-</head>
+{% include copyright.html %}
+<html lang="{{ locale | replace: '_', '-' | default: 'en' }}" class="no-js" dir="{{ page.direction | default: layout.direction | default: site.direction | default: 'ltr' }}">
+  <head>
+    {% include head.html locale=locale %}
+    {% include head/custom.html %}
+  </head>
 
-<body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-{% include skip-links.html %}
-{% include masthead.html %}
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include skip-links.html locale=locale %}
+    {% include masthead.html locale=locale %}
 
-<div class="initial-content">
-  {{ content }}
-</div>
+    <div class="initial-content">
+      {{ content }}
+      {% include after-content.html %}
+    </div>
 
-{% if site.search == true %}
-<div class="search-content">
-  {% include search/search_form.html %}
-</div>
-{% endif %}
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include search/search_form.html locale=locale %}
+      </div>
+    {% endif %}
 
-<div id="footer" class="page__footer">
-  <footer>
-    {% include footer/custom.html %}
-    {% include footer.html %}
-  </footer>
-</div>
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html locale=locale %}
+      </footer>
+    </div>
 
-{% include scripts.html %}
-
-</body>
+    {% include scripts.html locale=locale %}
+  </body>
 </html>
