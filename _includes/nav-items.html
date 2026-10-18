@@ -1,0 +1,12 @@
+{%- comment -%} Navigation links, shared by the desktop bar and the mobile menu. {%- endcomment -%}
+{%- for link in site.data.navigation.categories -%}
+  <li><a href="{{ link.url }}"{% if link.url == current_path %} aria-current="page"{% elsif link.url == post_category_url %} aria-current="true"{% endif %}>{{ link.title }}</a></li>
+{%- endfor -%}
+{%- if include.separator %}<li class="nav-sep" aria-hidden="true"></li>{% endif -%}
+{%- for link in site.data.navigation.main -%}
+  {%- if link.url contains '://' -%}
+  <li><a href="{{ link.url }}">{{ link.title }} <svg class="icon" aria-hidden="true"><use href="#i-external"/></svg></a></li>
+  {%- else -%}
+  <li><a href="{{ link.url }}"{% if link.url == current_path %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+  {%- endif -%}
+{%- endfor -%}

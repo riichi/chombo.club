@@ -1,3 +1,11 @@
+categories:
+  - title: "Tournaments"
+    url: /categories/tournaments/
+  - title: "Blog"
+    url: /categories/blog/
+  - title: "Other"
+    url: /categories/other/
+
 main:
   - title: "Help"
     url: /help/
@@ -11,3 +19,11 @@ main:
     url: /calendar/
   - title: "ChomboGen"
     url: https://hand.chombo.club/
+
+shortcuts:
+  - title: "How to start playing"
+    url: /help/
+  - title: "Event calendar"
+    url: /calendar/
+  - title: "Become a member"
+    url: /about/

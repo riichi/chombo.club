@@ -1,0 +1,249 @@
+$nav-breakpoint: 1100px;
+
+.masthead {
+  position: relative;
+  z-index: 10;
+  background: var(--felt);
+  color: var(--felt-ink);
+
+  a {
+    color: var(--felt-ink);
+    text-decoration: none;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  &__inner {
+    display: flex;
+    align-items: center;
+    gap: 16px 24px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+
+  &__brand {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-right: auto;
+  }
+
+  &__logo {
+    width: 46px;
+    height: 54px;
+
+    img {
+      width: 38px;
+      height: 38px;
+    }
+  }
+
+  &__title {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 1.3125rem;
+    line-height: 1.1;
+  }
+
+  &__nav {
+    display: none;
+  }
+
+  &__tools {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  &__desktop {
+    display: none !important;
+  }
+
+  @media (min-width: $nav-breakpoint) {
+    &__brand {
+      margin-right: 0;
+    }
+
+    &__nav {
+      display: block;
+      flex: 1 1 auto;
+    }
+
+    &__desktop {
+      display: inline-flex !important;
+    }
+
+    &__menu {
+      display: none;
+    }
+  }
+
+  @media (max-width: 640px) {
+    &__logo {
+      width: 34px;
+      height: 40px;
+      box-shadow: 0 3px 0 var(--tile-back);
+
+      img {
+        width: 28px;
+        height: 28px;
+      }
+    }
+
+    &__title {
+      font-size: 1.0625rem;
+    }
+  }
+}
+
+.nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  a {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 10px;
+    border-radius: var(--radius-sm);
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.4;
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.08);
+    }
+
+    &[aria-current] {
+      background: rgba(255, 255, 255, 0.16);
+    }
+  }
+
+  .icon {
+    width: 14px;
+    height: 14px;
+    stroke-width: 2.2;
+  }
+}
+
+.nav-sep {
+  width: 1px;
+  height: 22px;
+  margin: 0 8px;
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 10px;
+  background: transparent;
+  color: var(--felt-ink);
+  font-size: 0.9375rem;
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+  }
+}
+
+// Theme toggle shows the icon of the mode currently selected.
+.theme-icon {
+  display: none;
+}
+
+[data-theme-mode="auto"] .theme-icon--auto,
+[data-theme-mode="light"] .theme-icon--light,
+[data-theme-mode="dark"] .theme-icon--dark {
+  display: inline;
+}
+
+// Mobile menu: a native <details>, so it works without JavaScript.
+.masthead__menu {
+  &[open] > summary {
+    background: rgba(255, 255, 255, 0.16);
+  }
+
+  .icon-close {
+    display: none;
+  }
+
+  &[open] .icon-open {
+    display: none;
+  }
+
+  &[open] .icon-close {
+    display: inline;
+  }
+}
+
+.menu-panel {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--felt);
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+}
+
+.menu-list {
+  margin: 0;
+  padding: 8px 0 16px;
+  list-style: none;
+
+  a,
+  button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    min-height: 48px;
+    padding: 0 4px;
+    border: 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    background: none;
+    color: var(--felt-ink);
+    font-weight: 600;
+    text-align: left;
+    cursor: pointer;
+
+    &[aria-current] {
+      text-decoration: underline;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 6px;
+    }
+  }
+
+  li:first-child a {
+    border-top: 0;
+  }
+
+  .icon {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+.menu-sep {
+  height: 8px;
+}

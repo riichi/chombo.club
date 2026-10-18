@@ -1,0 +1,26 @@
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+{%- assign crumb_title = include.title | default: page.title -%}
+<nav class="wrap breadcrumbs" aria-label="{{ t.breadcrumb_label }}">
+  <ol>
+    <li><a href="/">{{ t.breadcrumb_home_label }}</a></li>
+    {%- if page.collection == "posts" %}
+    <li><a href="{{ post_category_url }}">{{ t.category_names[post_category] | default: post_category }}</a></li>
+    {%- endif %}
+    <li><span aria-current="page">{{ crumb_title }}</span></li>
+  </ol>
+</nav>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": {{ t.breadcrumb_home_label | jsonify }}, "item": {{ lang_prefix | append: "/" | absolute_url | jsonify }}},
+    {%- if page.collection == "posts" %}
+    {"@type": "ListItem", "position": 2, "name": {{ t.category_names[post_category] | default: post_category | jsonify }}, "item": {{ lang_prefix | append: post_category_url | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 3, "name": {{ crumb_title | jsonify }}}
+    {%- else %}
+    {"@type": "ListItem", "position": 2, "name": {{ crumb_title | jsonify }}}
+    {%- endif %}
+  ]
+}
+</script>

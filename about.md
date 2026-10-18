@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: O nas
 permalink: /about/
 lang: pl
@@ -14,7 +14,7 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 * [X (dawniej Twitter)]({{ site.footer.links[3].url }}) — gdzie informujemy międzynarodową społeczność o naszych zmaganiach ligowych i na turniejach
 * [GitHub]({{ site.footer.links[4].url }}) — gdzie budujemy oprogramowanie pomagające rozwinąć umiejętności w mahjongu
 * [YouTube]({{ site.footer.links[5].url }}) — gdzie wrzucamy nasze poradniki i inne wideo
- 
+
 ## Stowarzyszenie
 
 [Pobierz statut w formacie PDF](https://github.com/riichi/statute-pl/releases/download/release-2025-07-27/statut.pdf)

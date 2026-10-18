@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: Help
 permalink: /help/
 lang: en

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: Calendar
 permalink: /calendar/
 lang: en

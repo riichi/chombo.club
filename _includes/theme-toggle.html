@@ -1,0 +1,7 @@
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+<button class="{{ include.class }}" type="button" data-theme-toggle data-label="{{ t.theme_label }}" data-label-auto="{{ t.theme_auto }}" data-label-light="{{ t.theme_light }}" data-label-dark="{{ t.theme_dark }}" aria-label="{{ t.theme_label }}: {{ t.theme_auto }}">
+  <svg class="icon theme-icon theme-icon--auto" aria-hidden="true"><use href="#i-auto"/></svg>
+  <svg class="icon theme-icon theme-icon--light" aria-hidden="true"><use href="#i-sun"/></svg>
+  <svg class="icon theme-icon theme-icon--dark" aria-hidden="true"><use href="#i-moon"/></svg>
+  {%- if include.text %}<span data-theme-text aria-hidden="true">{{ t.theme_label }}: {{ t.theme_auto }}</span>{% endif %}
+</button>

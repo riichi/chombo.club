@@ -1,0 +1,13 @@
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+<dialog id="search-dialog" class="search-dialog" aria-labelledby="search-title">
+  <div class="search-dialog__head">
+    <h2 id="search-title">{{ t.search_label }}</h2>
+    <button class="search-dialog__close" type="button" data-search-close aria-label="{{ t.close_label }}">
+      <svg class="icon" aria-hidden="true"><use href="#i-close"/></svg>
+    </button>
+  </div>
+  <div class="search-dialog__body">
+    <div id="search"></div>
+    <p class="search-dialog__unavailable" hidden>{{ t.search_unavailable }}</p>
+  </div>
+</dialog>

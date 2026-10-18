@@ -1,0 +1,78 @@
+// Design tokens. Every colour used by the theme is a custom property, so
+// dark mode is just a different set of values.
+
+@mixin light-tokens {
+  color-scheme: light;
+  --bg: #faf8f3;
+  --surface: #ffffff;
+  --surface-2: #f1eee5;
+  --text: #1a1f1b;
+  --muted: #56605a;
+  --border: #e2ded2;
+  --border-strong: #b9b3a3;
+  --felt: #1f4a2c;
+  --felt-2: #173a22;
+  --felt-ink: #f4f1e8;
+  --link: #1f6a3a;
+  --link-hover: #123f22;
+  --accent: #b3261e;
+  --accent-soft: #f8e3e0;
+  --chip: #e3eee6;
+  --chip-ink: #1f4a2c;
+  --tile-face: #fbf8ee;
+  --tile-back: #2e6b40;
+  --code-bg: #f1eee5;
+  --shadow: 0 1px 2px rgba(26, 31, 27, 0.06), 0 4px 16px rgba(26, 31, 27, 0.06);
+}
+
+@mixin dark-tokens {
+  color-scheme: dark;
+  --bg: #0e1511;
+  --surface: #151f19;
+  --surface-2: #1b2820;
+  --text: #e6eae3;
+  --muted: #a0aba2;
+  --border: #28372d;
+  --border-strong: #46584c;
+  --felt: #13301d;
+  --felt-2: #0f2618;
+  --felt-ink: #e6eae3;
+  --link: #86cfa0;
+  --link-hover: #b5e6c6;
+  --accent: #f2877c;
+  --accent-soft: #3a1f1c;
+  --chip: #1e3326;
+  --chip-ink: #a9ddbb;
+  --tile-face: #e9e4d4;
+  --tile-back: #2e6b40;
+  --code-bg: #1b2820;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+:root {
+  @include light-tokens;
+
+  --font-body: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: "Bricolage Grotesque", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --wrap: 1200px;
+  --gutter: 32px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    @include dark-tokens;
+  }
+}
+
+:root[data-theme="dark"] {
+  @include dark-tokens;
+}
+
+@media (max-width: 640px) {
+  :root {
+    --gutter: 16px;
+  }
+}

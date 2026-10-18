@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: Kontakt
 permalink: /contact/
 lang: pl

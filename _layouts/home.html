@@ -1,0 +1,58 @@
+---
+layout: default
+---
+{% include page-vars.html %}
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+{%- assign discord = site.footer.links | where: "label", "Discord" | first -%}
+<section class="hero">
+  {%- if page.header.image %}
+  <img class="hero__image" src="{{ page.header.image }}" alt="" width="3120" height="1197">
+  {%- endif %}
+  <div class="wrap hero__wrap">
+    <div class="hero__panel">
+      <h1>{{ t.hero_title }}</h1>
+      <p>{{ t.hero_text }}</p>
+      <div class="hero__actions">
+        <a class="btn btn--tile" href="/about/">{{ t.hero_cta_join }}</a>
+        <a class="btn btn--ghost" href="/calendar/">{{ t.hero_cta_calendar }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="wrap home-grid">
+  <div class="home-main">
+    <div class="section-head">
+      <h2>{{ t.recent_posts }}</h2>
+      {% include category-tabs.html current="/" %}
+    </div>
+
+    {% for post in paginator.posts %}
+      {%- assign featured = false -%}
+      {%- if forloop.first and paginator.page == 1 -%}{%- assign featured = true -%}{%- endif -%}
+      {% include post-card.html post=post featured=featured %}
+    {% endfor %}
+
+    {% include paginator.html %}
+  </div>
+
+  <aside class="home-aside">
+    <section class="card">
+      <h2>{{ t.shortcuts_title }}</h2>
+      <ul class="link-list">
+        {%- for link in site.data.navigation.shortcuts %}
+        <li><a href="{{ link.url }}">{{ link.title }} <span aria-hidden="true">→</span></a></li>
+        {%- endfor %}
+      </ul>
+    </section>
+    {%- if discord %}
+    <section class="card card--muted">
+      <h2>{{ t.discord_title }}</h2>
+      <p>{{ t.discord_text }}</p>
+      <a class="btn btn--felt" href="{{ discord.url }}" rel="noopener">{{ t.discord_cta }}</a>
+    </section>
+    {%- endif %}
+  </aside>
+</div>
+
+{{ content }}

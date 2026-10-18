@@ -1,0 +1,34 @@
+{%- comment -%}
+  Page-wide values shared with the layouts and includes.
+  Included at the top of each layout, since inner layouts render before default.html:
+  - current_path: the page URL without the language prefix
+  - lang_prefix: "" for the default language, "/en" otherwise
+  - lang_switch_path / other_lang: where the language switcher points
+  - post_category / post_category_url: the category of the current post
+{%- endcomment -%}
+{%- assign current_path = page.url | replace: "/index.html", "/" -%}
+{%- assign lang_prefix = "" -%}
+{%- if site.active_lang != site.default_lang -%}
+  {%- assign lang_prefix = "/" | append: site.active_lang -%}
+  {%- assign prefixed = lang_prefix | append: "/" -%}
+  {%- assign path_head = current_path | slice: 0, prefixed.size -%}
+  {%- if path_head == prefixed -%}
+    {%- assign current_path = current_path | remove_first: lang_prefix -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if site.active_lang == site.default_lang -%}
+  {%- assign other_lang = site.languages | where_exp: "l", "l != site.default_lang" | first -%}
+  {%- assign lang_switch_path = "/" | append: other_lang | append: current_path -%}
+  {%- if page["lang-exclusive"] -%}
+    {%- unless page["lang-exclusive"] contains other_lang -%}
+      {%- assign lang_switch_path = "/" | append: other_lang | append: "/" -%}
+    {%- endunless -%}
+  {%- endif -%}
+{%- else -%}
+  {%- assign other_lang = site.default_lang -%}
+  {%- assign lang_switch_path = current_path -%}
+{%- endif -%}
+{%- if page.collection == "posts" -%}
+  {%- assign post_category = page.categories | first -%}
+  {%- assign post_category_url = "/categories/" | append: post_category | append: "/" -%}
+{%- endif -%}

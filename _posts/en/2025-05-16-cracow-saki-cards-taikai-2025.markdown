@@ -64,7 +64,7 @@ Each player chooses one card, then passes the remaining cards to the player on t
 
 Players then select 1 of their 6 cards after seeing their starting hand and place it face-down. Once everyone is ready, they reveal their chosen cards.
 
-During the match, players must change their characters every round and cannot select the same card again until 5 out of 6 of their cards are played. When a player has only a single available card, all cards become available again and character rotation starts anew. 
+During the match, players must change their characters every round and cannot select the same card again until 5 out of 6 of their cards are played. When a player has only a single available card, all cards become available again and character rotation starts anew.
 
 There are 63 cards in the deck, each with a unique ability.
 
@@ -138,7 +138,7 @@ You can view all the Saki Cards [here](https://t.co/cV5TU1qJVW) and access the S
 
 | No. | Name | Nickname | Country |                         Paid                         |
 |----:|:-----|:---------|:--------|:----------------------------------------------------:|
-|   1 |      |          |         | <i aria-hidden="true" class="fa fa-fw fa-check"></i> |
+|   1 |      |          |         | ✓ |
 
 </div>
 -->

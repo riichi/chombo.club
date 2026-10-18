@@ -1,0 +1,12 @@
+{%- comment -%} "8 wpisów" / "8 posts", with Polish plural rules. {%- endcomment -%}
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+{%- assign n = include.count -%}
+{%- assign mod10 = n | modulo: 10 -%}
+{%- assign mod100 = n | modulo: 100 -%}
+{%- assign word = t.posts_many -%}
+{%- if n == 1 -%}
+  {%- assign word = t.posts_one -%}
+{%- elsif mod10 >= 2 and mod10 <= 4 -%}
+  {%- if mod100 < 12 or mod100 > 14 -%}{%- assign word = t.posts_few -%}{%- endif -%}
+{%- endif -%}
+{{ n }} {{ word }}

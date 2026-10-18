@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: Kalendarz
 permalink: /calendar/
 lang: pl

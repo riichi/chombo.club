@@ -1,0 +1,245 @@
+.hero {
+  position: relative;
+  background: var(--felt-2);
+
+  // The club logo sits in the bottom-left of the photo: anchor the crop there
+  // and grow with the viewport so wide screens don't cut through it.
+  &__image {
+    display: block;
+    width: 100%;
+    height: max(440px, 20vw);
+    object-fit: cover;
+    object-position: left bottom;
+    opacity: 0.85;
+  }
+
+  &__wrap {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 40px;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  &__panel {
+    max-width: 580px;
+    padding: 32px 36px;
+    border-radius: 14px;
+    background: rgba(23, 58, 34, 0.94);
+    color: var(--felt-ink);
+
+    h1 {
+      margin-bottom: 12px;
+      font-size: 2.75rem;
+    }
+
+    p {
+      margin: 0 0 24px;
+      font-size: 1.1875rem;
+    }
+  }
+
+  &__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  @media (max-width: 760px) {
+    &__image {
+      height: 220px;
+    }
+
+    &__wrap {
+      position: static;
+      padding: 0;
+    }
+
+    &__panel {
+      max-width: none;
+      border-radius: 0;
+      padding: 24px var(--gutter) 28px;
+      background: var(--felt-2);
+
+      h1 {
+        font-size: 2rem;
+      }
+    }
+  }
+}
+
+.home-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 48px;
+  padding-top: 56px;
+  padding-bottom: 72px;
+
+  @media (max-width: 640px) {
+    padding-top: 32px;
+    padding-bottom: 48px;
+  }
+}
+
+.home-main {
+  flex: 999 1 560px;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.home-aside {
+  flex: 1 1 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+
+  .card {
+    padding: 22px 24px;
+  }
+
+  h2 {
+    margin-bottom: 8px;
+    font-size: 1.25rem;
+  }
+
+  p {
+    margin: 0 0 16px;
+    font-size: 1rem;
+    color: var(--muted);
+  }
+}
+
+.section-head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+
+  h2 {
+    font-size: 2rem;
+  }
+}
+
+.post-card {
+  overflow: hidden;
+
+  &__image {
+    display: block;
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+  }
+
+  &__body {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 22px 28px;
+
+    @media (max-width: 640px) {
+      padding: 18px 20px;
+    }
+  }
+
+  &__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 12px;
+  }
+
+  &__title {
+    font-size: 1.4375rem;
+
+    a {
+      color: var(--text);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--link);
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &--featured &__title {
+    font-size: 1.75rem;
+  }
+
+  &__excerpt {
+    margin: 0;
+    color: var(--muted);
+  }
+
+  &--featured &__excerpt {
+    color: var(--text);
+  }
+}
+
+.link-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 12px 0;
+    border-top: 1px solid var(--border);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  li:first-child a {
+    border-top: 0;
+  }
+}
+
+.card--muted {
+  background: var(--surface-2);
+}
+
+.pager {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 8px 0 0;
+  padding: 0;
+  list-style: none;
+
+  a,
+  span {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px;
+    height: 44px;
+    padding: 0 12px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--text);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  a:hover {
+    border-color: var(--border-strong);
+  }
+
+  [aria-current] {
+    background: var(--felt);
+    border-color: var(--felt);
+    color: var(--felt-ink);
+  }
+
+  .is-disabled {
+    color: var(--muted);
+    opacity: 0.6;
+  }
+}
