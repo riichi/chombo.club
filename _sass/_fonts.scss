@@ -15,9 +15,9 @@ $latin-ext: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0
   }
 }
 
-@include font-face("Bricolage Grotesque", "bricolage-grotesque-latin-ext-wght-normal", normal, 200 800, $latin-ext);
-@include font-face("Bricolage Grotesque", "bricolage-grotesque-latin-wght-normal", normal, 200 800, $latin);
-@include font-face("Source Sans 3", "source-sans-3-latin-ext-wght-normal", normal, 200 900, $latin-ext);
-@include font-face("Source Sans 3", "source-sans-3-latin-wght-normal", normal, 200 900, $latin);
-@include font-face("Source Sans 3", "source-sans-3-latin-ext-wght-italic", italic, 200 900, $latin-ext);
-@include font-face("Source Sans 3", "source-sans-3-latin-wght-italic", italic, 200 900, $latin);
+@include font-face("Schibsted Grotesk", "schibsted-grotesk-latin-ext-wght-normal", normal, 400 900, $latin-ext);
+@include font-face("Schibsted Grotesk", "schibsted-grotesk-latin-wght-normal", normal, 400 900, $latin);
+@include font-face("Literata", "literata-latin-ext-wght-normal", normal, 200 900, $latin-ext);
+@include font-face("Literata", "literata-latin-wght-normal", normal, 200 900, $latin);
+@include font-face("Literata", "literata-latin-ext-wght-italic", italic, 200 900, $latin-ext);
+@include font-face("Literata", "literata-latin-wght-italic", italic, 200 900, $latin);

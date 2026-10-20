@@ -2,16 +2,14 @@
 {%- assign post = include.post -%}
 {%- assign cat = post.categories | first -%}
 {%- assign card_image = post.header.teaser | default: post.header.image -%}
-<article class="card post-card{% if include.featured %} post-card--featured{% endif %}">
+<article class="post-card{% if include.featured %} post-card--featured{% endif %}">
   {%- if include.featured and card_image %}
   <img class="post-card__image" src="{{ card_image }}" alt="" loading="lazy">
   {%- endif %}
-  <div class="post-card__body">
-    <div class="post-card__meta">
-      <a class="chip chip--{{ cat }}" href="/categories/{{ cat }}/">{{ t.category_names[cat] | default: cat }}</a>
-      <time class="meta" datetime="{{ post.date | date_to_xmlschema }}">{% include date.html date=post.date %}</time>
-    </div>
-    <h3 class="post-card__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p class="post-card__excerpt">{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 40 }}</p>
-  </div>
+  <p class="post-card__meta meta">
+    {% include category-link.html category=cat %}
+    <time datetime="{{ post.date | date_to_xmlschema }}">{% include date.html date=post.date %}</time>
+  </p>
+  <h3 class="post-card__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <p class="post-card__excerpt">{{ post.excerpt | strip_html | normalize_whitespace | truncatewords: 40 }}</p>
 </article>

@@ -5,6 +5,8 @@
 }
 
 html {
+  accent-color: var(--felt);
+  scrollbar-color: var(--border-strong) var(--bg);
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   scroll-padding-top: 24px;
@@ -24,7 +26,7 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: var(--font-body);
-  font-size: 1.125rem;
+  font-size: 1.0625rem;
   line-height: 1.65;
 }
 
@@ -48,6 +50,11 @@ a {
   &:hover {
     color: var(--link-hover);
   }
+}
+
+::selection {
+  background: var(--selection);
+  color: var(--text);
 }
 
 :focus-visible {
@@ -125,38 +132,35 @@ button {
   box-shadow: 0 4px 0 var(--tile-back), 0 5px 8px rgba(0, 0, 0, 0.25);
 }
 
-.chip {
-  display: inline-block;
-  padding: 2px 9px;
-  border-radius: 5px;
-  background: var(--chip);
-  color: var(--chip-ink);
-  font-size: 0.8125rem;
+// Category label: a small tile in the category's colour, then the name.
+.cat {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--cat, var(--link));
   font-weight: 600;
-  letter-spacing: 0.06em;
-  line-height: 1.6;
-  text-transform: uppercase;
   text-decoration: none;
 
-  &:is(a):hover {
-    color: var(--chip-ink);
+  &::before {
+    content: "";
+    width: 7px;
+    height: 10px;
+    border-radius: 2px;
+    background: currentColor;
+  }
+
+  &:hover {
+    color: var(--cat, var(--link));
     text-decoration: underline;
   }
 
   &--tournaments {
-    background: var(--accent-soft);
-    color: var(--accent);
-
-    &:is(a):hover {
-      color: var(--accent);
-    }
+    --cat: var(--accent);
   }
-}
 
-.card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
+  &--other {
+    --cat: var(--muted);
+  }
 }
 
 .btn {
@@ -190,16 +194,6 @@ button {
       background: rgba(255, 255, 255, 0.1);
     }
   }
-
-  &--felt {
-    background: var(--felt);
-    color: var(--felt-ink);
-
-    &:hover {
-      color: #fff;
-      background: var(--felt-2);
-    }
-  }
 }
 
 .meta {
@@ -207,10 +201,10 @@ button {
   color: var(--muted);
 }
 
-.pill-tabs {
+.tabs {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 4px 24px;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -219,23 +213,20 @@ button {
     display: inline-flex;
     align-items: center;
     min-height: 40px;
-    padding: 0 16px;
-    border-radius: 999px;
-    border: 1px solid var(--border);
-    color: var(--text);
+    border-bottom: 2px solid transparent;
+    color: var(--muted);
     font-size: 1rem;
     font-weight: 600;
     text-decoration: none;
 
     &:hover {
-      border-color: var(--border-strong);
       color: var(--text);
+      border-bottom-color: var(--border-strong);
     }
 
     &[aria-current] {
-      background: var(--felt);
-      border-color: var(--felt);
-      color: var(--felt-ink);
+      color: var(--text);
+      border-bottom-color: var(--accent);
     }
   }
 }

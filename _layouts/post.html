@@ -7,9 +7,9 @@ layout: default
 
 <div data-pagefind-body>
   <header class="wrap page-head">
-    <div><a class="chip chip--{{ post_category }}" href="{{ post_category_url }}" data-pagefind-ignore>{{ t.category_names[post_category] | default: post_category }}</a></div>
     <h1>{{ page.title }}</h1>
     <p class="meta" data-pagefind-ignore>
+      {% include category-link.html category=post_category %} ·
       <time datetime="{{ page.date | date_to_xmlschema }}">{% include date.html date=page.date %}</time>
       {%- if page.last_modified_at %} · {{ t.updated_label }} <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% include date.html date=page.last_modified_at %}</time>{% endif %}
     </p>

@@ -17,8 +17,7 @@
   --link-hover: #123f22;
   --accent: #b3261e;
   --accent-soft: #f8e3e0;
-  --chip: #e3eee6;
-  --chip-ink: #1f4a2c;
+  --selection: #cfe4d5;
   --tile-face: #fbf8ee;
   --tile-back: #2e6b40;
   --code-bg: #f1eee5;
@@ -41,8 +40,7 @@
   --link-hover: #b5e6c6;
   --accent: #f2877c;
   --accent-soft: #3a1f1c;
-  --chip: #1e3326;
-  --chip-ink: #a9ddbb;
+  --selection: #2c4d38;
   --tile-face: #e9e4d4;
   --tile-back: #2e6b40;
   --code-bg: #1b2820;
@@ -52,8 +50,8 @@
 :root {
   @include light-tokens;
 
-  --font-body: "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-display: "Bricolage Grotesque", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-body: "Literata", Georgia, "Times New Roman", serif;
+  --font-display: "Schibsted Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
   --radius: 12px;
   --radius-sm: 8px;

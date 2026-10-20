@@ -90,12 +90,9 @@
 
   &__title {
     margin: 0 0 12px;
-    color: var(--muted);
     font-family: var(--font-display);
-    font-size: 0.875rem;
+    font-size: 1rem;
     font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
   }
 
   &__toggle {
@@ -208,7 +205,7 @@
 .post-nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px;
+  gap: 0 48px;
   max-width: 760px;
   padding-bottom: 72px;
 
@@ -217,14 +214,13 @@
     flex: 1 1 260px;
     flex-direction: column;
     gap: 4px;
-    padding: 18px 22px;
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    background: var(--surface);
+    padding: 20px 0;
+    border-top: 1px solid var(--border);
     text-decoration: none;
 
-    &:hover {
-      border-color: var(--border-strong);
+    &:hover strong {
+      color: var(--link);
+      text-decoration: underline;
     }
   }
 

@@ -37,7 +37,7 @@ layout: default
   </div>
 
   <aside class="home-aside">
-    <section class="card">
+    <section class="home-aside__shortcuts">
       <h2>{{ t.shortcuts_title }}</h2>
       <ul class="link-list">
         {%- for link in site.data.navigation.shortcuts %}
@@ -46,10 +46,10 @@ layout: default
       </ul>
     </section>
     {%- if discord %}
-    <section class="card card--muted">
+    <section class="home-aside__discord">
       <h2>{{ t.discord_title }}</h2>
       <p>{{ t.discord_text }}</p>
-      <a class="btn btn--felt" href="{{ discord.url }}" rel="noopener">{{ t.discord_cta }}</a>
+      <a class="btn btn--tile" href="{{ discord.url }}" rel="noopener">{{ t.discord_cta }}</a>
     </section>
     {%- endif %}
   </aside>
