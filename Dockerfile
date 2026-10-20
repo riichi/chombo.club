@@ -10,7 +10,15 @@ RUN curl -fsSL "https://github.com/Pagefind/pagefind/releases/download/v${PAGEFI
 
 COPY . /srv/jekyll
 ENV JEKYLL_ENV=production
-RUN jekyll build && pagefind_extended --site _site && mv _site /output
+# Previews override the site url so canonical/OG/feed links point at the preview
+ARG SITE_URL=
+RUN if [ -n "$SITE_URL" ]; then \
+      printf 'url: "%s"\n' "$SITE_URL" > /tmp/_config.preview.yml; \
+      jekyll build --config _config.yml,/tmp/_config.preview.yml; \
+    else \
+      jekyll build; \
+    fi \
+    && pagefind_extended --site _site && mv _site /output
 
 FROM nginx:alpine
 

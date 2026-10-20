@@ -1,0 +1,13 @@
+// Assets-only Worker used for PR preview deployments (see .github/workflows/gh-pages.yml).
+// The name is overridden per PR with `wrangler deploy --name chombo-pr-<N>`.
+{
+  "name": "chombo-preview",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./__build",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  },
+  "workers_dev": true,
+  "preview_urls": false
+}

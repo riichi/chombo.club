@@ -1,0 +1,46 @@
+name: Clean up PR previews
+
+on:
+  workflow_dispatch:
+  pull_request:
+    types: [closed]
+  schedule:
+    - cron: "0 4 * * 1"
+
+env:
+  WRANGLER_VERSION: 4.146.0
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+  CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+
+jobs:
+  closed:
+    if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete preview Worker
+        run: |
+          npx --yes "wrangler@$WRANGLER_VERSION" delete --name "chombo-pr-${{ github.event.number }}" --force \
+            || echo "Preview Worker not found, nothing to delete"
+
+  # Safety net: delete previews of PRs that are no longer open
+  sweep:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: read
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Delete stale preview Workers
+        run: |
+          names=$(curl -fsS -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/scripts" \
+            | jq -r '.result[].id | select(test("^chombo-pr-[0-9]+$"))')
+          for name in $names; do
+            state=$(gh pr view "${name#chombo-pr-}" --json state --jq .state || echo UNKNOWN)
+            if [ "$state" != "OPEN" ]; then
+              echo "Deleting $name (PR state: $state)"
+              npx --yes "wrangler@$WRANGLER_VERSION" delete --name "$name" --force
+            fi
+          done

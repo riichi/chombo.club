@@ -110,6 +110,7 @@ exclude:
   - docker-compose.yml
   - _nginx
   - Dockerfile
+  - wrangler.jsonc
   - Gemfile
   - Gemfile.lock
   - README.md
