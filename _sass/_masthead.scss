@@ -36,9 +36,11 @@ $nav-breakpoint: 1160px;
     }
   }
 
+  // The tall cap pushes the character below centre; nudge the logo up.
   &__logo {
-    width: 64px;
-    height: 64px;
+    width: auto;
+    height: 60px;
+    translate: 0 -10%;
   }
 
   &__title {
@@ -87,8 +89,7 @@ $nav-breakpoint: 1160px;
     }
 
     &__logo {
-      width: 48px;
-      height: 48px;
+      height: 44px;
     }
 
     &__title {
