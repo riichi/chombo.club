@@ -1,6 +1,7 @@
 // Pagefind search, opened in a <dialog> from the masthead.
 
 .search-dialog {
+  font-family: var(--font-ui);
   width: min(720px, calc(100vw - 32px));
   max-height: calc(100vh - 64px);
   margin: 32px auto auto;
@@ -63,5 +64,5 @@
   --pagefind-ui-tag: var(--surface-2);
   --pagefind-ui-border-width: 1px;
   --pagefind-ui-border-radius: 10px;
-  --pagefind-ui-font: var(--font-body);
+  --pagefind-ui-font: var(--font-ui);
 }

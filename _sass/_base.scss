@@ -122,18 +122,15 @@ button {
   stroke-linejoin: round;
 }
 
-// The mahjong tile motif: an ivory face sitting on a green back.
-.tile {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background: var(--tile-face);
-  border-radius: 7px;
-  box-shadow: 0 4px 0 var(--tile-back), 0 5px 8px rgba(0, 0, 0, 0.25);
+// The logo's dark greens vanish on the felt: trace it with an ivory outline.
+.logo-outline {
+  filter: drop-shadow(1.5px 0 0 var(--tile-face)) drop-shadow(-1.5px 0 0 var(--tile-face))
+    drop-shadow(0 1.5px 0 var(--tile-face)) drop-shadow(0 -1.5px 0 var(--tile-face));
 }
 
 // Category label: a small tile in the category's colour, then the name.
 .cat {
+  font-family: var(--font-ui);
   display: inline-flex;
   align-items: center;
   gap: 7px;
@@ -164,6 +161,7 @@ button {
 }
 
 .btn {
+  font-family: var(--font-ui);
   display: inline-flex;
   align-items: center;
   gap: 8px;
@@ -197,11 +195,13 @@ button {
 }
 
 .meta {
+  font-family: var(--font-ui);
   font-size: 0.9375rem;
   color: var(--muted);
 }
 
 .tabs {
+  font-family: var(--font-ui);
   display: flex;
   flex-wrap: wrap;
   gap: 4px 24px;

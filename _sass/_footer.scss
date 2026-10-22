@@ -1,4 +1,5 @@
 .site-footer {
+  font-family: var(--font-ui);
   background: var(--felt-2);
   color: var(--felt-ink);
 
@@ -28,13 +29,8 @@
   }
 
   &__logo {
-    width: 36px;
-    height: 42px;
-
-    img {
-      width: 30px;
-      height: 30px;
-    }
+    width: auto;
+    height: 40px;
   }
 
   ul {

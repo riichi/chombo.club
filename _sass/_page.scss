@@ -1,6 +1,7 @@
 // Breadcrumbs, page and post headers, the ToC sidebar and post navigation.
 
 .breadcrumbs {
+  font-family: var(--font-ui);
   padding-top: 22px;
 
   ol {
@@ -84,6 +85,7 @@
 // Table of contents. Wide screens get a sticky sidebar; narrow screens get a
 // collapsible box above the content (the sidebar is a <details> forced open).
 .toc {
+  font-family: var(--font-ui);
   flex: 1 1 240px;
   max-width: 300px;
   order: 2;
@@ -226,6 +228,7 @@
 
   small {
     color: var(--muted);
+    font-family: var(--font-ui);
     font-size: 0.875rem;
   }
 
@@ -315,6 +318,7 @@
 
   time {
     flex: 0 0 140px;
+    font-family: var(--font-ui);
     color: var(--muted);
     font-size: 0.9375rem;
     font-variant-numeric: tabular-nums;

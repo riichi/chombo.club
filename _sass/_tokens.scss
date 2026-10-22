@@ -51,7 +51,9 @@
   @include light-tokens;
 
   --font-body: "Literata", Georgia, "Times New Roman", serif;
-  --font-display: "Schibsted Grotesk", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: "Roboto", system-ui, -apple-system, "Segoe UI", sans-serif;
+  // Interface text: nav, tabs, buttons, dates, breadcrumbs. Reading text uses --font-body.
+  --font-ui: var(--font-display);
   --font-mono: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
   --radius: 12px;
   --radius-sm: 8px;

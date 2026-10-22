@@ -2,14 +2,12 @@
   position: relative;
   background: var(--felt-2);
 
-  // The club logo sits in the bottom-left of the photo: anchor the crop there
-  // and grow with the viewport so wide screens don't cut through it.
   &__image {
     display: block;
     width: 100%;
-    height: max(440px, 20vw);
+    height: clamp(420px, 40vw, 680px);
     object-fit: cover;
-    object-position: left bottom;
+    object-position: 50% 20%;
     opacity: 0.85;
   }
 
@@ -19,7 +17,20 @@
     right: 0;
     bottom: 0;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 32px;
+  }
+
+  // Laid over the photo rather than baked in, so it can scale on its own.
+  &__logo {
+    flex: none;
+    width: auto;
+    height: clamp(120px, 15vw, 240px);
+    margin-bottom: 40px;
+    filter: drop-shadow(1.5px 0 0 #000) drop-shadow(-1.5px 0 0 #000) drop-shadow(0 1.5px 0 #000)
+      drop-shadow(0 -1.5px 0 #000) drop-shadow(0 6px 4px rgba(0, 0, 0, 0.8))
+      drop-shadow(0 14px 14px rgba(0, 0, 0, 0.55));
   }
 
   &__panel {
@@ -48,12 +59,21 @@
 
   @media (max-width: 760px) {
     &__image {
-      height: 220px;
+      height: 240px;
     }
 
     &__wrap {
       position: static;
+      display: block;
       padding: 0;
+    }
+
+    &__logo {
+      position: absolute;
+      left: var(--gutter);
+      top: calc(240px - 96px - 16px);
+      height: 96px;
+      margin: 0;
     }
 
     &__panel {
@@ -211,6 +231,7 @@
 }
 
 .link-list {
+  font-family: var(--font-ui);
   margin: 0;
   padding: 0;
   list-style: none;
@@ -236,6 +257,7 @@
 }
 
 .pager {
+  font-family: var(--font-ui);
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
