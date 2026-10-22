@@ -122,10 +122,19 @@ button {
   stroke-linejoin: round;
 }
 
-// The logo's dark greens vanish on the felt: trace it with an ivory outline.
-.logo-outline {
-  filter: drop-shadow(1.5px 0 0 var(--tile-face)) drop-shadow(-1.5px 0 0 var(--tile-face))
-    drop-shadow(0 1.5px 0 var(--tile-face)) drop-shadow(0 -1.5px 0 var(--tile-face));
+// The logo on a white plate; its dark greens vanish on the felt otherwise.
+.logo-plate {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  border-radius: 25%;
+  background: var(--plate);
+
+  img {
+    width: auto;
+    height: 82%;
+  }
 }
 
 // Category label: a small tile in the category's colour, then the name.

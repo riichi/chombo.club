@@ -1,4 +1,4 @@
-$nav-breakpoint: 1100px;
+$nav-breakpoint: 1160px;
 
 .masthead {
   position: relative;
@@ -24,21 +24,26 @@ $nav-breakpoint: 1100px;
     padding-bottom: 12px;
   }
 
-  &__brand {
+  .masthead &__brand {
     display: flex;
+    flex: none;
     align-items: center;
     gap: 14px;
     margin-right: auto;
+
+    &:hover {
+      color: var(--felt-ink);
+    }
   }
 
   &__logo {
-    width: auto;
-    height: 60px;
+    width: 64px;
+    height: 64px;
   }
 
   &__title {
     font-family: var(--font-display);
-    font-weight: 900;
+    font-weight: 700;
     font-size: 1.375rem;
     line-height: 1.1;
   }
@@ -77,8 +82,13 @@ $nav-breakpoint: 1100px;
   }
 
   @media (max-width: 640px) {
+    .masthead &__brand {
+      gap: 12px;
+    }
+
     &__logo {
-      height: 44px;
+      width: 48px;
+      height: 48px;
     }
 
     &__title {

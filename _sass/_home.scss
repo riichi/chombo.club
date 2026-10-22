@@ -17,20 +17,7 @@
     right: 0;
     bottom: 0;
     display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    gap: 32px;
-  }
-
-  // Laid over the photo rather than baked in, so it can scale on its own.
-  &__logo {
-    flex: none;
-    width: auto;
-    height: clamp(120px, 15vw, 240px);
-    margin-bottom: 40px;
-    filter: drop-shadow(1.5px 0 0 #000) drop-shadow(-1.5px 0 0 #000) drop-shadow(0 1.5px 0 #000)
-      drop-shadow(0 -1.5px 0 #000) drop-shadow(0 6px 4px rgba(0, 0, 0, 0.8))
-      drop-shadow(0 14px 14px rgba(0, 0, 0, 0.55));
+    justify-content: flex-end;
   }
 
   &__panel {
@@ -66,14 +53,6 @@
       position: static;
       display: block;
       padding: 0;
-    }
-
-    &__logo {
-      position: absolute;
-      left: var(--gutter);
-      top: calc(240px - 96px - 16px);
-      height: 96px;
-      margin: 0;
     }
 
     &__panel {

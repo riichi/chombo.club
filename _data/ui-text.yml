@@ -47,7 +47,7 @@ en:
   months: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
   hero_title                 : "We play Riichi Mahjong in Kraków"
   hero_text                  : "Since 2019 we have been promoting Japanese Mahjong, teaching beginners and organising tournaments."
-  hero_cta_join              : "Join us"
+  hero_cta_about             : "About us"
   hero_cta_calendar          : "Event calendar"
   shortcuts_title            : "Quick links"
   discord_title              : "Talk to us on Discord"
@@ -103,8 +103,8 @@ pl:
   months: ["stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"]
   hero_title                 : "Gramy w riichi mahjonga w Krakowie"
   hero_text                  : "Promujemy japońskiego mahjonga, uczymy początkujących i organizujemy turnieje od 2019 roku."
-  hero_cta_join              : "Dołącz do nas"
-  hero_cta_calendar          : "Kalendarz spotkań"
+  hero_cta_about             : "O nas"
+  hero_cta_calendar          : "Kalendarz wydarzeń"
   shortcuts_title            : "Na skróty"
   discord_title              : "Rozmawiamy na Discordzie"
   discord_text               : "Tam umawiamy się na gry i odpowiadamy na pytania."
