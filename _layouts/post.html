@@ -1,0 +1,37 @@
+---
+layout: default
+---
+{% include page-vars.html %}
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+{% include breadcrumbs.html %}
+
+<div data-pagefind-body>
+  <header class="wrap page-head">
+    <h1>{{ page.title }}</h1>
+    <p class="meta" data-pagefind-ignore>
+      {% include category-link.html category=post_category %} ·
+      <time datetime="{{ page.date | date_to_xmlschema }}">{% include date.html date=page.date %}</time>
+      {%- if page.last_modified_at %} · {{ t.updated_label }} <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% include date.html date=page.last_modified_at %}</time>{% endif %}
+    </p>
+  </header>
+
+  <div class="wrap page-body">
+    {% include toc.html html=content %}
+    <article class="page-content prose">
+      {{ content }}
+    </article>
+  </div>
+</div>
+
+{%- if page.previous or page.next %}
+<div class="wrap">
+  <nav class="post-nav" aria-label="{{ t.post_nav_label }}">
+    {%- if page.previous %}
+    <a href="{{ page.previous.url }}"><small>← {{ t.post_older }}</small><strong>{{ page.previous.title }}</strong></a>
+    {%- endif %}
+    {%- if page.next %}
+    <a class="post-nav__next" href="{{ page.next.url }}"><small>{{ t.post_newer }} →</small><strong>{{ page.next.title }}</strong></a>
+    {%- endif %}
+  </nav>
+</div>
+{%- endif %}

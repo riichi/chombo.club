@@ -1,59 +1,41 @@
-{% assign locale = include.locale | default: site.locale %}
-{% capture logo_path %}{{ site.logo }}{% endcapture %}
-{% assign masthead_title = site.data.ui-text[locale].title | default: site.title %}
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+{%- assign title_words = t.title | split: " " -%}
+<header class="masthead">
+  <div class="wrap masthead__inner">
+    <a class="masthead__brand" href="/">
+      <img class="masthead__logo logo-outline" src="{{ site.logo }}" alt="" width="42" height="60">
+      <span class="masthead__title">{{ title_words | first }}<br>{{ title_words | shift | join: " " }}</span>
+    </a>
 
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
-        {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ masthead_title }}"></a>
-        {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ masthead_title | escape_once | strip }}
-          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
-        </a>
-        <ul class="visible-links">
-          {%- for link in site.data.navigation.main -%}
-            {%- if link.url contains '://' -%}
-              {%- assign url = link.url -%}
-            {%- else -%}
-              {%- assign url = link.url | relative_url -%}
-            {%- endif -%}
-            <li class="masthead__menu-item">
-              <a
-                href="{{ url }}"
-                {% if link.description %} title="{{ link.description }}"{% endif %}
-                {% if link.target %} target="{{ link.target }}"{% endif %}
-              >{{ link.title }}</a>
-            </li>
-          {%- endfor -%}
-        </ul>
-        {% if site.active_lang == "pl" %}
-          <a class="lang-switcher" href="/en/">
-            <span class="visually-hidden">Switch to English</span>
-            <svg class="lang-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 30" preserveAspectRatio="none" width="16" height="16"><clipPath id="s"><path d="M0,0 v30 h60 v-30 z"/></clipPath><clipPath id="t"><path d="M30,15 h30 v15 z v15 h-30 z h-30 v-15 z v-15 h30 z"/></clipPath><g clip-path="url(#s)"><path d="M0,0 v30 h60 v-30 z" fill="#012169"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" clip-path="url(#t)" stroke="#C8102E" stroke-width="4"/><path d="M30,0 v30 M0,15 h60" stroke="#fff" stroke-width="10"/><path d="M30,0 v30 M0,15 h60" stroke="#C8102E" stroke-width="6"/></g></svg>
-          </a>
-        {% else %}
-          <a class="lang-switcher" {% static_href %}href="/"{% endstatic_href %}>
-            <span class="visually-hidden">Przełącz na polski</span>
-            <svg class="lang-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 10" preserveAspectRatio="none"><rect width="16" height="10" fill="#fff"/><rect width="16" height="5" fill="#dc143c" y="5"/></svg>
-          </a>
-        {% endif %}
-        {% if site.search == true %}
-        <button class="search__toggle" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[locale].search_label | default: "Toggle search" }}</span>
-          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
-            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
-          </svg>
-        </button>
-        {% endif %}
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">{{ site.data.ui-text[locale].menu_label | default: "Toggle menu" }}</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
+    <nav class="masthead__nav" aria-label="{{ t.nav_label }}">
+      <ul class="nav-list">
+        {% include nav-items.html separator=true %}
+      </ul>
+    </nav>
+
+    <div class="masthead__tools">
+      <button class="icon-btn" type="button" data-search-open aria-label="{{ t.search_label }}" aria-haspopup="dialog">
+        <svg class="icon" aria-hidden="true"><use href="#i-search"/></svg>
+      </button>
+      {% include theme-toggle.html class="icon-btn masthead__desktop" %}
+      {% include lang-link.html class="icon-btn masthead__desktop" text=t.lang_switch_short label=true %}
+
+      <details class="masthead__menu">
+        <summary class="icon-btn" aria-label="{{ t.menu_label }}">
+          <svg class="icon icon-open" aria-hidden="true"><use href="#i-menu"/></svg>
+          <svg class="icon icon-close" aria-hidden="true"><use href="#i-close"/></svg>
+        </summary>
+        <div class="menu-panel">
+          <nav class="wrap" aria-label="{{ t.nav_label }}">
+            <ul class="menu-list">
+              {% include nav-items.html %}
+              <li class="menu-sep" aria-hidden="true"></li>
+              <li>{% include theme-toggle.html text=true %}</li>
+              <li>{% include lang-link.html text=t.lang_switch_name %}</li>
+            </ul>
+          </nav>
+        </div>
+      </details>
     </div>
   </div>
-</div>
+</header>

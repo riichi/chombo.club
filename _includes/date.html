@@ -1,0 +1,4 @@
+{%- comment -%} Localised date, e.g. "13 grudnia 2024". Pass year=false to omit the year. {%- endcomment -%}
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+{%- assign month = include.date | date: "%-m" | minus: 1 -%}
+{{- include.date | date: "%-d" }} {{ t.months[month] }}{% unless include.year == false %} {{ include.date | date: "%Y" }}{% endunless -%}

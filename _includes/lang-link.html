@@ -1,0 +1,11 @@
+{%- comment -%}
+  Link to the current page in the other language. lang_switch_path is computed
+  in the default layout. On non-default-language pages the href is wrapped in
+  static_href so polyglot doesn't prefix it with the active language.
+{%- endcomment -%}
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+{%- if site.active_lang == site.default_lang -%}
+<a class="{{ include.class }}" href="{{ lang_switch_path }}" lang="{{ other_lang }}" hreflang="{{ other_lang }}"{% if include.label %} aria-label="{{ t.lang_switch_label }}"{% endif %}>{{ include.text }}</a>
+{%- else -%}
+<a class="{{ include.class }}" {% static_href %}href="{{ lang_switch_path }}"{% endstatic_href %} lang="{{ other_lang }}" hreflang="{{ other_lang }}"{% if include.label %} aria-label="{{ t.lang_switch_label }}"{% endif %}>{{ include.text }}</a>
+{%- endif -%}

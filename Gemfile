@@ -7,5 +7,4 @@ gem "jekyll-feed", "0.18.0"
 gem "jekyll-paginate", "1.1"
 gem "jekyll-archives", "2.3.0"
 gem "jekyll-polyglot", "1.14.0"
-
-gem "minimal-mistakes-jekyll", "4.28.1"
+gem "jekyll-sitemap", "1.4.0"

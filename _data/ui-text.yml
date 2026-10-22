@@ -1,165 +1,113 @@
 # User interface text and labels
 
-# English (default)
-# -----------------
-en: &DEFAULT_EN
+# English
+# -------
+en:
   title                      : "Kraków Chombo Club"
   description                : "Association focused on playing and promoting Japanese (Riichi) Mahjong."
-  skip_links                 : "Skip links"
-  skip_primary_nav           : "Skip to primary navigation"
   skip_content               : "Skip to content"
-  skip_footer                : "Skip to footer"
-  page                       : "Page"
-  pagination_previous        : "Previous"
-  pagination_next            : "Next"
+  nav_label                  : "Main navigation"
+  menu_label                 : "Menu"
+  search_label               : "Search"
+  search_unavailable         : "Search is not available in this build."
+  close_label                : "Close"
+  theme_label                : "Colour theme"
+  theme_auto                 : "automatic"
+  theme_light                : "light"
+  theme_dark                 : "dark"
+  lang_switch_label          : "Przełącz na polski"
+  lang_switch_short          : "PL"
+  lang_switch_name           : "Polski"
+  breadcrumb_label           : "Breadcrumbs"
   breadcrumb_home_label      : "Home"
-  breadcrumb_separator       : "/"
-  menu_label                 : "Toggle menu"
-  search_label               : "Toggle search"
   toc_label                  : "On this page"
-  ext_link_label             : "Direct link"
-  less_than                  : "less than"
-  minute_read                : "minute read"
-  share_on_label             : "Share on"
-  meta_label                 :
-  tags_label                 : "Tags:"
-  categories_label           : "Categories:"
-  date_label                 : "Updated:"
-  comments_label             : "Leave a comment"
-  comments_title             : "Comments"
-  more_label                 : "Learn more"
-  related_label              : "You may also enjoy"
-  follow_label               : "Follow:"
-  feed_label                 : "Feed"
-  powered_by                 : "Powered by"
-  website_label              : "Website"
-  email_label                : "Email"
-  recent_posts               : "Recent posts"
-  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
-  comment_form_info          : "Your email address will not be published. Required fields are marked"
-  comment_form_comment_label : "Comment"
-  comment_form_md_info       : "Markdown is supported."
-  comment_form_name_label    : "Name"
-  comment_form_email_label   : "Email address"
-  comment_form_website_label : "Website (optional)"
-  comment_btn_submit         : "Submit comment"
-  comment_btn_submitted      : "Submitted"
-  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
-  comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
-  loading_label              : "Loading..."
-  search_label_text          : "Enter your search term..."
-  search_placeholder_text    : "Enter your search term..."
-  results_found              : "Result(s) found"
   back_to_top                : "Back to top"
-en-US:
-  <<: *DEFAULT_EN
-en-CA:
-  <<: *DEFAULT_EN
-en-GB:
-  <<: *DEFAULT_EN
-en-AU:
-  <<: *DEFAULT_EN
+  recent_posts               : "Latest posts"
+  all_posts                  : "All"
+  categories_label           : "Categories"
+  category_names:
+    tournaments              : "Tournaments"
+    blog                     : "Blog"
+    other                    : "Other"
+  category_descriptions:
+    tournaments              : "Announcements and reports from tournaments organised by the club"
+    blog                     : "Articles about Riichi Mahjong"
+    other                    : "Club news and everything else"
+  posts_one                  : "post"
+  posts_few                  : "posts"
+  posts_many                 : "posts"
+  pagination_label           : "Pagination"
+  pagination_newer           : "Newer"
+  pagination_older           : "Older"
+  page                       : "Page"
+  post_nav_label             : "More posts"
+  post_older                 : "Older post"
+  post_newer                 : "Newer post"
+  updated_label              : "updated"
+  months: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+  hero_title                 : "We play Riichi Mahjong in Kraków"
+  hero_text                  : "Since 2019 we have been promoting Japanese Mahjong, teaching beginners and organising tournaments."
+  hero_cta_about             : "About us"
+  hero_cta_calendar          : "Event calendar"
+  shortcuts_title            : "Quick links"
+  discord_title              : "Talk to us on Discord"
+  discord_text               : "That's where we arrange games and answer questions."
+  discord_cta                : "Join the server"
+  feed_label                 : "RSS"
+  footer_nav_label           : "Social media"
 
 # Polish
 # ------
-pl: &DEFAULT_PL
+pl:
   title                      : "Krakowski Klub Chombo"
   description                : "Stowarzyszenie skupione na grze i promocji japońskiego (riichi) mahjonga."
-  skip_links                 :
-  skip_primary_nav           :
-  skip_content               :
-  skip_footer                :
-  page                       : "Strona"
-  pagination_previous        : "Poprzednia"
-  pagination_next            : "Następna"
+  skip_content               : "Przejdź do treści"
+  nav_label                  : "Główna nawigacja"
+  menu_label                 : "Menu"
+  search_label               : "Szukaj"
+  search_unavailable         : "Wyszukiwarka nie jest dostępna w tej wersji strony."
+  close_label                : "Zamknij"
+  theme_label                : "Motyw kolorystyczny"
+  theme_auto                 : "automatyczny"
+  theme_light                : "jasny"
+  theme_dark                 : "ciemny"
+  lang_switch_label          : "Switch to English"
+  lang_switch_short          : "EN"
+  lang_switch_name           : "English"
+  breadcrumb_label           : "Ścieżka nawigacji"
   breadcrumb_home_label      : "Strona główna"
-  breadcrumb_separator       : "/"
-  menu_label                 : "Przełącz menu"
-  search_label               :
-  toc_label                  : "Spis treści"
-  ext_link_label             : "Link bezpośredni"
-  less_than                  : "mniej niż"
-  minute_read                : "minut(y)"
-  share_on_label             : "Udostępnij"
-  meta_label                 :
-  tags_label                 : "Tagi:"
-  categories_label           : "Kategorie:"
-  date_label                 : "Ostatnia aktualizacja:"
-  comments_label             : "Zostaw komentarz"
-  comments_title             : "Komentarze"
-  more_label                 : "Dowiedz się więcej"
-  related_label              : "Także może Ci się spodobać"
-  follow_label               : "Znajdź nas na:"
-  feed_label                 : "RSS"
-  powered_by                 : "Strona powstała dzięki"
-  website_label              : "Strona"
-  email_label                : "Email"
+  toc_label                  : "Na tej stronie"
+  back_to_top                : "Do góry"
   recent_posts               : "Najnowsze wpisy"
-  undefined_wpm              : "Parametr words_per_minute nie został zdefiniowany w _config.yml."
-  comment_form_info          : "Twój adres email nie będzie udostępiony. Wymagane pola są oznaczone"
-  comment_form_comment_label : "Skomentuj"
-  comment_form_md_info       : "Markdown jest wspierany"
-  comment_form_name_label    : "Imię"
-  comment_form_email_label   : "Adres email"
-  comment_form_website_label : "Strona www (opcjonalna)"
-  comment_btn_submit         : "Skomentuj"
-  comment_btn_submitted      : "Komentarz dodany"
-  comment_success_msg        : "Dziękuję za Twój komentarz! Zostanie dodany po akceptacji."
-  comment_error_msg          : "Niestety wystąpił błąd. Proszę upewnij się, że wszystkie wymagane pola zostały wypełnione i spróbuj ponownie."
-  loading_label              : "Trwa ładowanie strony..."
-  search_label_text          : "Szukaj..."
-  search_placeholder_text    : "Szukaj..."
-  results_found              : "wynik(ów) znaleziono"
-pl-PL:
-  <<: *DEFAULT_PL
-
-# Japanese
-# --------
-ja: &DEFAULT_JA
-  skip_links                 :
-  skip_primary_nav           :
-  skip_content               :
-  skip_footer                :
-  page                       : "ページ"
-  pagination_previous        : "前へ"
-  pagination_next            : "次へ"
-  breadcrumb_home_label      : "ホーム"
-  breadcrumb_separator       : "/"
-  menu_label                 : "メニュー"
-  search_label               :
-  toc_label                  : "目次"
-  ext_link_label             : "リンク"
-  less_than                  :
-  minute_read                :
-  share_on_label             : "共有"
-  meta_label                 :
-  tags_label                 : "タグ:"
-  categories_label           : "カテゴリー:"
-  date_label                 : "更新日時:"
-  comments_label             : "コメントする"
-  comments_title             : "コメント"
-  more_label                 : "さらに詳しく"
-  related_label              : "関連記事"
-  follow_label               : "フォロー"
-  feed_label                 :
-  powered_by                 :
-  website_label              :
-  email_label                :
-  recent_posts               : "最近の投稿"
-  undefined_wpm              : "パラメータ words_per_minute が _config.yml で定義されていません"
-  comment_form_info          : "メールアドレスが公開されることはありません。次の印のある項目は必ず入力してください:"
-  comment_form_comment_label : "コメント"
-  comment_form_md_info       : "Markdown を使用できます"
-  comment_form_name_label    : "名前"
-  comment_form_email_label   : "メールアドレス"
-  comment_form_website_label : "URL (任意)"
-  comment_btn_submit         : "コメントを送信する"
-  comment_btn_submitted      : "送信しました"
-  comment_success_msg        : "コメントありがとうございます！　コメントは承認されるとページに表示されます。"
-  comment_error_msg          : "送信エラーです。必須項目がすべて入力されていることを確認して再送信してください。"
-  loading_label              : "読み込み中..."
-  search_label_text          :
-  search_placeholder_text    : "検索キーワードを入力してください..."
-  results_found              : "件"
-ja-JP:
-  <<: *DEFAULT_JA
+  all_posts                  : "Wszystkie"
+  categories_label           : "Kategorie"
+  category_names:
+    tournaments              : "Turnieje"
+    blog                     : "Blog"
+    other                    : "Inne"
+  category_descriptions:
+    tournaments              : "Zapowiedzi i relacje z turniejów organizowanych przez klub"
+    blog                     : "Artykuły o riichi mahjongu"
+    other                    : "Wieści z klubu i wszystko inne"
+  posts_one                  : "wpis"
+  posts_few                  : "wpisy"
+  posts_many                 : "wpisów"
+  pagination_label           : "Stronicowanie"
+  pagination_newer           : "Nowsze"
+  pagination_older           : "Starsze"
+  page                       : "Strona"
+  post_nav_label             : "Inne wpisy"
+  post_older                 : "Starszy wpis"
+  post_newer                 : "Nowszy wpis"
+  updated_label              : "aktualizacja"
+  months: ["stycznia", "lutego", "marca", "kwietnia", "maja", "czerwca", "lipca", "sierpnia", "września", "października", "listopada", "grudnia"]
+  hero_title                 : "Gramy w riichi mahjonga w Krakowie"
+  hero_text                  : "Promujemy japońskiego mahjonga, uczymy początkujących i organizujemy turnieje od 2019 roku."
+  hero_cta_about             : "O nas"
+  hero_cta_calendar          : "Kalendarz wydarzeń"
+  shortcuts_title            : "Na skróty"
+  discord_title              : "Rozmawiamy na Discordzie"
+  discord_text               : "Tam umawiamy się na gry i odpowiadamy na pytania."
+  discord_cta                : "Dołącz do serwera"
+  feed_label                 : "RSS"
+  footer_nav_label           : "Media społecznościowe"

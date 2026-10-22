@@ -7,22 +7,56 @@ on:
       - master
   pull_request:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  WRANGLER_VERSION: 4.146.0
+
 jobs:
   github-pages:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    env:
+      # PR previews only for branches in this repo (fork PRs get no secrets)
+      PREVIEW: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository }}
+      PREVIEW_NAME: chombo-pr-${{ github.event.number }}
+      PREVIEW_URL: https://chombo-pr-${{ github.event.number }}.${{ vars.CLOUDFLARE_WORKERS_SUBDOMAIN }}.workers.dev
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
       - name: Build website
         run: |
-          docker build . --tag "chombo:latest"
+          site_url=""
+          if [ "$PREVIEW" = "true" ]; then site_url="$PREVIEW_URL"; fi
+          docker build . --tag "chombo:latest" --build-arg SITE_URL="$site_url"
           mkdir __build
           id=$(docker create "chombo:latest")
           docker cp "$id:/usr/share/nginx/html/." ./__build
-          docker rm -v $id
+          docker rm -v "$id"
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./__build
+      - name: Deploy PR preview
+        if: env.PREVIEW == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          printf '/*\n  X-Robots-Tag: noindex\n' > __build/_headers
+          npx --yes "wrangler@$WRANGLER_VERSION" deploy --name "$PREVIEW_NAME"
+      - name: Comment preview URL
+        if: env.PREVIEW == 'true'
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: preview
+          message: |
+            Preview: ${{ env.PREVIEW_URL }}
+
+            Built from ${{ github.event.pull_request.head.sha }}. Removed when this PR is closed.

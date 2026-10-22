@@ -1,38 +1,37 @@
----
-layout: compress
----
-{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
-
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+{% include page-vars.html %}
 <!doctype html>
-{% include copyright.html %}
-<html lang="{{ locale | replace: '_', '-' | default: 'en' }}" class="no-js" dir="{{ page.direction | default: layout.direction | default: site.direction | default: 'ltr' }}">
+<html lang="{{ site.active_lang }}" data-theme-mode="auto">
   <head>
-    {% include head.html locale=locale %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      try {
+        var mode = localStorage.getItem("theme");
+        if (mode === "light" || mode === "dark") {
+          document.documentElement.dataset.theme = mode;
+          document.documentElement.dataset.themeMode = mode;
+        }
+      } catch (e) {}
+    </script>
+    {% include seo.html locale=site.active_lang %}
+    {% feed_meta %}
+    <link rel="preload" href="/assets/fonts/literata-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <script src="/assets/js/site.js" defer></script>
     {% include head/custom.html %}
   </head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
-    {% include skip-links.html locale=locale %}
-    {% include masthead.html locale=locale %}
+  <body class="layout--{{ page.layout | default: layout.layout }}">
+    {% include icons.html %}
+    <a class="skip-link" href="#main">{{ t.skip_content }}</a>
+    {% include masthead.html %}
 
-    <div class="initial-content">
+    <main id="main" class="site-main" tabindex="-1">
       {{ content }}
-      {% include after-content.html %}
-    </div>
+    </main>
 
-    {% if site.search == true %}
-      <div class="search-content">
-        {% include search/search_form.html locale=locale %}
-      </div>
-    {% endif %}
-
-    <div id="footer" class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html locale=locale %}
-      </footer>
-    </div>
-
-    {% include scripts.html locale=locale %}
+    {% include footer.html %}
+    {% include search.html %}
   </body>
 </html>

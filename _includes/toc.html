@@ -1,0 +1,33 @@
+{%- comment -%}
+  Table of contents built from the h2/h3 headings (with ids) in include.html.
+  Rendered only when there are at least 3 headings; `toc: false` in front
+  matter turns it off. site.js highlights the current section and collapses
+  the box on narrow screens.
+{%- endcomment -%}
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+{%- assign toc_count = 0 -%}
+{%- capture toc_items -%}
+  {%- assign parts = include.html | split: "<h" -%}
+  {%- for part in parts offset: 1 -%}
+    {%- assign level = part | slice: 0 -%}
+    {%- if level != "2" and level != "3" -%}{%- continue -%}{%- endif -%}
+    {%- assign tag_open = part | split: ">" | first -%}
+    {%- unless tag_open contains ' id="' -%}{%- continue -%}{%- endunless -%}
+    {%- assign heading_id = tag_open | split: 'id="' | last | split: '"' | first -%}
+    {%- assign close_tag = "</h" | append: level | append: ">" -%}
+    {%- assign heading_text = part | split: close_tag | first | remove_first: tag_open | remove_first: ">" | strip_html | strip -%}
+    {%- assign toc_count = toc_count | plus: 1 %}
+    <li class="toc__h{{ level }}"><a href="#{{ heading_id }}">{{ heading_text }}</a></li>
+  {%- endfor -%}
+{%- endcapture -%}
+{%- if toc_count >= 3 and page.toc != false -%}
+<aside class="toc" aria-label="{{ t.toc_label }}" data-pagefind-ignore>
+  <details class="toc__details" open>
+    <summary class="toc__toggle">{{ t.toc_label }} <svg class="icon" aria-hidden="true"><use href="#i-chevron"/></svg></summary>
+    <p class="toc__title" aria-hidden="true">{{ t.toc_label }}</p>
+    <ol class="toc__list">{{ toc_items }}
+    </ol>
+    <p class="toc__top"><a href="#main">↑ {{ t.back_to_top }}</a></p>
+  </details>
+</aside>
+{%- endif -%}

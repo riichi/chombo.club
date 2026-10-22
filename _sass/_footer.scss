@@ -1,0 +1,46 @@
+.site-footer {
+  font-family: var(--font-ui);
+  background: var(--felt-2);
+  color: var(--felt-ink);
+
+  a {
+    color: var(--felt-ink);
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  &__inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    padding-top: 36px;
+    padding-bottom: 36px;
+  }
+
+  &__brand {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-size: 0.9375rem;
+  }
+
+  &__logo {
+    width: auto;
+    height: 40px;
+  }
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 0.9375rem;
+    font-weight: 600;
+  }
+}
