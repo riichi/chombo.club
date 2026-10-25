@@ -19,11 +19,3 @@ main:
     url: /calendar/
   - title: "ChomboGen"
     url: https://hand.chombo.club/
-
-shortcuts:
-  - title: "How to start playing"
-    url: /help/
-  - title: "Event calendar"
-    url: /calendar/
-  - title: "Become a member"
-    url: /about/

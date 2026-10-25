@@ -38,14 +38,6 @@ layout: default
   </div>
 
   <aside class="home-aside">
-    <section class="home-aside__shortcuts">
-      <h2>{{ t.shortcuts_title }}</h2>
-      <ul class="link-list">
-        {%- for link in site.data.navigation.shortcuts %}
-        <li><a href="{{ link.url }}">{{ link.title }} <span aria-hidden="true">→</span></a></li>
-        {%- endfor %}
-      </ul>
-    </section>
     {%- if discord %}
     <section class="home-aside__discord">
       <h2>{{ t.discord_title }}</h2>
