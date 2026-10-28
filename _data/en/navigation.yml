@@ -1,3 +1,11 @@
+categories:
+  - title: "Tournaments"
+    url: /categories/tournaments/
+  - title: "Blog"
+    url: /categories/blog/
+  - title: "Other"
+    url: /categories/other/
+
 main:
   - title: "Help"
     url: /help/

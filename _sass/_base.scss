@@ -1,0 +1,232 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  accent-color: var(--felt);
+  scrollbar-color: var(--border-strong) var(--bg);
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-padding-top: 24px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 1.0625rem;
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  margin: 0;
+}
+
+a {
+  color: var(--link);
+  text-underline-offset: 3px;
+
+  &:hover {
+    color: var(--link-hover);
+  }
+}
+
+::selection {
+  background: var(--selection);
+  color: var(--text);
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  font: inherit;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skip-link {
+  position: absolute;
+  left: 16px;
+  top: -100px;
+  z-index: 100;
+  padding: 10px 16px;
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  color: var(--text);
+  font-weight: 600;
+
+  &:focus {
+    top: 16px;
+  }
+}
+
+.wrap {
+  width: 100%;
+  max-width: var(--wrap);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.site-main {
+  flex: 1 0 auto;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  flex: none;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+// The logo's dark greens vanish on the felt: trace it with an ivory outline.
+.logo-outline {
+  filter: drop-shadow(1.5px 0 0 var(--tile-face)) drop-shadow(-1.5px 0 0 var(--tile-face))
+    drop-shadow(0 1.5px 0 var(--tile-face)) drop-shadow(0 -1.5px 0 var(--tile-face));
+}
+
+// Category label: a small tile in the category's colour, then the name.
+.cat {
+  font-family: var(--font-ui);
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--cat, var(--link));
+  font-weight: 600;
+  text-decoration: none;
+
+  &::before {
+    content: "";
+    width: 7px;
+    height: 10px;
+    border-radius: 2px;
+    background: currentColor;
+  }
+
+  &:hover {
+    color: var(--cat, var(--link));
+    text-decoration: underline;
+  }
+
+  &--tournaments {
+    --cat: var(--accent);
+  }
+
+  &--other {
+    --cat: var(--muted);
+  }
+}
+
+.btn {
+  font-family: var(--font-ui);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 20px;
+  border-radius: 10px;
+  font-weight: 600;
+  text-decoration: none;
+
+  &--tile {
+    background: var(--tile-face);
+    color: #173a22;
+    box-shadow: 0 3px 0 var(--tile-back);
+
+    &:hover {
+      color: #173a22;
+      transform: translateY(1px);
+      box-shadow: 0 2px 0 var(--tile-back);
+    }
+  }
+
+  &--ghost {
+    color: var(--felt-ink);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+
+    &:hover {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.1);
+    }
+  }
+}
+
+.meta {
+  font-family: var(--font-ui);
+  font-size: 0.9375rem;
+  color: var(--muted);
+}
+
+.tabs {
+  font-family: var(--font-ui);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 24px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 40px;
+    border-bottom: 2px solid transparent;
+    color: var(--muted);
+    font-size: 1rem;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover {
+      color: var(--text);
+      border-bottom-color: var(--border-strong);
+    }
+
+    &[aria-current] {
+      color: var(--text);
+      border-bottom-color: var(--accent);
+    }
+  }
+}

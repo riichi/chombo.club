@@ -1,3 +1,11 @@
+categories:
+  - title: "Turnieje"
+    url: /categories/tournaments/
+  - title: "Blog"
+    url: /categories/blog/
+  - title: "Inne"
+    url: /categories/other/
+
 main:
   - title: "Pomoc"
     url: /help/

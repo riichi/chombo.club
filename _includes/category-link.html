@@ -1,0 +1,2 @@
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+<a class="cat cat--{{ include.category }}" href="/categories/{{ include.category }}/">{{ t.category_names[include.category] | default: include.category }}</a>

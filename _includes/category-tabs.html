@@ -1,0 +1,7 @@
+{%- assign t = site.data.ui-text[site.active_lang] -%}
+<ul class="tabs" aria-label="{{ t.categories_label }}">
+  <li><a href="/"{% if include.current == "/" %} aria-current="page"{% endif %}>{{ t.all_posts }}</a></li>
+  {%- for link in site.data.navigation.categories %}
+  <li><a href="{{ link.url }}"{% if include.current == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+  {%- endfor %}
+</ul>
