@@ -39,8 +39,8 @@ Zapraszamy Was na czwarty turniej MERS w Krakowie!
 * Obiad: wliczony w cenę wpisowego
 * Nagrody: trofea dla pierwszych trzech miejsc.
 
-**Wild card na ERMC:** najwyżej sklasyfikowany członek PLM z opłaconymi składkami za 2026 i 2027 rok,
-który w momencie turnieju nie ma jeszcze kwalifikacji, otrzyma wild card na ERMC.
+**Dzika karta na ERMC:** najwyżej sklasyfikowany członek PLM z opłaconymi składkami za 2026 i 2027 rok,
+który w momencie turnieju nie ma jeszcze kwalifikacji, otrzyma dziką kartę na ERMC.
 
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
@@ -116,6 +116,9 @@ Wstępny harmonogram &mdash; godziny mogą jeszcze ulec niewielkim zmianom.
 
 
 
+{% comment %}
+TODO: zaktualizować dojazd (tramwaj 20 zawieszony, 50 przemianowany / inna trasa, kursuje linia zastępcza)
+
 ## Dojazd
 
 <a href="/assets/images/mers-2026-map.png">
@@ -138,6 +141,7 @@ Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
+{% endcomment %}
 
 
 

@@ -113,6 +113,9 @@ Provisional schedule &mdash; times may still change slightly.
 </table>
 
 
+{% comment %}
+TODO: zaktualizować dojazd (tramwaj 20 zawieszony, 50 przemianowany / inna trasa, kursuje linia zastępcza)
+
 ## How to get there
 
 <a href="/assets/images/mers-2026-map.png">
@@ -133,6 +136,7 @@ Directions from public transport stops:
 
 Detailed directions can be found using
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
+{% endcomment %}
 
 ## Registration
 
