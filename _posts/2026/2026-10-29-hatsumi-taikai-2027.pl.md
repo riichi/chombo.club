@@ -4,7 +4,7 @@ date:   2026-10-29 20:00:00 +0100
 categories: tournaments
 ---
 
-Zapraszamy Was na Hatsumi Taikai 2027 &mdash; turniej MERS w Krakowie!
+Zapraszamy Was na czwarty turniej MERS w Krakowie!
 
 <!-- TODO: dodać grafikę 2026-10-29-hatsumi-taikai-2027.png (lub podmienić nazwę pliku poniżej) -->
 {% include figure.html alt="Hatsumi Taikai 2027" filename="2026-10-29-hatsumi-taikai-2027.png" %}

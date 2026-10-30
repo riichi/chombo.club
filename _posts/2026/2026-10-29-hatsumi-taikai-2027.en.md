@@ -2,7 +2,7 @@
 title:  "Hatsumi Taikai 2027"
 ---
 
-We invite you to Hatsumi Taikai 2027 &mdash; a MERS tournament in Kraków!
+We invite you to the fourth MERS tournament in Kraków!
 
 <!-- TODO: dodać grafikę 2026-10-29-hatsumi-taikai-2027.png (lub podmienić nazwę pliku poniżej) -->
 {% include figure.html alt="Hatsumi Taikai 2027" filename="2026-10-29-hatsumi-taikai-2027.png" %}
