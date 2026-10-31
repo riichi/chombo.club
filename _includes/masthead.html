@@ -18,7 +18,7 @@
         <svg class="icon" aria-hidden="true"><use href="#i-search"/></svg>
       </button>
       {% include theme-toggle.html class="icon-btn masthead__desktop" %}
-      {% include lang-link.html class="icon-btn masthead__desktop" text=t.lang_switch_short label=true %}
+      {% include lang-link.html class="icon-btn" text=t.lang_switch_short label=true %}
 
       <details class="masthead__menu">
         <summary class="icon-btn" aria-label="{{ t.menu_label }}">
@@ -31,7 +31,6 @@
               {% include nav-items.html %}
               <li class="menu-sep" aria-hidden="true"></li>
               <li>{% include theme-toggle.html text=true %}</li>
-              <li>{% include lang-link.html text=t.lang_switch_name %}</li>
             </ul>
           </nav>
         </div>
