@@ -140,11 +140,11 @@ Detailed directions can be found using
 
 ## Registration
 
-* Registration opens: **14 November 2026, 17:00 CET**
+* Registration opens: **14 November 2026, 19:00 CET**
 * Registration closes: **31 January 2027**
 
 The registration form will be published on this page as soon as registration opens.
-<!-- TODO: 14.11 o 17:00 wstawić: **[Tournament registration](LINK_DO_FORMULARZA)** -->
+<!-- TODO: 14.11 o 19:00 wstawić: **[Tournament registration](LINK_DO_FORMULARZA)** -->
 
 **ATTENTION:** Registration will be closed on January 31st — this is the last day to submit a valid application.
 

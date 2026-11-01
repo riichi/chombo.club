@@ -147,11 +147,11 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 ## Rejestracja
 
-* Otwarcie rejestracji: **14 listopada 2026, godz. 17:00**
+* Otwarcie rejestracji: **14 listopada 2026, godz. 19:00**
 * Zamknięcie rejestracji: **31 stycznia 2027**
 
 Formularz zgłoszeniowy zostanie udostępniony na tej stronie w momencie otwarcia rejestracji.
-<!-- TODO: 14.11 o 17:00 wstawić: **[Zapisy na turniej](LINK_DO_FORMULARZA)** -->
+<!-- TODO: 14.11 o 19:00 wstawić: **[Zapisy na turniej](LINK_DO_FORMULARZA)** -->
 
 **UWAGA:** Rejestracja zostanie zamknięta 31 stycznia &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
