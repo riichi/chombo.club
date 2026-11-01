@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "~> 3.4.0"
+ruby "~> 4.0"
 
 gem "jekyll", "4.4.1"
 gem "jekyll-feed", "0.18.0"
