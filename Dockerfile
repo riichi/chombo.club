@@ -1,4 +1,4 @@
-FROM ruby:3.4.11-trixie AS build
+FROM ruby:4.0.0-trixie AS build
 
 WORKDIR /srv/jekyll
 COPY Gemfile Gemfile.lock /srv/jekyll/
