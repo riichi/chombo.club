@@ -53,7 +53,7 @@ jobs:
           npx --yes "wrangler@$WRANGLER_VERSION" deploy --name "$PREVIEW_NAME"
       - name: Comment preview URL
         if: env.PREVIEW == 'true'
-        uses: marocchino/sticky-pull-request-comment@v2
+        uses: marocchino/sticky-pull-request-comment@v3
         with:
           header: preview
           message: |
