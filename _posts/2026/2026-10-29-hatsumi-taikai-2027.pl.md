@@ -16,9 +16,10 @@ Zapraszamy Was na czwarty turniej MERS w Krakowie!
 * Zasady: **EMA Riichi 2025**
 * Hanchany: 8
 * Format: pełny round robin
-* Wpisowe: 200 PLN, płatne przelewem
+* Wpisowe: ok. 220 PLN, płatne przelewem
+    - Dokładną kwotę i dane do przelewu podamy później.
     - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu rejestracji i po prostu wyślij nam przelew na kwotę mniejszą o 50 PLN. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
-    - Płatność do **31 stycznia 2027**
+    - Płatność do **31 stycznia 2027**{% comment %} TODO: odkryć dane do przelewu, gdy będzie znana dokładna kwota
     - Nr konta: `71 1870 1045 2078 1088 3294 0001`
     - Nazwa odbiorcy:
       ```
@@ -30,7 +31,7 @@ Zapraszamy Was na czwarty turniej MERS w Krakowie!
     - Tytuł:
       ```
       <imię i nazwisko> - wpisowe Hatsumi Taikai 2027
-      ```
+      ```{% endcomment %}
 
 * Limit osób: 84
 * Obserwator EMA: *do ogłoszenia*
@@ -150,8 +151,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 * Otwarcie rejestracji: **14 listopada 2026, godz. 19:00**
 * Zamknięcie rejestracji: **31 stycznia 2027**
 
-Formularz zgłoszeniowy zostanie udostępniony na tej stronie w momencie otwarcia rejestracji.
-<!-- TODO: 14.11 o 19:00 wstawić: **[Zapisy na turniej](LINK_DO_FORMULARZA)** -->
+**[Zapisy na turniej](https://forms.gle/8pUwfpayRvE9ePUY8)** (formularz będzie aktywny od 14 listopada, godz. 19:00)
 
 **UWAGA:** Rejestracja zostanie zamknięta 31 stycznia &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
@@ -166,10 +166,6 @@ z zarejestrowanych graczy zrezygnuje, zwolnione miejsce otrzyma pierwsza osoba z
 * W przypadku rezygnacji z udziału do 31 stycznia 2027 zwracamy wpisowe.
 * W przypadku odwołania turnieju przez organizatorów wpisowe zostanie zwrócone w całości.
 
-{% comment %}
-TODO: odkryć po otwarciu rejestracji i podmienić link do arkusza graczy
-
 ## Gracze
 
-<iframe class="wide-iframe" src="LINK_DO_ARKUSZA" height="1000" frameborder="0"></iframe>
-{% endcomment %}
+<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdxfSRbtexPrWTZDJHDEPkhvz5reGeW-GglD_JMuo_DnpyIV5i_8bhOtkLLdoBe49QP6SShxZwVWO2/pubhtml?gid=1911360483&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>
