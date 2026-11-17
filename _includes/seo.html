@@ -8,7 +8,10 @@
 {%- if page.layout == "category" -%}
   {%- assign page_title = site.data.ui-text[locale].category_names[page.title] | default: page_title -%}
 {%- endif -%}
-{%- if page_title contains site_title -%}
+{%- if page.url == "/" -%}
+  {%- comment -%} A title that only repeats the site name gets replaced by Google (often with the h1). {%- endcomment -%}
+  {%- assign seo_title = site_title | append: " " | append: title_separator | append: " " | append: site.data.ui-text[locale].home_title | replace: '|', '&#124;' -%}
+{%- elsif page_title contains site_title -%}
   {%- assign seo_title = page_title | replace: '|', '&#124;' -%}
 {%- else -%}
   {%- assign seo_title = page_title | append: " " | append: title_separator | append: " " | append: site_title | replace: '|', '&#124;' -%}
@@ -18,6 +21,8 @@
 {%- assign seo_title  = seo_title  | markdownify | strip_html | strip_newlines | escape_once -%}
 
 {%- assign canonical_url = page.canonical_url | default: page.url | replace: "/index.html", "/" | absolute_url %}
+{%- comment -%} current_path and lang_prefix come from page-vars.html; og:url is not rewritten by polyglot, so build it by hand. {%- endcomment -%}
+{%- assign og_url = page.canonical_url | default: current_path | prepend: lang_prefix | absolute_url -%}
 
 {%- assign seo_description = page.description | default: page.excerpt | default: site_description -%}
 {%- if seo_description -%}
@@ -41,7 +46,7 @@
 <meta property="og:locale" content="{{ locale | replace: "-", "_" | default: "en_US" }}">
 <meta property="og:site_name" content="{{ site_title | escape_once | strip }}">
 <meta property="og:title" content="{{ page_title }}">
-<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:url" content="{{ og_url }}">
 
 {% if seo_description %}
   <meta property="og:description" content="{{ seo_description }}">
@@ -73,6 +78,22 @@
 
 <link rel="canonical" href="{{ canonical_url }}">
 
+{%- comment -%} Translations of this page; static_href stops polyglot from prefixing them with /en. {%- endcomment -%}
+{%- for lang in site.languages %}
+  {%- if page["lang-exclusive"] -%}
+    {%- unless page["lang-exclusive"] contains lang %}{% continue %}{% endunless -%}
+  {%- endif -%}
+  {%- if lang == site.default_lang -%}
+    {%- assign alternate_url = current_path | absolute_url -%}
+  {%- else -%}
+    {%- assign alternate_url = "/" | append: lang | append: current_path | absolute_url -%}
+  {%- endif %}
+<link rel="alternate" hreflang="{{ lang }}" {% static_href %}href="{{ alternate_url }}"{% endstatic_href %}>
+  {%- if lang == site.default_lang %}
+<link rel="alternate" hreflang="x-default" {% static_href %}href="{{ alternate_url }}"{% endstatic_href %}>
+  {%- endif -%}
+{%- endfor %}
+
 {% if paginator.previous_page %}
   <link rel="prev" href="{{ paginator.previous_page_path | absolute_url }}">
 {% endif %}
@@ -89,6 +110,23 @@
   "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
   "logo": {{ site.og_image | absolute_url | jsonify }}{% endif %}{% if site.social.links %},
   "sameAs": {{ site.social.links | jsonify }}{% endif %}
+}
+</script>
+{%- assign site_alternate_names = "" | split: "" -%}
+{%- for lang in site.languages -%}
+  {%- assign lang_title = site.data.ui-text[lang].title -%}
+  {%- if lang_title and lang_title != site_title -%}
+    {%- assign site_alternate_names = site_alternate_names | push: lang_title -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign site_alternate_names = site_alternate_names | push: "KKC" | push: "KCC" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site_title | jsonify }},
+  "alternateName": {{ site_alternate_names | jsonify }},
+  "url": {{ '/' | absolute_url | jsonify }}
 }
 </script>
 {% endif %}

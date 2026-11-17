@@ -4,6 +4,7 @@
 # -------
 en:
   title                      : "Kraków Chombo Club"
+  home_title                 : "Riichi Mahjong in Kraków"
   description                : "Association focused on playing and promoting Japanese (Riichi) Mahjong."
   skip_content               : "Skip to content"
   nav_label                  : "Main navigation"
@@ -59,6 +60,7 @@ en:
 # ------
 pl:
   title                      : "Krakowski Klub Chombo"
+  home_title                 : "Riichi mahjong w Krakowie"
   description                : "Stowarzyszenie skupione na grze i promocji japońskiego (riichi) mahjonga."
   skip_content               : "Przejdź do treści"
   nav_label                  : "Główna nawigacja"
