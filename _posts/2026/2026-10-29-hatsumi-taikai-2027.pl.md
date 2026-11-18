@@ -151,7 +151,9 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 * Otwarcie rejestracji: **14 listopada 2026, godz. 19:00**
 * Zamknięcie rejestracji: **31 stycznia 2027**
 
-**[Zapisy na turniej](https://forms.gle/8pUwfpayRvE9ePUY8)** (formularz będzie aktywny od 14 listopada, godz. 19:00)
+**UWAGA:** Obecnie lista zawodników jest pełna &mdash; nadal jednak można zapisać się na listę oczekujących i wziąć udział w turnieju, jeśli któryś z zarejestrowanych graczy zrezygnuje.
+
+**[Zapisy na listę oczekujących](https://forms.gle/8pUwfpayRvE9ePUY8)**
 
 **UWAGA:** Rejestracja zostanie zamknięta 31 stycznia &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
