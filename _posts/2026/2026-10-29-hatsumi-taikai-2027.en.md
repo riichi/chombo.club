@@ -144,7 +144,9 @@ Detailed directions can be found using
 * Registration opens: **14 November 2026, 19:00 CET**
 * Registration closes: **31 January 2027**
 
-**[Tournament registration](https://forms.gle/8pUwfpayRvE9ePUY8)** (the form opens on 14 November at 19:00 CET)
+**NOTE:** Currently, the player list is full &mdash; however, you can still sign up for the waiting list and take part in the tournament if any of the registered players withdraw.
+
+**[Waiting list registration](https://forms.gle/8pUwfpayRvE9ePUY8)**
 
 **ATTENTION:** Registration will be closed on January 31st — this is the last day to submit a valid application.
 
