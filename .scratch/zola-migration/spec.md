@@ -54,7 +54,7 @@ Rebuild the site on Zola (one pinned binary, Tera templates, pulldown-cmark). Ac
   - **CSS**: equal after running both through the same minifier.
   - **Everything else**: byte-identical.
 - Excluded: `pagefind/` (only checked for existence), build timestamps (feed `<updated>`, footer year).
-- Known exceptions, written in the script with a reason each: the dropped `/en/` copies of static files, EN pages referencing root assets instead of `/en/…`, sitemap without static-file entries.
+- Known exceptions, written in the script with a reason each: the dropped `/en/` copies of static files, EN pages referencing root assets instead of `/en/…`, sitemap without static-file entries, `pagination-page-1-redirect` (Zola always writes `<section>/page/1/` as a redirect; jekyll-paginate wrote nothing there), `no-css-source-map` (dart-sass wrote `main.css.map`; Zola's Sass compiler emits none).
 - Smart punctuation was verified in a spike: Zola's `smart_punctuation` matches kramdown on all 57 posts and pages, so there are no source-level exceptions for punctuation.
 
 ### Content

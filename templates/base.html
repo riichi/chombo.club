@@ -1,21 +1,36 @@
 {%- set t = load_data(path="data/ui-text.yml")[lang] -%}
 {%- set nav = load_data(path="data/navigation/" ~ lang ~ ".yml") -%}
 {#- Shared per-page values, computed once here and visible to every block:
-    current_path (URL path without the language prefix), lang_prefix,
+    url_path, current_path (url_path without the language prefix), lang_prefix, site_langs,
     other_lang / lang_switch_path (language switcher), post_category / post_category_url. -#}
-{%- if page is defined -%}{%- set url_path = page.path -%}{%- elif paginator is defined and paginator.current_index > 1 -%}{%- set url_path = paginator.base_url[config.base_url | length:] ~ paginator.current_index ~ "/" -%}{%- elif section is defined -%}{%- set url_path = section.path -%}{%- elif term is defined -%}{%- set url_path = term.path -%}{%- elif feed_url is defined -%}{%- set url_path = feed_url[config.base_url | length:] -%}{%- if url_path is ending_with(pat="/") -%}{%- set url_path = url_path[:-1] -%}{%- endif -%}{#- /en/404.html is rendered as an EN "feed" -#}{%- else -%}{%- set url_path = "/404.html" -%}{#- Zola 404 page -#}{%- endif -%}
+{#- url_path: the URL path of the rendered page, with its language prefix. -#}
+{%- if page is defined -%}
+  {%- set url_path = page.path -%}
+{%- elif paginator is defined and paginator.current_index > 1 -%}
+  {%- set url_path = paginator.base_url[config.base_url | length:] ~ paginator.current_index ~ "/" -%}
+{%- elif section is defined -%}
+  {%- set url_path = section.path -%}
+{%- elif term is defined -%}
+  {%- set url_path = term.path -%}
+{%- elif feed_url is defined -%}
+  {#- /en/404.html is rendered as an EN "feed" (see README, feed_filenames). -#}
+  {%- set url_path = feed_url[config.base_url | length:] -%}
+  {%- if url_path is ending_with(pat="/") -%}{%- set url_path = url_path[:-1] -%}{%- endif -%}
+{%- else -%}
+  {%- set url_path = "/404.html" -%}{#- Zola's own 404 page has no path in its context. -#}
+{%- endif -%}
+{#- config.languages lists the languages other than the one being rendered. -#}
+{%- set site_langs = [lang, ...(config.languages | keys)] | sort -%}
+{%- set lang_prefix = <lang_prefix lang={lang} default={config.default_language} /> -%}
+{%- set current_path = <strip_lang_prefix path={url_path} prefix={lang_prefix} /> -%}
 {%- set excl = page.extra?["lang-exclusive"] if page is defined else none -%}
 {%- if lang == config.default_language -%}
-  {%- set lang_prefix = "" -%}
-  {%- set current_path = url_path -%}
-  {%- set other_lang = "en" -%}
-  {%- set lang_switch_path = "/en" ~ current_path -%}
+  {%- set other_lang = config.languages | keys | first -%}
+  {%- set lang_switch_path = "/" ~ other_lang ~ current_path -%}
   {%- if excl and other_lang not in excl -%}
-    {%- set lang_switch_path = "/en/" -%}
+    {%- set lang_switch_path = "/" ~ other_lang ~ "/" -%}
   {%- endif -%}
 {%- else -%}
-  {%- set lang_prefix = "/" ~ lang -%}
-  {%- if url_path is starting_with(pat=lang_prefix ~ "/") -%}{%- set current_path = url_path[lang_prefix | length:] -%}{%- else -%}{%- set current_path = url_path -%}{%- endif -%}
   {%- set other_lang = config.default_language -%}
   {%- set lang_switch_path = current_path -%}
 {%- endif -%}

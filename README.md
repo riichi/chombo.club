@@ -70,6 +70,10 @@ Tera v2 has no shortcodes or macros. Reusable markup is written as components (`
 
 Components are hygienic: pass everything they need explicitly. When used in Markdown they must not emit indented or blank lines, or CommonMark turns the output into a code block.
 
+## Sitemap and 404 per language
+
+Zola renders `sitemap.xml` and `404.html` only for the default language. To get `/en/sitemap.xml` and `/en/404.html`, `zola.toml` lists them in `[languages.en] feed_filenames`: Zola then renders those templates as English "feeds", with `lang = "en"` and `feed_url` set instead of `page`/`section`. `templates/base.html` derives the page path from `feed_url` in that case, and `templates/sitemap.xml` handles both renderings (with and without `lang`).
+
 ## Building the Docker image
 
 The Dockerfile runs `zola build`, deletes the generated `/categories/` and `/en/categories/` index pages (Zola always renders the taxonomy list; the site has none), runs Pagefind, and serves the result with nginx. Using `docker compose`:

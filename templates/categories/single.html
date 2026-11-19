@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block layout %}category{% endblock %}
 {% block content %}
-{%- set category_name = t.category_names[term.name] if term.name in t.category_names else term.name -%}
+{%- set category_name = <category_name category={term.name} names={t.category_names} /> -%}
 {%- set crumb_override = category_name -%}
 {%- include "partials/breadcrumbs.html" %}
 {%- set n = term.pages | length -%}
@@ -15,12 +15,7 @@
       <h1>{{ category_name }}</h1>
       <p>{{ n }} {{ word }}{% if term.name in t.category_descriptions %} · {{ t.category_descriptions[term.name] }}{% endif %}</p>
     </div>
-    <ul class="tabs" aria-label="{{ t.categories_label }}">
-  <li><a href="{{ lang_prefix }}/"{% if current_path == "/" %} aria-current="page"{% endif %}>{{ t.all_posts }}</a></li>
-  {%- for link in nav.categories %}
-  <li><a href="{{ lang_prefix }}{{ link.url }}"{% if current_path == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
-  {%- endfor %}
-</ul>
+    {{ <category_tabs t={t} nav={nav} current={current_path} prefix={lang_prefix} /> }}
   </div>
 
   <div class="archive-list">

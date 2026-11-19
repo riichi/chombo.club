@@ -10,8 +10,23 @@
 {{ d | date(format="%Y-%m-%dT%H:%M:%S%:z", timezone=tz) }}
 {%- endcomponent xmlschema %}
 
+{#- Display name of a category (data/ui-text.yml category_names), falling back to its slug. -#}
+{% component category_name(category: string, names: map) -%}
+{{ names[category] if category in names else category }}
+{%- endcomponent category_name %}
+
+{#- URL prefix of a language: "" for the default language, "/<lang>" otherwise. -#}
+{% component lang_prefix(lang: string, default: string) -%}
+{{ "" if lang == default else "/" ~ lang }}
+{%- endcomponent lang_prefix %}
+
+{#- `path` without the language `prefix` (as returned by lang_prefix); unchanged when it has none. -#}
+{% component strip_lang_prefix(path: string, prefix: string) -%}
+{{ path[prefix | length:] if prefix and path is starting_with(pat=prefix ~ "/") else path }}
+{%- endcomponent strip_lang_prefix %}
+
 {% component category_link(category: string, names: map, prefix: string = "") -%}
-<a class="cat cat--{{ category }}" href="{{ prefix }}/categories/{{ category }}/">{{ names[category] if category in names else category }}</a>
+<a class="cat cat--{{ category }}" href="{{ prefix }}/categories/{{ category }}/">{{ <category_name category={category} names={names} /> }}</a>
 {%- endcomponent category_link %}
 
 {% component theme_toggle(t: map, class: string = "", text: bool = false) -%}
@@ -51,18 +66,24 @@
 {{ found }}
 {%- endcomponent footer_link %}
 
-{#- Help links list (data/help/*.yml); Polish uses name_pl/description_pl when present. -#}
-{% component help_items(items: array, lang: string) -%}
+{#- Field of a help item, localised: `<field>_<lang>` (e.g. name_pl) for the default language when present. -#}
+{% component help_field(item: map, field: string, lang: string, default_lang: string) -%}
+{%- set key = field ~ "_" ~ lang -%}
+{{ item[key] if lang == default_lang and key in item else item[field] }}
+{%- endcomponent help_field %}
+
+{#- Help links list (data/help/*.yml); the default language uses name_<lang>/description_<lang> when present. -#}
+{% component help_items(items: array, lang: string, default_lang: string) -%}
 {#- Rendered inside Markdown: no indentation or blank lines, or it becomes a code block. -#}
 <ul>
 {%- for item in items %}
-<li><a href="{{ item.url }}">{{ item.name_pl if lang == "pl" and item.name_pl is defined else item.name }}</a>
-{%- if item.description is defined %} — {{ item.description_pl if lang == "pl" and item.description_pl is defined else item.description }}{% endif %}
+<li><a href="{{ item.url }}">{{ <help_field item={item} field="name" lang={lang} default_lang={default_lang} /> }}</a>
+{%- if item.description is defined %} — {{ <help_field item={item} field="description" lang={lang} default_lang={default_lang} /> }}{% endif %}
 {%- if item.subitems is defined %}
 <ul>
 {%- for sub in item.subitems %}
-<li><a href="{{ sub.url }}">{{ sub.name_pl if lang == "pl" and sub.name_pl is defined else sub.name }}</a>
-{%- if sub.description is defined %} — {{ sub.description_pl if lang == "pl" and sub.description_pl is defined else sub.description }}{% endif %}</li>
+<li><a href="{{ sub.url }}">{{ <help_field item={sub} field="name" lang={lang} default_lang={default_lang} /> }}</a>
+{%- if sub.description is defined %} — {{ <help_field item={sub} field="description" lang={lang} default_lang={default_lang} /> }}{% endif %}</li>
 {%- endfor %}
 </ul>
 {%- endif %}</li>
@@ -80,14 +101,15 @@
 </ul>
 {%- endcomponent category_tabs %}
 
-{#- Post excerpt: the first block if it is a paragraph (Jekyll excerpt), stripped,
-    whitespace collapsed, truncated to `words` words with "..." (Liquid truncatewords). -#}
-{% component excerpt(content: string, words: integer = 40) -%}
+{#- Post excerpt: the first block if it is a paragraph (Jekyll excerpt), else "".
+    Stripped of tags, whitespace collapsed; with `words` > 0 truncated to that many words plus "..."
+    (Liquid truncatewords). Used by post cards, feed summaries and the SEO description. -#}
+{% component excerpt(content: string, words: integer = 0) -%}
 {%- set first = (content | split(pat="</p>") | first | striptags) if (content | trim) is starting_with(pat="<p") else "" -%}
 {%- set ws = first | replace(from="\n", to=" ") | replace(from="\t", to=" ") | replace(from="\r", to=" ") | split(pat=" ") -%}
 {%- set_global out = [] -%}
 {%- for w in ws %}{% if w %}{% set_global out = [...out, w] %}{% endif %}{% endfor -%}
-{%- if out | length > words %}{{ out[:words] | join(sep=" ") }}...{% else %}{{ out | join(sep=" ") }}{% endif -%}
+{%- if words > 0 and out | length > words %}{{ out[:words] | join(sep=" ") }}...{% else %}{{ out | join(sep=" ") }}{% endif -%}
 {%- endcomponent excerpt %}
 
 {% component post_card(post: map, t: map, tz: string, prefix: string = "", featured: bool = false) -%}
@@ -102,7 +124,7 @@
     <time datetime="{{ <xmlschema d={post.date} tz={tz} /> }}">{{ <date d={post.date} months={t.months} tz={tz} /> }}</time>
   </p>
   <h3 class="post-card__title"><a href="{{ post.path }}">{{ post.title }}</a></h3>
-  <p class="post-card__excerpt">{{ <excerpt content={post.content} /> }}</p>
+  <p class="post-card__excerpt">{{ <excerpt content={post.content} words={40} /> }}</p>
 </article>
 {%- endcomponent post_card %}
 

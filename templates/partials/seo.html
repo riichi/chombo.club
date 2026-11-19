@@ -2,7 +2,7 @@
 {%- set site_title = t.title -%}
 {%- set sep = config.extra.title_separator -%}
 {%- set is_page = page is defined -%}
-{%- if is_page %}{% set page_title = page.title | replace(from="'", to="’") %}{#- jekyll-seo-tag smartifies titles; only apostrophes occur in titles -#}{% elif term is defined %}{% set page_title = t.category_names[term.name] if term.name in t.category_names else term.name %}{% elif section is defined and section.title %}{% set page_title = section.title %}{% else %}{% set page_title = site_title %}{% endif -%}
+{%- if is_page %}{% set page_title = page.title | replace(from="'", to="’") %}{#- jekyll-seo-tag smartifies titles; only apostrophes occur in titles -#}{% elif term is defined %}{% set page_title = <category_name category={term.name} names={t.category_names} /> %}{% elif section is defined and section.title %}{% set page_title = section.title %}{% else %}{% set page_title = site_title %}{% endif -%}
 {%- if current_path == "/" -%}
   {%- set seo_title = site_title ~ " " ~ sep ~ " " ~ t.home_title -%}
 {%- elif site_title in page_title -%}
@@ -16,7 +16,7 @@
 {%- if is_page and page.description -%}
   {%- set seo_description = page.description -%}
 {%- elif is_page and page.date -%}
-  {%- set seo_description = (page.content | split(pat="</p>") | first | striptags | replace(from="\n", to=" ") | trim) if (page.content | trim) is starting_with(pat="<p") else "" -%}
+  {%- set seo_description = <excerpt content={page.content} /> -%}
 {%- else -%}
   {%- set seo_description = t.description -%}
 {%- endif -%}
@@ -58,7 +58,7 @@
 <meta property="article:publisher" content="{{ config.extra.facebook_publisher }}">
 
 <link rel="canonical" href="{{ canonical_url }}">
-{%- for l in ["en", "pl"] %}
+{%- for l in site_langs %}
   {%- if excl and l not in excl %}{% continue %}{% endif -%}
   {%- set alternate_url = config.base_url ~ current_path if l == config.default_language else config.base_url ~ "/" ~ l ~ current_path %}
 <link rel="alternate" hreflang="{{ l }}" href="{{ alternate_url }}">
@@ -76,7 +76,7 @@
 {% if url_path == "/" or url_path == "/" ~ lang ~ "/" %}
 {%- set ui_all = load_data(path="data/ui-text.yml") -%}
 {%- set_global alt_names = [] -%}
-{%- for l in ["en", "pl"] %}{% if ui_all[l].title != site_title %}{% set_global alt_names = [...alt_names, ui_all[l].title] %}{% endif %}{% endfor -%}
+{%- for l in site_langs %}{% if ui_all[l].title != site_title %}{% set_global alt_names = [...alt_names, ui_all[l].title] %}{% endif %}{% endfor -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

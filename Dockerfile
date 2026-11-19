@@ -15,15 +15,17 @@ COPY --from=zola /zola /usr/local/bin/zola
 
 WORKDIR /srv/site
 COPY . /srv/site
-# Zola always renders the taxonomy list page; the Baseline has no /categories/ index, so it is deleted.
+
 # Previews override the site url so canonical/OG/feed links point at the preview
 ARG SITE_URL=
+# After the build: Zola always renders the taxonomy list page, but the Baseline has no
+# /categories/ index, so it is deleted; then Pagefind indexes the output.
 RUN if [ -n "$SITE_URL" ]; then \
       zola build --base-url "$SITE_URL" --output-dir /output; \
     else \
       zola build --output-dir /output; \
     fi \
-    && rm /output/categories/index.html /output/en/categories/index.html \
+    && rm -f /output/categories/index.html /output/en/categories/index.html \
     && pagefind_extended --site /output
 
 FROM nginx:alpine
