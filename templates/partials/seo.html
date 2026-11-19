@@ -20,7 +20,7 @@
 {%- else -%}
   {%- set seo_description = t.description -%}
 {%- endif -%}
-{%- set hdr = (page.extra?.header or {}) if is_page else {} -%}
+{%- set hdr = (page.extra?.header or {}) if is_page else ((section.extra?.header or {}) if section is defined else {}) -%}
 {%- set large_image = hdr?.og_image or hdr?.overlay_image or hdr?.image or "" -%}
 {%- set teaser_image = hdr?.teaser or config.extra.og_image -%}
 {%- set og_image_alt = hdr?.og_image_alt or "" -%}
@@ -72,5 +72,29 @@
 {% endif %}
 {% if pg and pg.next %}
   <link rel="next" href="{{ pg.next }}">
+{% endif %}
+{% if url_path == "/" or url_path == "/" ~ lang ~ "/" %}
+{%- set ui_all = load_data(path="data/ui-text.yml") -%}
+{%- set_global alt_names = [] -%}
+{%- for l in ["en", "pl"] %}{% if ui_all[l].title != site_title %}{% set_global alt_names = [...alt_names, ui_all[l].title] %}{% endif %}{% endfor -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ site_title | json_encode | safe }},
+  "url": {{ (config.base_url ~ "/") | json_encode | safe }},
+  "logo": {{ (config.base_url ~ config.extra.og_image) | json_encode | safe }},
+  "sameAs": {{ config.extra.social_links | json_encode | safe }}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site_title | json_encode | safe }},
+  "alternateName": {{ [...alt_names, "KKC", "KCC"] | json_encode | safe }},
+  "url": {{ (config.base_url ~ "/") | json_encode | safe }}
+}
+</script>
 {% endif %}
 <!-- end _includes/seo.html -->

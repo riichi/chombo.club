@@ -50,6 +50,8 @@ KNOWN_EXCEPTIONS = {
                          "Zola sitemap lists generated pages only.",
     "no-css-source-map": "dart-sass wrote a source map (main.css.map) pointing at _sass/; "
                          "Zola's Sass compiler (grass) emits none. Not visible to visitors.",
+    "pagination-page-1-redirect": "Zola always writes <section>/page/1/ as a redirect to the "
+                                  "section's first page; jekyll-paginate wrote nothing there.",
 }
 
 ATOM = "{http://www.w3.org/2005/Atom}"
@@ -300,7 +302,11 @@ def main(argv=None):
             else:
                 report("MISSING", rel)
         elif rel not in bf:
-            report("EXTRA", rel)
+            if (chk.exceptions and re.search(r"(^|/)page/1/index\.html$", rel)
+                    and "<title>Redirect</title>" in (Path(args.output) / rel).read_text(errors="replace")):
+                report("KNOWN", f"{rel}  [pagination-page-1-redirect]")
+            else:
+                report("EXTRA", rel)
         else:
             d = chk.compare(rel)
             report("DIFFERENT", rel, d) if d else report("OK", rel)

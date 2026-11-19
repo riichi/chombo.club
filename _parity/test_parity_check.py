@@ -210,6 +210,16 @@ class KnownExceptionTests(Fixture):
             '<url><loc>https://chombo.club/</loc></url></urlset>',
         ))
 
+    def test_zola_page_1_redirect_is_known(self):
+        redirect = ('<!doctype html><title>Redirect</title>'
+                    '<noscript><meta http-equiv="refresh" content="0; url=https://chombo.club/en/"></noscript>')
+        self.write(self.b, "en/page/1/index.html", redirect)
+        code, out = run(self.a, self.b)
+        self.assertEqual(code, 0, out)
+        self.assertIn("pagination-page-1-redirect", out)
+        self.write(self.b, "en/page/1/index.html", "<p>real page</p>")
+        self.assertDiffers(run(self.a, self.b), "EXTRA")
+
     def test_no_exceptions_flag_disables_them(self):
         code, out = run(self.a, self.b, "--no-exceptions")
         self.assertNotEqual(code, 0, out)

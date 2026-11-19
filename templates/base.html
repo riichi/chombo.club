@@ -3,7 +3,7 @@
 {#- Shared per-page values, computed once here and visible to every block:
     current_path (URL path without the language prefix), lang_prefix,
     other_lang / lang_switch_path (language switcher), post_category / post_category_url. -#}
-{%- if page is defined -%}{%- set url_path = page.path -%}{%- elif section is defined -%}{%- set url_path = section.path -%}{%- else -%}{%- set url_path = "/" -%}{%- endif -%}
+{%- if page is defined -%}{%- set url_path = page.path -%}{%- elif paginator is defined and paginator.current_index > 1 -%}{%- set url_path = paginator.base_url[config.base_url | length:] ~ paginator.current_index ~ "/" -%}{%- elif section is defined -%}{%- set url_path = section.path -%}{%- else -%}{%- set url_path = "/" -%}{%- endif -%}
 {%- set excl = page.extra?["lang-exclusive"] if page is defined else none -%}
 {%- if lang == config.default_language -%}
   {%- set lang_prefix = "" -%}
