@@ -4,7 +4,9 @@ description = "We are a group of players located in Kraków focused on playing a
 default_language = "pl"
 compile_sass = true
 build_search_index = false
-generate_feeds = false
+generate_feeds = true
+feed_filenames = ["feed.xml"]
+feed_limit = 10
 taxonomies = [{ name = "categories", render = false }]
 
 [markdown]
@@ -12,6 +14,9 @@ smart_punctuation = true
 external_links_external = false
 
 [languages.en]
+description = "We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong."
+generate_feeds = true
+feed_filenames = ["feed.xml", "sitemap.xml"]
 title = "Kraków Chombo Club"
 taxonomies = [{ name = "categories", render = false }]
 

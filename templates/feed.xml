@@ -1,0 +1,13 @@
+{#- jekyll-feed (minima-free) clone: one Atom feed per language, 10 newest posts. -#}
+{%- set tz = config.extra.timezone -%}
+{%- set prefix = "" if lang == config.default_language else "/" ~ lang -%}
+{%- set home = config.base_url ~ prefix ~ "/" -%}
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="{{ feed_url }}" rel="self" type="application/atom+xml" /><link href="{{ home }}" rel="alternate" type="text/html" /><updated>{{ <xmlschema d={now()} tz={tz} /> }}</updated><id>{{ get_url(path="feed.xml", lang=config.default_language) }}</id><title type="html">{{ config.title }}</title><subtitle>{{ config.description }}</subtitle>
+{%- for p in pages -%}
+{#- polyglot left absolute URLs untouched: EN entry ids and xml:base point at the unprefixed (PL) URL. -#}
+{%- set orig = config.base_url ~ (p.path[prefix | length:] if prefix else p.path) -%}
+{%- set title = p.title | replace(from="'", to="’") -%}
+{%- set summary = (p.content | split(pat="</p>") | first | striptags | replace(from="\n", to=" ") | trim) if (p.content | trim) is starting_with(pat="<p") else "" -%}
+<entry xml:lang="{{ p.lang }}"><title type="html">{{ title }}</title><link href="{{ p.permalink }}" rel="alternate" type="text/html" title="{{ title }}" /><published>{{ <xmlschema d={p.date} tz={tz} /> }}</published><updated>{{ <xmlschema d={p.updated or p.date} tz={tz} /> }}</updated><id>{{ orig[:-1] }}</id><content type="html" xml:base="{{ orig }}"><![CDATA[{{ p.content | safe }}]]></content><author><name></name></author>{% for c in p.taxonomies.categories %}<category term="{{ c }}" />{% endfor %}{% if summary %}<summary type="html"><![CDATA[{{ summary | safe }}]]></summary>{% endif %}</entry>
+{%- endfor -%}
+</feed>
