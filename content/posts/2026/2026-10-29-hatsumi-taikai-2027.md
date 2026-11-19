@@ -10,7 +10,6 @@ categories = ["tournaments"]
 
 Zapraszamy Was na czwarty turniej MERS w Krakowie!
 
-<!-- TODO: dodać grafikę 2026-10-29-hatsumi-taikai-2027.png (lub podmienić nazwę pliku poniżej) -->
 ![Hatsumi Taikai 2027](/assets/images/2026-10-29-hatsumi-taikai-2027.png)
 
 ## O turnieju {#o-turnieju}

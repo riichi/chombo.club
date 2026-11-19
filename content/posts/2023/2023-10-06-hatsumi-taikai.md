@@ -145,7 +145,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 **UWAGA:** Rejestracja zostanie zamknięta 31 stycznia &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
-<!--
+{#
 ## Gracze
 
 <small>Ostatnia aktualizacja: {{ page.updated | date(format="%Y-%m-%d %H:%M", timezone=config.extra.timezone) }}</small>
@@ -179,4 +179,4 @@ Gracze będą przeniesieni z listy oczekujących jeżeli któryś z zapisanych u
 |---:|:-----------------------------------------|:---------------------|:---------------------|:--------------------------------------------------------------------|
 
 </div>
--->
+#}

@@ -133,7 +133,7 @@ Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tuta
 
 **UWAGA:** Rejestracja zostanie zamknięta 5 lipca &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
-<!--
+{#
 ## Gracze
 
 <div class="biggus-tablus" markdown="block">
@@ -143,4 +143,4 @@ Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tuta
 
 
 </div>
--->
+#}

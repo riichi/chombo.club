@@ -101,12 +101,12 @@ Zamiast tego powinniśmy policzyć tu chinitsu toitoi, warty hanemana.
 | 16:15 - 17:30 | 4. hanchan          |
 | 17:45 - 18:00 | Zamknięcie turnieju |
 
-<!--
+{#
 ## Lista uczestników
 
 | Imię       | Nazwisko   | Pseudonim  | Miasto           |
 |------------|------------|------------|------------------|
--->
+#}
 
 ## Rejestracja {#rejestracja}
 

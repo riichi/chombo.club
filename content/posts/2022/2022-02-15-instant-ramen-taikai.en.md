@@ -101,13 +101,13 @@ We should instead count it as chinitsu toitoi, worth a haneman.
 | 16:15 - 17:30 | 4th hanchan         |
 | 17:45 - 18:00 | Closing ceremony    |
 
-<!--
+{#
 ## Participant list
 
 | First name | Last name  | Nickname   | City             |
 |------------|------------|------------|------------------|
 
--->
+#}
 ## Registration {#registration}
 
 [Here!](https://forms.gle/cDMZcCej329RFSti8)

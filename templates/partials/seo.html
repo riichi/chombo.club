@@ -27,7 +27,7 @@
 {%- set og_image = large_image or teaser_image -%}
 {%- set og_type = "article" if is_page and page.date else "website" -%}
 {%- set pg = paginator if paginator is defined else none -%}
-<!-- begin _includes/seo.html --><title>{{ seo_title }}{% if pg and pg.current_index > 1 %} {{ sep }} {{ t.page }} {{ pg.current_index }}{% endif %}</title>
+<title>{{ seo_title }}{% if pg and pg.current_index > 1 %} {{ sep }} {{ t.page }} {{ pg.current_index }}{% endif %}</title>
 <meta name="description" content="{{ seo_description }}">
 
 <meta property="og:type" content="{{ og_type }}">
@@ -97,4 +97,3 @@
 }
 </script>
 {% endif %}
-<!-- end _includes/seo.html -->

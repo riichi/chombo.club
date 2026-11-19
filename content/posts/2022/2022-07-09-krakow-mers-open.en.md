@@ -119,7 +119,7 @@ optionally EMA ID to [contact@chombo.club](mailto:contact@chombo.club).
 Reserve players will be notified immediately in case of another player resigning
 from the tournament, in the order of submissions.
 
-<!--
+{#
 ## Players
 
 <div class="progress" style="margin-bottom: 0.5em">
@@ -142,4 +142,4 @@ from the tournament, in the order of submissions.
 </center>
 
 ...and 2 more
--->
+#}

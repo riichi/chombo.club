@@ -148,7 +148,7 @@ offer free help in Polish and English.
 
 **ATTENTION:** Registration will be closed on January 31st &mdash; it will be the last day to submit your application.
 
-<!--
+{#
 ## Players
 
 <small>Last updated: {{ page.updated | date(format="%Y-%m-%d %H:%M", timezone=config.extra.timezone) }}</small>
@@ -182,4 +182,4 @@ Players will be moved off the waiting list if any of the registered participants
 |---:|:-----------------------------------------|:---------------------|:---------------------|:--------------------------------------------------------------------|
 
 </div>
--->
+#}

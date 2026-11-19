@@ -5,7 +5,7 @@
 {%- include "partials/post_guards.html" -%}
 {%- include "partials/breadcrumbs.html" %}
 
-<div data-pagefind-body>
+<article data-pagefind-body>
   <header class="wrap page-head">
     <h1>{{ page.title }}</h1>
     <p class="meta" data-pagefind-ignore>
@@ -17,11 +17,11 @@
 
   <div class="wrap page-body">
     {% include "partials/toc.html" %}
-    <article class="page-content prose">
+    <div class="page-content prose">
       {{ page.content | safe }}
-    </article>
+    </div>
   </div>
-</div>
+</article>
 
 {#- Older/newer post by date. page.lower/higher stay empty with transparent sections, so look it up in posts/ (newest first). -#}
 {%- set posts_section = get_section(path="posts/_index.md", lang=page.lang) -%}
@@ -33,10 +33,10 @@
 <div class="wrap">
   <nav class="post-nav" aria-label="{{ t.post_nav_label }}">
     {%- if older %}
-    <a href="{{ older.path }}"><small>← {{ t.post_older }}</small><strong>{{ older.title }}</strong></a>
+    <a href="{{ older.path }}"><small><span aria-hidden="true">←</span> {{ t.post_older }}</small><strong>{{ older.title }}</strong></a>
     {%- endif %}
     {%- if newer %}
-    <a class="post-nav__next" href="{{ newer.path }}"><small>{{ t.post_newer }} →</small><strong>{{ newer.title }}</strong></a>
+    <a class="post-nav__next" href="{{ newer.path }}"><small>{{ t.post_newer }} <span aria-hidden="true">→</span></small><strong>{{ newer.title }}</strong></a>
     {%- endif %}
   </nav>
 </div>

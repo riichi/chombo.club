@@ -133,7 +133,7 @@ You can view all the Saki Cards [here](https://t.co/cV5TU1qJVW) and access the S
 
 **NOTE:** Registration closes on July 5th — this is the final day to submit a valid registration.
 
-<!--
+{#
 ## Players
 
 <div class="biggus-tablus" markdown="block">
@@ -143,4 +143,4 @@ You can view all the Saki Cards [here](https://t.co/cV5TU1qJVW) and access the S
 |   1 |      |          |         | ✓ |
 
 </div>
--->
+#}

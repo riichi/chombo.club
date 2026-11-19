@@ -117,7 +117,7 @@ imię, nazwisko, numer telefonu i ewentualnie EMA ID.
 Gracze rezerwowi będą powiadamiani niezwłocznie w przypadku rezygnacji któregoś
 z uczestników turnieju, zgodnie z kolejnością zgłoszeń.
 
-<!--
+{#
 ## Gracze
 
 <div class="progress" style="margin-bottom: 0.5em">
@@ -140,4 +140,4 @@ z uczestników turnieju, zgodnie z kolejnością zgłoszeń.
 </center>
 
 ...i 2 więcej
--->
+#}
