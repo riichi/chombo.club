@@ -669,7 +669,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Kiedy robisz meldunek z souzu lub z zielonym smokiem dostajesz dodatkową
       turę.
 
-47. **Takakamo shizuno**
+47. **Takakamo Shizuno**
 
     <div style="text-align: center">
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/TakakamoShizuno.jpg" alt="">
