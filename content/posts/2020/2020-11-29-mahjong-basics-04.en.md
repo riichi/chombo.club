@@ -1,6 +1,12 @@
----
-title:  "Rīchi Mahjong Basics — the fourth episode is live on YouTube!"
----
++++
+title = "Rīchi Mahjong Basics — the fourth episode is live on YouTube!"
+date = 2020-11-29T21:30:00+01:00
+path = "en/other/2020/11/29/mahjong-basics-04"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 
 The fourth episode of our series about basics of rīchi mahjong is on the
 [YouTube channel of Kraków Chombo Club](https://www.youtube.com/channel/UCCsyYLtIHOPfZtL1o-iNzNA).

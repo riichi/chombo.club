@@ -1,6 +1,12 @@
----
-title:  "A Brief History of Japanese Mahjong"
----
++++
+title = "A Brief History of Japanese Mahjong"
+date = 2026-08-02T12:00:00+02:00
+path = "en/blog/2026/08/02/a-brief-history-of-japanese-mahjong"
+template = "post.html"
+
+[taxonomies]
+categories = ["blog"]
++++
 
 Mahjong does not have as long a history as one might assume, but its history is undoubtedly complex and extensive, especially since the game spread independently across many regions of Asia and later to the rest of the world. Without delving into the origins of the game in China, let us move directly to Japan. More specifically, let us go back to the 1920s.
 
@@ -8,14 +14,16 @@ In 1929, the first organization dedicated to mahjong players in Japan was establ
 
 This variant differed significantly from modern Japanese mahjong. First, a winning hand did not require a yaku (in other words, it did not need any han; hands worth 0 han were valid). A standard hand structure of four melds and one pair was sufficient (the exception being chiitoitsu, which was worth 0 han and 100 fu). Yaku did exist, but the list was much shorter than in modern mahjong, and their han values also differed. Dora did not exist, although there was already a dead wall. Riichi was not recognized, or at least not in the way it is today—a player could declare riichi only on the very first turn of the hand, similar to what is now known as double riichi. Furiten also existed, but it could be bypassed if the player explicitly declared it, allowing them to win by ron. A game consisted of four wind rounds with four hands each, running from East 1 through North 4.
 
-{% include figure.html alt="Arushiiaru scoring table." filename="2026-08-02-arushiaru-scoring-table.png" %}
+{{ <figure alt="Arushiiaru scoring table." filename="2026-08-02-arushiaru-scoring-table.png" /> }}
+
 *Arushiiaru scoring table.*
 
 
 Speaking of points, this is what the scoring table in Arushiiaru looked like. Originally, the final score depended solely on fu, which—as you can see—were not rounded up to the nearest ten, resulting in a much larger scoring table than the one used today. Han played only a secondary role: they were awarded exclusively for yaku and then converted into fu (typically, each han doubled the fu value). Based on whether the hand was won by tsumo or ron, whether the winner was the dealer (oya) or a non-dealer (ko), and the hand's fu and han values, players would look up a base value in the table. This base value was then multiplied by the appropriate coefficients (which varied depending on who won and how the hand was won), and the result was rounded to the nearest ten to determine the final point value of the winning hand.
 
 
-{% include figure.html alt="Tabelka liczenia punktów na podstawie bazy" filename="2026-08-02-base-point-calculation-en.png" %}
+{{ <figure alt="Tabelka liczenia punktów na podstawie bazy" filename="2026-08-02-base-point-calculation-en.png" /> }}
+
 *Table for counting points from the base*
 
 Overall, the flow of points was much lower than in modern mahjong, with point sticks carrying only one-tenth of their present-day value. Each player began the game with 2,000 points, and the highest possible payout was mangan.
@@ -26,7 +34,8 @@ A mangan could be achieved by accumulating multiple yaku, in which case it was c
 
 The variant described above was the most widespread during that period. However, as is often the case with social games, each table ultimately played by its own house rules. Over time, the practice known as tochū riichi (途中リーチ)—declaring riichi at any point during the hand rather than only on the opening turn—began to gain popularity. The Japan Mahjong Federation, however, did not recognize tochū riichi as a legitimate rule.
 
-{% include figure.html alt="Amano Daizou" filename="2026-08-02-amano-daizou.png" %}
+{{ <figure alt="Amano Daizou" filename="2026-08-02-amano-daizou.png" /> }}
+
 *Amano Daizou*
 
 One of the federation’s members, Amano Daizou (天野大三), decided to create his own set of mahjong rules, which did not entirely agree with those promoted by his organization. Between november 11 and december 5, 1952, he published in the newspaper Houchi Shinbun (報知新聞) the rules for a game heavily based on tochuu riichi — a system he simply called riichi.
@@ -79,5 +88,5 @@ A humorous irony remains: although the Japanese Mahjong Federation still recogni
 
 ---
 
-Author: *Yuria*\\
+Author: *Yuria*\
 Warmian-Masurian Mahjong Club „Hassouhatsu”

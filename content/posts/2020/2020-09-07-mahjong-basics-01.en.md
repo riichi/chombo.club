@@ -1,6 +1,12 @@
----
-title:  "Rīchi Mahjong Basics — the first episode is live on YouTube!"
----
++++
+title = "Rīchi Mahjong Basics — the first episode is live on YouTube!"
+date = 2020-09-05T01:05:42+01:00
+path = "en/other/2020/09/05/mahjong-basics-01"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 
 YouTube lacks high-quality tutorials about Mahjong for beginners, especially in Polish. Newcomers that want to play this chinese game are therefore forced to watch videos in English or read text guides in Polish that are often not very great. A person who is completely new to the game that does not have anyone that could help them may easily be discouraged and never come back.
 

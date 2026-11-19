@@ -2,7 +2,7 @@
 {%- set site_title = t.title -%}
 {%- set sep = config.extra.title_separator -%}
 {%- set is_page = page is defined -%}
-{%- if is_page %}{% set page_title = page.title %}{% elif section is defined and section.title %}{% set page_title = section.title %}{% else %}{% set page_title = site_title %}{% endif -%}
+{%- if is_page %}{% set page_title = page.title | replace(from="'", to="’") %}{#- jekyll-seo-tag smartifies titles; only apostrophes occur in titles -#}{% elif section is defined and section.title %}{% set page_title = section.title %}{% else %}{% set page_title = site_title %}{% endif -%}
 {%- if current_path == "/" -%}
   {%- set seo_title = site_title ~ " " ~ sep ~ " " ~ t.home_title -%}
 {%- elif site_title in page_title -%}

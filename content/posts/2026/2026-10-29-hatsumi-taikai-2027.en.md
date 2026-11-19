@@ -1,13 +1,19 @@
----
-title:  "Hatsumi Taikai 2027"
----
++++
+title = "Hatsumi Taikai 2027"
+date = 2026-10-29T20:00:00+01:00
+path = "en/tournaments/2026/10/29/hatsumi-taikai-2027"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 We invite you to the fourth MERS tournament in Kraków!
 
 <!-- TODO: dodać grafikę 2026-10-29-hatsumi-taikai-2027.png (lub podmienić nazwę pliku poniżej) -->
-{% include figure.html alt="Hatsumi Taikai 2027" filename="2026-10-29-hatsumi-taikai-2027.png" %}
+{{ <figure alt="Hatsumi Taikai 2027" filename="2026-10-29-hatsumi-taikai-2027.png" /> }}
 
-## About the tournament
+## About the tournament {#about-the-tournament}
 
 * Date: 20<sup>th</sup>-21<sup>st</sup> February 2027 (Sat-Sun)
 * Place: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
@@ -17,7 +23,7 @@ We invite you to the fourth MERS tournament in Kraków!
 * Entry fee: approx. 220 PLN, paid by bank transfer. You can send either EUR or PLN.
     - The exact amount and payment details will be shared later.
     - It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.
-    - Payment deadline: **31 January 2027**{% comment %} TODO: odkryć dane do przelewu, gdy będzie znana dokładna kwota
+    - Payment deadline: **31 January 2027**{# TODO: odkryć dane do przelewu, gdy będzie znana dokładna kwota
     - IBAN: `PL71 1870 1045 2078 1088 3294 0001`
     - SWIFT/BIC: `NESBPLPW`
     - Account owner:
@@ -30,8 +36,7 @@ We invite you to the fourth MERS tournament in Kraków!
     - Reference:
       ```
       <name and surname> - Hatsumi Taikai 2027 registration fee
-      ```{% endcomment %}
-
+      ```#}
 * Participant limit: 84
 * EMA Observer: *TBA*
 * Referees: *TBA*
@@ -44,7 +49,7 @@ who has not yet qualified at the time of the tournament will receive a wild card
 
 Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarize themselves with the app before the tournament.
 
-## Agenda
+## Agenda {#agenda}
 
 Provisional schedule &mdash; times may still change slightly.
 
@@ -114,14 +119,14 @@ Provisional schedule &mdash; times may still change slightly.
 </table>
 
 
-{% comment %}
+{#
 TODO: zaktualizować dojazd (tramwaj 20 zawieszony, 50 przemianowany / inna trasa, kursuje linia zastępcza)
 
 ## How to get there
 
-<a href="/assets/images/mers-2026-map.png">
+<p><a href="/assets/images/mers-2026-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Commute map" />
-</a>
+</a></p>
 
 Generally speaking, we recommend taking a tram. The nearest stop to the tournament venue is **Zabłocie**. Below are example tram connections from the **Main Railway Station**:
 
@@ -137,9 +142,9 @@ Directions from public transport stops:
 
 Detailed directions can be found using
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
-{% endcomment %}
+#}
 
-## Registration
+## Registration {#registration}
 
 * Registration opens: **14 November 2026, 19:00 CET**
 * Registration closes: **31 January 2027**
@@ -150,17 +155,17 @@ Detailed directions can be found using
 
 **ATTENTION:** Registration will be closed on January 31st — this is the last day to submit a valid application.
 
-### Waiting list
+### Waiting list {#waiting-list}
 
 Once the limit of 84 players is reached, further applications go to the waiting list. If a registered
 player withdraws, the place will be offered to the first person on the waiting list (in order of
 application) &mdash; we will contact them directly.
 
-### Withdrawal and cancellation
+### Withdrawal and cancellation {#withdrawal-and-cancellation}
 
 * If you withdraw by 31 January 2027, your entry fee will be refunded.
 * If the tournament is cancelled by the organisers, all entry fees will be refunded in full.
 
-## Players
+## Players {#players}
 
 <iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdxfSRbtexPrWTZDJHDEPkhvz5reGeW-GglD_JMuo_DnpyIV5i_8bhOtkLLdoBe49QP6SShxZwVWO2/pubhtml?gid=1911360483&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>

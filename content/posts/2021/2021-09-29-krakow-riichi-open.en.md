@@ -1,8 +1,14 @@
----
-title:  "Kraków Riichi Open 2021"
----
++++
+title = "Kraków Riichi Open 2021"
+date = 2021-09-29T17:00:00+01:00
+path = "en/tournaments/2021/09/29/krakow-riichi-open"
+template = "post.html"
 
-{% include figure.html alt="Kraków Riichi Open" filename="2021-09-29-krakow-riichi-open.png" %}
+[taxonomies]
+categories = ["tournaments"]
++++
+
+{{ <figure alt="Kraków Riichi Open" filename="2021-09-29-krakow-riichi-open.png" /> }}
 
 Just as we said back when we finished work on creating our association, Krakow
 Chombo Club is proud to announce the first open Riichi Mahjong tournament in
@@ -14,7 +20,7 @@ the registration form below. We are accepting applications until November 6th,
 but please do register as soon as possible, so we can estimate the number
 of players.
 
-## About the tournament
+## About the tournament {#about-the-tournament}
 
 * Date: 20 November 2021 (Saturday)
 * Place: [Boardowa Board Game Cafe, ul. Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
@@ -25,7 +31,7 @@ of players.
 * Player limit: 28
 * Scoring: [Mahjong Tracker](https://mahjongtracker.com/)
 
-## Agenda
+## Agenda {#agenda}
 
 | Time          | Stage            |
 |---------------|------------------|
@@ -39,6 +45,6 @@ of players.
 | 17:00 - 18:15 | 5th hanchan      |
 | 18:15 - 18:30 | Closing ceremony |
 
-## Registration
+## Registration {#registration}
 
 **[Register for the tournament](https://forms.gle/aVrUS6SYSb3dMg2W7)**

@@ -11,9 +11,9 @@
 
 **Blocked by:** 03
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] All 24 English post URLs exist and pass the Parity check; how-to-buy has no English URL
-- [ ] Language switcher and hreflang links on posts in both languages match the Baseline
-- [ ] Breaking a Translation's date, category or path, or deleting a Translation of a non-exclusive post, fails `zola build` with a clear message (verified in a scratch copy)
-- [ ] No `/en/` copies of static files are produced
+- [x] All 24 English post URLs exist and pass the Parity check; how-to-buy has no English URL
+- [x] Language switcher and hreflang links on posts in both languages match the Baseline
+- [x] Breaking a Translation's date, category or path, or deleting a Translation of a non-exclusive post, fails `zola build` with a clear message (verified in a scratch copy)
+- [x] No `/en/` copies of static files are produced

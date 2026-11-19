@@ -1,12 +1,18 @@
----
-title:  "Kraków Saki Cards Taikai 2022"
----
++++
+title = "Kraków Saki Cards Taikai 2022"
+date = 2022-06-27T21:00:00+02:00
+path = "en/tournaments/2022/06/27/cracow-saki-cards-taikai"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe.
 
-{% include figure.html alt="Kraków Saki Cards Taikai" filename="2022-08-14-saki-cards-taikai.png" %}
+{{ <figure alt="Kraków Saki Cards Taikai" filename="2022-08-14-saki-cards-taikai.png" /> }}
 
-## About
+## About {#about}
 
 * Date: 14th August 2022 (Sunday)
 * Place: [Boardowa Cafe, Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
@@ -19,25 +25,23 @@ We invite you to the first ever Polish tournament with Saki Cards! It will take 
 * Scoring: Point sticks
 * Starting score: 30000
 
-## Rules
+## Rules {#rules}
 
 The ruleset is **EMA 2016 with the following modifications::**
 
-### Kazoe Yakuman
+### Kazoe Yakuman {#kazoe-yakuman}
 
 Hand with 13 or more han is counted as a Yakuman.
 
-### Additional yaku: Nagashi Mangan (流し満貫)
+### Additional yaku: Nagashi Mangan (流し満貫) {#additional-yaku-nagashi-mangan-流し満貫}
 
-* Earned if during ryuukyoku plyer meets all of these conditions
-
+* <p>Earned if during ryuukyoku plyer meets all of these conditions</p>
 * Every visible discard of a player must be a terminal or an honor tile.
 * No tiles may have been called from the player's own discard pile.
-* A player has to have a closed hand.
-
+* <p>A player has to have a closed hand.</p>
 * Always worth 5 han (mangan), doesn't stack with other yaku or dora.
 
-### Saki Cards
+### Saki Cards {#saki-cards}
 
 Before the beginning of a hanchan the first dealer deals every player 6 cards
 from the deck, those will be their cards for this hanchan. If a player wins a
@@ -49,7 +53,7 @@ all players are ready.
 
 There are 53 cards in the deck, each one with a different ability.
 
-#### Card list
+#### Card list {#card-list}
 
 1. **Aislinn Wishart**
 
@@ -57,13 +61,10 @@ There are 53 cards in the deck, each one with a different ability.
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/AislinnWishart.jpg" alt="">
     </div>
 
-    * While all other players have closed hands and you have less than the
-      starting score, whenever you make a tedashi discard, take an extra turn.
-
+    * <p>While all other players have closed hands and you have less than the starting score, whenever you make a tedashi discard, take an extra turn.</p>
     * First discard of the oya is always tedashi.
     * You don't get an extra turn when you call.
-    * Tedashi discard is the opposite of tsumogiri discard, that is, discarding any other tile than the one you just drew.
-
+    * <p>Tedashi discard is the opposite of tsumogiri discard, that is, discarding any other tile than the one you just drew.</p>
     * When another player opens the hand, they must bet 1500.
 2. **Usuzawa Sae**
 
@@ -94,18 +95,13 @@ There are 53 cards in the deck, each one with a different ability.
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/AnetaiToyone.jpg" alt="">
     </div>
 
-    * Chasing riichi, that is riichi declared after another player already
-      declared riichi gives you 2 han.
-
-    * Chasing riichi 2 han replaces 1 han of riichi
-
+    * <p>Chasing riichi, that is riichi declared after another player already declared riichi gives you 2 han.</p>
+    * <p>Chasing riichi 2 han replaces 1 han of riichi</p>
     * Yaku Shiiaru Raotai(十二落抬) is available for you, worth 2 han and gives
       acces to ura dora. Earned if you have a single pair wait with four open
       melds.
       Example:![](/assets/images/cracow-saki-cards-taikai-2022/hands/ShiiaruRaotai.png)
-    * Winning with riichi or shiiaru raotai on a tile discarded by player in
-      riichi gives you 1 han for every 1000 on board.
-
+    * <p>Winning with riichi or shiiaru raotai on a tile discarded by player in riichi gives you 1 han for every 1000 on board.</p>
     * Riichi doesn't have to be chasing.
 
 5. **Arakawa Kei**
@@ -249,8 +245,7 @@ There are 53 cards in the deck, each one with a different ability.
     * Before making your first discard, reveal your hand. You play this round with
       your hand revealed.
     * Your winning value is doubled.
-    * Riichi and Ippatsu give you 2 han each.
-
+    * <p>Riichi and Ippatsu give you 2 han each.</p>
     * Double Riichi gives you 4 han.
 
 19. **Kainou Yoshiko**
@@ -371,13 +366,8 @@ There are 53 cards in the deck, each one with a different ability.
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/MaseYuuko.jpg" alt="">
     </div>
 
-    * You may arrange tiles into wrapping sequences (e.g. 912).
-      Example:
-      ![](/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png)
-      This hand waits for 825 souzu
-
-    * 3 sequences 912 345 678, or 891 234 567 don't give you ittsuu.
-
+    * <p>You may arrange tiles into wrapping sequences (e.g. 912). Example: <img src="/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png" alt="" /> This hand waits for 825 souzu</p>
+    * <p>3 sequences 912 345 678, or 891 234 567 don’t give you ittsuu.</p>
     * You cannot call pon or kan.
     * Every three identical tiles in your discard give you 1 han.
 28. **Matano Seiko**
@@ -411,7 +401,6 @@ There are 53 cards in the deck, each one with a different ability.
     * Having 9/11/13/14 red tiles gives you 1/2/3/4 han.
         * Warm tiles are tiles with red paint on them, that is:
           ![](/assets/images/cracow-saki-cards-taikai-2022/hands/MatsumiYuu.png)
-
     * You may call pon on already discarded red dragons with priority over other
       calls, including ron.
         * You may declare pon on a red dragon in the player's discard whenever that
@@ -704,7 +693,7 @@ There are 53 cards in the deck, each one with a different ability.
         * Keep both cards.
         * After the end of a round you don't shuffle both card back into the deck..
 
-### General card clarifications
+### General card clarifications {#general-card-clarifications}
 
 * Abilities that modify values of yaku are substitutive, not additive. “Pinfu
   gives you 2 han” means that for you the value of pinfu yaku is now 2 han
@@ -744,7 +733,7 @@ There are 53 cards in the deck, each one with a different ability.
   declared ron by any player. The tile after swapping can apply or remove
   furiten respectively.
 
-## Agenda
+## Agenda {#agenda}
 
 | Godzina       | Etap                |
 |---------------|---------------------|
@@ -757,6 +746,6 @@ There are 53 cards in the deck, each one with a different ability.
 | 17:00 - 18:30 | 4th hanchan         |
 | 18:45 - 19:00 | Closing ceremony    |
 
-## Registration
+## Registration {#registration}
 
 **[Register for the tournament](https://forms.gle/ihwFDbs23PAYbHZH7)**

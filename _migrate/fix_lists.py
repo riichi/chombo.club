@@ -28,6 +28,7 @@ def md_inline(s):
 def plain(s):
     s = re.sub(r"!\[[^\]]*\]\([^)]+\)", "", s)
     s = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", s)
+    s = re.sub(r"<[^>]+>", "", s)
     return re.sub(r"[*`]", "", s).strip()
 
 
@@ -39,6 +40,8 @@ def baseline_li(doc):
         first = li[0] if has_p else li
         txt = re.sub(r"\s+", " ", (first.text_content() if has_p else (li.text or "") + "".join(
             (c.text_content() + (c.tail or "")) for c in li if c.tag not in ("ul", "ol", "div")))).strip()
+        # smart punctuation in the Baseline vs ASCII in the source
+        txt = txt.translate(str.maketrans("\u2019\u2018\u201c\u201d", "''\"\""))
         out.setdefault(txt[:40], has_p)
     return out
 

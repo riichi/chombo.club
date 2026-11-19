@@ -1,12 +1,18 @@
----
-title:  "USMA Cup: Kraków Riichi Open 2026"
----
++++
+title = "USMA Cup: Kraków Riichi Open 2026"
+date = 2026-06-25T12:00:00+02:00
+path = "en/tournaments/2026/06/25/krakow-riichi-open-2026"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 We invite you to a Riichi Mahjong tournament organized in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!
 
-{% include figure.html alt="USMA Cup: Kraków Riichi Open 2026" filename="2026-06-25-krakow-riichi-open-2026.png" %}
+{{ <figure alt="USMA Cup: Kraków Riichi Open 2026" filename="2026-06-25-krakow-riichi-open-2026.png" /> }}
 
-## About
+## About {#about}
 
 * Date: 25th July 2026 (Saturday)
 * Place: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
@@ -34,7 +40,7 @@ We invite you to a Riichi Mahjong tournament organized in cooperation with the U
 * Lunch: not provided — during the lunch break we will head together to [Food Hall Hala Lipowa](https://maps.app.goo.gl/CvYvhfHwxhiMrtaw5), a food hall with a wide variety of stalls to suit every taste
 * Scoring: Mahjong Tracker
 
-## USMA Cup
+## USMA Cup {#usma-cup}
 
 This tournament is part of the **USMA Cup** — a series of 4 tournaments, from which your best 3 results count toward the overall ranking. Top 3 players will receive prizes.
 
@@ -42,7 +48,7 @@ This tournament is part of the **USMA Cup** — a series of 4 tournaments, from 
 * USMA Ranking: **Yes**
 * USMA Cup: **Yes**
 
-## Agenda
+## Agenda {#agenda}
 
 <table class="tournament-agenda">
   <thead>
@@ -88,11 +94,11 @@ This tournament is part of the **USMA Cup** — a series of 4 tournaments, from 
   </tbody>
 </table>
 
-## Getting There
+## Getting There {#getting-there}
 
-<a href="/assets/images/mers-2026-map.png">
+<p><a href="/assets/images/mers-2026-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Getting there map" />
-</a>
+</a></p>
 
 We recommend getting to the venue by tram or bus &mdash;
 the nearest stop is **Zabłocie**, example connections from the Main Railway Station:
@@ -109,12 +115,12 @@ Directions to the venue from public transport stops:
 Detailed directions are available at
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
 
-## Registration
+## Registration {#registration}
 
 **[Register here](https://forms.gle/kEwprx2xghdxy1D28)**
 
 **NOTE:** Registration closes July 18 &mdash; this is the final day to submit a valid registration.
 
-## Players
+## Players {#players}
 
 <iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" height="1000" frameborder="0"></iframe>

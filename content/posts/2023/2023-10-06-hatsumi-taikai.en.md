@@ -1,12 +1,19 @@
----
-title:  "Hatsumi Taikai"
----
++++
+title = "Hatsumi Taikai"
+date = 2023-10-06T16:00:00+02:00
+updated = 2024-02-17T15:37:13+01:00
+path = "en/tournaments/2023/10/06/hatsumi-taikai"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 We invite you to the second MERS tournament in Kraków!
 
-{% include figure.html alt="Hatsumi Taikai" filename="2023-10-06-hatsumi-taikai.png" %}
+{{ <figure alt="Hatsumi Taikai" filename="2023-10-06-hatsumi-taikai.png" /> }}
 
-## About
+## About {#about}
 
 * Date: 17<sup>th</sup>-18<sup>th</sup> February 2024 (Sat-Sun)
 * Place: [Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków, Poland](https://goo.gl/maps/izBiryMK8gM9GpQd6)
@@ -29,7 +36,7 @@ themselves with the app before the tournament.
 With representants of **8** different EMA countries and a total number of **84** contestants, the current MERS tournament ranking is **3.5** (with 4.0 being the maximum).\
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on [the EMA website](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
-## Agenda
+## Agenda {#agenda}
 
 <table class="tournament-agenda">
 <thead>
@@ -100,11 +107,11 @@ With representants of **8** different EMA countries and a total number of **84**
 </tbody>
 </table>
 
-## How to get to the tournament
+## How to get to the tournament {#how-to-get-to-the-tournament}
 
-<a href="/assets/images/mers-2022-map.png">
+<p><a href="/assets/images/mers-2022-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map"/>
-</a>
+</a></p>
 
 Generally speaking, we recommend taking a tram.
 Depending on your exact location, the connection can be direct, or may require
@@ -133,7 +140,7 @@ In case you need more detailed instructions, you can use
 <https://krakow.jakdojade.pl> or <https://maps.google.com> &mdash; both
 offer free help in Polish and English.
 
-## Registration
+## Registration {#registration}
 
 **NOTE:** Currently, the tournament is full &mdash; however, you can still sign up for the waiting list and participate in the tournament if any of the registered players drop out.
 
@@ -144,7 +151,7 @@ offer free help in Polish and English.
 <!--
 ## Players
 
-<small>Last updated: {{ page.last_modified_at | date:"%Y-%m-%d %H:%M" }}</small>
+<small>Last updated: {{ page.updated | date(format="%Y-%m-%d %H:%M", timezone=config.extra.timezone) }}</small>
 
 <div class="progress" style="margin-bottom: 0.5em">
 	<div

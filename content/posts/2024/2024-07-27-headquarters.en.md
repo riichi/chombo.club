@@ -1,6 +1,13 @@
----
-title:  "We've got a headquarters!"
----
++++
+title = "We've got a headquarters!"
+date = 2024-07-27T19:21:00+01:00
+updated = 2026-09-07T17:50:00+01:00
+path = "en/other/2024/07/27/headquarters"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 
 As some of you might already know, we've managed to secure our own place to play mahjong. Now it's time to share some details regarding regular meetings that'll be taking place there!
 
@@ -21,4 +28,4 @@ Lastly, if you would like to support our activities you can do it via bank trans
 
 Thank you very kindly for the donations!
 
-{% include figure.html alt="Our headquarters" filename="2024-07-27-headquarters.jpg" %}
+{{ <figure alt="Our headquarters" filename="2024-07-27-headquarters.jpg" /> }}

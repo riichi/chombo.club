@@ -1,6 +1,12 @@
----
-title:  "Rīchi Mahjong Basics — the second episode is live on YouTube!"
----
++++
+title = "Rīchi Mahjong Basics — the second episode is live on YouTube!"
+date = 2020-10-03T13:30:42+01:00
+path = "en/other/2020/10/03/mahjong-basics-02"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 
 The second episode of our series describing the rīchi mahjong basics landed on the
 [YouTube channel of Kraków Chombo Club.](https://www.youtube.com/channel/UCCsyYLtIHOPfZtL1o-iNzNA).

@@ -1,12 +1,19 @@
----
-title:  "Hatsumi Taikai 2026"
----
++++
+title = "Hatsumi Taikai 2026"
+date = 2025-12-15T20:00:00+02:00
+updated = 2026-01-17T12:00:00+02:00
+path = "en/tournaments/2025/12/15/hatsumi-taikai-2026"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 We invite you to the third MERS tournament in Kraków!
 
-{% include figure.html alt="Hatsumi Taikai" filename="2025-12-15-hatsumi-taikai-2026.png" %}
+{{ <figure alt="Hatsumi Taikai" filename="2025-12-15-hatsumi-taikai-2026.png" /> }}
 
-## About the tournament
+## About the tournament {#about-the-tournament}
 
 * Date: 14<sup>th</sup>-15<sup>th</sup> February 2026 (Sat-Sun)
 * Place: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
@@ -29,7 +36,6 @@ We invite you to the third MERS tournament in Kraków!
       ```
       <name and surname> - Hatsumi Taikai 2026 registration fee
       ```
-
 * Participant limit: 64
 * EMA Observer: Ivar Bouwman
 * Referees:
@@ -46,7 +52,7 @@ We invite you to the third MERS tournament in Kraków!
 
 Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarize themselves with the app before the tournament.
 
-## Agenda
+## Agenda {#agenda}
 
 <table class="tournament-agenda">
 <thead>
@@ -114,11 +120,11 @@ Scores will be tracked using the mobile application [Mahjong Tracker](https://ma
 </table>
 
 
-## How to get there
+## How to get there {#how-to-get-there}
 
-<a href="/assets/images/mers-2026-map.png">
+<p><a href="/assets/images/mers-2026-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Commute map" />
-</a>
+</a></p>
 
 Generally speaking, we recommend taking a tram. The nearest stop to the tournament venue is **Zabłocie**. Below are example tram connections from the **Main Railway Station**:
 
@@ -135,7 +141,7 @@ Directions from public transport stops:
 Detailed directions can be found using
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
 
-## Registration
+## Registration {#registration}
 
 **NOTE:** Currently, the player list is full — however, you can still sign up for the waiting list and take part in the tournament if any of the registered players withdraw.
 
@@ -144,6 +150,6 @@ Detailed directions can be found using
 
 **ATTENTION:** Registration will be closed on January 31st — this is the last day to submit a valid application.
 
-## Players
+## Players {#players}
 
 <iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=495684573&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>

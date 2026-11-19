@@ -1,12 +1,19 @@
----
-title:  "Equipment: review of the white tile set from e-go.pl"
----
++++
+title = "Equipment: review of the white tile set from e-go.pl"
+date = 2021-06-15T08:00:00+01:00
+updated = 2024-03-09T11:54:21+01:00
+path = "en/other/2021/06/15/review-e-go-white-tiles"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 
 Hey! This is Michał Herda from the Krakow Chombo Club. Today I'm happy to show you a review of [the riichi mahjong set](https://www.e-go.pl/mahjong/japanise-mahjong-white.html) from the online [e-go.pl](http://e-go.pl/) shop. The mahjong set cost me 269 PLN (March 2024 update: 449 PLN) and contains tiles and accessories for playing Japanese riichi mahjong.
 
 During the review, I'll make some comparisons to a (somewhat heavily used) [set made by the Polish company Grapet](https://www.ceneo.pl/35993142).
 
-## Overview
+## Overview {#overview}
 
 ![](/assets/images/review-e-go-white/001-001.jpg)
 
@@ -64,7 +71,7 @@ Trivia: in this set, the two, four, and six of bamboos are not centrally symmetr
 
 The circles look OK with one exception (can you see it yet?) - but more about it in the next chapter.
 
-## Traits, pros and cons
+## Traits, pros and cons {#traits-pros-and-cons}
 
 The tiles are of uniform color, which means that discarding white dragons in a cultural way requires an additional tile flip; another quirky situation happens when a white dragon happens to be a dora indicator, which is impossible to tell apart from the situation where the indicator has not been revealed.
 
@@ -92,13 +99,13 @@ This photo shows small discolorations and missing paint near the markings of the
 
 This photo shows something that I initially considered to be residual paint - but it turned out to be small cracks inside the tile's material, near the regions where the East symbol was molded inside the tile.
 
-## Playthrough impressions
+## Playthrough impressions {#playthrough-impressions}
 
 ![](/assets/images/review-e-go-white/003-001.jpg)
 
 The tiles have been played one time by five people in total (including me) and our overall impressions were positive. The tiles are pleasant and smooth (even slippery!) to touch, it's easy to mix and set them up. The aforementioned upside, which is evenness of the tiles, helps with setting up the wall.
 
-## Summing up
+## Summing up {#summing-up}
 
 I grew to like these tiles, even though I usually play with the heavier AMOS MAX set and that I am used to it. The quality of the tiles is good, also including the price of the tile set; another plus is an uncommon packaging in form of the wooden box. The aforementioned defects are only petty aesthetical issues and do not anyhow the pleasure one can get from playing.
 

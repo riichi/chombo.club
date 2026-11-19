@@ -1,26 +1,32 @@
----
-title:  "Kraków MERS Open 2022"
----
++++
+title = "Kraków MERS Open 2022"
+date = 2022-07-09T21:37:00+02:00
+updated = 2022-10-08T21:37:00+02:00
+path = "en/tournaments/2022/07/09/krakow-mers-open"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 We invite you to the first MERS tournament in Kraków!
 
-{% include figure.html alt="Kraków MERS Open 2022" filename="2022-10-08-mers-open.png" %}
+{{ <figure alt="Kraków MERS Open 2022" filename="2022-10-08-mers-open.png" /> }}
 
-## About
+## About {#about}
 
 * Date: 8th-9th October 2022 (Sat-Sun)
 * Place: [Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Ruleset: EMA Riichi 2016
 * Hanchans: 7
 * Entry fee: 100PLN or 22EUR
-* Participant limit: 80
-
+* <p>Participant limit: 80</p>
 * EMA Observer: Linxuan He
 * Referees:
     - Marta Bacic
     - Michał Herda
 
-## Agenda
+## Agenda {#agenda}
 
 <table class="tournament-agenda">
 <thead>
@@ -79,11 +85,11 @@ We invite you to the first MERS tournament in Kraków!
 </tbody>
 </table>
 
-## How to get to the tournament
+## How to get to the tournament {#how-to-get-to-the-tournament}
 
-<a href="/assets/images/mers-2022-map.png">
+<p><a href="/assets/images/mers-2022-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map"/>
-</a>
+</a></p>
 
 Generally speaking, we recommend taking a tram.
 Depending on your exact location, the connection can be direct, or may require
@@ -105,7 +111,7 @@ In case you need more detailed instructions, you can use
 <https://krakow.jakdojade.pl> or <https://maps.google.com> &mdash; both
 offer free help in Polish and English.
 
-## Registration
+## Registration {#registration}
 
 **Registration has been closed** – but you can add yourself to the reserve list.
 To do so, please send us an email with your name, surname, phone number, and
