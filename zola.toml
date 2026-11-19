@@ -12,6 +12,7 @@ smart_punctuation = true
 external_links_external = false
 
 [languages.en]
+title = "Kraków Chombo Club"
 taxonomies = [{ name = "categories", render = false }]
 
 [extra]

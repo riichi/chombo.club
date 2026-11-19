@@ -42,3 +42,30 @@
 {% component figure(alt: string, filename: string) -%}
 <figure><img src="/assets/images/{{ filename }}" alt="{{ alt }}" /></figure>
 {%- endcomponent figure %}
+
+{#- URL of the footer link with the given label (config.extra.footer_links); unknown labels fail the build. -#}
+{% component footer_link(label: string, links: array) -%}
+{%- set_global found = "" -%}
+{%- for l in links %}{% if l.label == label %}{% set_global found = l.url %}{% endif %}{% endfor -%}
+{%- if not found %}{{ throw(message="footer_link: unknown label " ~ label) }}{% endif -%}
+{{ found }}
+{%- endcomponent footer_link %}
+
+{#- Help links list (data/help/*.yml); Polish uses name_pl/description_pl when present. -#}
+{% component help_items(items: array, lang: string) -%}
+{#- Rendered inside Markdown: no indentation or blank lines, or it becomes a code block. -#}
+<ul>
+{%- for item in items %}
+<li><a href="{{ item.url }}">{{ item.name_pl if lang == "pl" and item.name_pl is defined else item.name }}</a>
+{%- if item.description is defined %} — {{ item.description_pl if lang == "pl" and item.description_pl is defined else item.description }}{% endif %}
+{%- if item.subitems is defined %}
+<ul>
+{%- for sub in item.subitems %}
+<li><a href="{{ sub.url }}">{{ sub.name_pl if lang == "pl" and sub.name_pl is defined else sub.name }}</a>
+{%- if sub.description is defined %} — {{ sub.description_pl if lang == "pl" and sub.description_pl is defined else sub.description }}{% endif %}</li>
+{%- endfor %}
+</ul>
+{%- endif %}</li>
+{%- endfor %}
+</ul>
+{%- endcomponent help_items %}

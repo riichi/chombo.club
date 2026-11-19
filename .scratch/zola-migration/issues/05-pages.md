@@ -10,8 +10,8 @@
 
 **Blocked by:** 02
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] All 8 page URLs pass the Parity check
-- [ ] No Liquid syntax remains in page content
-- [ ] An unknown `footer_link` label fails the build
+- [x] All 8 page URLs pass the Parity check
+- [x] No Liquid syntax remains in page content
+- [x] An unknown `footer_link` label fails the build

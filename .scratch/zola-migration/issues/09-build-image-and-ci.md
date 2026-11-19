@@ -8,9 +8,9 @@
 
 **Blocked by:** 02
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] `docker build .` succeeds with no Ruby in any stage
-- [ ] Search works in the built image (Pagefind indexes `data-pagefind-body` content)
-- [ ] Building with `SITE_URL` set makes canonical/OG/feed URLs point at that URL
-- [ ] `docker-compose up --build` serves the site
+- [x] `docker build .` succeeds with no Ruby in any stage
+- [x] Search works in the built image (Pagefind indexes `data-pagefind-body` content)
+- [x] Building with `SITE_URL` set makes canonical/OG/feed URLs point at that URL
+- [x] `docker-compose up --build` serves the site

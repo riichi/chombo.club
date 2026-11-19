@@ -1,24 +1,28 @@
-FROM ruby:4.0.0-trixie AS build
+FROM ghcr.io/getzola/zola:v0.23.6 AS zola
 
-WORKDIR /srv/jekyll
-COPY Gemfile Gemfile.lock /srv/jekyll/
-RUN bundler install
+FROM debian:trixie-slim AS build
+
+# tzdata: Europe/Warsaw date formatting in templates; the Zola image has none
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends ca-certificates curl tzdata \
+    && rm -rf /var/lib/apt/lists/*
 
 ARG PAGEFIND_VERSION=1.3.0
 RUN curl -fsSL "https://github.com/Pagefind/pagefind/releases/download/v${PAGEFIND_VERSION}/pagefind_extended-v${PAGEFIND_VERSION}-x86_64-unknown-linux-musl.tar.gz" \
     | tar -xz -C /usr/local/bin pagefind_extended
 
-COPY . /srv/jekyll
-ENV JEKYLL_ENV=production
+COPY --from=zola /zola /usr/local/bin/zola
+
+WORKDIR /srv/site
+COPY . /srv/site
 # Previews override the site url so canonical/OG/feed links point at the preview
 ARG SITE_URL=
 RUN if [ -n "$SITE_URL" ]; then \
-      printf 'url: "%s"\n' "$SITE_URL" > /tmp/_config.preview.yml; \
-      jekyll build --config _config.yml,/tmp/_config.preview.yml; \
+      zola build --base-url "$SITE_URL" --output-dir /output; \
     else \
-      jekyll build; \
+      zola build --output-dir /output; \
     fi \
-    && pagefind_extended --site _site && mv _site /output
+    && pagefind_extended --site /output
 
 FROM nginx:alpine
 
