@@ -1,39 +1,43 @@
 {% extends "base.html" %}
 {% block layout %}category{% endblock %}
 {% block content %}
-{%- set category_name = <category_name category={term.name} names={t.category_names} /> -%}
-{%- set crumb_override = category_name -%}
-{%- include "partials/breadcrumbs.html" %}
-{%- set n = term.pages | length -%}
-{%- set mod10 = n % 10 -%}
-{%- set mod100 = n % 100 -%}
-{%- if n == 1 -%}{%- set word = t.posts_one -%}{%- elif mod10 >= 2 and mod10 <= 4 and (mod100 < 12 or mod100 > 14) -%}{%- set word = t.posts_few -%}{%- else -%}{%- set word = t.posts_many -%}{%- endif %}
-
-<div class="wrap">
-  <div class="archive-head">
-    <div>
-      <h1>{{ category_name }}</h1>
-      <p>{{ n }} {{ word }}{% if term.name in t.category_descriptions %} · {{ t.category_descriptions[term.name] }}{% endif %}</p>
+  {%- set category_name = <category_name category={term.name} names={t.category_names} /> -%}
+  {%- set crumb_override = category_name -%}
+  {%- include "partials/breadcrumbs.html" %}
+  {%- set n = term.pages | length -%}
+  {%- set mod10 = n % 10 -%}
+  {%- set mod100 = n % 100 -%}
+  {%- if n == 1 -%}{%- set word = t.posts_one -%}{%- elif mod10 >= 2 and mod10 <= 4 and (mod100 < 12 or mod100 > 14) -%}{%- set word = t.posts_few -%}{%- else -%}{%- set word = t.posts_many -%}{%- endif %}
+  <div class="wrap">
+    <div class="archive-head">
+      <div>
+        <h1>{{ category_name }}</h1>
+        <p>{{ n }} {{ word }}{% if term.name in t.category_descriptions %} · {{ t.category_descriptions[term.name] }}{% endif %}</p>
+      </div>
+      {{ <category_tabs t={t} nav={nav} current={current_path} prefix={lang_prefix} /> }}
     </div>
-    {{ <category_tabs t={t} nav={nav} current={current_path} prefix={lang_prefix} /> }}
+    <div class="archive-list">
+      {%- set tz = config.extra.timezone -%}
+      {%- set posts = term.pages | sort(attribute="date") | reverse -%}
+      {#- Years in order of appearance (newest first), so each year's section opens and closes in one iteration. -#}
+      {%- set_global years = [] -%}
+      {%- for post in posts -%}
+        {%- set y = post.date | date(format="%Y", timezone=tz) -%}
+        {%- if y not in years %}{% set_global years = [...years, y] %}
+        {% endif -%}
+      {%- endfor -%}
+      {%- for y in years %}
+        <section class="archive-year">
+          <h2>{{ y }}</h2>
+          <ul>
+            {%- for post in posts %}
+              {%- if (post.date | date(format="%Y", timezone=tz)) == y %}
+                <li><a href="{{ post.path }}"><time datetime="{{ <xmlschema d={post.date} tz={tz} /> }}">{{ <date d={post.date} months={t.months} tz={tz} year={false} /> }}</time><strong>{{ post.title }}</strong></a></li>
+              {%- endif %}
+            {%- endfor %}
+          </ul>
+        </section>
+      {%- endfor %}
+    </div>
   </div>
-
-  <div class="archive-list">
-    {%- set posts = term.pages | sort(attribute="date") | reverse -%}
-    {%- for post in posts %}
-    {%- set y = post.date | date(format="%Y", timezone=config.extra.timezone) -%}
-    {%- set py = (posts[loop.index0 - 1].date | date(format="%Y", timezone=config.extra.timezone)) if not loop.first else "" -%}
-    {%- if y != py %}{% if not loop.first %}
-      </ul>
-    </section>{% endif %}
-    <section class="archive-year">
-      <h2>{{ y }}</h2>
-      <ul>{% endif %}
-        <li><a href="{{ post.path }}"><time datetime="{{ <xmlschema d={post.date} tz={config.extra.timezone} /> }}">{{ <date d={post.date} months={t.months} tz={config.extra.timezone} year={false} /> }}</time><strong>{{ post.title }}</strong></a></li>
-      {%- if loop.last %}
-      </ul>
-    </section>{% endif %}
-    {%- endfor %}
-  </div>
-</div>
 {% endblock %}

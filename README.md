@@ -17,8 +17,9 @@ Search is built by [Pagefind](https://pagefind.app/) after Zola, so `zola serve`
 To try search locally, build the site and index it:
 
 ```
+cargo install pagefind --version 1.3.0 --locked
 zola build
-npx pagefind@1.3.0 --site public --serve
+pagefind --site public --serve
 ```
 
 ## Layout
@@ -75,6 +76,8 @@ Tera v2 has no shortcodes or macros. Reusable markup is written as components (`
 ```
 
 Components are hygienic: pass everything they need explicitly. When used in Markdown they must not emit indented or blank lines, or CommonMark turns the output into a code block.
+
+Templates are formatted and linted by [djLint](https://djlint.com/) (`.djlintrc`), run as a [pre-commit](https://pre-commit.com/) hook (`pre-commit install`, or `prek install`). `components.html` is excluded, because reformatting would break components used in Markdown.
 
 ## Sitemap and 404 per language
 

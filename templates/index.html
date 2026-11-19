@@ -1,42 +1,49 @@
 {% extends "base.html" %}
 {% block layout %}home{% endblock %}
 {% block content %}
-{%- set tz = config.extra.timezone -%}
-<section class="hero">
-  {%- if section.extra?.header?.image %}
-  {%- set hero_base = section.extra.header.image | replace(from="-1600.jpg", to="") %}
-  <img class="hero__image" src="{{ section.extra.header.image }}" srcset="{{ hero_base }}-960.jpg 960w, {{ hero_base }}-1600.jpg 1600w, {{ hero_base }}-2560.jpg 2560w" sizes="100vw" alt="" width="1600" height="1200">
-  {%- endif %}
-  <div class="wrap hero__wrap">
-    <div class="hero__panel">
-      <h1>{{ t.hero_title }}</h1>
-      <p>{{ t.hero_text }}</p>
-      <div class="hero__actions">
-        <a class="btn btn--tile" href="{{ lang_prefix }}/about/">{{ t.hero_cta_about }}</a>
-        <a class="btn btn--ghost" href="{{ lang_prefix }}/calendar/">{{ t.hero_cta_calendar }}</a>
+  {%- set tz = config.extra.timezone -%}
+  <section class="hero">
+    {%- if section.extra?.header?.image %}
+      {%- set hero_base = section.extra.header.image | replace(from="-1600.jpg", to="") %}
+      <img class="hero__image"
+           src="{{ section.extra.header.image }}"
+           srcset="{{ hero_base }}-960.jpg 960w,
+                   {{ hero_base }}-1600.jpg 1600w,
+                   {{ hero_base }}-2560.jpg 2560w"
+           sizes="100vw"
+           alt=""
+           width="1600"
+           height="1200">
+    {%- endif %}
+    <div class="wrap hero__wrap">
+      <div class="hero__panel">
+        <h1>{{ t.hero_title }}</h1>
+        <p>{{ t.hero_text }}</p>
+        <div class="hero__actions">
+          <a class="btn btn--tile" href="{{ lang_prefix }}/about/">{{ t.hero_cta_about }}</a>
+          <a class="btn btn--ghost" href="{{ lang_prefix }}/calendar/">{{ t.hero_cta_calendar }}</a>
+        </div>
       </div>
     </div>
-  </div>
-</section>
-
-<div class="wrap home-grid">
-  <div class="home-main">
-    <div class="section-head">
-      <h2>{{ t.recent_posts }}</h2>
-      {{ <category_tabs t={t} nav={nav} current="/" prefix={lang_prefix} /> }}
+  </section>
+  <div class="wrap home-grid">
+    <div class="home-main">
+      <div class="section-head">
+        <h2>{{ t.recent_posts }}</h2>
+        {{ <category_tabs t={t} nav={nav} current="/" prefix={lang_prefix} /> }}
+      </div>
+      {% for post in paginator.pages %}
+        {{ <post_card post={post} t={t} tz={tz} prefix={lang_prefix} featured={loop.first and paginator.current_index == 1} /> }}
+      {% endfor %}
+      {{ <paginator_nav pg={paginator} t={t} base_url={config.base_url} /> }}
     </div>
-    {% for post in paginator.pages %}
-    {{ <post_card post={post} t={t} tz={tz} prefix={lang_prefix} featured={loop.first and paginator.current_index == 1} /> }}
-    {% endfor %}
-    {{ <paginator_nav pg={paginator} t={t} base_url={config.base_url} /> }}
+    <aside class="home-aside">
+      <section class="home-aside__discord">
+        <h2>{{ t.discord_title }}</h2>
+        <p>{{ t.discord_text }}</p>
+        {%- set discord_url = <footer_link label="Discord" links={config.extra.footer_links} /> %}
+        <a class="btn btn--tile" href="{{ discord_url }}" rel="noopener">{{ t.discord_cta }}</a>
+      </section>
+    </aside>
   </div>
-
-  <aside class="home-aside">
-    <section class="home-aside__discord">
-      <h2>{{ t.discord_title }}</h2>
-      <p>{{ t.discord_text }}</p>
-      <a class="btn btn--tile" href="{{ <footer_link label="Discord" links={config.extra.footer_links} /> }}" rel="noopener">{{ t.discord_cta }}</a>
-    </section>
-  </aside>
-</div>
 {% endblock %}

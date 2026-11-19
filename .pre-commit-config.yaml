@@ -5,3 +5,13 @@ repos:
     -   id: check-yaml
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
+# Tera templates. components.html is excluded: components used in Markdown must stay on one line.
+-   repo: https://github.com/djlint/djLint
+    rev: v1.54.0
+    hooks:
+    -   id: djlint-reformat-tera
+        files: ^templates/
+        exclude: ^templates/components\.html$
+    -   id: djlint-tera
+        files: ^templates/
+        exclude: ^templates/components\.html$

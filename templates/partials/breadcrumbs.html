@@ -4,7 +4,7 @@
   <ol>
     <li><a href="{{ lang_prefix }}/">{{ t.breadcrumb_home_label }}</a></li>
     {%- if post_category %}
-    <li><a href="{{ lang_prefix }}{{ post_category_url }}">{{ cat_name }}</a></li>
+      <li><a href="{{ lang_prefix }}{{ post_category_url }}">{{ cat_name }}</a></li>
     {%- endif %}
     <li><span aria-current="page">{{ crumb_title }}</span></li>
   </ol>

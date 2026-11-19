@@ -62,6 +62,11 @@ a {
   outline-offset: 2px;
 }
 
+// The SVG icon sprite (partials/icons.html); its symbols are used via <use>.
+.icon-sprite {
+  display: none;
+}
+
 img,
 video {
   max-width: 100%;
