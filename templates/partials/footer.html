@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="wrap site-footer__inner">
+    <div class="site-footer__brand">
+      <img class="site-footer__logo logo-outline" src="{{ config.extra.logo }}" alt="" width="28" height="40">
+      <span>&copy; {{ now() | date(format="%Y", timezone=config.extra.timezone) }} {{ t.title }} · <a href="mailto:{{ config.extra.email }}">{{ config.extra.email }}</a></span>
+    </div>
+    <nav aria-label="{{ t.footer_nav_label }}">
+      <ul>
+        {%- for link in config.extra.footer_links %}
+        <li><a href="{{ link.url }}" rel="noopener">{{ link.label }}</a></li>
+        {%- endfor %}
+        <li><a href="{{ lang_prefix }}/feed.xml">{{ t.feed_label }}</a></li>
+      </ul>
+    </nav>
+  </div>
+</footer>

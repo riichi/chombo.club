@@ -1,0 +1,44 @@
+{#- Components shared by all templates (Tera v2: registered globally, no import). -#}
+
+{#- Localised date, e.g. "13 grudnia 2024". -#}
+{% component date(d, months: array, tz: string, year: bool = true) -%}
+{%- set mi = d | date(format="%m", timezone=tz) | int -%}
+{{ d | date(format="%-d", timezone=tz) }} {{ months[mi - 1] }}{% if year %} {{ d | date(format="%Y", timezone=tz) }}{% endif %}
+{%- endcomponent date %}
+
+{% component xmlschema(d, tz: string) -%}
+{{ d | date(format="%Y-%m-%dT%H:%M:%S%:z", timezone=tz) }}
+{%- endcomponent xmlschema %}
+
+{% component category_link(category: string, names: map, prefix: string = "") -%}
+<a class="cat cat--{{ category }}" href="{{ prefix }}/categories/{{ category }}/">{{ names[category] if category in names else category }}</a>
+{%- endcomponent category_link %}
+
+{% component theme_toggle(t: map, class: string = "", text: bool = false) -%}
+<button class="{{ class }}" type="button" data-theme-toggle data-label="{{ t.theme_label }}" data-label-auto="{{ t.theme_auto }}" data-label-light="{{ t.theme_light }}" data-label-dark="{{ t.theme_dark }}" aria-label="{{ t.theme_label }}: {{ t.theme_auto }}">
+  <svg class="icon theme-icon theme-icon--auto" aria-hidden="true"><use href="#i-auto"/></svg>
+  <svg class="icon theme-icon theme-icon--light" aria-hidden="true"><use href="#i-sun"/></svg>
+  <svg class="icon theme-icon theme-icon--dark" aria-hidden="true"><use href="#i-moon"/></svg>
+  {%- if text %}<span data-theme-text aria-hidden="true">{{ t.theme_label }}: {{ t.theme_auto }}</span>{% endif %}
+</button>
+{%- endcomponent theme_toggle %}
+
+{#- Navigation links, shared by the desktop bar and the mobile menu. -#}
+{% component nav_items(nav: map, current_path: string, post_category_url: string, prefix: string = "", separator: bool = false) -%}
+{%- for link in nav.categories -%}
+  <li><a href="{{ prefix }}{{ link.url }}"{% if link.url == current_path %} aria-current="page"{% elif link.url == post_category_url %} aria-current="true"{% endif %}>{{ link.title }}</a></li>
+{%- endfor -%}
+{%- if separator %}<li class="nav-sep" aria-hidden="true"></li>{% endif -%}
+{%- for link in nav.main -%}
+  {%- if "://" in link.url -%}
+  <li><a href="{{ link.url }}">{{ link.title }} <svg class="icon" aria-hidden="true"><use href="#i-external"/></svg></a></li>
+  {%- else -%}
+  <li><a href="{{ prefix }}{{ link.url }}"{% if link.url == current_path %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+  {%- endif -%}
+{%- endfor -%}
+{%- endcomponent nav_items %}
+
+{#- Content components (used from Markdown). -#}
+{% component figure(alt: string, filename: string) -%}
+<figure><img src="/assets/images/{{ filename }}" alt="{{ alt }}" /></figure>
+{%- endcomponent figure %}

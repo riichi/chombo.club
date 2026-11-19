@@ -1,0 +1,2 @@
+Sitemap: {{ get_url(path="sitemap.xml", lang="en") }}
+Sitemap: {{ get_url(path="sitemap.xml", lang="pl") }}

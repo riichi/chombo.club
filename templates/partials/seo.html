@@ -1,0 +1,76 @@
+{%- set tz = config.extra.timezone -%}
+{%- set site_title = t.title -%}
+{%- set sep = config.extra.title_separator -%}
+{%- set is_page = page is defined -%}
+{%- if is_page %}{% set page_title = page.title %}{% elif section is defined and section.title %}{% set page_title = section.title %}{% else %}{% set page_title = site_title %}{% endif -%}
+{%- if current_path == "/" -%}
+  {%- set seo_title = site_title ~ " " ~ sep ~ " " ~ t.home_title -%}
+{%- elif site_title in page_title -%}
+  {%- set seo_title = page_title -%}
+{%- else -%}
+  {%- set seo_title = page_title ~ " " ~ sep ~ " " ~ site_title -%}
+{%- endif -%}
+{%- set canonical_url = config.base_url ~ url_path -%}
+{%- set og_url = config.base_url ~ lang_prefix ~ current_path -%}
+{#- Excerpt: the rendered content before its first </p>. -#}
+{%- if is_page and page.description -%}
+  {%- set seo_description = page.description -%}
+{%- elif is_page -%}
+  {%- set seo_description = (page.content | split(pat="</p>") | first | striptags | replace(from="\n", to=" ") | trim) if "</p>" in page.content else "" -%}
+{%- else -%}
+  {%- set seo_description = t.description -%}
+{%- endif -%}
+{%- set hdr = (page.extra?.header or {}) if is_page else {} -%}
+{%- set large_image = hdr?.og_image or hdr?.overlay_image or hdr?.image or "" -%}
+{%- set teaser_image = hdr?.teaser or config.extra.og_image -%}
+{%- set og_image_alt = hdr?.og_image_alt or "" -%}
+{%- set og_image = large_image or teaser_image -%}
+{%- set og_type = "article" if is_page and page.date else "website" -%}
+{%- set pg = paginator if paginator is defined else none -%}
+<!-- begin _includes/seo.html --><title>{{ seo_title }}{% if pg and pg.current_index > 1 %} {{ sep }} {{ t.page }} {{ pg.current_index }}{% endif %}</title>
+<meta name="description" content="{{ seo_description }}">
+
+<meta property="og:type" content="{{ og_type }}">
+<meta property="og:locale" content="{{ lang }}">
+<meta property="og:site_name" content="{{ site_title }}">
+<meta property="og:title" content="{{ page_title }}">
+<meta property="og:url" content="{{ og_url }}">
+
+{% if seo_description %}
+  <meta property="og:description" content="{{ seo_description }}">
+{% endif %}
+
+{% if og_image %}
+  <meta property="og:image" content="{{ og_image if og_image is starting_with(pat='http') else config.base_url ~ og_image }}">
+  {% if og_image_alt %}
+    <meta property="og:image:alt" content="{{ og_image_alt }}">
+  {% endif %}
+{% endif %}
+
+{% if og_type == "article" %}
+  <meta property="article:published_time" content="{{ <xmlschema d={page.date} tz={tz} /> }}">
+{% endif %}
+
+{% if og_type == "article" and page.updated %}
+  <meta property="article:modified_time" content="{{ <xmlschema d={page.updated} tz={tz} /> }}">
+{% endif %}
+
+<meta property="article:publisher" content="{{ config.extra.facebook_publisher }}">
+
+<link rel="canonical" href="{{ canonical_url }}">
+{%- for l in ["en", "pl"] %}
+  {%- if excl and l not in excl %}{% continue %}{% endif -%}
+  {%- set alternate_url = config.base_url ~ current_path if l == config.default_language else config.base_url ~ "/" ~ l ~ current_path %}
+<link rel="alternate" hreflang="{{ l }}" href="{{ alternate_url }}">
+  {%- if l == config.default_language %}
+<link rel="alternate" hreflang="x-default" href="{{ alternate_url }}">
+  {%- endif -%}
+{%- endfor %}
+
+{% if pg and pg.previous %}
+  <link rel="prev" href="{{ pg.previous }}">
+{% endif %}
+{% if pg and pg.next %}
+  <link rel="next" href="{{ pg.next }}">
+{% endif %}
+<!-- end _includes/seo.html -->

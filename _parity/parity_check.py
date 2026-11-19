@@ -47,6 +47,8 @@ KNOWN_EXCEPTIONS = {
                       "dropped /en/ copies; Baseline /en/<static> URLs are rewritten.",
     "sitemap-no-static": "jekyll-sitemap listed static files (PDFs, /pralka/ ...); the "
                          "Zola sitemap lists generated pages only.",
+    "no-css-source-map": "dart-sass wrote a source map (main.css.map) pointing at _sass/; "
+                         "Zola's Sass compiler (grass) emits none. Not visible to visitors.",
 }
 
 ATOM = "{http://www.w3.org/2005/Atom}"
@@ -169,6 +171,10 @@ def minify_css(s):
     s = re.sub(r"\s+", " ", s)
     s = re.sub(r"\s*([{}:;,>+~])\s*", r"\1", s)
     s = s.replace(";}", "}")
+    # dart-sass vs grass serialiser differences
+    s = re.sub(r"@media \(", "@media(", s)
+    s = re.sub(r"(?<![\w.])0\.(\d)", r".\1", s)
+    s = re.sub(r"\btransparent\b", "rgba(0,0,0,0)", s)
     return s.strip()
 
 
@@ -279,6 +285,8 @@ def main(argv=None):
         if rel not in of:
             if chk.exceptions and rel.startswith("en/") and rel[3:] in chk.static:
                 report("KNOWN", f"{rel}  [dropped-en-static]")
+            elif chk.exceptions and rel.endswith(".css.map"):
+                report("KNOWN", f"{rel}  [no-css-source-map]")
             else:
                 report("MISSING", rel)
         elif rel not in bf:

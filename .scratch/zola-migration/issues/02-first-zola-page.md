@@ -13,10 +13,18 @@ Previous/next links may render empty while only one post exists. Note this in th
 
 **Blocked by:** 01
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] `zola build` succeeds with no Ruby involved
-- [ ] The chosen post's URL is identical to the Baseline (explicit `path`) and passes the Parity check, apart from previous/next links, which are documented
-- [ ] `/assets/css/main.css` passes the Parity check (CSS rule)
-- [ ] All root static files pass the Parity check byte-identically
-- [ ] Shared per-page values (path without language prefix, language-switch target, post category) live in one place in the templates
+- [x] `zola build` succeeds with no Ruby involved
+- [x] The chosen post's URL is identical to the Baseline (explicit `path`) and passes the Parity check, apart from previous/next links, which are documented
+- [x] `/assets/css/main.css` passes the Parity check (CSS rule)
+- [x] All root static files pass the Parity check byte-identically
+- [x] Shared per-page values (path without language prefix, language-switch target, post category) live in one place in the templates
+
+## Notes (done)
+
+- Chosen post: `blog/2026/04/15/Mahjong-parlors-in-japan-a-blog-post/` (h2/h3 headings, figures).
+- Previous/next links render empty: only one post exists, so `page.lower`/`page.higher` are unset. The only Parity check difference on that page is the missing `<nav class="post-nav">`; it will appear once the other posts are migrated.
+- Zola 0.23 uses Tera v2: no macros or shortcodes. Shared helpers are components in `templates/components.html`, and content uses `{{ <figure alt="…" filename="…" /> }}`.
+- Parity check: the CSS minifier now also normalises dart-sass vs grass serialiser differences (`@media (`, leading `0.`, `transparent`). New known exception: `no-css-source-map` (grass writes no `main.css.map`).
+- `404.html`, `index.html`, `en/index.html` and `sitemap.xml` are still Zola defaults or placeholders; later tickets cover them.

@@ -134,6 +134,21 @@ class OtherFormatTests(Fixture):
             "a.css", "a{color:red;margin:0}", "/* c */\na {\n  color: red;\n  margin: 0;\n}\n"))
         self.assertDiffers(self.pair("a.css", "a{color:red}", "a{color:blue}"))
 
+    def test_css_serialiser_differences_ignored(self):
+        # dart-sass (Jekyll) vs grass (Zola) compressed output
+        self.assertClean(self.pair(
+            "a.css",
+            "@media(min-width:1px){a{margin:-0.01em;color:rgba(0,0,0,0.15);background:linear-gradient(transparent 25%,red)}}",
+            "@media (min-width:1px){a{margin:-.01em;color:rgba(0,0,0,.15);background:linear-gradient(rgba(0,0,0,0) 25%,red)}}"))
+        self.assertDiffers(self.pair("a.css", "a{margin:0.1em}", "a{margin:.2em}"))
+        self.assertDiffers(self.pair("a.css", "a{margin:10.5em}", "a{margin:1.5em}"))
+
+    def test_css_source_map_is_known(self):
+        self.write(self.a, "assets/css/main.css.map", "{}")
+        code, out = run(self.a, self.b)
+        self.assertEqual(code, 0, out)
+        self.assertIn("no-css-source-map", out)
+
     def test_other_files_byte_identical(self):
         self.assertClean(self.pair("x.bin", b"\x00\x01", b"\x00\x01"))
         self.assertDiffers(self.pair("robots.txt", "a\n", "a \n"))

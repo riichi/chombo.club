@@ -1,0 +1,63 @@
+{%- set t = load_data(path="data/ui-text.yml")[lang] -%}
+{%- set nav = load_data(path="data/navigation/" ~ lang ~ ".yml") -%}
+{#- Shared per-page values, computed once here and visible to every block:
+    current_path (URL path without the language prefix), lang_prefix,
+    other_lang / lang_switch_path (language switcher), post_category / post_category_url. -#}
+{%- if page is defined -%}{%- set url_path = page.path -%}{%- elif section is defined -%}{%- set url_path = section.path -%}{%- else -%}{%- set url_path = "/" -%}{%- endif -%}
+{%- set excl = page.extra?["lang-exclusive"] if page is defined else none -%}
+{%- if lang == config.default_language -%}
+  {%- set lang_prefix = "" -%}
+  {%- set current_path = url_path -%}
+  {%- set other_lang = "en" -%}
+  {%- set lang_switch_path = "/en" ~ current_path -%}
+  {%- if excl and other_lang not in excl -%}
+    {%- set lang_switch_path = "/en/" -%}
+  {%- endif -%}
+{%- else -%}
+  {%- set lang_prefix = "/" ~ lang -%}
+  {%- if url_path is starting_with(pat=lang_prefix ~ "/") -%}{%- set current_path = url_path[lang_prefix | length:] -%}{%- else -%}{%- set current_path = url_path -%}{%- endif -%}
+  {%- set other_lang = config.default_language -%}
+  {%- set lang_switch_path = current_path -%}
+{%- endif -%}
+{%- if page is defined and page.taxonomies?.categories -%}
+  {%- set post_category = page.taxonomies.categories | first -%}
+  {%- set post_category_url = "/categories/" ~ post_category ~ "/" -%}
+{%- else -%}
+  {%- set post_category = "" -%}
+  {%- set post_category_url = "" -%}
+{%- endif -%}
+<!doctype html>
+<html lang="{{ lang }}" data-theme-mode="auto">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      try {
+        var mode = localStorage.getItem("theme");
+        if (mode === "light" || mode === "dark") {
+          document.documentElement.dataset.theme = mode;
+          document.documentElement.dataset.themeMode = mode;
+        }
+      } catch (e) {}
+    </script>
+    {% include "partials/seo.html" %}
+    <link type="application/atom+xml" rel="alternate" href="{{ get_url(path='feed.xml', lang=lang) }}" title="{{ config.title }}" />
+    <link rel="preload" href="/assets/fonts/literata-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <script src="/assets/js/site.js" defer></script>
+    {% include "partials/head_custom.html" %}
+  </head>
+
+  <body class="layout--{% block layout %}default{% endblock %}">
+    {% include "partials/icons.html" %}
+    <a class="skip-link" href="#main">{{ t.skip_content }}</a>
+    {% include "partials/masthead.html" %}
+
+    <main id="main" class="site-main" tabindex="-1">
+      {% block content %}{% endblock %}
+    </main>
+
+    {% include "partials/footer.html" %}
+    {% include "partials/search.html" %}
+  </body>
+</html>

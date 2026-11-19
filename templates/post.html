@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block layout %}post{% endblock %}
+{% block content %}
+{%- set tz = config.extra.timezone -%}
+{%- include "partials/breadcrumbs.html" %}
+
+<div data-pagefind-body>
+  <header class="wrap page-head">
+    <h1>{{ page.title }}</h1>
+    <p class="meta" data-pagefind-ignore>
+      {{ <category_link category={post_category} names={t.category_names} prefix={lang_prefix} /> }} ·
+      <time datetime="{{ <xmlschema d={page.date} tz={tz} /> }}">{{ <date d={page.date} months={t.months} tz={tz} /> }}</time>
+      {%- if page.updated %} · {{ t.updated_label }} <time datetime="{{ <xmlschema d={page.updated} tz={tz} /> }}">{{ <date d={page.updated} months={t.months} tz={tz} /> }}</time>{% endif %}
+    </p>
+  </header>
+
+  <div class="wrap page-body">
+    {% include "partials/toc.html" %}
+    <article class="page-content prose">
+      {{ page.content | safe }}
+    </article>
+  </div>
+</div>
+
+{%- if page.lower or page.higher %}
+<div class="wrap">
+  <nav class="post-nav" aria-label="{{ t.post_nav_label }}">
+    {%- if page.lower %}
+    <a href="{{ page.lower.path }}"><small>← {{ t.post_older }}</small><strong>{{ page.lower.title }}</strong></a>
+    {%- endif %}
+    {%- if page.higher %}
+    <a class="post-nav__next" href="{{ page.higher.path }}"><small>{{ t.post_newer }} →</small><strong>{{ page.higher.title }}</strong></a>
+    {%- endif %}
+  </nav>
+</div>
+{%- endif %}
+{% endblock %}
