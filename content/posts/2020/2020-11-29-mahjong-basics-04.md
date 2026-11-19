@@ -13,4 +13,4 @@ Opowiadamy w nich o sztuce złodziejstwa, czyli meldowania kamieni wyrzuconych p
 
 Kolejne odcinki już wkrótce!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x2f0GlDigkY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" title="Podstawy Riichi Mahjonga — odcinek 4" loading="lazy" src="https://www.youtube-nocookie.com/embed/x2f0GlDigkY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

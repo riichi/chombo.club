@@ -1,0 +1,42 @@
+name: Checks
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+  pull_request:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  site:
+    name: Links and HTML
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+      - name: Install Zola and Pagefind (mise.toml)
+        uses: jdx/mise-action@v5
+      - name: Install just
+        uses: extractions/setup-just@v4
+      - name: Check internal links
+        run: just check
+      - name: Build website
+        run: just build
+      - name: Validate HTML
+        run: just validate
+
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+      - name: Run pre-commit hooks
+        uses: j178/prek-action@v3.1.1

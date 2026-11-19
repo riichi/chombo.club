@@ -366,7 +366,7 @@ There are 53 cards in the deck, each one with a different ability.
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/MaseYuuko.jpg" alt="">
     </div>
 
-    * <p>You may arrange tiles into wrapping sequences (e.g. 912). Example: <img src="/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png" alt="" /> This hand waits for 825 souzu</p>
+    * <p>You may arrange tiles into wrapping sequences (e.g. 912). Example: <img src="/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png" alt=""> This hand waits for 825 souzu</p>
     * <p>3 sequences 912 345 678, or 891 234 567 don’t give you ittsuu.</p>
     * You cannot call pon or kan.
     * Every three identical tiles in your discard give you 1 han.

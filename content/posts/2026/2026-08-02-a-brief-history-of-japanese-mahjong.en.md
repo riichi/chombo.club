@@ -15,7 +15,7 @@ In 1929, the first organization dedicated to mahjong players in Japan was establ
 This variant differed significantly from modern Japanese mahjong. First, a winning hand did not require a yaku (in other words, it did not need any han; hands worth 0 han were valid). A standard hand structure of four melds and one pair was sufficient (the exception being chiitoitsu, which was worth 0 han and 100 fu). Yaku did exist, but the list was much shorter than in modern mahjong, and their han values also differed. Dora did not exist, although there was already a dead wall. Riichi was not recognized, or at least not in the way it is today—a player could declare riichi only on the very first turn of the hand, similar to what is now known as double riichi. Furiten also existed, but it could be bypassed if the player explicitly declared it, allowing them to win by ron. A game consisted of four wind rounds with four hands each, running from East 1 through North 4.
 
 <figure>
-<img src="/assets/images/2026-08-02-arushiaru-scoring-table.png" alt="Photo of a Japanese card with two scoring tables: values by han and fu, and payments for the dealer and the other players" />
+<img src="/assets/images/2026-08-02-arushiaru-scoring-table.png" alt="Photo of a Japanese card with two scoring tables: values by han and fu, and payments for the dealer and the other players">
 <figcaption>Arushiiaru scoring table.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Speaking of points, this is what the scoring table in Arushiiaru looked like. Or
 
 
 <figure>
-<img src="/assets/images/2026-08-02-base-point-calculation-en.png" alt="Ko ron: base × 4. Oya ron: base × 6. Oya tsumo: base × 2. Ko tsumo: base from each ko, base × 2 from oya." />
+<img src="/assets/images/2026-08-02-base-point-calculation-en.png" alt="Ko ron: base × 4. Oya ron: base × 6. Oya tsumo: base × 2. Ko tsumo: base from each ko, base × 2 from oya.">
 <figcaption>Table for counting points from the base</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ A mangan could be achieved by accumulating multiple yaku, in which case it was c
 The variant described above was the most widespread during that period. However, as is often the case with social games, each table ultimately played by its own house rules. Over time, the practice known as tochū riichi (途中リーチ)—declaring riichi at any point during the hand rather than only on the opening turn—began to gain popularity. The Japan Mahjong Federation, however, did not recognize tochū riichi as a legitimate rule.
 
 <figure>
-<img src="/assets/images/2026-08-02-amano-daizou.png" alt="Black-and-white photo of Amano Daizou at a mahjong table, next to a handwritten inscription with his signature" />
+<img src="/assets/images/2026-08-02-amano-daizou.png" alt="Black-and-white photo of Amano Daizou at a mahjong table, next to a handwritten inscription with his signature">
 <figcaption>Amano Daizou</figcaption>
 </figure>
 

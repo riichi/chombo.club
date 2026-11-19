@@ -15,4 +15,4 @@ We also show how to declare our win in front of other players.
 
 Fourth episode soon!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OVM5trgXJz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" title="Riichi Mahjong Basics — episode 3" loading="lazy" src="https://www.youtube-nocookie.com/embed/OVM5trgXJz4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

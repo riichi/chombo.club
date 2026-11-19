@@ -388,7 +388,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/MaseYuuko.jpg" alt="">
     </div>
 
-    * <p>Możesz układać kamienie w zawijające sekwencje (np. 912). Przykład: <img src="/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png" alt="" /> Ta ręka czeka na 825 souzu</p>
+    * <p>Możesz układać kamienie w zawijające sekwencje (np. 912). Przykład: <img src="/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png" alt=""> Ta ręka czeka na 825 souzu</p>
     * <p>3 sekwencje 912 345 678, lub 891 234 567 nie dają ci yaku ittsuu.</p>
     * Nie możesz zameldować pon i kan.
     * Dostajesz 1 han za każde trzy identyczne kamienie w twoich odrzutach.
@@ -672,7 +672,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
 47. **Takakamo shizuno**
 
     <div style="text-align: center">
-        <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/Takakamoshizuno.jpg" alt="">
+        <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/TakakamoShizuno.jpg" alt="">
     </div>
 
     * Pozostali gracze nie mają dostepu do uradory.

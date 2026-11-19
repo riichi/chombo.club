@@ -137,7 +137,9 @@
     vertical-align: top;
   }
 
-  thead th {
+  // A heading row of a row group (e.g. each day of a tournament agenda) looks like a header row.
+  thead th,
+  th[scope="colgroup"] {
     border-bottom: 2px solid var(--border-strong);
     font-weight: 600;
   }
@@ -223,6 +225,8 @@
 
 // The Google Calendar embed has no dark mode; keep it on a light card.
 .prose iframe[src*="calendar.google.com"] {
+  width: 100%;
+  border: 1px solid #777;
   border-radius: var(--radius-sm);
   background: #fff;
 }

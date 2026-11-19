@@ -13,14 +13,14 @@ Mahjong nie posiada tak długiej historii, jak mogłoby się wydawać, ale jest 
 Wariant ten różnił się mocno od współczesnego mahjonga. Po pierwsze, do wygrania ręki nie trzeba było mieć yaku (tudzież: nie trzeba było mieć hanów, istniały ręce o wartości 0 han). Wystarczył standardowy kształt ręki w postaci 4 grupy + 1 para (wyjątek: chiitoitsu warte 0 han i 100 fu). Yaku oczywiście istniały, jednak ich lista była znacznie krótsza od współczesnej, różniły się też wartościami han. Nie istniały dory, chociaż istniał martwy mur. Nie uznawano riichi, a przynajmniej nie tak jak dzisiaj – zadeklarować riichi można było wyłącznie w pierwszej turze gry (podobnie jak dziś double riichi). Istniał furiten, jednak dało się go obejść, jeśli się go zadeklarowało, i wówczas dopuszczano wygraną na ron. Gra toczyła się przez 4 rundy wiatru po 4 rozdania, od East 1 do North 4.
 
 <figure>
-<img src="/assets/images/2026-08-02-arushiaru-scoring-table.png" alt="Zdjęcie japońskiej karty z dwiema tabelami punktów: wartości według han i fu oraz wypłaty dla dealera i pozostałych graczy" />
+<img src="/assets/images/2026-08-02-arushiaru-scoring-table.png" alt="Zdjęcie japońskiej karty z dwiema tabelami punktów: wartości według han i fu oraz wypłaty dla dealera i pozostałych graczy">
 <figcaption>Tabelka punktów Arushiiaru</figcaption>
 </figure>
 
 Skoro o punktach mowa, tak wyglądała tabelka punktów w Arushiiaru. Oryginalnie wynik zależał wyłącznie od fu, których – jak widzimy – nie zaokrąglano do dziesiątek, co znacznie rozszerza nam tabelkę. Hany były tutaj drugorzędne, otrzymywało się je wyłącznie za yaku i przeliczało się na fu (typowo dla każdego hana fu mnożyło się przez dwa). W zależności od tsumo/ron i oya/ko, a także wartości fu/han odnajdywało się w tabelce wartość "bazową". Ta wartość mnożona przez współczynniki (różne w zależności od tego, kto wygrał i jak) i zaokrąglona do najbliższej 10 dawała nam finalną wartość wygranej.
 
 <figure>
-<img src="/assets/images/2026-08-02-base-point-calculation.png" alt="Ko robi ron: baza × 4. Oya robi ron: baza × 6. Oya robi tsumo: baza × 2. Ko robi tsumo: baza od każdego ko, baza × 2 od oya." />
+<img src="/assets/images/2026-08-02-base-point-calculation.png" alt="Ko robi ron: baza × 4. Oya robi ron: baza × 6. Oya robi tsumo: baza × 2. Ko robi tsumo: baza od każdego ko, baza × 2 od oya.">
 <figcaption>Tabelka liczenia punktów na podstawie bazy</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Powiedzmy teraz kilka słów o manganie. Słowo mangan oznacza w bardzo wolnym t
 Powyższy wariant był najpowszechniejszy w tamtym okresie, lecz – jak to w grach towarzyskich zwykle bywa – tak naprawdę każdy stół ustalał swoje zasady. Z czasem zaczęło rozpowszechniać się tak zwane tochuu riichi (途中リーチ), czyli riichi w trakcie gry, nie tylko na starcie. Wspomniana już wcześniej Japońska Federacja Mahjonga nie uznawała jednak tochuu riichi za praworządną zasadę.
 
 <figure>
-<img src="/assets/images/2026-08-02-amano-daizou.png" alt="Czarno-białe zdjęcie Amano Daizou przy stole do mahjonga, obok odręczny napis z jego podpisem" />
+<img src="/assets/images/2026-08-02-amano-daizou.png" alt="Czarno-białe zdjęcie Amano Daizou przy stole do mahjonga, obok odręczny napis z jego podpisem">
 <figcaption>Podobizna Amano Daizou</figcaption>
 </figure>
 

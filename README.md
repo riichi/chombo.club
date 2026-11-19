@@ -5,22 +5,30 @@ chombo.club
 
 ## Quickstart
 
-Install Zola 0.23 and run:
+The tools are pinned in `mise.toml` (Zola, Pagefind). Install [mise](https://mise.jdx.dev/) and [just](https://just.systems/), then:
 
 ```
-zola serve
+mise install
+just serve
 ```
 
-Then visit [127.0.0.1:1111](http://127.0.0.1:1111).
+Then visit [127.0.0.1:1111](http://127.0.0.1:1111). The recipes find the mise-installed tools by themselves (`mise activate` is not needed). Without mise, install the versions listed in `mise.toml` yourself.
 
-Search is built by [Pagefind](https://pagefind.app/) after Zola, so `zola serve` has no search index.
-To try search locally, build the site and index it:
+Search is built by [Pagefind](https://pagefind.app/) after Zola, so `just serve` has no search index.
+To try search locally, run `just preview` (builds the site into `public/`, indexes it and serves it at [127.0.0.1:1414](http://127.0.0.1:1414)).
 
-```
-cargo install pagefind --version 1.3.0 --locked
-zola build
-pagefind --site public --serve
-```
+## Tasks
+
+`just --list` shows every recipe:
+
+- `just serve` – live-reloading dev server.
+- `just build [base_url]` – the production build in `public/`: `zola build`, then deletes the generated `/categories/` and `/en/categories/` index pages (Zola always renders the taxonomy list; the site has none), then runs Pagefind. CI deploys this output.
+- `just preview` – build, then serve `public/` with search.
+- `just check` – internal links and anchors (`zola check --skip-external-links`); `just check-external` also checks external links.
+- `just validate` – checks the built HTML with the [Nu HTML Checker](https://validator.github.io/validator/) (runs in Docker). Run `just build` first.
+- `just lint` – the pre-commit hooks on all files.
+
+The Checks workflow (`.github/workflows/checks.yml`) runs `check`, `build` + `validate` and the pre-commit hooks on pull requests and on `master`; it is separate from the deploy workflow, so a failing check does not block deploys.
 
 ## Layout
 
@@ -29,6 +37,7 @@ pagefind --site public --serve
 - `sass/` – styles (compiled by Zola); `static/` – files copied as-is (images, downloads, JS, favicons).
 - `data/` – UI labels (`ui-text.yml`), navigation (`navigation/{pl,en}.yml`) and help-page link lists (`help/*.yml`).
 - `zola.toml` – site config; Polish is the default language, English lives under `/en/`.
+- `mise.toml` (+ `mise.lock`) – pinned tool versions; `justfile` – developer tasks.
 
 Long posts and pages get a table of contents automatically (3+ headings); set `extra.toc = false` in front matter to hide it.
 
@@ -79,16 +88,10 @@ Components are hygienic: pass everything they need explicitly. When used in Mark
 
 Templates are formatted and linted by [djLint](https://djlint.com/) (`.djlintrc`), run as a [pre-commit](https://pre-commit.com/) hook (`pre-commit install`, or `prek install`). `components.html` is excluded, because reformatting would break components used in Markdown.
 
-## Sitemap and 404 per language
+## Sitemap
 
-Zola renders `sitemap.xml` and `404.html` only for the default language. To get `/en/sitemap.xml` and `/en/404.html`, `zola.toml` lists them in `[languages.en] feed_filenames`: Zola then renders those templates as English "feeds", with `lang = "en"` and `feed_url` set instead of `page`/`section`. `templates/base.html` derives the page path from `feed_url` in that case, and `templates/sitemap.xml` handles both renderings (with and without `lang`).
+`templates/sitemap.xml` lists every language in one `/sitemap.xml`; each URL that exists in several languages lists its versions as `hreflang` alternates.
 
-## Building the Docker image
+## 404 page per language
 
-The Dockerfile runs `zola build`, deletes the generated `/categories/` and `/en/categories/` index pages (Zola always renders the taxonomy list; the site has none), runs Pagefind, and serves the result with nginx. Using `docker compose`:
-
-```
-docker compose up --build
-```
-
-Then visit [localhost:8000](http://localhost:8000) to see the webpage.
+Zola renders `404.html` only for the default language. To get `/en/404.html`, `zola.toml` lists it in `[languages.en] feed_filenames`: Zola then renders the template as an English "feed", with `lang = "en"` and `feed_url` set instead of `page`/`section`. `templates/base.html` derives the page path from `feed_url` in that case.

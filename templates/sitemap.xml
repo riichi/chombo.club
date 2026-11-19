@@ -1,47 +1,58 @@
-{#- Sitemap. Rendered twice: by Zola as /sitemap.xml (no `lang`) and as the EN "feed"
-    /en/sitemap.xml (feed_filenames in [languages.en]). Static files are not listed (known exception).
-    Every <loc> is the unprefixed URL, also in /en/ (kept from the previous site). -#}
-{%- set sm_lang = lang if lang is defined else config.default_language -%}
+{#- Sitemap of every language, rendered once by Zola as /sitemap.xml. Each URL that exists in
+    more than one language lists all of them as hreflang alternates (and x-default: the default
+    language), matching the <link rel="alternate"> tags in the pages. Static files are not listed. -#}
 {%- set tz = config.extra.timezone -%}
-{%- set prefix = <lang_prefix lang={sm_lang} default={config.default_language} /> -%}
-{%- set posts_section = get_section(path="posts/_index.md", lang=sm_lang) -%}
-{%- set posts = posts_section.pages | reverse -%}
-{%- set root = get_section(path="_index.md", lang=sm_lang) -%}
-{%- set per_page = root.paginate_by or 10 -%}
+{%- set default_lang = config.default_language -%}
+{%- set site_langs = [default_lang, ...(config.languages | keys)] | sort -%}
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- for l in site_langs %}
+{%- set prefix = <lang_prefix lang={l} default={default_lang} /> -%}
+{%- set root = get_section(path="_index.md", lang=l) -%}
+{%- set posts_section = get_section(path="posts/_index.md", lang=l) -%}
+{%- set posts = posts_section.pages | reverse %}
+<url>
+<loc>{{ root.permalink }}</loc>
+{{- <sitemap_alternates alts={root.translations} default={default_lang} /> }}
+</url>
 {%- for p in posts %}
 <url>
-<loc>{{ config.base_url }}{{ <strip_lang_prefix path={p.path} prefix={prefix} /> }}</loc>
+<loc>{{ p.permalink }}</loc>
 <lastmod>{{ <xmlschema d={p.updated or p.date} tz={tz} /> }}</lastmod>
+{{- <sitemap_alternates alts={p.translations} default={default_lang} /> }}
 </url>
 {%- endfor %}
-{%- set pages_section = get_section(path="pages/_index.md", lang=sm_lang) -%}
+{%- set pages_section = get_section(path="pages/_index.md", lang=l) -%}
 {%- for p in pages_section.pages | sort(attribute="path") %}
 {%- if not p.date and p.extra?.sitemap != false %}{#- posts bubble up through the transparent sections -#}
 <url>
-<loc>{{ config.base_url }}{{ <strip_lang_prefix path={p.path} prefix={prefix} /> }}</loc>
+<loc>{{ p.permalink }}</loc>
+{{- <sitemap_alternates alts={p.translations} default={default_lang} /> }}
 </url>
 {%- endif %}
 {%- endfor %}
-<url>
-<loc>{{ config.base_url }}/</loc>
-</url>
-{#- Category pages, in order of first appearance like site.categories. -#}
-{%- set by_cat = posts | group_by(attribute="taxonomies.categories.0") -%}
-{%- for p in posts %}
-{%- set c = p.taxonomies.categories | first %}
-{%- if by_cat[c][0].path == p.path %}
-<url>
-<loc>{{ config.base_url }}/categories/{{ c }}/</loc>
-</url>
-{%- endif %}
+{#- Category pages. Taxonomy terms have no `translations`; a term's alternates are the same slug in the other languages. -#}
+{%- set categories = get_taxonomy(kind="categories", lang=l) -%}
+{%- for term in categories.items %}
+{%- set_global term_alts = [] -%}
+{%- for l2 in site_langs -%}
+{%- set l2_categories = get_taxonomy(kind="categories", lang=l2) -%}
+{%- if term.name in (l2_categories.items | group_by(attribute="name")) -%}
+{%- set_global term_alts = [...term_alts, {"lang": l2, "permalink": config.base_url ~ (<lang_prefix lang={l2} default={default_lang} />) ~ "/categories/" ~ term.slug ~ "/"}] -%}
+{%- endif -%}
 {%- endfor %}
-{#- Home pagination: /page/2/ … -#}
+<url>
+<loc>{{ term.permalink }}</loc>
+{{- <sitemap_alternates alts={term_alts} default={default_lang} /> }}
+</url>
+{%- endfor %}
+{#- Home pagination: /page/2/ … (pages differ per language, so no alternates). -#}
+{%- set per_page = root.paginate_by or 10 -%}
 {%- set n_pages = ((posts | length) + per_page - 1) // per_page -%}
 {%- for i in range(start=2, end=n_pages + 1) %}
 <url>
-<loc>{{ config.base_url }}/page/{{ i }}/</loc>
+<loc>{{ config.base_url }}{{ prefix }}/page/{{ i }}/</loc>
 </url>
+{%- endfor %}
 {%- endfor %}
 </urlset>
