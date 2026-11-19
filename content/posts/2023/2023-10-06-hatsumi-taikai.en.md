@@ -30,7 +30,7 @@ We invite you to the second MERS tournament in Kraków!
 * Lunch: included in the entry fee
 * Prizes: trophies for the first three places, club merchandise for the first 10 places
 
-Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
+Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarise
 themselves with the app before the tournament.
 
 With representants of **8** different EMA countries and a total number of **84** contestants, the current MERS tournament ranking is **3.5** (with 4.0 being the maximum).\

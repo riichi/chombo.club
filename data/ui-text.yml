@@ -5,7 +5,7 @@
 en:
   title                      : "Kraków Chombo Club"
   home_title                 : "Riichi Mahjong in Kraków"
-  og_locale                  : "en_US"
+  og_locale                  : "en_GB"
   description                : "Association focused on playing and promoting Japanese (Riichi) Mahjong."
   skip_content               : "Skip to content"
   nav_label                  : "Main navigation"
@@ -13,7 +13,7 @@ en:
   search_label               : "Search"
   search_unavailable         : "Search is not available in this build."
   close_label                : "Close"
-  theme_label                : "Color theme"
+  theme_label                : "Colour theme"
   theme_auto                 : "automatic"
   theme_light                : "light"
   theme_dark                 : "dark"
@@ -32,7 +32,7 @@ en:
     blog                     : "Blog"
     other                    : "Other"
   category_descriptions:
-    tournaments              : "Announcements and reports from tournaments organized by the club"
+    tournaments              : "Announcements and reports from tournaments organised by the club"
     blog                     : "Articles about Riichi Mahjong"
     other                    : "Club news and everything else"
   posts_one                  : "post"

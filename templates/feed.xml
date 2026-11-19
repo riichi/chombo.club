@@ -8,6 +8,6 @@
 {%- set orig = config.base_url ~ <strip_lang_prefix path={p.path} prefix={prefix} /> -%}
 {%- set title = p.title | replace(from="'", to="’") -%}
 {%- set summary = <excerpt content={p.content} /> -%}
-<entry xml:lang="{{ p.lang }}"><title type="html">{{ title }}</title><link href="{{ p.permalink }}" rel="alternate" type="text/html" title="{{ title }}" /><published>{{ <xmlschema d={p.date} tz={tz} /> }}</published><updated>{{ <xmlschema d={p.updated or p.date} tz={tz} /> }}</updated><id>{{ orig[:-1] }}</id><content type="html" xml:base="{{ orig }}"><![CDATA[{{ p.content | safe }}]]></content><author><name>{{ config.title }}</name></author>{% for c in p.taxonomies.categories %}<category term="{{ c }}" />{% endfor %}{% if summary %}<summary type="html"><![CDATA[{{ summary | safe }}]]></summary>{% endif %}</entry>
+<entry xml:lang="{{ <bcp47 lang={p.lang} /> }}"><title type="html">{{ title }}</title><link href="{{ p.permalink }}" rel="alternate" type="text/html" title="{{ title }}" /><published>{{ <xmlschema d={p.date} tz={tz} /> }}</published><updated>{{ <xmlschema d={p.updated or p.date} tz={tz} /> }}</updated><id>{{ orig[:-1] }}</id><content type="html" xml:base="{{ orig }}"><![CDATA[{{ p.content | safe }}]]></content><author><name>{{ config.title }}</name></author>{% for c in p.taxonomies.categories %}<category term="{{ c }}" />{% endfor %}{% if summary %}<summary type="html"><![CDATA[{{ summary | safe }}]]></summary>{% endif %}</entry>
 {%- endfor -%}
 </feed>

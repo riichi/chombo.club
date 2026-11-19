@@ -30,7 +30,7 @@
 {% component sitemap_alternates(alts: array, default: string) -%}
 {%- if alts | length > 1 -%}
 {%- for a in alts | sort(attribute="lang") %}
-<xhtml:link rel="alternate" hreflang="{{ a.lang }}" href="{{ a.permalink }}"/>
+<xhtml:link rel="alternate" hreflang="{{ <bcp47 lang={a.lang} /> }}" href="{{ a.permalink }}"/>
 {%- if a.lang == default %}
 <xhtml:link rel="alternate" hreflang="x-default" href="{{ a.permalink }}"/>
 {%- endif -%}
@@ -160,3 +160,8 @@
 </nav>
 {%- endif -%}
 {%- endcomponent paginator_nav %}
+
+{#- BCP 47 language tag for lang attributes; internal codes stay "pl"/"en" (URLs, file suffixes). -#}
+{% component bcp47(lang: string) -%}
+{{- "en-GB" if lang == "en" else ("pl-PL" if lang == "pl" else lang) -}}
+{%- endcomponent bcp47 %}

@@ -50,7 +50,7 @@ We invite you to the third MERS tournament in Kraków!
 * Lunch: included in the entry fee
 * Prizes: trophies for the first three places.
 
-Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarize themselves with the app before the tournament.
+Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarise themselves with the app before the tournament.
 
 ## Agenda {#agenda}
 

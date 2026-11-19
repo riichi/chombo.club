@@ -46,7 +46,7 @@ We invite you to the fourth MERS tournament in Kraków!
 **ERMC wild card:** the highest-placed PLM member with membership fees paid for 2026 and 2027
 who has not yet qualified at the time of the tournament will receive a wild card for ERMC.
 
-Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarize themselves with the app before the tournament.
+Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarise themselves with the app before the tournament.
 
 ## Agenda {#agenda}
 

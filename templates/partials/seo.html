@@ -69,7 +69,9 @@
   {%- if excl and l not in excl %}{% continue %}
   {% endif -%}
   {%- set alternate_url = config.base_url ~ current_path if l == config.default_language else config.base_url ~ "/" ~ l ~ current_path %}
-  <link rel="alternate" hreflang="{{ l }}" href="{{ alternate_url }}">
+  <link rel="alternate"
+        hreflang="{{ <bcp47 lang={l} /> }}"
+        href="{{ alternate_url }}">
   {%- if l == config.default_language %}
     <link rel="alternate" hreflang="x-default" href="{{ alternate_url }}">
   {%- endif -%}
