@@ -1,0 +1,38 @@
+base_url = "https://chombo.club"
+title = "Kraków Chombo Club"
+description = "We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong."
+default_language = "pl"
+compile_sass = true
+build_search_index = false
+generate_feeds = true
+feed_filenames = ["feed.xml"]
+feed_limit = 10
+taxonomies = [{ name = "categories", render = true }]
+
+[markdown]
+smart_punctuation = true
+external_links_external = false
+
+[languages.en]
+description = "We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong."
+generate_feeds = true
+feed_filenames = ["feed.xml", "sitemap.xml", "404.html"]  # sitemap + 404: Zola renders them for the default language only
+title = "Kraków Chombo Club"
+taxonomies = [{ name = "categories", render = true }]
+
+[extra]
+email = "contact@chombo.club"
+logo = "/assets/images/logo.svg"
+og_image = "/assets/images/logo.png"
+timezone = "Europe/Warsaw"
+title_separator = "-"
+facebook_publisher = "chombo.club"
+social_links = ["https://facebook.com/chombo.club", "https://github.com/riichi"]
+footer_links = [
+  { label = "Discord", url = "https://discord.chombo.club" },
+  { label = "Facebook", url = "https://fb.me/chombo.club" },
+  { label = "Instagram", url = "https://www.instagram.com/krakowchomboclub/" },
+  { label = "X", url = "https://x.com/ChomboKrakow" },
+  { label = "GitHub", url = "https://github.com/riichi" },
+  { label = "YouTube", url = "https://www.youtube.com/@ChomboClub" },
+]

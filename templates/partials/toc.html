@@ -1,0 +1,33 @@
+{#- Table of contents from the h2/h3 headings; shown with at least 3 entries unless extra.toc = false. -#}
+{%- set_global toc_items = [] -%}
+{%- for a in page.toc -%}
+  {%- if a.level in [2, 3] %}{% set_global toc_items = [...toc_items, a] %}
+  {% endif -%}
+  {%- for b in a.children -%}
+    {%- if b.level in [2, 3] %}{% set_global toc_items = [...toc_items, b] %}
+    {% endif -%}
+    {%- for c in b.children -%}
+      {%- if c.level in [2, 3] %}{% set_global toc_items = [...toc_items, c] %}
+      {% endif -%}
+    {%- endfor -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- if toc_items | length >= 3 and page.extra?.toc != false -%}
+  <aside class="toc" aria-label="{{ t.toc_label }}" data-pagefind-ignore>
+    <details class="toc__details" open>
+      <summary class="toc__toggle">
+        {{ t.toc_label }}
+        <svg class="icon" aria-hidden="true">
+          <use href="#i-chevron" />
+        </svg>
+      </summary>
+      <p class="toc__title" aria-hidden="true">{{ t.toc_label }}</p>
+      <ol class="toc__list">
+        {%- for h in toc_items %}
+          <li class="toc__h{{ h.level }}"><a href="#{{ h.id }}">{{ h.title | safe }}</a></li>
+        {%- endfor %}
+      </ol>
+      <p class="toc__top"><a href="#main">↑ {{ t.back_to_top }}</a></p>
+    </details>
+  </aside>
+{%- endif -%}

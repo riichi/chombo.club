@@ -1,0 +1,31 @@
+{#- Build-time guards for posts (included by post.html; `throw` fails `zola build`).
+    Tested by _migrate/check_path_guard.sh and _migrate/check_translation_guard.sh. -#}
+{#- Guard: a Translation must share date, category and path (under /<lang>/) with its Original;
+    an Original must have a Translation in every language unless it is Language-exclusive. -#}
+{%- if page.lang != config.default_language -%}
+  {%- set orig_rel = page.relative_path | replace(from="." ~ page.lang ~ ".md", to=".md") -%}
+  {%- set orig = get_page(path=orig_rel, lang=config.default_language) -%}
+  {%- if orig.date != page.date -%}
+    {{ throw(message="Translation " ~ page.relative_path ~ ": date " ~ page.date ~ " differs from its Original " ~ orig_rel ~ " (" ~ orig.date ~ ")") }}
+  {%- endif -%}
+  {%- if orig.taxonomies?.categories != page.taxonomies?.categories -%}
+    {{ throw(message="Translation " ~ page.relative_path ~ ": category " ~ post_category ~ " differs from its Original " ~ orig_rel ~ " (" ~ (orig.taxonomies?.categories | join(sep=",")) ~ ")") }}
+  {%- endif -%}
+  {%- if "/" ~ page.lang ~ orig.path != page.path -%}
+    {{ throw(message="Translation " ~ page.relative_path ~ ": path " ~ page.path ~ " differs from its Original " ~ orig_rel ~ " (expected /" ~ page.lang ~ orig.path ~ ")") }}
+  {%- endif -%}
+{%- else -%}
+  {%- for l in config.languages | keys -%}
+    {%- if l != config.default_language and not (excl and l not in excl) -%}
+      {%- set tr_langs = page.translations | group_by(attribute="lang") -%}
+      {%- if l not in tr_langs -%}
+        {{ throw(message="Post " ~ page.relative_path ~ " has no " ~ l ~ " Translation; add one or set extra.lang-exclusive = [\"" ~ page.lang ~ "\"]") }}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+{#- Guard: a post's explicit path must be /<category>/<Warsaw date>/<slug>/. -#}
+{%- set expected_prefix = "/" ~ post_category ~ "/" ~ (page.date | date(format="%Y/%m/%d", timezone=tz)) ~ "/" -%}
+{%- if not current_path is starting_with(pat=expected_prefix) -%}
+  {{ throw(message="Post " ~ page.relative_path ~ ": path " ~ current_path ~ " does not match its date and category (expected " ~ expected_prefix ~ "<slug>/)") }}
+{%- endif -%}

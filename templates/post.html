@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block layout %}post{% endblock %}
+{% block content %}
+  {%- set tz = config.extra.timezone -%}
+  {%- include "partials/post_guards.html" -%}
+  {%- include "partials/breadcrumbs.html" %}
+  <article data-pagefind-body>
+    <header class="wrap page-head">
+      <h1>{{ page.title }}</h1>
+      <p class="meta" data-pagefind-ignore>
+        {{ <category_link category={post_category} names={t.category_names} prefix={lang_prefix} /> }} ·
+        <time datetime="{{ <xmlschema d={page.date} tz={tz} /> }}">{{ <date d={page.date} months={t.months} tz={tz} /> }}</time>
+        {%- if page.updated %} · {{ t.updated_label }} <time datetime="{{ <xmlschema d={page.updated} tz={tz} /> }}">{{ <date d={page.updated} months={t.months} tz={tz} /> }}</time>{% endif %}
+      </p>
+    </header>
+    <div class="wrap page-body">
+      {% include "partials/toc.html" %}
+      <div class="page-content prose">{{ page.content | safe }}</div>
+    </div>
+  </article>
+  {#- Older/newer post by date. page.lower/higher stay empty with transparent sections, so look it up in posts/ (newest first). -#}
+  {%- set posts_section = get_section(path="posts/_index.md", lang=page.lang) -%}
+  {%- set all_posts = posts_section.pages -%}
+  {%- for p in all_posts -%}
+    {%- if p.path == page.path -%}
+      {%- set newer = none if loop.first else all_posts[loop.index0 - 1] -%}
+      {%- set older = none if loop.last else all_posts[loop.index0 + 1] %}
+      <div class="wrap">
+        <nav class="post-nav" aria-label="{{ t.post_nav_label }}">
+          {%- if older %}
+            <a href="{{ older.path }}"><small><span aria-hidden="true">←</span> {{ t.post_older }}</small><strong>{{ older.title }}</strong></a>
+          {%- endif %}
+          {%- if newer %}
+            <a class="post-nav__next" href="{{ newer.path }}"><small>{{ t.post_newer }} <span aria-hidden="true">→</span></small><strong>{{ newer.title }}</strong></a>
+          {%- endif %}
+        </nav>
+      </div>
+    {%- endif -%}
+  {%- endfor %}
+{% endblock %}

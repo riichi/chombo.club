@@ -1,0 +1,149 @@
+{#- Components shared by all templates (Tera v2: registered globally, no import). -#}
+
+{#- Localised date, e.g. "13 grudnia 2024". -#}
+{% component date(d, months: array, tz: string, year: bool = true) -%}
+{%- set mi = d | date(format="%m", timezone=tz) | int -%}
+{{ d | date(format="%-d", timezone=tz) }} {{ months[mi - 1] }}{% if year %} {{ d | date(format="%Y", timezone=tz) }}{% endif %}
+{%- endcomponent date %}
+
+{% component xmlschema(d, tz: string) -%}
+{{ d | date(format="%Y-%m-%dT%H:%M:%S%:z", timezone=tz) }}
+{%- endcomponent xmlschema %}
+
+{#- Display name of a category (data/ui-text.yml category_names), falling back to its slug. -#}
+{% component category_name(category: string, names: map) -%}
+{{ names[category] if category in names else category }}
+{%- endcomponent category_name %}
+
+{#- URL prefix of a language: "" for the default language, "/<lang>" otherwise. -#}
+{% component lang_prefix(lang: string, default: string) -%}
+{{ "" if lang == default else "/" ~ lang }}
+{%- endcomponent lang_prefix %}
+
+{#- `path` without the language `prefix` (as returned by lang_prefix); unchanged when it has none. -#}
+{% component strip_lang_prefix(path: string, prefix: string) -%}
+{{ path[prefix | length:] if prefix and path is starting_with(pat=prefix ~ "/") else path }}
+{%- endcomponent strip_lang_prefix %}
+
+{% component category_link(category: string, names: map, prefix: string = "") -%}
+<a class="cat cat--{{ category }}" href="{{ prefix }}/categories/{{ category }}/">{{ <category_name category={category} names={names} /> }}</a>
+{%- endcomponent category_link %}
+
+{% component theme_toggle(t: map, class: string = "", text: bool = false) -%}
+<button class="{{ class }}" type="button" data-theme-toggle data-label="{{ t.theme_label }}" data-label-auto="{{ t.theme_auto }}" data-label-light="{{ t.theme_light }}" data-label-dark="{{ t.theme_dark }}" aria-label="{{ t.theme_label }}: {{ t.theme_auto }}">
+  <svg class="icon theme-icon theme-icon--auto" aria-hidden="true"><use href="#i-auto"/></svg>
+  <svg class="icon theme-icon theme-icon--light" aria-hidden="true"><use href="#i-sun"/></svg>
+  <svg class="icon theme-icon theme-icon--dark" aria-hidden="true"><use href="#i-moon"/></svg>
+  {%- if text %}<span data-theme-text aria-hidden="true">{{ t.theme_label }}: {{ t.theme_auto }}</span>{% endif %}
+</button>
+{%- endcomponent theme_toggle %}
+
+{#- Navigation links, shared by the desktop bar and the mobile menu. -#}
+{% component nav_items(nav: map, current_path: string, post_category_url: string, prefix: string = "", separator: bool = false) -%}
+{%- for link in nav.categories -%}
+  <li><a href="{{ prefix }}{{ link.url }}"{% if link.url == current_path %} aria-current="page"{% elif link.url == post_category_url %} aria-current="true"{% endif %}>{{ link.title }}</a></li>
+{%- endfor -%}
+{%- if separator %}<li class="nav-sep" aria-hidden="true"></li>{% endif -%}
+{%- for link in nav.main -%}
+  {%- if "://" in link.url -%}
+  <li><a href="{{ link.url }}">{{ link.title }} <svg class="icon" aria-hidden="true"><use href="#i-external"/></svg></a></li>
+  {%- else -%}
+  <li><a href="{{ prefix }}{{ link.url }}"{% if link.url == current_path %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+  {%- endif -%}
+{%- endfor -%}
+{%- endcomponent nav_items %}
+
+{#- Content components (used from Markdown). -#}
+{#- URL of the footer link with the given label (config.extra.footer_links); unknown labels fail the build. -#}
+{% component footer_link(label: string, links: array) -%}
+{%- set_global found = "" -%}
+{%- for l in links %}{% if l.label == label %}{% set_global found = l.url %}{% endif %}{% endfor -%}
+{%- if not found %}{{ throw(message="footer_link: unknown label " ~ label) }}{% endif -%}
+{{ found }}
+{%- endcomponent footer_link %}
+
+{#- Field of a help item, localised: `<field>_<lang>` (e.g. name_pl) for the default language when present. -#}
+{% component help_field(item: map, field: string, lang: string, default_lang: string) -%}
+{%- set key = field ~ "_" ~ lang -%}
+{{ item[key] if lang == default_lang and key in item else item[field] }}
+{%- endcomponent help_field %}
+
+{#- Help links list (data/help/*.yml); the default language uses name_<lang>/description_<lang> when present. -#}
+{% component help_items(items: array, lang: string, default_lang: string) -%}
+{#- Rendered inside Markdown: no indentation or blank lines, or it becomes a code block. -#}
+<ul>
+{%- for item in items %}
+<li><a href="{{ item.url }}">{{ <help_field item={item} field="name" lang={lang} default_lang={default_lang} /> }}</a>
+{%- if item.description is defined %} — {{ <help_field item={item} field="description" lang={lang} default_lang={default_lang} /> }}{% endif %}
+{%- if item.subitems is defined %}
+<ul>
+{%- for sub in item.subitems %}
+<li><a href="{{ sub.url }}">{{ <help_field item={sub} field="name" lang={lang} default_lang={default_lang} /> }}</a>
+{%- if sub.description is defined %} — {{ <help_field item={sub} field="description" lang={lang} default_lang={default_lang} /> }}{% endif %}</li>
+{%- endfor %}
+</ul>
+{%- endif %}</li>
+{%- endfor %}
+</ul>
+{%- endcomponent help_items %}
+
+{#- Category tabs ("All" + one per category) above post lists. -#}
+{% component category_tabs(t: map, nav: map, current: string, prefix: string = "") -%}
+<ul class="tabs" aria-label="{{ t.categories_label }}">
+  <li><a href="{{ prefix }}/"{% if current == "/" %} aria-current="page"{% endif %}>{{ t.all_posts }}</a></li>
+  {%- for link in nav.categories %}
+  <li><a href="{{ prefix }}{{ link.url }}"{% if current == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+  {%- endfor %}
+</ul>
+{%- endcomponent category_tabs %}
+
+{#- Post excerpt: the first block if it is a paragraph, else "".
+    Stripped of tags, whitespace collapsed; with `words` > 0 truncated to that many words plus "..."
+    (Liquid truncatewords). Used by post cards, feed summaries and the SEO description. -#}
+{% component excerpt(content: string, words: integer = 0) -%}
+{%- set first = (content | split(pat="</p>") | first | striptags) if (content | trim) is starting_with(pat="<p") else "" -%}
+{%- set ws = first | replace(from="\n", to=" ") | replace(from="\t", to=" ") | replace(from="\r", to=" ") | split(pat=" ") -%}
+{%- set_global out = [] -%}
+{%- for w in ws %}{% if w %}{% set_global out = [...out, w] %}{% endif %}{% endfor -%}
+{%- if words > 0 and out | length > words %}{{ out[:words] | join(sep=" ") }}...{% else %}{{ out | join(sep=" ") }}{% endif -%}
+{%- endcomponent excerpt %}
+
+{% component post_card(post: map, t: map, tz: string, prefix: string = "", featured: bool = false) -%}
+{%- set cat = post.taxonomies.categories | first -%}
+{%- set card_image = post.extra?.header?.teaser or post.extra?.header?.image -%}
+<article class="post-card{% if featured %} post-card--featured{% endif %}">
+  {%- if featured and card_image %}
+  <img class="post-card__image" src="{{ card_image }}" alt="" loading="lazy">
+  {%- endif %}
+  <p class="post-card__meta meta">
+    {{ <category_link category={cat} names={t.category_names} prefix={prefix} /> }}
+    <time datetime="{{ <xmlschema d={post.date} tz={tz} /> }}">{{ <date d={post.date} months={t.months} tz={tz} /> }}</time>
+  </p>
+  <h3 class="post-card__title"><a href="{{ post.path }}">{{ post.title }}</a></h3>
+  <p class="post-card__excerpt">{{ <excerpt content={post.content} words={40} /> }}</p>
+</article>
+{%- endcomponent post_card %}
+
+{% component paginator_nav(pg: map, t: map, base_url: string) -%}
+{%- if pg.number_pagers > 1 -%}
+{%- set base = pg.base_url | replace(from=base_url, to="") -%}
+{%- set first_path = pg.first | replace(from=base_url, to="") -%}
+<nav aria-label="{{ t.pagination_label }}">
+  <ul class="pager">
+    {%- if pg.previous %}
+    <li><a href="{{ pg.previous | replace(from=base_url, to='') }}" rel="prev">← {{ t.pagination_newer }}</a></li>
+    {%- else %}
+    <li><span class="is-disabled">← {{ t.pagination_newer }}</span></li>
+    {%- endif %}
+    {%- for num in range(start=1, end=pg.number_pagers + 1) %}
+    <li><a href="{% if num == 1 %}{{ first_path }}{% else %}{{ base }}{{ num }}/{% endif %}"{% if num == pg.current_index %} aria-current="page"{% else %} aria-label="{{ t.page }} {{ num }}"{% endif %}>{{ num }}</a></li>
+    {%- endfor %}
+    {%- if pg.next %}
+    <li><a href="{{ pg.next | replace(from=base_url, to='') }}" rel="next">{{ t.pagination_older }} →</a></li>
+    {%- else %}
+    <li><span class="is-disabled">{{ t.pagination_older }} →</span></li>
+    {%- endif %}
+  </ul>
+</nav>
+{%- endif -%}
+{%- endcomponent paginator_nav %}

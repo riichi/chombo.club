@@ -1,0 +1,47 @@
+{#- Sitemap. Rendered twice: by Zola as /sitemap.xml (no `lang`) and as the EN "feed"
+    /en/sitemap.xml (feed_filenames in [languages.en]). Static files are not listed (known exception).
+    Every <loc> is the unprefixed URL, also in /en/ (kept from the previous site). -#}
+{%- set sm_lang = lang if lang is defined else config.default_language -%}
+{%- set tz = config.extra.timezone -%}
+{%- set prefix = <lang_prefix lang={sm_lang} default={config.default_language} /> -%}
+{%- set posts_section = get_section(path="posts/_index.md", lang=sm_lang) -%}
+{%- set posts = posts_section.pages | reverse -%}
+{%- set root = get_section(path="_index.md", lang=sm_lang) -%}
+{%- set per_page = root.paginate_by or 10 -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for p in posts %}
+<url>
+<loc>{{ config.base_url }}{{ <strip_lang_prefix path={p.path} prefix={prefix} /> }}</loc>
+<lastmod>{{ <xmlschema d={p.updated or p.date} tz={tz} /> }}</lastmod>
+</url>
+{%- endfor %}
+{%- set pages_section = get_section(path="pages/_index.md", lang=sm_lang) -%}
+{%- for p in pages_section.pages | sort(attribute="path") %}
+{%- if not p.date and p.extra?.sitemap != false %}{#- posts bubble up through the transparent sections -#}
+<url>
+<loc>{{ config.base_url }}{{ <strip_lang_prefix path={p.path} prefix={prefix} /> }}</loc>
+</url>
+{%- endif %}
+{%- endfor %}
+<url>
+<loc>{{ config.base_url }}/</loc>
+</url>
+{#- Category pages, in order of first appearance like site.categories. -#}
+{%- set by_cat = posts | group_by(attribute="taxonomies.categories.0") -%}
+{%- for p in posts %}
+{%- set c = p.taxonomies.categories | first %}
+{%- if by_cat[c][0].path == p.path %}
+<url>
+<loc>{{ config.base_url }}/categories/{{ c }}/</loc>
+</url>
+{%- endif %}
+{%- endfor %}
+{#- Home pagination: /page/2/ … -#}
+{%- set n_pages = ((posts | length) + per_page - 1) // per_page -%}
+{%- for i in range(start=2, end=n_pages + 1) %}
+<url>
+<loc>{{ config.base_url }}/page/{{ i }}/</loc>
+</url>
+{%- endfor %}
+</urlset>

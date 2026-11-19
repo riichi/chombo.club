@@ -1,0 +1,8 @@
+{
+  "profile": "tera",
+  "indent": 2,
+  "extend_exclude": "templates/components.html",
+  "per-file-ignores": {
+    "templates/base.html": "H016"
+  }
+}
