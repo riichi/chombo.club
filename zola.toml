@@ -16,7 +16,7 @@ external_links_external = false
 [languages.en]
 description = "We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong."
 generate_feeds = true
-feed_filenames = ["feed.xml", "sitemap.xml"]
+feed_filenames = ["feed.xml", "sitemap.xml", "404.html"]  # sitemap + 404: Zola renders them for the default language only
 title = "Kraków Chombo Club"
 taxonomies = [{ name = "categories", render = true }]
 

@@ -8,8 +8,8 @@
 
 **Blocked by:** 04
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] Feeds pass the Parity check (normalised XML, `<updated>` ignored); entry `<id>`s are identical
-- [ ] Sitemaps pass the Parity check under the documented exception
-- [ ] `robots.txt` and both 404 pages pass the Parity check
+- [x] Feeds pass the Parity check (normalised XML, `<updated>` ignored); entry `<id>`s are identical
+- [x] Sitemaps pass the Parity check under the documented exception
+- [x] `robots.txt` and both 404 pages pass the Parity check

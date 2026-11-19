@@ -1,8 +1,6 @@
----
-permalink: /404.html
-layout: default
----
-
+{#- Jekyll 404.html. Zola renders it as /404.html; /en/404.html is the same template rendered as an EN feed (zola.toml feed_filenames). -#}
+{% extends "base.html" %}
+{% block content %}
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
@@ -23,3 +21,4 @@ layout: default
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
 </div>
+{% endblock %}
