@@ -27,4 +27,4 @@ Na koniec — utrzymanie siedziby swoje kosztuje, więc gdyby ktoś z Was miał 
 
 Za wszystkie darowizny z góry serdecznie dziękujemy!
 
-{{ <figure alt="Siedziba Stowarzyszenia" filename="2024-07-27-headquarters.jpg" /> }}
+![Siedziba Stowarzyszenia](/assets/images/2024-07-27-headquarters.jpg)

@@ -11,7 +11,7 @@ categories = ["tournaments"]
 We invite you to the fourth MERS tournament in Kraków!
 
 <!-- TODO: dodać grafikę 2026-10-29-hatsumi-taikai-2027.png (lub podmienić nazwę pliku poniżej) -->
-{{ <figure alt="Hatsumi Taikai 2027" filename="2026-10-29-hatsumi-taikai-2027.png" /> }}
+![Hatsumi Taikai 2027](/assets/images/2026-10-29-hatsumi-taikai-2027.png)
 
 ## About the tournament {#about-the-tournament}
 

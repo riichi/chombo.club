@@ -14,7 +14,7 @@ In 1929, the first organization dedicated to mahjong players in Japan was establ
 
 This variant differed significantly from modern Japanese mahjong. First, a winning hand did not require a yaku (in other words, it did not need any han; hands worth 0 han were valid). A standard hand structure of four melds and one pair was sufficient (the exception being chiitoitsu, which was worth 0 han and 100 fu). Yaku did exist, but the list was much shorter than in modern mahjong, and their han values also differed. Dora did not exist, although there was already a dead wall. Riichi was not recognized, or at least not in the way it is today—a player could declare riichi only on the very first turn of the hand, similar to what is now known as double riichi. Furiten also existed, but it could be bypassed if the player explicitly declared it, allowing them to win by ron. A game consisted of four wind rounds with four hands each, running from East 1 through North 4.
 
-{{ <figure alt="Arushiiaru scoring table." filename="2026-08-02-arushiaru-scoring-table.png" /> }}
+![Arushiiaru scoring table.](/assets/images/2026-08-02-arushiaru-scoring-table.png)
 
 *Arushiiaru scoring table.*
 
@@ -22,7 +22,7 @@ This variant differed significantly from modern Japanese mahjong. First, a winni
 Speaking of points, this is what the scoring table in Arushiiaru looked like. Originally, the final score depended solely on fu, which—as you can see—were not rounded up to the nearest ten, resulting in a much larger scoring table than the one used today. Han played only a secondary role: they were awarded exclusively for yaku and then converted into fu (typically, each han doubled the fu value). Based on whether the hand was won by tsumo or ron, whether the winner was the dealer (oya) or a non-dealer (ko), and the hand's fu and han values, players would look up a base value in the table. This base value was then multiplied by the appropriate coefficients (which varied depending on who won and how the hand was won), and the result was rounded to the nearest ten to determine the final point value of the winning hand.
 
 
-{{ <figure alt="Tabelka liczenia punktów na podstawie bazy" filename="2026-08-02-base-point-calculation-en.png" /> }}
+![Tabelka liczenia punktów na podstawie bazy](/assets/images/2026-08-02-base-point-calculation-en.png)
 
 *Table for counting points from the base*
 
@@ -34,7 +34,7 @@ A mangan could be achieved by accumulating multiple yaku, in which case it was c
 
 The variant described above was the most widespread during that period. However, as is often the case with social games, each table ultimately played by its own house rules. Over time, the practice known as tochū riichi (途中リーチ)—declaring riichi at any point during the hand rather than only on the opening turn—began to gain popularity. The Japan Mahjong Federation, however, did not recognize tochū riichi as a legitimate rule.
 
-{{ <figure alt="Amano Daizou" filename="2026-08-02-amano-daizou.png" /> }}
+![Amano Daizou](/assets/images/2026-08-02-amano-daizou.png)
 
 *Amano Daizou*
 

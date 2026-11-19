@@ -10,7 +10,7 @@ categories = ["tournaments"]
 
 We invite you to the first ever Polish tournament with Saki Cards! It will take place at 14th August 2022 in the Boardowa cafe.
 
-{{ <figure alt="Kraków Saki Cards Taikai" filename="2022-08-14-saki-cards-taikai.png" /> }}
+![Kraków Saki Cards Taikai](/assets/images/2022-08-14-saki-cards-taikai.png)
 
 ## About {#about}
 

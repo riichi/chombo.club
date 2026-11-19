@@ -8,7 +8,7 @@ template = "post.html"
 categories = ["tournaments"]
 +++
 
-{{ <figure alt="Kraków Riichi Open" filename="2021-09-29-krakow-riichi-open.png" /> }}
+![Kraków Riichi Open](/assets/images/2021-09-29-krakow-riichi-open.png)
 
 Just as we said back when we finished work on creating our association, Krakow
 Chombo Club is proud to announce the first open Riichi Mahjong tournament in

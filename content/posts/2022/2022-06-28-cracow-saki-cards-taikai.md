@@ -10,7 +10,7 @@ categories = ["tournaments"]
 
 Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.
 
-{{ <figure alt="Kraków Saki Cards Taikai" filename="2022-08-14-saki-cards-taikai.png" /> }}
+![Kraków Saki Cards Taikai](/assets/images/2022-08-14-saki-cards-taikai.png)
 
 ## O turnieju {#o-turnieju}
 

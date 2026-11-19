@@ -11,7 +11,7 @@ categories = ["tournaments"]
 
 We invite you to the second MERS tournament in Kraków!
 
-{{ <figure alt="Hatsumi Taikai" filename="2023-10-06-hatsumi-taikai.png" /> }}
+![Hatsumi Taikai](/assets/images/2023-10-06-hatsumi-taikai.png)
 
 ## About {#about}
 

@@ -12,4 +12,4 @@ This weekend (20-21 May 2023), our national team went to Copenhagen for the Open
 
 Congratulations!
 
-{{ <figure alt="Mateusz Maćkowski" filename="2023-05-20-mateusz-mackowski.jpg" /> }}
+![Mateusz Maćkowski](/assets/images/2023-05-20-mateusz-mackowski.jpg)

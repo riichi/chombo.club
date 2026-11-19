@@ -47,23 +47,23 @@ Istnieją dwa główne rodzaje kamieni do mahjonga — chińskie i japońskie. J
 * **Białe smoki**: Japońskie białe smoki są czystym kamieniem bez wzoru, podczas gdy chińskie oznaczone są prostokątem-ramką;
 * **Zielone smoki:** Co prawda jedne i drugie są zapisane chińskim znakiem, niemniej jednak różnią się one czcionką, co możecie zobaczyć na zdjęciach poniżej:
 
-{{ <figure alt="Porównanie rozmiarów kamieni" filename="how-to-buy-mahjong-set/image11.jpg" /> }}
+![Porównanie rozmiarów kamieni](/assets/images/how-to-buy-mahjong-set/image11.jpg)
 
 Jakie są zatem różnice między zestawami chińskimi i japońskimi? Niewielkie. Japoński zestaw będzie potrzebny tylko wtedy, kiedy bardzo chcecie grać na czerwone piątki. W tym miejscu należy wspomnieć, że standardowe zasady europejskie, tj. [zasady turniejowe EMA](http://mahjong-europe.org/portal/) (European Mahjong Association) nie wykorzystują czerwonych piątek. Wygląd białych smoków jest z kolei wyłącznie kwestią gustu, toteż przy wyborze zestawu należy się kierować raczej względami estetycznymi lub wygodą niż tym, czy jest to zestaw produkowany w Japonii, czy w Chinach. Oczywiście kwestia tego, czy kupujecie — nazwijmy to zwykły zestaw, a zestaw japoński jest dla wielu osób ważna. Naszym zdaniem jednak zdecydowanie najistotniejsza będzie kwestia tego, czy wybrany zestaw będzie dostępny w rozsądnej cenie i będzie wyróżniał się wygodą użytkowania.
 
-{{ <figure alt="Przykładowe zestawy z matami" filename="how-to-buy-mahjong-set/image3.jpg" /> }}
+![Przykładowe zestawy z matami](/assets/images/how-to-buy-mahjong-set/image3.jpg)
 
 ## Zestawy dostępne w Polsce {#zestawy-dostępne-w-polsce}
 
 Zaczniemy od zestawów najtańszych, czyli chińskich z Allegro (to te z czasem dostawy powyżej tygodnia i ceną poniżej 100&nbsp;PLN). Większość z nich prawdopodobnie od razu można sobie darować, ich jakość jest zazwyczaj słaba i nie są warte twojej uwagi.
 
-{{ <figure alt="Polskie zestawy" filename="how-to-buy-mahjong-set/image23.jpg" /> }}
+![Polskie zestawy](/assets/images/how-to-buy-mahjong-set/image23.jpg)
 
 Nawet nie pytajcie nas, czy warto je kupić — nie warto. Należy jednak wspomnieć, że nie posiadamy tych konkretnych, przedstawionych powyżej zestawów i ta ocena jest wyrażona na podstawie naszych doświadczeń z chińskimi zestawami ogółem.
 
 Wyżej cenowo stoją słynne „Grapety” czy też „Madżong”. Trzeba jednak liczyć się z tym, że kamienie w takim zestawie będą krzywe, co znacząco wpłynie na komfort gry. Tego rodzaju zestaw to dobre rozwiązanie dla początkujących, ale ostatnio jest ciężko dostępny, a jeśli już — to po zawyżonych cenach. Jeśli ktoś chce od Ciebie więcej niż 150 PLN za Grapety — prawdopodobnie nie warto.
 
-{{ <figure alt="Zestaw Grapet" filename="how-to-buy-mahjong-set/image4.jpg" /> }}
+![Zestaw Grapet](/assets/images/how-to-buy-mahjong-set/image4.jpg)
 
 Drugim zestawem dostępnym w Polsce są [białe kamienie z e-go](https://www.e-go.pl/mahjong/japonski-mahjong-bialy.html). W grudniu 2024 ich cena wynosi 449&nbsp;PLN i należy się zastanowić, czy nie lepiej zainwestować i kupić zestawu importowanego z Japonii.
 Recenzja tych kamieni i porównanie ich z Grapetami jest dostępne [na naszej stronie](https://chombo.club/other/2021/06/15/review-e-go-white-tiles/).
@@ -98,13 +98,13 @@ Jeśli nie lubisz Amazona, zestawy można kupić też pośrednio od producenta, 
 
 Są to kamienie, których dostępność w Europie czy Stanach jest dużo lepsza, są one jednak minimalnie płytsze i trochę gorszej jakości od kamieni AMOS, niemniej jednak są one tańsze od kamieni Taiyo Chemicals (Oficjalny sklep YMI na Amazon.pl wycenia zestaw na 290&nbsp;PLN + darmowa dostawa). Same kamienie możecie dostać w rozmiarze 26 mm oraz 30 mm ([żółte](https://www.amazon.pl/Yellow-Mountain-Imports-Japoński-Mahjong/dp/B08FM1CL1S/ref=sr_1_7?__mk_pl_PL=ÅMÅŽÕÑ&crid=2SIPBVQCV4ROB&dib=eyJ2IjoiMSJ9.ukzauhsQi_BDC6fJ16MCNDWX8LHnSWHYnYz4Fud3sJLFId-84Z2M77_WFc3M1ksk1dfqpg1dwfRTfLM5eQsGxXSFiZDD7LTJ6jGCu-6nmavmnUXyWLE45-XQDCrBuLpEewo1oLvIC7XRNMLTxxe5cEzZyXTqxwpG1SpiHpWqraGRDVTowyOOGgpe555ugADoh3RR7u3vLjI560V7Zedh6ZI13zvfOtb1w7jS2k7ZWzeuYp0hUfiIbCes5jgIONGk6A0ijPQStbEfl0kfED0vO__mYXm_yNFYfbCCLCQYkizONLsGWr0qAUVemxzl3XW1cuysU9G9AcMqnuHewqzn4Hd1fNYLvHWn3jDuxY9qss-k9TdJDdG9JHE6Ej4TmqRtrq6kE5wR_65v-fy1mo2RRDzWaiDrwe_vKpFCuxvBCp8cA24j2wFqWr5do-vMkE-E.Cfw0-2M21Y_dlrXeVA0MakBFFOKX1ciE0Kzn-RaSdnQ&dib_tag=se&keywords=mahjong&qid=1733997234&sprefix=mahjong%2Caps%2C96&sr=8-7) lub [zielone](https://www.amazon.pl/Yellow-Mountain-Imports-Japoński-Mahjong/dp/B0BX2W6YJY/ref=sr_1_8?__mk_pl_PL=ÅMÅŽÕÑ&crid=2SIPBVQCV4ROB&dib=eyJ2IjoiMSJ9.ukzauhsQi_BDC6fJ16MCNDWX8LHnSWHYnYz4Fud3sJLFId-84Z2M77_WFc3M1ksk1dfqpg1dwfRTfLM5eQsGxXSFiZDD7LTJ6jGCu-6nmavmnUXyWLE45-XQDCrBuLpEewo1oLvIC7XRNMLTxxe5cEzZyXTqxwpG1SpiHpWqraGRDVTowyOOGgpe555ugADoh3RR7u3vLjI560V7Zedh6ZI13zvfOtb1w7jS2k7ZWzeuYp0hUfiIbCes5jgIONGk6A0ijPQStbEfl0kfED0vO__mYXm_yNFYfbCCLCQYkizONLsGWr0qAUVemxzl3XW1cuysU9G9AcMqnuHewqzn4Hd1fNYLvHWn3jDuxY9qss-k9TdJDdG9JHE6Ej4TmqRtrq6kE5wR_65v-fy1mo2RRDzWaiDrwe_vKpFCuxvBCp8cA24j2wFqWr5do-vMkE-E.Cfw0-2M21Y_dlrXeVA0MakBFFOKX1ciE0Kzn-RaSdnQ&dib_tag=se&keywords=mahjong&qid=1733997234&sprefix=mahjong%2Caps%2C96&sr=8-8&th=1) plecki — są one odpowiednio droższe)
 
-{{ <figure alt="Zestaw YMI" filename="how-to-buy-mahjong-set/image6.jpg" /> }}
+![Zestaw YMI](/assets/images/how-to-buy-mahjong-set/image6.jpg)
 
 #### [Zestaw “Nintendo Mahjong Tiles Yakuman Phoenix”](https://www.amazon.co.jp/-/en/Nintendo-Mahjong-Tiles-Yakuman-Phoenix/dp/B00GMCH026) {#zestaw-nintendo-mahjong-tiles-yakuman-phoenix}
 
 Dużo droższa opcja, klasyczny japoński zestaw z tyłami kamieni stylizowanymi na bambusowe, punktami-patyczkami, żetonami shuugi i znacznikiem rundy. Jego cecha szczególna to że jedynki kółek mają kształt żółwi.
 
-{{ <figure alt="Zestaw Nintendo" filename="how-to-buy-mahjong-set/image15.jpg" /> }}
+![Zestaw Nintendo](/assets/images/how-to-buy-mahjong-set/image15.jpg)
 
 Na OLX, Facebook Marketplace i eBayu możecie znaleźć dość losowe zestawy — raczej nie warto w nie inwestować, ale polecamy pytać o konkretne egzemplarze na [Discordzie](https://discord.chombo.club/).
 
@@ -119,7 +119,7 @@ Są grube, ciężkie i niewygodne. Ich jedyną zaletą jest to, że przy intensy
 
 Inną alternatywą są maty na stoły bez listew, które można znaleźć na AliExpressie, Allegro czy na stronie [Yellow Mountain Imports](https://www.ymimports.com/collections/mahjong/mahjong-table-covers?srsltid=AfmBOoodP1Ju4Jm3lqosnoG5zh91KWj57dm41cguNEpQp0dy4-5YemEK), jednakże granie na macie bez listew, które służą zarówno do wyrównywania murów (może być utrudnione, biorąc pod uwagę rozmiar kamieni do riichi), jak i przetrzymywania patyczków punktowych (Junk Mat).
 
-{{ <figure alt="Mata materiałowa" filename="how-to-buy-mahjong-set/image10.jpg" /> }}
+![Mata materiałowa](/assets/images/how-to-buy-mahjong-set/image10.jpg)
 
 Być może po przeczytaniu tego wpisu odnosicie wrażenie, że Taiyo nam za niego płaci — chcielibyśmy. Naprawdę byśmy chcieli. Jest to jednak po prostu najlepsza opcja, biorąc pod uwagę ceny i jakość zestawów dostępnych w Polsce.
 
@@ -277,12 +277,12 @@ Poniżej tabelka podsumowująca omówione zestawy:
 
 Od lewej: _Grapet 26 mm_, _YMI Classic 26 mm_, _AMOS 26 mm_, _AMOS 28 mm_
 
-{{ <figure alt="Porównanie rozmiarów kamieni — od frontu" filename="how-to-buy-mahjong-set/image16.jpg" /> }}
+![Porównanie rozmiarów kamieni — od frontu](/assets/images/how-to-buy-mahjong-set/image16.jpg)
 
-{{ <figure alt="Porównanie rozmiarów kamieni — od góry" filename="how-to-buy-mahjong-set/image1.jpg" /> }}
+![Porównanie rozmiarów kamieni — od góry](/assets/images/how-to-buy-mahjong-set/image1.jpg)
 
 Od lewej: _Jan Marushin Renhou 27 mm_, _AMOS 28 mm_, _Jan Marushin Ran 30 mm_
 
-{{ <figure alt="Porównanie rozmiarów kamieni — od frontu" filename="how-to-buy-mahjong-set/image14.jpg" /> }}
+![Porównanie rozmiarów kamieni — od frontu](/assets/images/how-to-buy-mahjong-set/image14.jpg)
 
-{{ <figure alt="Porównanie rozmiarów kamieni — od góry" filename="how-to-buy-mahjong-set/image2.jpg" /> }}
+![Porównanie rozmiarów kamieni — od góry](/assets/images/how-to-buy-mahjong-set/image2.jpg)

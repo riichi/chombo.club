@@ -12,4 +12,4 @@ Just before the tournament in Poznań, on Friday 10 Nov 2023, an EMA seminar was
 
 Congratulations!
 
-{{ <figure alt="Szymon Nowicz" filename="2023-11-15-szymon-nowicz.jpg" /> }}
+![Szymon Nowicz](/assets/images/2023-11-15-szymon-nowicz.jpg)

@@ -10,7 +10,7 @@ categories = ["tournaments"]
 
 We invite you to a Riichi Mahjong tournament organized in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!
 
-{{ <figure alt="USMA Cup: Kraków Riichi Open 2026" filename="2026-06-25-krakow-riichi-open-2026.png" /> }}
+![USMA Cup: Kraków Riichi Open 2026](/assets/images/2026-06-25-krakow-riichi-open-2026.png)
 
 ## About {#about}
 

@@ -10,4 +10,4 @@ categories = ["other"]
 
 We are happy to announce that our colleague Michał Herda has become an [Upper Silesian Mahjong Association](https://mahjongsilesia.wordpress.com/referee/)-certified referee. He is now eligible for refereeing USMA ranked games as well as non-MERS (USMA) tournaments. Congratulations!
 
-{{ <figure alt="Michał Herda" filename="2020-01-20-michal-herda.jpg" /> }}
+![Michał Herda](/assets/images/2020-01-20-michal-herda.jpg)

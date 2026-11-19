@@ -8,7 +8,7 @@ template = "post.html"
 categories = ["tournaments"]
 +++
 
-{{ <figure alt="Instant Ramen Taikai" filename="2022-02-15-instant-ramen-taikai.png" /> }}
+![Instant Ramen Taikai](/assets/images/2022-02-15-instant-ramen-taikai.png)
 
 Czas na pierwszy krakowski turniej riichi o smaku kurczaka! Turniej odbędzie się 3 kwietnia 2022 roku
 w kawiarni [Boardowa](http://boardowa.pl/) i będzie rozgrywany na zmodyfikowanych
@@ -61,29 +61,29 @@ Zasady to **EMA 2016 z następującymi modyfikacjami:**
 
 ### Przykłady {#przykłady}
 
-{{ <figure alt="111123444m6z_6z_111*s" filename="2022-02-15-instant-ramen-taikai-hand1.png" /> }}
+![111123444m6z_6z_111\*s](/assets/images/2022-02-15-instant-ramen-taikai-hand1.png)
 
 Ręka powyżej to honitsu w manach + fanpai kura.
 
-{{ <figure alt="111s333s9s_9s_4*56s_7*65s" filename="2022-02-15-instant-ramen-taikai-hand2.png" /> }}
+![111s333s9s_9s_4\*56s_7\*65s](/assets/images/2022-02-15-instant-ramen-taikai-hand2.png)
 
 Ta ręka nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu + kura;
 zamiast tego ręka to "zwyczajne" chinitsu w souzu.
 
-{{ <figure alt="111s1z_1z_4*44z_55*5**5z_7*77z" filename="2022-02-15-instant-ramen-taikai-hand3.png" /> }}
+![111s1z_1z_4\*44z_55\*5\*\*5z_7\*77z](/assets/images/2022-02-15-instant-ramen-taikai-hand3.png)
 
 Ta ręka to yakuman tsuuiisou.
 
-{{ <figure alt="123345678m11s34s_2s" filename="2022-02-15-instant-ramen-taikai-hand4.png" /> }}
+![123345678m11s34s_2s](/assets/images/2022-02-15-instant-ramen-taikai-hand4.png)
 
 Jeśli policzymy parę z 1s jako parę z honorów, to dostajemy 2 fu.
 Lepiej jest potraktować ją jako parę ze zwykłych kamieni, co daje nam pinfu.
 
-{{ <figure alt="1s_1s_2*34m_555*z_7*77s_8*79p" filename="2022-02-15-instant-ramen-taikai-hand5.png" /> }}
+![1s_1s_2\*34m_555\*z_7\*77s_8\*79p](/assets/images/2022-02-15-instant-ramen-taikai-hand5.png)
 
 To jest po prostu kinkei dokuritsu, warty mangana - ignorujemy białego smoka.
 
-{{ <figure alt="1s_1s_3*33s_44*4s_888*s_99*9s" filename="2022-02-15-instant-ramen-taikai-hand6.png" /> }}
+![1s_1s_3\*33s_44\*4s_888\*s_99\*9s](/assets/images/2022-02-15-instant-ramen-taikai-hand6.png)
 
 Jesli liczymy kinkei dokuritsu, to ta ręka to tylko mangan.
 Zamiast tego powinniśmy policzyć tu chinitsu toitoi, warty hanemana.

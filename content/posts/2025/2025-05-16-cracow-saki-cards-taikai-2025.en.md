@@ -10,7 +10,7 @@ categories = ["tournaments"]
 
 We invite you to the second-ever Polish tournament using Saki Cards!
 
-{{ <figure alt="Kraków Saki Cards Taikai 2025" filename="2025-07-26-saki-cards-taikai.png" /> }}
+![Kraków Saki Cards Taikai 2025](/assets/images/2025-07-26-saki-cards-taikai.png)
 
 ## About {#about}
 

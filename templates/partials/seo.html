@@ -12,7 +12,7 @@
 {%- endif -%}
 {%- set canonical_url = config.base_url ~ url_path -%}
 {%- set og_url = config.base_url ~ lang_prefix ~ current_path -%}
-{#- Excerpt: the first paragraph; empty when the post opens with something else (e.g. a figure). -#}
+{#- Excerpt: the first paragraph; empty when the post opens with something else (e.g. an image). -#}
 {%- if is_page and page.description -%}
   {%- set seo_description = page.description -%}
 {%- elif is_page and page.date -%}

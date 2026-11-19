@@ -60,12 +60,16 @@ categories = ["other"]
 
 Pages follow the same pattern (`content/pages/about.md` with `path = "about"`, `about.en.md` with `path = "en/about"`, `template = "page.html"`).
 
+## Images
+
+Use plain Markdown: `![alt](/assets/images/foo.jpg)`. An image alone in its paragraph is styled as a figure, and an italic line right below it as its caption (CSS only, in `sass/assets/css/_content.scss`). Escape `*` in alt text (`\*`), or Markdown reads it as emphasis.
+
 ## Components
 
 Tera v2 has no shortcodes or macros. Reusable markup is written as components (`{% component name(...) %}` in `templates/components.html`) and can be called from templates and Markdown, e.g.:
 
 ```
-{{ <figure alt="..." filename="foo.jpg" /> }}
+{{ <footer_link label="Discord" links={config.extra.footer_links} /> }}
 ```
 
 Components are hygienic: pass everything they need explicitly. When used in Markdown they must not emit indented or blank lines, or CommonMark turns the output into a code block.

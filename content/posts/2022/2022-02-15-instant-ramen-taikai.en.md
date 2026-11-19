@@ -8,7 +8,7 @@ template = "post.html"
 categories = ["tournaments"]
 +++
 
-{{ <figure alt="Instant Ramen Taikai" filename="2022-02-15-instant-ramen-taikai.png" /> }}
+![Instant Ramen Taikai](/assets/images/2022-02-15-instant-ramen-taikai.png)
 
 It's time for the first chicken-flavored riichi tournament in Kraków!
 The tournament will be held on 3rd April 2022 in [Boardowa Cafe](http://boardowa.pl/)
@@ -61,29 +61,29 @@ The ruleset is **EMA 2016 with the following modifications:**
 
 ### Examples {#examples}
 
-{{ <figure alt="111123444m6z_6z_111*s" filename="2022-02-15-instant-ramen-taikai-hand1.png" /> }}
+![111123444m6z_6z_111\*s](/assets/images/2022-02-15-instant-ramen-taikai-hand1.png)
 
 The hand above is a honitsu in manzu + fanpai kura.
 
-{{ <figure alt="111s333s9s_9s_4*56s_7*65s" filename="2022-02-15-instant-ramen-taikai-hand2.png" /> }}
+![111s333s9s_9s_4\*56s_7\*65s](/assets/images/2022-02-15-instant-ramen-taikai-hand2.png)
 
 This hand does not use the bird of honor rule, because then it would count only as honitsu + kura;
 instead, this hand is a "standard" chinitsu in souzu.
 
-{{ <figure alt="111s1z_1z_4*44z_55*5**5z_7*77z" filename="2022-02-15-instant-ramen-taikai-hand3.png" /> }}
+![111s1z_1z_4\*44z_55\*5\*\*5z_7\*77z](/assets/images/2022-02-15-instant-ramen-taikai-hand3.png)
 
 This hand is yakuman tsuuiisou.
 
-{{ <figure alt="123345678m11s34s_2s" filename="2022-02-15-instant-ramen-taikai-hand4.png" /> }}
+![123345678m11s34s_2s](/assets/images/2022-02-15-instant-ramen-taikai-hand4.png)
 
 If we count the 1s as pair as a honor pair, we get 2 fu.
 It is better to instead count it as a pair of normal tiles, which gets us pinfu.
 
-{{ <figure alt="1s_1s_2*34m_555*z_7*77s_8*79p" filename="2022-02-15-instant-ramen-taikai-hand5.png" /> }}
+![1s_1s_2\*34m_555\*z_7\*77s_8\*79p](/assets/images/2022-02-15-instant-ramen-taikai-hand5.png)
 
 This is just a kinkei dokuritsu, worth a mangan - we ignore the white dragon.
 
-{{ <figure alt="1s_1s_3*33s_44*4s_888*s_99*9s" filename="2022-02-15-instant-ramen-taikai-hand6.png" /> }}
+![1s_1s_3\*33s_44\*4s_888\*s_99\*9s](/assets/images/2022-02-15-instant-ramen-taikai-hand6.png)
 
 If we count kinkei dokuritsu, then this hand is only a mangan.
 We should instead count it as chinitsu toitoi, worth a haneman.

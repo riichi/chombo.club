@@ -28,4 +28,4 @@ Lastly, if you would like to support our activities you can do it via bank trans
 
 Thank you very kindly for the donations!
 
-{{ <figure alt="Our headquarters" filename="2024-07-27-headquarters.jpg" /> }}
+![Our headquarters](/assets/images/2024-07-27-headquarters.jpg)

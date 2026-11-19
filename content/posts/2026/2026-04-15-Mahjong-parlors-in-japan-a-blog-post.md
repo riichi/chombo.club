@@ -18,12 +18,12 @@ Jest to jeden z najpopularniejszych salonów wśród obcokrajowców. Gra się ta
 
 W lokalu bywa dość głośno, ogłoszenia obsługi momentami bywały bardzo nachalne. Baza graczy jest zróżnicowana, od całkowicie początkujących po doświadczonych graczy. Będąc gaijinem, najprawdopodobniej zostaniesz przydzielony do stołu dla początkujących. Aby ułatwić punktację, każdy stół wyposażony jest zarówno w cyfrowy wyświetlacz punktów, jak i tabelkę z punktami na każdym z czterech brzegów. Wewnątrz dozwolone jest palenie e-papierosów, więc może trochę śmierdzieć. Po zajęciu miejsca zazwyczaj rozgrywa się kilka hanchanów w tym samym gronie, co czasami jest nieco monotonne.
 
-{{ <figure alt="Parlor Bellbird Shinbashi" filename="2026-04-15-bellbird-shinbashi.jpg" /> }}
+![Parlor Bellbird Shinbashi](/assets/images/2026-04-15-bellbird-shinbashi.jpg)
 
 ### Bellbird Shinbashi Grow {#bellbird-shinbashi-grow}
 Zazwyczaj ten dodatkowy lokal przeznaczony jest wyłącznie dla stołów typu „set” (wynajęcie stołu dla zorganizowanej czteroosobowej grupy). Jednak w jeden z weekendów mojego pobytu główny salon był zamknięty, najprawdopodobniej z powodu prywatnej imprezy i w zastępstwie otwarto tutaj gry free play no-rate gry. Ogólne wrażenia były niemal identyczne jak w głównym salonie Bellbird Shinbashi.
 
-{{ <figure alt="Salon Bellbird Shinbashi Grow" filename="2026-04-15-bellbird-grow.jpg" /> }}
+![Salon Bellbird Shinbashi Grow](/assets/images/2026-04-15-bellbird-grow.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ Lokal ten jest znacznie tańszy od innych opcji, a dodatkowo oferuje zniżki dla
 
 Gry trwają godzinę i odbywają się od 17:00 do 23:00, 7 hanchanów dziennie. To, co spodobało mi się tutaj bardziej niż w innych parlorach to fakt, że co hanchan gramy z innymi ludźmi, ponieważ składy przy stołach są rotowane. Dodatkowo, w przeciwieństwie do innych miejsc, haipai dobiera się ręcznie z zbudowanego muru; chociaż stoły posiadają funkcję automatycznego rozdawania, tutaj jej nie używają.
 
-{{ <figure alt="Salon JPML Dojo" filename="2026-04-15-jpml-dojo.jpg" /> }}
+![Salon JPML Dojo](/assets/images/2026-04-15-jpml-dojo.jpg)
 
 ---
 
@@ -53,8 +53,9 @@ Ten salon mocno przypomina Bellbird, jednak jest mniej dostosowany do początkuj
 
 Komunikacja z obsługą jest w pełni możliwa przy użyciu podstawowego angielskiego oraz Tłumacza. Tutaj zdobyłem też swojego jedynego yakumana na wyjeździe, udało mi się ułożyć kokushi! Podsumowując, ogólnie rzecz biorąc wolałem ten salon od Bellbird, głównie dlatego, że jest w nim znacznie ciszej.
 
-{{ <figure alt="Salon ML Stadium" filename="2026-04-15-ml-stadium.jpg" /> }}
-{{ <figure alt="Yakuman Kokushi Musou w ML Stadium" filename="2026-04-15-ml-stadium-yakuman.jpg" /> }}
+![Salon ML Stadium](/assets/images/2026-04-15-ml-stadium.jpg)
+
+![Yakuman Kokushi Musou w ML Stadium](/assets/images/2026-04-15-ml-stadium-yakuman.jpg)
 
 ---
 
@@ -67,7 +68,7 @@ Wspomniana waluta dzieli się na *mame* oraz *tsubu* (1 *mame* to równowartoś�
 
 Zasady uwzględniają shuugi  za ippatsu, ura dory, a także shiro pocchi, który pełni funkcję uniwersalnego kamienia na wygraną przez tsumo gdy jesteś w riichi. Na miejsce przybyłem z przygotowaną zawczasu przetłumaczoną wiadomością wyjaśniającą, że potrafię grać i poprawnie liczyć punkty. Obsługa na początku była zaskoczona, jednak po upewnieniu się, że rozumiem zasady, bez problemu pozwolono mi dołączyć do gry. Wszyscy byli niezwykle przyjaźni i bardzo ciekawi zagranicznego gracza. Co niezwykle istotne, punktacja jest uproszczona, eliminuje konieczność obliczania fu.
 
-{{ <figure alt="Salon 2mame" filename="2026-04-15-2mame.jpg" /> }}
+![Salon 2mame](/assets/images/2026-04-15-2mame.jpg)
 
 ## Podsumowanie i rekomendacje {#podsumowanie-i-rekomendacje}
 

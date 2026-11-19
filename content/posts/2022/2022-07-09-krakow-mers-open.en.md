@@ -11,7 +11,7 @@ categories = ["tournaments"]
 
 We invite you to the first MERS tournament in Kraków!
 
-{{ <figure alt="Kraków MERS Open 2022" filename="2022-10-08-mers-open.png" /> }}
+![Kraków MERS Open 2022](/assets/images/2022-10-08-mers-open.png)
 
 ## About {#about}
 

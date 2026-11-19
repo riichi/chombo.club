@@ -10,7 +10,7 @@ categories = ["tournaments"]
 
 Zapraszamy na turniej Riichi Mahjong organizowany we współpracy z Upper Silesian Mahjong Association w ramach cyklu USMA Cup!
 
-{{ <figure alt="USMA Cup: Kraków Riichi Open 2026" filename="2026-06-25-krakow-riichi-open-2026.png" /> }}
+![USMA Cup: Kraków Riichi Open 2026](/assets/images/2026-06-25-krakow-riichi-open-2026.png)
 
 ## O turnieju {#o-turnieju}
 

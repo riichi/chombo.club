@@ -17,12 +17,12 @@ This is one of the most popular parlors for Westerners. They play M-League rules
 
 The room can get quite loud, and the staff announcements felt a bit intrusive. The player base is diverse, ranging from beginners to highly experienced players. As a foreigner, you are more likely to be seated at a beginner's table. To assist with scoring, every table features both a digital scoring display and a physical scoring table on all four sides to help you determine exactly how much to pay. E-cigarettes are permitted indoors, so be prepared for the smell. Once seated, you will typically play multiple *hanchan* with the same group, which can occasionally feel repetitive.
 
-{{ <figure alt="Bellbird Shinbashi parlor" filename="2026-04-15-bellbird-shinbashi.jpg" /> }}
+![Bellbird Shinbashi parlor](/assets/images/2026-04-15-bellbird-shinbashi.jpg)
 
 ### Bellbird Shinbashi Grow {#bellbird-shinbashi-grow}
 Normally, this sub-location is strictly for "set" tables (renting a table for a pre-arranged group of four). However, during one weekend of my stay, the main store was closed—likely for a private event—and no-rate games were hosted here instead. The overall experience was nearly identical to the main Bellbird Shinbashi location.
 
-{{ <figure alt="Bellbird Shinbashi Grow parlor" filename="2026-04-15-bellbird-grow.jpg" /> }}
+![Bellbird Shinbashi Grow parlor](/assets/images/2026-04-15-bellbird-grow.jpg)
 
 ---
 
@@ -41,7 +41,7 @@ It is significantly cheaper than other options, offering discounts for students 
 
 The games are one hour long and run from 17:00 to 23:00, allowing for up to seven games daily. What I liked here more than other parlors is that you play with different players every game as the tables are rotated. Also, unlike most parlors, you draw your hand manually from the built walls; while the tables have an auto-deal feature, they choose not to use it here.
 
-{{ <figure alt="JPML Dojo parlor" filename="2026-04-15-jpml-dojo.jpg" /> }}
+![JPML Dojo parlor](/assets/images/2026-04-15-jpml-dojo.jpg)
 
 ---
 
@@ -52,9 +52,9 @@ This parlor is similar to Bellbird but less tailored to beginners. The games her
 
 Communication with the staff is manageable using basic English and Google Translate. One of the highlights of my trip happened here, I managed to score a *kokushi musou*! Overall, I generally preferred this parlor over Bellbird, largely because it is significantly quieter.
 
-{{ <figure alt="ML Stadium parlor" filename="2026-04-15-ml-stadium.jpg" /> }}
+![ML Stadium parlor](/assets/images/2026-04-15-ml-stadium.jpg)
 
-{{ <figure alt="Kokushi Musou Yakuman at ML Stadium" filename="2026-04-15-ml-stadium-yakuman.jpg" /> }}
+![Kokushi Musou Yakuman at ML Stadium](/assets/images/2026-04-15-ml-stadium-yakuman.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ The currency consists of *mame* and *tsubu* (1 *mame* equals 10 *tsubu*, and 1 *
 
 The rules include *shuugi* (tips) for *ippatsu* and *ura dora*, and a *shiro pocchi* (white dragon with a dot) that acts as an all-purpose tile on a *tsumo* win after declaring *riichi*. I arrived with a pre-translated message explaining my ability to play and score. The staff were initially surprised, but after ensuring I understood the rules, they allowed me to join. Everyone was incredibly friendly and curious about a foreign player. Notably, the score sheet is simplified to remove *fu* calculations entirely.
 
-{{ <figure alt="2mame parlor" filename="2026-04-15-2mame.jpg" /> }}
+![2mame parlor](/assets/images/2026-04-15-2mame.jpg)
 
 ## Summary and Recommendations {#summary-and-recommendations}
 

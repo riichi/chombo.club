@@ -35,7 +35,6 @@
   blockquote,
   pre,
   table,
-  figure,
   iframe {
     margin-top: 0;
     margin-bottom: 18px;
@@ -60,16 +59,19 @@
     border-radius: var(--radius-sm);
   }
 
-  figure {
+  // An image alone in a top-level paragraph is laid out as a figure.
+  // :where() keeps the specificity of `> p`, so `> :first-child` still removes the top margin.
+  > p:where(:has(> img:only-child)) {
     margin: 28px 0;
 
-    img {
+    > img {
       display: block;
       margin: 0 auto;
     }
   }
 
-  figure + p > em:only-child {
+  // An italic line right below such an image is its caption.
+  > p:where(:has(> img:only-child)) + p > em:only-child {
     display: block;
     margin-top: -16px;
     color: var(--muted);

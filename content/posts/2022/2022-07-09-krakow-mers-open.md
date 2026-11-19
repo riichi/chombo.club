@@ -11,7 +11,7 @@ categories = ["tournaments"]
 
 Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 
-{{ <figure alt="Kraków MERS Open 2022" filename="2022-10-08-mers-open.png" /> }}
+![Kraków MERS Open 2022](/assets/images/2022-10-08-mers-open.png)
 
 ## O turnieju {#o-turnieju}
 

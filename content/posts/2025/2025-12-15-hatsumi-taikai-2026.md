@@ -11,7 +11,7 @@ categories = ["tournaments"]
 
 Zapraszamy Was na trzeci turniej MERS w Krakowie!
 
-{{ <figure alt="Hatsumi Taikai" filename="2025-12-15-hatsumi-taikai-2026.png" /> }}
+![Hatsumi Taikai](/assets/images/2025-12-15-hatsumi-taikai-2026.png)
 
 ## O turnieju {#o-turnieju}
 

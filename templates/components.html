@@ -54,10 +54,6 @@
 {%- endcomponent nav_items %}
 
 {#- Content components (used from Markdown). -#}
-{% component figure(alt: string, filename: string) -%}
-<figure><img src="/assets/images/{{ filename }}" alt="{{ alt }}" /></figure>
-{%- endcomponent figure %}
-
 {#- URL of the footer link with the given label (config.extra.footer_links); unknown labels fail the build. -#}
 {% component footer_link(label: string, links: array) -%}
 {%- set_global found = "" -%}

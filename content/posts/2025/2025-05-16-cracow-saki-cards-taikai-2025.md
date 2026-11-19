@@ -10,7 +10,7 @@ categories = ["tournaments"]
 
 Zapraszamy Was na drugi w Polsce turniej mahjonga z Saki Kartami!
 
-{{ <figure alt="Kraków Saki Cards Taikai 2025" filename="2025-07-26-saki-cards-taikai.png" /> }}
+![Kraków Saki Cards Taikai 2025](/assets/images/2025-07-26-saki-cards-taikai.png)
 
 ## O turnieju {#o-turnieju}
 
