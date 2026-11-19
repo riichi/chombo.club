@@ -1,8 +1,12 @@
----
-title:  "Podstawy Rīchi Mahjonga — drugi odcinek już na YouTube!"
-date:   2020-10-03 13:30:42 +0100
-categories: other
----
++++
+title = "Podstawy Rīchi Mahjonga — drugi odcinek już na YouTube!"
+date = 2020-10-03T13:30:42+01:00
+path = "other/2020/10/03/mahjong-basics-02"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 
 Drugi odcinek naszej serii filmów o podstawach rīchi mahjonga znalazł się na [kanale Krakowskiego Klubu Chombo na YouTube.](https://www.youtube.com/channel/UCCsyYLtIHOPfZtL1o-iNzNA). Pokazujemy na nim, w jaki sposób poprawnie przygotować grę, to znaczy: usadzić graczy, przygotować mur, rozdać punkty, oraz dobrać ręce startowe.
 

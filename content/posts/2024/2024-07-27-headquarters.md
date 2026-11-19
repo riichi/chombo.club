@@ -1,9 +1,13 @@
----
-title:  "Mamy siedzibę!"
-date:   2024-07-27 19:21:00 +0100
-last_modified_at: 2026-09-07 17:50:00 +0100
-categories: other
----
++++
+title = "Mamy siedzibę!"
+date = 2024-07-27T19:21:00+01:00
+updated = 2026-09-07T17:50:00+01:00
+path = "other/2024/07/27/headquarters"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 
 Jak być może już wiecie, udało nam się pozyskać siedzibę. Teraz nadeszła pora na ogłoszenie regularnych spotkań, które będą się w niej odbywać!
 
@@ -23,4 +27,4 @@ Na koniec — utrzymanie siedziby swoje kosztuje, więc gdyby ktoś z Was miał 
 
 Za wszystkie darowizny z góry serdecznie dziękujemy!
 
-{% include figure.html alt="Siedziba Stowarzyszenia" filename="2024-07-27-headquarters.jpg" %}
+{{ <figure alt="Siedziba Stowarzyszenia" filename="2024-07-27-headquarters.jpg" /> }}

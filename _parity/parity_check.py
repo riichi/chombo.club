@@ -34,6 +34,7 @@ import difflib
 import json
 import re
 import sys
+import urllib.parse
 from pathlib import Path
 
 import lxml.etree as etree
@@ -100,8 +101,17 @@ def drop(node):
     parent.remove(node)
 
 
+def attr_value(k, v):
+    if k == "class":
+        return ws(v)
+    if k in ("href", "src"):
+        # pulldown-cmark percent-encodes non-ASCII URLs, kramdown doesn't; browsers treat both the same
+        return urllib.parse.unquote(v)
+    return v
+
+
 def attrs(el):
-    return " ".join(f'{k}="{ws(v) if k == "class" else v}"' for k, v in sorted(el.attrib.items()))
+    return " ".join(f'{k}="{attr_value(k, v)}"' for k, v in sorted(el.attrib.items()))
 
 
 def text_line(s, depth, lines, keep):

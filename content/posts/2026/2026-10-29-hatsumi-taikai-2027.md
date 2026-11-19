@@ -1,15 +1,19 @@
----
-title:  "Hatsumi Taikai 2027"
-date:   2026-10-29 20:00:00 +0100
-categories: tournaments
----
++++
+title = "Hatsumi Taikai 2027"
+date = 2026-10-29T20:00:00+01:00
+path = "tournaments/2026/10/29/hatsumi-taikai-2027"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 Zapraszamy Was na czwarty turniej MERS w Krakowie!
 
 <!-- TODO: dodać grafikę 2026-10-29-hatsumi-taikai-2027.png (lub podmienić nazwę pliku poniżej) -->
-{% include figure.html alt="Hatsumi Taikai 2027" filename="2026-10-29-hatsumi-taikai-2027.png" %}
+{{ <figure alt="Hatsumi Taikai 2027" filename="2026-10-29-hatsumi-taikai-2027.png" /> }}
 
-## O turnieju
+## O turnieju {#o-turnieju}
 
 * Data: 20-21 lutego 2027 (sobota-niedziela)
 * Miejsce: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
@@ -19,7 +23,7 @@ Zapraszamy Was na czwarty turniej MERS w Krakowie!
 * Wpisowe: ok. 220 PLN, płatne przelewem
     - Dokładną kwotę i dane do przelewu podamy później.
     - Istnieje możliwość skorzystania ze zniżki członkowskiej Polskiej Ligi Mahjonga - jeżeli chcesz z niej skorzystać, zaznacz to w formularzu rejestracji i po prostu wyślij nam przelew na kwotę mniejszą o 50 PLN. Pamiętaj, że musisz być aktywnym członkiem PLM z opłaconą składką.
-    - Płatność do **31 stycznia 2027**{% comment %} TODO: odkryć dane do przelewu, gdy będzie znana dokładna kwota
+    - Płatność do **31 stycznia 2027**{# TODO: odkryć dane do przelewu, gdy będzie znana dokładna kwota
     - Nr konta: `71 1870 1045 2078 1088 3294 0001`
     - Nazwa odbiorcy:
       ```
@@ -31,8 +35,7 @@ Zapraszamy Was na czwarty turniej MERS w Krakowie!
     - Tytuł:
       ```
       <imię i nazwisko> - wpisowe Hatsumi Taikai 2027
-      ```{% endcomment %}
-
+      ```#}
 * Limit osób: 84
 * Obserwator EMA: *do ogłoszenia*
 * Sędziowie: *do ogłoszenia*
@@ -46,7 +49,7 @@ który w momencie turnieju nie ma jeszcze kwalifikacji, otrzyma dziką kartę na
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-## Agenda
+## Agenda {#agenda}
 
 Wstępny harmonogram &mdash; godziny mogą jeszcze ulec niewielkim zmianom.
 
@@ -117,14 +120,14 @@ Wstępny harmonogram &mdash; godziny mogą jeszcze ulec niewielkim zmianom.
 
 
 
-{% comment %}
+{#
 TODO: zaktualizować dojazd (tramwaj 20 zawieszony, 50 przemianowany / inna trasa, kursuje linia zastępcza)
 
 ## Dojazd
 
-<a href="/assets/images/mers-2026-map.png">
+<p><a href="/assets/images/mers-2026-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Mapa dojazdu" />
-</a>
+</a></p>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
 najbliższy przystanek to **Zabłocie**, przykładowe
@@ -142,11 +145,11 @@ Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
-{% endcomment %}
+#}
 
 
 
-## Rejestracja
+## Rejestracja {#rejestracja}
 
 * Otwarcie rejestracji: **14 listopada 2026, godz. 19:00**
 * Zamknięcie rejestracji: **31 stycznia 2027**
@@ -157,17 +160,17 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 **UWAGA:** Rejestracja zostanie zamknięta 31 stycznia &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
-### Lista oczekujących
+### Lista oczekujących {#lista-oczekujących}
 
 Po osiągnięciu limitu 84 osób kolejne zgłoszenia trafiają na listę oczekujących. Jeśli któryś
 z zarejestrowanych graczy zrezygnuje, zwolnione miejsce otrzyma pierwsza osoba z listy oczekujących
 (według kolejności zgłoszeń) &mdash; poinformujemy ją o tym bezpośrednio.
 
-### Rezygnacja i odwołanie turnieju
+### Rezygnacja i odwołanie turnieju {#rezygnacja-i-odwołanie-turnieju}
 
 * W przypadku rezygnacji z udziału do 31 stycznia 2027 zwracamy wpisowe.
 * W przypadku odwołania turnieju przez organizatorów wpisowe zostanie zwrócone w całości.
 
-## Gracze
+## Gracze {#gracze}
 
 <iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdxfSRbtexPrWTZDJHDEPkhvz5reGeW-GglD_JMuo_DnpyIV5i_8bhOtkLLdoBe49QP6SShxZwVWO2/pubhtml?gid=1911360483&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>

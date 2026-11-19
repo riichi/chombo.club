@@ -1,15 +1,19 @@
----
-title:  "Hatsumi Taikai 2026"
-date:   2025-12-15 20:00:00 +0200
-last_modified_at: 2026-01-17 12:00:00 +0200
-categories: tournaments
----
++++
+title = "Hatsumi Taikai 2026"
+date = 2025-12-15T20:00:00+02:00
+updated = 2026-01-17T12:00:00+02:00
+path = "tournaments/2025/12/15/hatsumi-taikai-2026"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 Zapraszamy Was na trzeci turniej MERS w Krakowie!
 
-{% include figure.html alt="Hatsumi Taikai" filename="2025-12-15-hatsumi-taikai-2026.png" %}
+{{ <figure alt="Hatsumi Taikai" filename="2025-12-15-hatsumi-taikai-2026.png" /> }}
 
-## O turnieju
+## O turnieju {#o-turnieju}
 
 * Data: 14-15 lutego 2026 (sobota-niedziela)
 * Miejsce: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
@@ -31,7 +35,6 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
       ```
       <imię i nazwisko> - wpisowe Hatsumi Taikai 2026
       ```
-
 * Limit osób: 64
 * Obserwator EMA: Ivar Bouwman
 * Sędziowie:
@@ -49,7 +52,7 @@ Zapraszamy Was na trzeci turniej MERS w Krakowie!
 Punkty będą śledzone za pomocą mobilnej aplikacji [Mahjong Tracker](https://mahjongtracker.com/) - polecamy zapoznać się
 z jej działaniem przed turniejem.
 
-## Agenda
+## Agenda {#agenda}
 
 
 <table class="tournament-agenda">
@@ -119,11 +122,11 @@ z jej działaniem przed turniejem.
 
 
 
-## Dojazd
+## Dojazd {#dojazd}
 
-<a href="/assets/images/mers-2026-map.png">
+<p><a href="/assets/images/mers-2026-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Mapa dojazdu" />
-</a>
+</a></p>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
 najbliższy przystanek to **Zabłocie**, przykładowe
@@ -144,7 +147,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 
 
-## Rejestracja
+## Rejestracja {#rejestracja}
 
 **UWAGA:** Obecnie lista zawodników jest pełna &mdash; nadal jednak można zapisać się na listę oczekujących i wziąć udział w turnieju, jeśli któryś z zarejestrowanych graczy zrezygnuje.
 
@@ -153,6 +156,6 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 **UWAGA:** Rejestracja zostanie zamknięta 31 stycznia &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
-## Gracze
+## Gracze {#gracze}
 
 <iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=495684573&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>

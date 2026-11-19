@@ -2,6 +2,11 @@
 {% block layout %}post{% endblock %}
 {% block content %}
 {%- set tz = config.extra.timezone -%}
+{#- Guard: a post's explicit path must be /<category>/<Warsaw date>/<slug>/ (Jekyll permalink shape). -#}
+{%- set expected_prefix = "/" ~ post_category ~ "/" ~ (page.date | date(format="%Y/%m/%d", timezone=tz)) ~ "/" -%}
+{%- if not current_path is starting_with(pat=expected_prefix) -%}
+{{ throw(message="Post " ~ page.relative_path ~ ": path " ~ current_path ~ " does not match its date and category (expected " ~ expected_prefix ~ "<slug>/)") }}
+{%- endif -%}
 {%- include "partials/breadcrumbs.html" %}
 
 <div data-pagefind-body>
@@ -22,16 +27,23 @@
   </div>
 </div>
 
-{%- if page.lower or page.higher %}
+{#- Older/newer post by date. page.lower/higher stay empty with transparent sections, so look it up in posts/ (newest first). -#}
+{%- set posts_section = get_section(path="posts/_index.md", lang=page.lang) -%}
+{%- set all_posts = posts_section.pages -%}
+{%- for p in all_posts -%}
+{%- if p.path == page.path -%}
+{%- set newer = none if loop.first else all_posts[loop.index0 - 1] -%}
+{%- set older = none if loop.last else all_posts[loop.index0 + 1] %}
 <div class="wrap">
   <nav class="post-nav" aria-label="{{ t.post_nav_label }}">
-    {%- if page.lower %}
-    <a href="{{ page.lower.path }}"><small>← {{ t.post_older }}</small><strong>{{ page.lower.title }}</strong></a>
+    {%- if older %}
+    <a href="{{ older.path }}"><small>← {{ t.post_older }}</small><strong>{{ older.title }}</strong></a>
     {%- endif %}
-    {%- if page.higher %}
-    <a class="post-nav__next" href="{{ page.higher.path }}"><small>{{ t.post_newer }} →</small><strong>{{ page.higher.title }}</strong></a>
+    {%- if newer %}
+    <a class="post-nav__next" href="{{ newer.path }}"><small>{{ t.post_newer }} →</small><strong>{{ newer.title }}</strong></a>
     {%- endif %}
   </nav>
 </div>
-{%- endif %}
+{%- endif -%}
+{%- endfor %}
 {% endblock %}

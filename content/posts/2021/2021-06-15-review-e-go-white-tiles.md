@@ -1,14 +1,18 @@
----
-title:  "Ekwipunek: recenzja zestawu białego z e-go.pl"
-date:   2021-06-15 8:00:00 +0100
-last_modified_at: 2024-03-09 11:54:21 +0100
-categories: other
----
++++
+title = "Ekwipunek: recenzja zestawu białego z e-go.pl"
+date = 2021-06-15T08:00:00+01:00
+updated = 2024-03-09T11:54:21+01:00
+path = "other/2021/06/15/review-e-go-white-tiles"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 
 Cześć! Tutaj Michał Herda z Krakowskiego Klubu Chombo. Dzisiaj prezentuję recenzję [zestawu do mahjonga japońskiego](https://www.e-go.pl/mahjong/japonski-mahjong-bialy.html) z internetowego sklepu [e-go.pl](http://e-go.pl/). Zestaw w momencie zakupu kosztował 269 PLN (stan na marzec 2024: 449 PLN) i zawiera kamienie oraz akcesoria do gry w mahjonga japońskiego.
 W trakcie recenzji zestaw będę tu i ówdzie porównywał do (porządnie już zużytego) egzemplarza [zestawu produkcji polskiej firmy Grapet](https://www.ceneo.pl/35993142).
 
-## Przegląd
+## Przegląd {#przegląd}
 
 ![](/assets/images/review-e-go-white/001-001.jpg)
 
@@ -66,7 +70,7 @@ Ciekawostka: w tym zestawie dwójka, czwórka, oraz szóstka bambusów nie są s
 
 Kółka wyglądają przyzwoicie z jednym zastrzeżeniem (czy jesteście w stanie je już tu zauważyć?) – ale o nim więcej w następnym rozdziale.
 
-## Cechy, wady i zalety
+## Cechy, wady i zalety {#cechy-wady-i-zalety}
 
 Zestaw jest jednokolorowy, co oznacza, że odrzucanie białych smoków w sposób kulturalny wymaga dodatkowego obrócenia odrzucanego kamienia; pojawia się również drobny zgrzyt w sytuacji, gdy biały smok jest wyznacznikiem dory, gdyż ta sytuacja wygląda dokładnie tak samo, jak ta, gdy dora nie jest odwrócona.
 
@@ -94,13 +98,13 @@ Na tym zdjęciu widać drobne przebarwienia i ubytki farby w okolicy żłobień 
 
 Na tym zdjęciu widać coś, co początkowo uznałem za przebarwienia pochodzące z farby – ale później okazało się, że są to spękania wewnątrz kamienia pochodzące z okolic, w których odlewany w kamieniu był symbol Wschodu.
 
-## Wrażenia z gry
+## Wrażenia z gry {#wrażenia-z-gry}
 
 ![](/assets/images/review-e-go-white/003-001.jpg)
 
 Kamienie zostały ograne raz przez w sumie pięć osób (w tym mnie) i nasze wrażenia były ogólnie pozytywne. Kamienie są przyjemne i gładkie (a nawet śliskie!) w dotyku, miesza i ustawia się je bez problemu. Wcześniej wspomniana zaleta, to jest równość kamieni, pomaga w ustawianiu muru.
 
-## Podsumowanie
+## Podsumowanie {#podsumowanie}
 
 Te kamienie mnie do siebie przekonały, i to pomimo tego, że zwykle gram na cięższych AMOS MAXach i to do nich jestem przyzwyczajony. Jakość wykonania kamieni jest dobra, również biorąc pod uwagę cenę zestawu; dodatkowym plusem jest niecodzienna szkatuła służąca za opakowanie zestawu. Wspomniane wcześniej ubytki i wady dotyczą jedynie drobnych kwestii estetycznych i nie wpływają w żaden sposób na radość z gry.
 

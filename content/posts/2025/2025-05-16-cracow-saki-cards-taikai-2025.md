@@ -1,14 +1,18 @@
----
-title:  "Kraków Saki Cards Taikai 2025"
-date:   2025-05-17 16:00:00 +0200
-categories: tournaments
----
++++
+title = "Kraków Saki Cards Taikai 2025"
+date = 2025-05-17T16:00:00+02:00
+path = "tournaments/2025/05/17/cracow-saki-cards-taikai-2025"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 Zapraszamy Was na drugi w Polsce turniej mahjonga z Saki Kartami!
 
-{% include figure.html alt="Kraków Saki Cards Taikai 2025" filename="2025-07-26-saki-cards-taikai.png" %}
+{{ <figure alt="Kraków Saki Cards Taikai 2025" filename="2025-07-26-saki-cards-taikai.png" /> }}
 
-## O turnieju
+## O turnieju {#o-turnieju}
 
 * Data: 26 lipca 2025 (sobota)
 * Miejsce: [Siedziba Krakowskiego Klubu Chombo](https://maps.app.goo.gl/g6bFtG5Zi9b4SSH37)
@@ -34,27 +38,26 @@ Zapraszamy Was na drugi w Polsce turniej mahjonga z Saki Kartami!
 * Obiad: we własnym zakresie
 * Punktacja: Patyki puntkowe
 
-## Zasady
+## Zasady {#zasady}
 
 Zasady to **EMA 2016 z następującymi modyfikacjami:**
 
-### Kazoe Yakuman
+### Kazoe Yakuman {#kazoe-yakuman}
 
 Ręka z trzynastoma lub więcej han jest liczona jako yakuman.
 
-### Dodatkowe yaku: Nagashi Mangan (流し満貫)
+### Dodatkowe yaku: Nagashi Mangan (流し満貫) {#dodatkowe-yaku-nagashi-mangan-流し満貫}
 
 * Zdobyte jeśli podczas ryuukyoku gracz spełnia wszystkie poniższe warunki:
   * Wszystkie widoczne odrzuty to 1, 9 lub honory
   * Żaden kamień odrzucony przez gracza nie został zameldowany
   * Gracz ma zamkniętą rękę
-
 * Zawsze warte 5 han (mangan), nie łączy się z innymi yaku i dorami.
 
-### Czerwone Piątki
+### Czerwone Piątki {#czerwone-piątki}
 W grze są 3 czerwone piątki, po jednej w każdym kolorze.
 
-### Saki Karty 1.3
+### Saki Karty 1.3 {#saki-karty-13}
 
 Przed rozpoczęciem gry pierwszy oya rozdaje każdemu graczowi po 7 kart z talii,
 każdy gracz wybiera jedną kartę, po czym podaje resztę graczowi po prawej, aż każdy gracz będzie miał 6 kart na ręce. Pozostałe karty odrzucamy.
@@ -68,7 +71,7 @@ W talii znajdują się 63 karty, każda z unikalną umiejętnością.
 
 Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tutaj [Rulebook Saki Kart](https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing)
 
-## Agenda
+## Agenda {#agenda}
 
 <table class="tournament-agenda">
   <thead>
@@ -123,7 +126,7 @@ Wszystkie Saki Karty możecie zobaczyć [tutaj](https://t.co/cV5TU1qJVW), a tuta
 </table>
 
 
-## Rejestracja
+## Rejestracja {#rejestracja}
 
 
 **[Zapisy na turniej](https://forms.gle/iW9FoEAnQ1fFFN5WA)**

@@ -99,6 +99,15 @@ class HtmlTests(Fixture):
             '<script type="application/ld+json">{"a":2}</script>',
         ))
 
+    def test_percent_encoded_link_equals_unicode_link(self):
+        self.assertClean(self.pair(
+            "index.html",
+            '<a href="https://x.pl/Japoński?q=ÅM">a</a>',
+            '<a href="https://x.pl/Japo%C5%84ski?q=%C3%85M">a</a>',
+        ))
+        self.assertDiffers(self.pair(
+            "index.html", '<a href="https://x.pl/a">a</a>', '<a href="https://x.pl/b">a</a>'))
+
     def test_footer_year_ignored(self):
         self.assertClean(self.pair(
             "index.html",

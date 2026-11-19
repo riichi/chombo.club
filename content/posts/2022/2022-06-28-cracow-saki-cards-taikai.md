@@ -1,14 +1,18 @@
----
-title:  "Kraków Saki Cards Taikai 2022"
-date:   2022-06-27 21:00:00 +0200
-categories: tournaments
----
++++
+title = "Kraków Saki Cards Taikai 2022"
+date = 2022-06-27T21:00:00+02:00
+path = "tournaments/2022/06/27/cracow-saki-cards-taikai"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie się już 14 sierpnia 2022 w kawiarni Boardowa.
 
-{% include figure.html alt="Kraków Saki Cards Taikai" filename="2022-08-14-saki-cards-taikai.png" %}
+{{ <figure alt="Kraków Saki Cards Taikai" filename="2022-08-14-saki-cards-taikai.png" /> }}
 
-## O turnieju
+## O turnieju {#o-turnieju}
 
 * Data: 14 sierpnia 2022 (niedziela)
 * Miejsce: [Boardowa, ul. Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
@@ -21,25 +25,23 @@ Zapraszamy Was na pierwszy w Polsce turniej mahjonga z Saki Kartami! Odbędzie s
 * Punktacja: Patyki punktowe
 * Początkowe punkty: 30000
 
-## Zasady
+## Zasady {#zasady}
 
 Zasady to **EMA 2016 z następującymi modyfikacjami:**
 
-### Kazoe Yakuman
+### Kazoe Yakuman {#kazoe-yakuman}
 
 Ręka z trzynastoma lub więcej han jest liczona jako yakuman.
 
-### Dodatkowe yaku: Nagashi Mangan (流し満貫)
+### Dodatkowe yaku: Nagashi Mangan (流し満貫) {#dodatkowe-yaku-nagashi-mangan-流し満貫}
 
-* Zdobyte jeśli podczas ryuukyoku gracz spełnia wszystkie poniższe warunki
-
+* <p>Zdobyte jeśli podczas ryuukyoku gracz spełnia wszystkie poniższe warunki</p>
 * Wszystkie widoczne odrzuty to 1, 9 lub honory
 * Żaden kamień odrzucony przez gracza nie został zameldowany
-* Gracz ma zamkniętą rękę
-
+* <p>Gracz ma zamkniętą rękę</p>
 * Zawsze warte 5 han (mangan), nie łączy się z innymi yaku i dorami.
 
-### Saki Karty
+### Saki Karty {#saki-karty}
 
 Przed rozpoczęciem gry pierwszy oya rozdaje każdemu graczowi po 6 kart z talii,
 to będą ich karty na cały hanchan. Jeśli gracz wygra używając jednej karty,
@@ -51,7 +53,7 @@ gotowi.
 
 Są 53 karty w talii, każda z własną umiejętnością.
 
-#### Lista kart
+#### Lista kart {#lista-kart}
 
 1. **Aislinn Wishart**
 
@@ -59,14 +61,10 @@ Są 53 karty w talii, każda z własną umiejętnością.
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/AislinnWishart.jpg" alt="">
     </div>
 
-    * Jeśli wszyscy pozostali gracze mają zamknięte ręce, a ty masz mniej niż
-      początkową liczbę punktów za każdym razym gdy odrzucisz tedashi,
-      dostajesz dodatkową turę.
-
+    * <p>Jeśli wszyscy pozostali gracze mają zamknięte ręce, a ty masz mniej niż początkową liczbę punktów za każdym razym gdy odrzucisz tedashi, dostajesz dodatkową turę.</p>
     * Pierwszy odrzut oya to zawsze tedashi.
     * Nie dostaje dodatkowej tury po meldunku.
-    * Tedashi to przeciwieństwo tsumogiri, czyli odrzut kamienia innego niż ten który właśnie dobrałeś.
-
+    * <p>Tedashi to przeciwieństwo tsumogiri, czyli odrzut kamienia innego niż ten który właśnie dobrałeś.</p>
     * Jeśli inny gracz otwiera swoją rękę, musi on obstawić 1500 punktów.
 
 2. **Usuzawa Sae**
@@ -101,17 +99,13 @@ Są 53 karty w talii, każda z własną umiejętnością.
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/AnetaiToyone.jpg" alt="">
     </div>
 
-    * Oikake riichi, tj. zadeklarowane po innym riichi daje ci 2 han.
-
-    * Oikake riichi 2 han zastępuje 1 han zwykłego riichi.
-
+    * <p>Oikake riichi, tj. zadeklarowane po innym riichi daje ci 2 han.</p>
+    * <p>Oikake riichi 2 han zastępuje 1 han zwykłego riichi.</p>
     * Yaku Shiiaru Raotai(十二落抬) jest dostępne, warte 2 han i daje dostęp do ura
       dory. Przyznawane jest gdy masz pojedyncze czekanie z czteroma
       deklaracjami.
       Przykład:![](/assets/images/cracow-saki-cards-taikai-2022/hands/ShiiaruRaotai.png)
-    * Wygranie w riichi lub z shiiaru raotai na kamienie odrzuconym przez
-      gracza w riichi daje 1 han za każde 1000 punktów na stole.
-
+    * <p>Wygranie w riichi lub z shiiaru raotai na kamienie odrzuconym przez gracza w riichi daje 1 han za każde 1000 punktów na stole.</p>
     * Riichi nie musi być oikake.
 
 5. **Arakawa Kei**
@@ -271,8 +265,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
     * Przed twoim pierwszym odrzutem odkryj swoją rękę. Grasz tę rundę grasz z
       odkrytą ręką.
     * Wartość twojej wygranej jest podwojona.
-    * Riichi i Ippatsu warte są po 2 han.
-
+    * <p>Riichi i Ippatsu warte są po 2 han.</p>
     * Double Riichi jest warte 4 han.
 
 19. **Kainou Yoshiko**
@@ -339,8 +332,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/KarijukuTomoe.jpg" alt="">
     </div>
 
-    * Kiedy jesteś w riichi biały smok jest zawsze twoim wygrywającym kamieniem.
-
+    * <p>Kiedy jesteś w riichi biały smok jest zawsze twoim wygrywającym kamieniem.</p>
     * Gdy odrzucasz białego smoka, dostajesz dodatkową turę.
     * Wygrana przez dobranie białego smoka daje ci 2 han.
 
@@ -396,13 +388,8 @@ Są 53 karty w talii, każda z własną umiejętnością.
         <img src="/assets/images/cracow-saki-cards-taikai-2022/cards/MaseYuuko.jpg" alt="">
     </div>
 
-    * Możesz układać kamienie w zawijające sekwencje (np. 912).
-      Przykład:
-      ![](/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png)
-      Ta ręka czeka na 825 souzu
-
-    * 3 sekwencje 912 345 678, lub 891 234 567 nie dają ci yaku ittsuu.
-
+    * <p>Możesz układać kamienie w zawijające sekwencje (np. 912). Przykład: <img src="/assets/images/cracow-saki-cards-taikai-2022/hands/MaseYuuko.png" alt="" /> Ta ręka czeka na 825 souzu</p>
+    * <p>3 sekwencje 912 345 678, lub 891 234 567 nie dają ci yaku ittsuu.</p>
     * Nie możesz zameldować pon i kan.
     * Dostajesz 1 han za każde trzy identyczne kamienie w twoich odrzutach.
 
@@ -440,7 +427,6 @@ Są 53 karty w talii, każda z własną umiejętnością.
         * Ciepłe kamienie to wszystkie kamienie z czerwoną farbą, to jest te
           kamienie:
           ![](/assets/images/cracow-saki-cards-taikai-2022/hands/MatsumiYuu.png)
-
     * Możesz zadeklarować pon na wcześniej wyrzuconym czerwonym smoku gracza z
       priorytetem nad innymi deklaracjami, w tym ron.
         * Deklarujesz pon tak samo jakbyś deklarował normalnie, tylko zamiast
@@ -759,7 +745,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
         * Zostaw obie karty przy sobie.
         * Po skończeniu rundy nie wtasuj obu kart z powrotem do talii.
 
-### Ogólne Klaryfikacje Kart
+### Ogólne Klaryfikacje Kart {#ogólne-klaryfikacje-kart}
 
 * Umiejętności które modyfikują wartość yaku, zastępują je, nie dodają. To
   znaczy że "Pinfu daje ci 2 han" zmienia wartość pinfu z normalnego 1 han na 2
@@ -796,7 +782,7 @@ Są 53 karty w talii, każda z własną umiejętnością.
   wygra. Zamienienie to nie odrzut, nie można na nim zronować, ani zrobić
   meldunku. Kamień po zamienieniu może dać lub zabrać furiten.
 
-## Agenda
+## Agenda {#agenda}
 
 | Godzina       | Etap                |
 |---------------|---------------------|
@@ -809,6 +795,6 @@ Są 53 karty w talii, każda z własną umiejętnością.
 | 17:00 - 18:30 | 4. hanchan          |
 | 18:45 - 19:00 | Zamknięcie turnieju |
 
-## Rejestracja
+## Rejestracja {#rejestracja}
 
 **[Zapisy na turniej](https://forms.gle/ihwFDbs23PAYbHZH7)**

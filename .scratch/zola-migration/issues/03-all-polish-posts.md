@@ -16,9 +16,9 @@
 
 **Blocked by:** 02
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] All 25 Polish post URLs exist and pass the Parity check
-- [ ] No Liquid syntax remains in the migrated posts
-- [ ] A post whose `path` disagrees with its date or category fails `zola build` with a clear message (verified in a scratch copy)
-- [ ] File history preserved (renames show up in `git log --follow`)
+- [x] All 25 Polish post URLs exist and pass the Parity check
+- [x] No Liquid syntax remains in the migrated posts
+- [x] A post whose `path` disagrees with its date or category fails `zola build` with a clear message (verified in a scratch copy)
+- [x] File history preserved (renames show up in `git log --follow`)

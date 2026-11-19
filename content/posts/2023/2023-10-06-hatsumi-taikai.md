@@ -1,15 +1,19 @@
----
-title:  "Hatsumi Taikai"
-date:   2023-10-06 16:00:00 +0200
-last_modified_at: 2024-02-17 15:37:13 +0100
-categories: tournaments
----
++++
+title = "Hatsumi Taikai"
+date = 2023-10-06T16:00:00+02:00
+updated = 2024-02-17T15:37:13+01:00
+path = "tournaments/2023/10/06/hatsumi-taikai"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 Zapraszamy Was na drugi turniej MERS w Krakowie!
 
-{% include figure.html alt="Hatsumi Taikai" filename="2023-10-06-hatsumi-taikai.png" %}
+{{ <figure alt="Hatsumi Taikai" filename="2023-10-06-hatsumi-taikai.png" /> }}
 
-## O turnieju
+## O turnieju {#o-turnieju}
 
 * Data: 17-18 lutego 2024 (sobota-niedziela)
 * Miejsce: [Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
@@ -32,7 +36,7 @@ z jej działaniem przed turniejem.
 Z reprezentantami **8** krajów EMA i łączną liczbą **84** graczy, aktualny ranking turnieju MERS wynosi **3.5** (maksimum to 4.0).\
 <small>Statystyka ta aktualizuje się automatycznie. Szczegóły dotyczące sposobu obliczania wagi można znaleźć [na stronie EMA](http://mahjong-europe.org/ranking/Basicsranking.html).</small>
 
-## Agenda
+## Agenda {#agenda}
 
 <table class="tournament-agenda">
 <thead>
@@ -103,11 +107,11 @@ Z reprezentantami **8** krajów EMA i łączną liczbą **84** graczy, aktualny 
 </tbody>
 </table>
 
-## Dojazd
+## Dojazd {#dojazd}
 
-<a href="/assets/images/mers-2022-map.png">
+<p><a href="/assets/images/mers-2022-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu" />
-</a>
+</a></p>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
 najbliższy przystanek to **Ruczaj**, przykładowe
@@ -133,7 +137,7 @@ Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
 
-## Rejestracja
+## Rejestracja {#rejestracja}
 
 **UWAGA:** Obecnie lista zawodników jest pełna &mdash; nadal jednak można zapisać się na listę oczekujących i wziąć udział w turnieju, jeśli któryś z zarejestrowanych graczy zrezygnuje.
 
@@ -144,7 +148,7 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <!--
 ## Gracze
 
-<small>Ostatnia aktualizacja: {{ page.last_modified_at | date:"%Y-%m-%d %H:%M" }}</small>
+<small>Ostatnia aktualizacja: {{ page.updated | date(format="%Y-%m-%d %H:%M", timezone=config.extra.timezone) }}</small>
 
 <div class="progress" style="margin-bottom: 0.5em">
 	<div

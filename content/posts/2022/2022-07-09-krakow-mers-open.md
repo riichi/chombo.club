@@ -1,29 +1,32 @@
----
-title:  "Kraków MERS Open 2022"
-date:   2022-07-09 21:37:00 +0200
-last_modified_at: 2022-10-08 21:37:00 +0200
-categories: tournaments
----
++++
+title = "Kraków MERS Open 2022"
+date = 2022-07-09T21:37:00+02:00
+updated = 2022-10-08T21:37:00+02:00
+path = "tournaments/2022/07/09/krakow-mers-open"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 
-{% include figure.html alt="Kraków MERS Open 2022" filename="2022-10-08-mers-open.png" %}
+{{ <figure alt="Kraków MERS Open 2022" filename="2022-10-08-mers-open.png" /> }}
 
-## O turnieju
+## O turnieju {#o-turnieju}
 
 * Data: 8-9 października 2022 (sobota-niedziela)
 * Miejsce: [Wydział Matematyki i Informatyki UJ, prof. Stanisława Łojasiewicza 6, 30-348 Kraków](https://goo.gl/maps/izBiryMK8gM9GpQd6)
 * Zasady: EMA Riichi 2016
 * Hanchany: 7
 * Opłata: 100PLN lub 22EUR
-* Limit osób: 80
-
+* <p>Limit osób: 80</p>
 * Obserwator EMA: Linxuan He
 * Sędziowie:
     - Marta Bacic
     - Michał Herda
 
-## Agenda
+## Agenda {#agenda}
 
 <table class="tournament-agenda">
 <thead>
@@ -82,11 +85,11 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 </tbody>
 </table>
 
-## Dojazd
+## Dojazd {#dojazd}
 
-<a href="/assets/images/mers-2022-map.png">
+<p><a href="/assets/images/mers-2022-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu" />
-</a>
+</a></p>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
 najbliższy przystanek to **Ruczaj**, przykładowe
@@ -105,7 +108,7 @@ Warto pamiętać, że w niedzielę 9 października będzie on zamknięty.
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
 
-## Rejestracja
+## Rejestracja {#rejestracja}
 
 **Rejestracja została zamknięta** – można zgłaszać się na listę rezerwową.
 W tym celu prosimy o maila na adres

@@ -1,10 +1,14 @@
----
-title:  "Instant Ramen Taikai 2022"
-date:   2022-02-15 14:00:00 +0100
-categories: tournaments
----
++++
+title = "Instant Ramen Taikai 2022"
+date = 2022-02-15T14:00:00+01:00
+path = "tournaments/2022/02/15/instant-ramen-taikai"
+template = "post.html"
 
-{% include figure.html alt="Instant Ramen Taikai" filename="2022-02-15-instant-ramen-taikai.png" %}
+[taxonomies]
+categories = ["tournaments"]
++++
+
+{{ <figure alt="Instant Ramen Taikai" filename="2022-02-15-instant-ramen-taikai.png" /> }}
 
 Czas na pierwszy krakowski turniej riichi o smaku kurczaka! Turniej odbędzie się 3 kwietnia 2022 roku
 w kawiarni [Boardowa](http://boardowa.pl/) i będzie rozgrywany na zmodyfikowanych
@@ -17,7 +21,7 @@ jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 
 Każdy przy rejestracji dostaje kubek instant ramen do samodzielnego zalania + wielorazowe pamiątkowe pałki do jedzenia. ❤️
 
-## O turnieju
+## O turnieju {#o-turnieju}
 
 * Data: 3 kwietnia 2022 (niedziela)
 * Miejsce: [Boardowa, ul. Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
@@ -29,98 +33,62 @@ Każdy przy rejestracji dostaje kubek instant ramen do samodzielnego zalania + w
 * Limit osób: 24
 * Punktacja: [Mahjong Tracker](https://mahjongtracker.com/)
 
-## Zasady
+## Zasady {#zasady}
 
 Zasady to **EMA 2016 z następującymi modyfikacjami:**
 
-### Honorowy ptak
+### Honorowy ptak {#honorowy-ptak}
 1s liczy się jako jedynka souzu *lub* aktywny honor w zależności od tego, co da więcej punktów. To oznacza, że:
 
 * Para z 1s może dać 2 fu za parę z aktywnego honoru (blokuje wtedy pinfu!);
 * 1s nie jest ani smokiem, ani wiatrem, więc nie może zastąpić żadnego w shousangen/daisangen lub shousuushii/daisuushii;
 * Koutsu albo kantsu z 1s może liczyć się jako **fanpai kura** (patrz niżej).
 
-### Dodatkowe yaku: fanpai kura (蔵)
+### Dodatkowe yaku: fanpai kura (蔵) {#dodatkowe-yaku-fanpai-kura-蔵}
 * Koutsu albo kantsu z 1s traktowanych jako honory.
 * Możliwa wygrana przez tsumo albo ron.
 * Warte 1 han.
 
-### Dodatkowe yaku: kinkei dokuritsu (金鶏独立)
+### Dodatkowe yaku: kinkei dokuritsu (金鶏独立) {#dodatkowe-yaku-kinkei-dokuritsu-金鶏独立}
 * Cztery zameldowane grupy + pojedyncze czekanie (hadaka tanki) na 1s.
 * Możliwa wygrana przez tsumo albo ron.
 * Zawsze warte 5 han (mangan), nie łączy się z innymi yaku (ale łączy się z dorami).
 
-### Yakitori
+### Yakitori {#yakitori}
 
 * Kara za niewygranie żadnej ręki w całym hanchanie.
 * Warte -10000 punktów, liczone przed umą.
 
-### Przykłady
+### Przykłady {#przykłady}
 
-{% capture fig_hand1 %}
-![111123444m6z_6z_111*s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand1.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_hand1 | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{{ <figure alt="111123444m6z_6z_111*s" filename="2022-02-15-instant-ramen-taikai-hand1.png" /> }}
 
 Ręka powyżej to honitsu w manach + fanpai kura.
 
-{% capture fig_hand2 %}
-![111s333s9s_9s_4*56s_7*65s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand2.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_hand2 | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{{ <figure alt="111s333s9s_9s_4*56s_7*65s" filename="2022-02-15-instant-ramen-taikai-hand2.png" /> }}
 
 Ta ręka nie korzysta z zasady honorowego ptaka, bo wtedy byłoby tylko honitsu + kura;
 zamiast tego ręka to "zwyczajne" chinitsu w souzu.
 
-{% capture fig_hand3 %}
-![111s1z_1z_4*44z_55*5**5z_7*77z]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand3.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_hand3 | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{{ <figure alt="111s1z_1z_4*44z_55*5**5z_7*77z" filename="2022-02-15-instant-ramen-taikai-hand3.png" /> }}
 
 Ta ręka to yakuman tsuuiisou.
 
-{% capture fig_hand4 %}
-![123345678m11s34s_2s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand4.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_hand4 | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{{ <figure alt="123345678m11s34s_2s" filename="2022-02-15-instant-ramen-taikai-hand4.png" /> }}
 
 Jeśli policzymy parę z 1s jako parę z honorów, to dostajemy 2 fu.
 Lepiej jest potraktować ją jako parę ze zwykłych kamieni, co daje nam pinfu.
 
-{% capture fig_hand5 %}
-![1s_1s_2*34m_555*z_7*77s_8*79p]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand5.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_hand5 | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{{ <figure alt="1s_1s_2*34m_555*z_7*77s_8*79p" filename="2022-02-15-instant-ramen-taikai-hand5.png" /> }}
 
 To jest po prostu kinkei dokuritsu, warty mangana - ignorujemy białego smoka.
 
-{% capture fig_hand6 %}
-![1s_1s_3*33s_44*4s_888*s_99*9s]({{ "/assets/images/2022-02-15-instant-ramen-taikai-hand6.png" | relative_url }})
-{% endcapture %}
-
-<figure>
-  {{ fig_hand6 | markdownify | remove: "<p>" | remove: "</p>" }}
-</figure>
+{{ <figure alt="1s_1s_3*33s_44*4s_888*s_99*9s" filename="2022-02-15-instant-ramen-taikai-hand6.png" /> }}
 
 Jesli liczymy kinkei dokuritsu, to ta ręka to tylko mangan.
 Zamiast tego powinniśmy policzyć tu chinitsu toitoi, warty hanemana.
 
-## Agenda
+## Agenda {#agenda}
 
 | Godzina       | Etap                |
 |---------------|---------------------|
@@ -140,6 +108,6 @@ Zamiast tego powinniśmy policzyć tu chinitsu toitoi, warty hanemana.
 |------------|------------|------------|------------------|
 -->
 
-## Rejestracja
+## Rejestracja {#rejestracja}
 
 [Tutaj!](https://forms.gle/cDMZcCej329RFSti8)

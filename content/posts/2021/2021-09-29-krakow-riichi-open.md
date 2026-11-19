@@ -1,10 +1,14 @@
----
-title:  "Kraków Riichi Open 2021"
-date:   2021-09-29 17:00:00 +0100
-categories: tournaments
----
++++
+title = "Kraków Riichi Open 2021"
+date = 2021-09-29T17:00:00+01:00
+path = "tournaments/2021/09/29/krakow-riichi-open"
+template = "post.html"
 
-{% include figure.html alt="Kraków Riichi Open" filename="2021-09-29-krakow-riichi-open.png" %}
+[taxonomies]
+categories = ["tournaments"]
++++
+
+{{ <figure alt="Kraków Riichi Open" filename="2021-09-29-krakow-riichi-open.png" /> }}
 
 Zgodnie z zapowiedzią przy okazji ogłoszenia o utworzeniu stowarzyszenia,
 Krakowski Klub Chombo ma przyjemność ogłosić pierwszy otwarty krakowski turniej
@@ -18,7 +22,7 @@ Poniżej znajdziecie wszystkie szczegóły dotyczące turnieju oraz link do
 formularza rejestracyjnego. Zgłoszenia przyjmujemy do 6 listopada, ale prosimy o
 jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 
-## O turnieju
+## O turnieju {#o-turnieju}
 
 * Data: 20 listopada 2021 (sobota)
 * Miejsce: [Boardowa, ul. Topolowa 52, 31-506 Kraków](https://g.page/Boardowa)
@@ -29,7 +33,7 @@ jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 * Limit osób: 28
 * Punktacja: [Mahjong Tracker](https://mahjongtracker.com/)
 
-## Agenda
+## Agenda {#agenda}
 
 | Godzina       | Etap                |
 |---------------|---------------------|
@@ -43,6 +47,6 @@ jak najszybsze wpisywanie się, żebyśmy mogli oszacować liczbę uczestników.
 | 17:00 - 18:15 | 5. hanchan          |
 | 18:15 - 18:30 | Zamknięcie turnieju |
 
-## Rejestracja
+## Rejestracja {#rejestracja}
 
 **[Zapisy na turniej](https://forms.gle/aVrUS6SYSb3dMg2W7)**

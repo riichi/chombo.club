@@ -1,8 +1,12 @@
----
-title:  "Podstawy Rīchi Mahjonga — pierwszy odcinek już na YouTube!"
-date:   2020-09-05 01:05:42 +0100
-categories: other
----
++++
+title = "Podstawy Rīchi Mahjonga — pierwszy odcinek już na YouTube!"
+date = 2020-09-05T01:05:42+01:00
+path = "other/2020/09/05/mahjong-basics-01"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 
 Na polskim YouTube brakuje wartościowych materiałów o mahjongu dla początkujących. Początkujący chcący zagrać w tę chińską grę towarzyską skazani są na wideo w języku angielskim lub na materiały w formie tekstowej po polsku o często wątpliwej jakości. Osoba kompletnie nieobeznana w temacie oraz bez kogoś, kto pomógłby jej nauczyć się zasad, może się bardzo łatwo zrazić do gry i nigdy do niej nie wrócić.
 

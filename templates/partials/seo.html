@@ -12,11 +12,11 @@
 {%- endif -%}
 {%- set canonical_url = config.base_url ~ url_path -%}
 {%- set og_url = config.base_url ~ lang_prefix ~ current_path -%}
-{#- Excerpt: the rendered content before its first </p>. -#}
+{#- Excerpt: the first paragraph, as Jekyll's first block; empty when the post opens with something else (e.g. a figure). -#}
 {%- if is_page and page.description -%}
   {%- set seo_description = page.description -%}
 {%- elif is_page -%}
-  {%- set seo_description = (page.content | split(pat="</p>") | first | striptags | replace(from="\n", to=" ") | trim) if "</p>" in page.content else "" -%}
+  {%- set seo_description = (page.content | split(pat="</p>") | first | striptags | replace(from="\n", to=" ") | trim) if (page.content | trim) is starting_with(pat="<p") else "" -%}
 {%- else -%}
   {%- set seo_description = t.description -%}
 {%- endif -%}
@@ -36,7 +36,7 @@
 <meta property="og:title" content="{{ page_title }}">
 <meta property="og:url" content="{{ og_url }}">
 
-{% if seo_description %}
+{% if seo_description or is_page %}{#- Liquid: an empty excerpt is still truthy -#}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}
 

@@ -1,14 +1,18 @@
----
-title:  "USMA Cup: Kraków Riichi Open 2026"
-date:   2026-06-25 12:00:00 +0200
-categories: tournaments
----
++++
+title = "USMA Cup: Kraków Riichi Open 2026"
+date = 2026-06-25T12:00:00+02:00
+path = "tournaments/2026/06/25/krakow-riichi-open-2026"
+template = "post.html"
+
+[taxonomies]
+categories = ["tournaments"]
++++
 
 Zapraszamy na turniej Riichi Mahjong organizowany we współpracy z Upper Silesian Mahjong Association w ramach cyklu USMA Cup!
 
-{% include figure.html alt="USMA Cup: Kraków Riichi Open 2026" filename="2026-06-25-krakow-riichi-open-2026.png" %}
+{{ <figure alt="USMA Cup: Kraków Riichi Open 2026" filename="2026-06-25-krakow-riichi-open-2026.png" /> }}
 
-## O turnieju
+## O turnieju {#o-turnieju}
 
 * Data: 25 lipca 2026 (sobota)
 * Miejsce: [Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków](https://maps.app.goo.gl/Zx41uz3cR1PkFqC19)
@@ -35,7 +39,7 @@ Zapraszamy na turniej Riichi Mahjong organizowany we współpracy z Upper Silesi
 * Obiad: we własnym zakresie — w przerwie obiadowej zapraszamy grupowo do [Food Hall Hala Lipowa](https://maps.app.goo.gl/CvYvhfHwxhiMrtaw5), gdzie znajdziesz wiele różnych stoisk z jedzeniem dla każdego gustu
 * Punktacja: Mahjong Tracker
 
-## USMA Cup
+## USMA Cup {#usma-cup}
 
 Turniej jest zaliczany do cyklu **USMA Cup** — serii 4 turniejów, z których najlepsze 3 wyniki liczą się do klasyfikacji generalnej. Trzech najlepszych zawodników otrzyma nagrody.
 
@@ -43,7 +47,7 @@ Turniej jest zaliczany do cyklu **USMA Cup** — serii 4 turniejów, z których 
 * Ranking USMA: **Tak**
 * USMA Cup: **Tak**
 
-## Agenda
+## Agenda {#agenda}
 
 <table class="tournament-agenda">
   <thead>
@@ -89,11 +93,11 @@ Turniej jest zaliczany do cyklu **USMA Cup** — serii 4 turniejów, z których 
   </tbody>
 </table>
 
-## Dojazd
+## Dojazd {#dojazd}
 
-<a href="/assets/images/mers-2026-map.png">
+<p><a href="/assets/images/mers-2026-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Mapa dojazdu" />
-</a>
+</a></p>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
 najbliższy przystanek to **Zabłocie**, przykładowe
@@ -111,12 +115,12 @@ Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
 
-## Rejestracja
+## Rejestracja {#rejestracja}
 
 **[Zapisy na turniej](https://forms.gle/kEwprx2xghdxy1D28)**
 
 **UWAGA:** Rejestracja zostanie zamknięta 19 Lipca &mdash; jest to ostatni dzień na wysłanie ważnego zgłoszenia.
 
-## Gracze
+## Gracze {#gracze}
 
 <iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" height="1000" frameborder="0"></iframe>
