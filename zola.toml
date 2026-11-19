@@ -5,7 +5,7 @@ default_language = "pl"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
-taxonomies = [{ name = "categories", render = false }]
+taxonomies = [{ name = "categories", render = true }]
 
 [markdown]
 smart_punctuation = true
@@ -13,7 +13,7 @@ external_links_external = false
 
 [languages.en]
 title = "Kraków Chombo Club"
-taxonomies = [{ name = "categories", render = false }]
+taxonomies = [{ name = "categories", render = true }]
 
 [extra]
 email = "contact@chombo.club"
