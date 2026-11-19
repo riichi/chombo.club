@@ -1,4 +1,4 @@
-{%- set crumb_title = page.title -%}
+{%- set crumb_title = page.title if page is defined else crumb_override -%}
 {%- set cat_name = (t.category_names[post_category] if post_category in t.category_names else post_category) if post_category else "" -%}
 <nav class="wrap breadcrumbs" aria-label="{{ t.breadcrumb_label }}">
   <ol>

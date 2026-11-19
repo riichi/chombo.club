@@ -11,7 +11,7 @@ No pagination. Category links on posts and in navigation resolve to these URLs.
 
 **Blocked by:** 04
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] All 6 category URLs pass the Parity check
-- [ ] No extra taxonomy URLs are produced (e.g. a `/categories/` index), unless the Baseline has one
+- [x] All 6 category URLs pass the Parity check
+- [x] No extra taxonomy URLs are produced (e.g. a `/categories/` index), unless the Baseline has one

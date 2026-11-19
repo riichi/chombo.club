@@ -7,7 +7,7 @@ build_search_index = false
 generate_feeds = true
 feed_filenames = ["feed.xml"]
 feed_limit = 10
-taxonomies = [{ name = "categories", render = false }]
+taxonomies = [{ name = "categories", render = true }]
 
 [markdown]
 smart_punctuation = true
@@ -18,7 +18,7 @@ description = "We are a group of players located in Kraków focused on playing a
 generate_feeds = true
 feed_filenames = ["feed.xml", "sitemap.xml"]
 title = "Kraków Chombo Club"
-taxonomies = [{ name = "categories", render = false }]
+taxonomies = [{ name = "categories", render = true }]
 
 [extra]
 email = "contact@chombo.club"
