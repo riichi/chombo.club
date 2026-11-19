@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block layout %}page{% endblock %}
+{% block content %}
+{%- include "partials/breadcrumbs.html" %}
+
+<div data-pagefind-body>
+  <header class="wrap page-head">
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <div class="wrap page-body">
+    {% include "partials/toc.html" %}
+    <article class="page-content prose">
+      {{ page.content | safe }}
+    </article>
+  </div>
+</div>
+{% endblock %}

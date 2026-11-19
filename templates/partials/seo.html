@@ -15,7 +15,7 @@
 {#- Excerpt: the rendered content before its first </p>. -#}
 {%- if is_page and page.description -%}
   {%- set seo_description = page.description -%}
-{%- elif is_page -%}
+{%- elif is_page and page.date -%}
   {%- set seo_description = (page.content | split(pat="</p>") | first | striptags | replace(from="\n", to=" ") | trim) if "</p>" in page.content else "" -%}
 {%- else -%}
   {%- set seo_description = t.description -%}
