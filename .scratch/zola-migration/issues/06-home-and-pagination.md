@@ -9,8 +9,8 @@
 
 **Blocked by:** 04
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] Every home and pagination URL in both languages passes the Parity check
-- [ ] Post `description` meta tags match the Baseline across all posts (re-run the Parity check over the posts)
-- [ ] A new post without any marker gets an excerpt automatically
+- [x] Every home and pagination URL in both languages passes the Parity check
+- [x] Post `description` meta tags match the Baseline across all posts (re-run the Parity check over the posts)
+- [x] A new post without any marker gets an excerpt automatically

@@ -16,7 +16,8 @@
 <lastmod>{{ <xmlschema d={p.updated or p.date} tz={tz} /> }}</lastmod>
 </url>
 {%- endfor %}
-{%- for p in root.pages | sort(attribute="path") %}
+{%- set pages_section = get_section(path="pages/_index.md", lang=sm_lang) -%}
+{%- for p in pages_section.pages | sort(attribute="path") %}
 {%- if not p.date and p.extra?.sitemap != false %}{#- posts bubble up through the transparent sections -#}
 <url>
 <loc>{{ config.base_url }}{{ p.path[prefix | length:] if prefix else p.path }}</loc>
