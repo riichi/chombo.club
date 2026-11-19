@@ -6,12 +6,12 @@ The script can filter by URL family or path prefix, so later tickets can check o
 
 **Blocked by:** None (can start immediately)
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] HTML compared as trees, ignoring whitespace outside `pre`/`textarea`/`script`, attribute order, void-tag syntax, character references vs literal characters, quoting style and comments
-- [ ] kramdown code-block wrappers and the `language-plaintext`/`highlighter-rouge`/`highlight` classes normalised away
-- [ ] JSON-LD / embedded JSON compared as parsed JSON; feeds and sitemaps as normalised XML; CSS after the same minifier on both sides; everything else byte-identical
-- [ ] `pagefind/` only checked for existence; feed `<updated>` and footer year ignored
-- [ ] Known exceptions are listed in one place, each with a reason: dropped `/en/` static-file copies, EN pages referencing root assets, sitemap without static files
-- [ ] Path-prefix filter supported
-- [ ] Self-test: Baseline vs itself is clean; Baseline vs an empty directory reports every file missing; a hand-edited copy with a changed word is reported, while one with only reindented whitespace is not
+- [x] HTML compared as trees, ignoring whitespace outside `pre`/`textarea`/`script`, attribute order, void-tag syntax, character references vs literal characters, quoting style and comments
+- [x] kramdown code-block wrappers and the `language-plaintext`/`highlighter-rouge`/`highlight` classes normalised away
+- [x] JSON-LD / embedded JSON compared as parsed JSON; feeds and sitemaps as normalised XML; CSS after the same minifier on both sides; everything else byte-identical
+- [x] `pagefind/` only checked for existence; feed `<updated>` and footer year ignored
+- [x] Known exceptions are listed in one place, each with a reason: dropped `/en/` static-file copies, EN pages referencing root assets, sitemap without static files
+- [x] Path-prefix filter supported
+- [x] Self-test: Baseline vs itself is clean; Baseline vs an empty directory reports every file missing; a hand-edited copy with a changed word is reported, while one with only reindented whitespace is not
