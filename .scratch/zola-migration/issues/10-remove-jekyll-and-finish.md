@@ -11,6 +11,6 @@
 
 **Status:** ready-for-agent
 
-- [ ] No Ruby or Jekyll file or reference remains in the repo (`AGENTS.md`, README, Dockerfile, workflows, Dependabot)
-- [ ] Full-site Parity check against the rebuilt Baseline is clean apart from the documented exceptions
-- [ ] PR opened with the report and preview evidence
+- [x] No Ruby or Jekyll file or reference remains in the repo (`AGENTS.md`, README, Dockerfile, workflows, Dependabot)
+- [x] Full-site Parity check against the rebuilt Baseline is clean apart from the documented exceptions
+- [ ] PR opened with the report and preview evidence (left to the user: push, PR, Cloudflare preview click-through; report in zola-notes/parity-report.md. `_parity/`, `_migrate/`, `.scratch/` kept for the code review, delete before merge)

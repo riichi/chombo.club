@@ -1,47 +1,81 @@
 chombo.club
 ===========
 
-[Kraków Chombo Club](https://chombo.club) website source. Built using [Jekyll](https://jekyllrb.com/).
+[Kraków Chombo Club](https://chombo.club) website source. Built using [Zola](https://www.getzola.org/) (v0.23, Tera v2 templates).
 
 ## Quickstart
 
+Install Zola 0.23 and run:
+
 ```
-gem install jekyll bundler
-bundle install
-jekyll serve
+zola serve
 ```
 
-Search is built by [Pagefind](https://pagefind.app/) after Jekyll, so `jekyll serve` has no search index.
+Then visit [127.0.0.1:1111](http://127.0.0.1:1111).
+
+Search is built by [Pagefind](https://pagefind.app/) after Zola, so `zola serve` has no search index.
 To try search locally, build the site and index it:
 
 ```
-bundle exec jekyll build
-npx pagefind@1.3.0 --site _site --serve
+zola build
+npx pagefind@1.3.0 --site public --serve
 ```
 
-## Theme
+## Layout
 
-The theme lives in this repository (no theme gem): `_layouts/`, `_includes/`, `_sass/` and `assets/js/site.js`.
-UI labels for both languages are in `_data/ui-text.yml`; navigation in `_data/{pl,en}/navigation.yml`.
-Long posts and pages get a table of contents automatically (3+ headings); set `toc: false` in front matter to hide it.
+- `content/posts/<year>/` – posts; `content/pages/` – standalone pages (about, calendar, contact, help); `content/_index{,.en}.md` – home pages.
+- `templates/` – Tera templates; reusable pieces are components in `templates/components.html`, partials in `templates/partials/`.
+- `sass/` – styles (compiled by Zola); `static/` – files copied as-is (images, downloads, JS, favicons).
+- `data/` – UI labels (`ui-text.yml`), navigation (`navigation/{pl,en}.yml`) and help-page link lists (`help/*.yml`).
+- `zola.toml` – site config; Polish is the default language, English lives under `/en/`.
+
+Long posts and pages get a table of contents automatically (3+ headings); set `extra.toc = false` in front matter to hide it.
 
 ## Adding a post
 
-Posts live in `_posts/<year>/`, with translations side by side:
+Posts live in `content/posts/<year>/`, with the English Translation next to the Polish Original:
 
 ```
-_posts/2024/2024-07-27-headquarters.pl.md
-_posts/2024/2024-07-27-headquarters.en.md
+content/posts/2024/2024-07-27-headquarters.md
+content/posts/2024/2024-07-27-headquarters.en.md
 ```
 
-The Polish file has the full front matter (`title`, `date`, `categories`, optional `header` / `last_modified_at`).
-The English file only needs `title`; everything else is inherited from the Polish one (`_plugins/translations.rb`).
-For a Polish-only post, add `lang-exclusive: ["pl"]`; otherwise the build warns about the missing translation.
-Pages follow the same pattern (`about.pl.md`, `about.en.md`).
+Both files carry full TOML front matter (each Translation is self-contained, nothing is inherited):
 
-## Testing Docker image locally
-Using `docker-compose`:
 ```
-$ docker-compose up --build
++++
+title = "Mamy siedzibę!"
+date = 2024-07-27T19:21:00+01:00
+path = "other/2024/07/27/headquarters"
+template = "post.html"
+
+[taxonomies]
+categories = ["other"]
++++
 ```
+
+- `path` is explicit and must be `<category>/<Y>/<m>/<d>/<slug>` with the date in Europe/Warsaw; the English one is the same path prefixed with `en/` (Zola does not add the language prefix to a custom `path`).
+- The build fails if a post's path does not match its date and category, or if a Translation's date, category or path differs from its Original.
+- A Polish post without a Translation fails the build unless it sets `extra.lang-exclusive = ["pl"]`.
+
+Pages follow the same pattern (`content/pages/about.md` with `path = "about"`, `about.en.md` with `path = "en/about"`, `template = "page.html"`).
+
+## Components
+
+Tera v2 has no shortcodes or macros. Reusable markup is written as components (`{% component name(...) %}` in `templates/components.html`) and can be called from templates and Markdown, e.g.:
+
+```
+{{ <figure alt="..." filename="foo.jpg" /> }}
+```
+
+Components are hygienic: pass everything they need explicitly. When used in Markdown they must not emit indented or blank lines, or CommonMark turns the output into a code block.
+
+## Building the Docker image
+
+The Dockerfile runs `zola build`, deletes the generated `/categories/` and `/en/categories/` index pages (Zola always renders the taxonomy list; the site has none), runs Pagefind, and serves the result with nginx. Using `docker compose`:
+
+```
+docker compose up --build
+```
+
 Then visit [localhost:8000](http://localhost:8000) to see the webpage.
