@@ -62,7 +62,9 @@ Pages follow the same pattern (`content/pages/about.md` with `path = "about"`, `
 
 ## Images
 
-Use plain Markdown: `![alt](/assets/images/foo.jpg)`. An image alone in its paragraph is styled as a figure, and an italic line right below it as its caption (CSS only, in `sass/assets/css/_content.scss`). Escape `*` in alt text (`\*`), or Markdown reads it as emphasis.
+Use plain Markdown: `![alt](/assets/images/foo.jpg)`. An image alone in its paragraph is laid out as a figure (CSS only, in `sass/assets/css/_content.scss`). Escape `*` in alt text (`\*`), or Markdown reads it as emphasis.
+
+For a captioned image, write the HTML: `<figure>` with the `<img>` and a `<figcaption>`, without blank lines inside (see the brief-history post). Markdown is not processed inside it.
 
 ## Components
 

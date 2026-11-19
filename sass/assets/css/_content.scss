@@ -59,8 +59,9 @@
     border-radius: var(--radius-sm);
   }
 
-  // An image alone in a top-level paragraph is laid out as a figure.
+  // A figure, or an image alone in a top-level paragraph (laid out as one).
   // :where() keeps the specificity of `> p`, so `> :first-child` still removes the top margin.
+  figure,
   > p:where(:has(> img:only-child)) {
     margin: 28px 0;
 
@@ -70,12 +71,16 @@
     }
   }
 
-  // An italic line right below such an image is its caption.
-  > p:where(:has(> img:only-child)) + p > em:only-child {
-    display: block;
-    margin-top: -16px;
+  // Figures are used only with a caption, which ends the figure.
+  figure {
+    margin-bottom: 18px;
+  }
+
+  figcaption {
+    margin-top: 12px;
     color: var(--muted);
     font-size: 0.9375rem;
+    font-style: italic;
     text-align: center;
   }
 

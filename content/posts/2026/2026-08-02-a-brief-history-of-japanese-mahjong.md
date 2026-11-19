@@ -12,15 +12,17 @@ Mahjong nie posiada tak długiej historii, jak mogłoby się wydawać, ale jest 
 
 Wariant ten różnił się mocno od współczesnego mahjonga. Po pierwsze, do wygrania ręki nie trzeba było mieć yaku (tudzież: nie trzeba było mieć hanów, istniały ręce o wartości 0 han). Wystarczył standardowy kształt ręki w postaci 4 grupy + 1 para (wyjątek: chiitoitsu warte 0 han i 100 fu). Yaku oczywiście istniały, jednak ich lista była znacznie krótsza od współczesnej, różniły się też wartościami han. Nie istniały dory, chociaż istniał martwy mur. Nie uznawano riichi, a przynajmniej nie tak jak dzisiaj – zadeklarować riichi można było wyłącznie w pierwszej turze gry (podobnie jak dziś double riichi). Istniał furiten, jednak dało się go obejść, jeśli się go zadeklarowało, i wówczas dopuszczano wygraną na ron. Gra toczyła się przez 4 rundy wiatru po 4 rozdania, od East 1 do North 4.
 
-![Tabelka punktów Arushiiaru](/assets/images/2026-08-02-arushiaru-scoring-table.png)
-
-*Tabelka punktów Arushiiaru*
+<figure>
+<img src="/assets/images/2026-08-02-arushiaru-scoring-table.png" alt="Zdjęcie japońskiej karty z dwiema tabelami punktów: wartości według han i fu oraz wypłaty dla dealera i pozostałych graczy" />
+<figcaption>Tabelka punktów Arushiiaru</figcaption>
+</figure>
 
 Skoro o punktach mowa, tak wyglądała tabelka punktów w Arushiiaru. Oryginalnie wynik zależał wyłącznie od fu, których – jak widzimy – nie zaokrąglano do dziesiątek, co znacznie rozszerza nam tabelkę. Hany były tutaj drugorzędne, otrzymywało się je wyłącznie za yaku i przeliczało się na fu (typowo dla każdego hana fu mnożyło się przez dwa). W zależności od tsumo/ron i oya/ko, a także wartości fu/han odnajdywało się w tabelce wartość "bazową". Ta wartość mnożona przez współczynniki (różne w zależności od tego, kto wygrał i jak) i zaokrąglona do najbliższej 10 dawała nam finalną wartość wygranej.
 
-![Tabelka liczenia punktów na podstawie bazy](/assets/images/2026-08-02-base-point-calculation.png)
-
-*Tabelka liczenia punktów na podstawie bazy*
+<figure>
+<img src="/assets/images/2026-08-02-base-point-calculation.png" alt="Ko robi ron: baza × 4. Oya robi ron: baza × 6. Oya robi tsumo: baza × 2. Ko robi tsumo: baza od każdego ko, baza × 2 od oya." />
+<figcaption>Tabelka liczenia punktów na podstawie bazy</figcaption>
+</figure>
 
 Ogólny przepływ punktów był znacznie niższy niż we współczesnym mahjongu, liczmany posiadały 1/10 swojej obecnej wartości. Gra zaczynała się z 2000 punktami, a najwyższą możliwą wygraną do zdobycia był mangan.
 
@@ -28,9 +30,10 @@ Powiedzmy teraz kilka słów o manganie. Słowo mangan oznacza w bardzo wolnym t
 
 Powyższy wariant był najpowszechniejszy w tamtym okresie, lecz – jak to w grach towarzyskich zwykle bywa – tak naprawdę każdy stół ustalał swoje zasady. Z czasem zaczęło rozpowszechniać się tak zwane tochuu riichi (途中リーチ), czyli riichi w trakcie gry, nie tylko na starcie. Wspomniana już wcześniej Japońska Federacja Mahjonga nie uznawała jednak tochuu riichi za praworządną zasadę.
 
-![Podobizna Amano Daizou](/assets/images/2026-08-02-amano-daizou.png)
-
-*Podobizna Amano Daizou*
+<figure>
+<img src="/assets/images/2026-08-02-amano-daizou.png" alt="Czarno-białe zdjęcie Amano Daizou przy stole do mahjonga, obok odręczny napis z jego podpisem" />
+<figcaption>Podobizna Amano Daizou</figcaption>
+</figure>
 
 Pewnego razu jeden z członków federacji, Amano Daizou (天野大三), postanowił stworzyć własny zestaw reguł do gry w mahjonga, niezupełnie zgadzający się z tymi propagowanymi przez swoją organizację. W okresie od 11 listopada do 5 grudnia 1952 publikował w gazecie Houchi Shinbun (報知新聞) zasady gry opierającej się mocno na tochuu riichi – u niego nazywane po prostu riichi. Rozgrywka toczyła się w formie tontonsen (東々戦), czyli dwie rundy wiatru wschodniego, od East 1 do East 8. Nadal można było wygrać bez yaku, ale po raz pierwszy wprowadzono opcjonalną zasadę honba i dora. Furiten dotyczył wyłącznie genbutsu, z innych czekań można było wygrać. Pojawiła się także nowa wysoka wygrana – daimangan/duży mangan (大満貫), warty 1,5 mangana. Dla odróżnienia inne wysoko warte, ale mniej rzadkie ręce nazywano shoumangan/mały mangan (小満貫). Specjalne traktowanie otrzymywał jedynie chuuren poutou jako baimangan (倍満貫), warty 2 razy wartość mangana.
 
