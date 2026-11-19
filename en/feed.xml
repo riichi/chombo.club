@@ -1,45 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2026-11-18T10:20:43+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Hatsumi Taikai 2027</title><link href="https://chombo.club/en/tournaments/2026/10/29/hatsumi-taikai-2027/" rel="alternate" type="text/html" title="Hatsumi Taikai 2027" /><published>2026-10-29T20:00:00+01:00</published><updated>2026-10-29T20:00:00+01:00</updated><id>https://chombo.club/tournaments/2026/10/29/hatsumi-taikai-2027</id><content type="html" xml:base="https://chombo.club/tournaments/2026/10/29/hatsumi-taikai-2027/"><![CDATA[<p>We invite you to the fourth MERS tournament in Kraków!</p>
-
-<!-- TODO: dodać grafikę 2026-10-29-hatsumi-taikai-2027.png (lub podmienić nazwę pliku poniżej) -->
-
-<figure>
-  
-<img src="/assets/images/2026-10-29-hatsumi-taikai-2027.png" alt="Hatsumi Taikai 2027" />
-
-</figure>
-
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://www.getzola.org/" version="0.23.6">Zola</generator><link href="https://chombo.club/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chombo.club/en/" rel="alternate" type="text/html" /><updated>2026-11-19T22:10:24+01:00</updated><id>https://chombo.club/feed.xml</id><title type="html">Kraków Chombo Club</title><subtitle>We are a group of players located in Kraków focused on playing and promoting Japanese (Rīchi) Mahjong.</subtitle><entry xml:lang="en"><title type="html">Hatsumi Taikai 2027</title><link href="https://chombo.club/en/tournaments/2026/10/29/hatsumi-taikai-2027/" rel="alternate" type="text/html" title="Hatsumi Taikai 2027" /><published>2026-10-29T20:00:00+01:00</published><updated>2026-10-29T20:00:00+01:00</updated><id>https://chombo.club/tournaments/2026/10/29/hatsumi-taikai-2027</id><content type="html" xml:base="https://chombo.club/tournaments/2026/10/29/hatsumi-taikai-2027/"><![CDATA[<p>We invite you to the fourth MERS tournament in Kraków!</p>
+<p><img src="/assets/images/2026-10-29-hatsumi-taikai-2027.png" alt="Hatsumi Taikai 2027" /></p>
 <h2 id="about-the-tournament">About the tournament</h2>
-
 <ul>
-  <li>Date: 20<sup>th</sup>-21<sup>st</sup> February 2027 (Sat-Sun)</li>
-  <li>Place: <a href="https://maps.app.goo.gl/Zx41uz3cR1PkFqC19">Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków</a></li>
-  <li>Ruleset: <strong>EMA Riichi 2025</strong></li>
-  <li>Hanchans: 8</li>
-  <li>Format: full round robin</li>
-  <li>Entry fee: approx. 220 PLN, paid by bank transfer. You can send either EUR or PLN.
-    <ul>
-      <li>The exact amount and payment details will be shared later.</li>
-      <li>It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.</li>
-      <li>Payment deadline: <strong>31 January 2027</strong></li>
-    </ul>
-  </li>
-  <li>Participant limit: 84</li>
-  <li>EMA Observer: <em>TBA</em></li>
-  <li>Referees: <em>TBA</em></li>
-  <li>Substitute players: <em>TBA</em></li>
-  <li>Lunch: included in the entry fee</li>
-  <li>Prizes: trophies for the first three places.</li>
+<li>Date: 20<sup>th</sup>-21<sup>st</sup> February 2027 (Sat-Sun)</li>
+<li>Place: <a href="https://maps.app.goo.gl/Zx41uz3cR1PkFqC19">Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków</a></li>
+<li>Ruleset: <strong>EMA Riichi 2025</strong></li>
+<li>Hanchans: 8</li>
+<li>Format: full round robin</li>
+<li>Entry fee: approx. 220 PLN, paid by bank transfer. You can send either EUR or PLN.
+<ul>
+<li>The exact amount and payment details will be shared later.</li>
+<li>It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.</li>
+<li>Payment deadline: <strong>31 January 2027</strong></li>
 </ul>
-
+</li>
+<li>Participant limit: 84</li>
+<li>EMA Observer: <em>TBA</em></li>
+<li>Referees: <em>TBA</em></li>
+<li>Substitute players: <em>TBA</em></li>
+<li>Lunch: included in the entry fee</li>
+<li>Prizes: trophies for the first three places.</li>
+</ul>
 <p><strong>ERMC wild card:</strong> the highest-placed PLM member with membership fees paid for 2026 and 2027
 who has not yet qualified at the time of the tournament will receive a wild card for ERMC.</p>
-
 <p>Scores will be tracked using the mobile application <a href="https://mahjongtracker.com/">Mahjong Tracker</a> – players are advised to familiarize themselves with the app before the tournament.</p>
-
 <h2 id="agenda">Agenda</h2>
-
 <p>Provisional schedule — times may still change slightly.</p>
-
 <table class="tournament-agenda">
 <thead>
   <tr><th colspan="2">Saturday, 20 February</th></tr>
@@ -104,182 +90,115 @@ who has not yet qualified at the time of the tournament will receive a wild card
   </tr>
 </tbody>
 </table>
-
 <h2 id="registration">Registration</h2>
-
 <ul>
-  <li>Registration opens: <strong>14 November 2026, 19:00 CET</strong></li>
-  <li>Registration closes: <strong>31 January 2027</strong></li>
+<li>Registration opens: <strong>14 November 2026, 19:00 CET</strong></li>
+<li>Registration closes: <strong>31 January 2027</strong></li>
 </ul>
-
 <p><strong>NOTE:</strong> Currently, the player list is full — however, you can still sign up for the waiting list and take part in the tournament if any of the registered players withdraw.</p>
-
 <p><strong><a href="https://forms.gle/8pUwfpayRvE9ePUY8">Waiting list registration</a></strong></p>
-
 <p><strong>ATTENTION:</strong> Registration will be closed on January 31st — this is the last day to submit a valid application.</p>
-
 <h3 id="waiting-list">Waiting list</h3>
-
 <p>Once the limit of 84 players is reached, further applications go to the waiting list. If a registered
 player withdraws, the place will be offered to the first person on the waiting list (in order of
 application) — we will contact them directly.</p>
-
 <h3 id="withdrawal-and-cancellation">Withdrawal and cancellation</h3>
-
 <ul>
-  <li>If you withdraw by 31 January 2027, your entry fee will be refunded.</li>
-  <li>If the tournament is cancelled by the organisers, all entry fees will be refunded in full.</li>
+<li>If you withdraw by 31 January 2027, your entry fee will be refunded.</li>
+<li>If the tournament is cancelled by the organisers, all entry fees will be refunded in full.</li>
 </ul>
-
 <h2 id="players">Players</h2>
-
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdxfSRbtexPrWTZDJHDEPkhvz5reGeW-GglD_JMuo_DnpyIV5i_8bhOtkLLdoBe49QP6SShxZwVWO2/pubhtml?gid=1911360483&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="1000" frameborder="0"></iframe>]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to the fourth MERS tournament in Kraków!]]></summary></entry><entry xml:lang="en"><title type="html">A Brief History of Japanese Mahjong</title><link href="https://chombo.club/en/blog/2026/08/02/a-brief-history-of-japanese-mahjong/" rel="alternate" type="text/html" title="A Brief History of Japanese Mahjong" /><published>2026-08-02T12:00:00+02:00</published><updated>2026-08-02T12:00:00+02:00</updated><id>https://chombo.club/blog/2026/08/02/a-brief-history-of-japanese-mahjong</id><content type="html" xml:base="https://chombo.club/blog/2026/08/02/a-brief-history-of-japanese-mahjong/"><![CDATA[<p>Mahjong does not have as long a history as one might assume, but its history is undoubtedly complex and extensive, especially since the game spread independently across many regions of Asia and later to the rest of the world. Without delving into the origins of the game in China, let us move directly to Japan. More specifically, let us go back to the 1920s.</p>
-
+<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdxfSRbtexPrWTZDJHDEPkhvz5reGeW-GglD_JMuo_DnpyIV5i_8bhOtkLLdoBe49QP6SShxZwVWO2/pubhtml?gid=1911360483&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>
+]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to the fourth MERS tournament in Kraków!]]></summary></entry><entry xml:lang="en"><title type="html">A Brief History of Japanese Mahjong</title><link href="https://chombo.club/en/blog/2026/08/02/a-brief-history-of-japanese-mahjong/" rel="alternate" type="text/html" title="A Brief History of Japanese Mahjong" /><published>2026-08-02T12:00:00+02:00</published><updated>2026-08-02T12:00:00+02:00</updated><id>https://chombo.club/blog/2026/08/02/a-brief-history-of-japanese-mahjong</id><content type="html" xml:base="https://chombo.club/blog/2026/08/02/a-brief-history-of-japanese-mahjong/"><![CDATA[<p>Mahjong does not have as long a history as one might assume, but its history is undoubtedly complex and extensive, especially since the game spread independently across many regions of Asia and later to the rest of the world. Without delving into the origins of the game in China, let us move directly to Japan. More specifically, let us go back to the 1920s.</p>
 <p>In 1929, the first organization dedicated to mahjong players in Japan was established. It was the Japan Mahjong Federation (日本麻雀連盟), and its first president was the renowned writer Kan Kikuchi. They played a variant known as Arushiiaru, or Classical Japanese Mahjong. The name Arushiiaru comes from the Chinese term for the number 22, as this was the minimum base point value a winning hand could have.</p>
-
 <p>This variant differed significantly from modern Japanese mahjong. First, a winning hand did not require a yaku (in other words, it did not need any han; hands worth 0 han were valid). A standard hand structure of four melds and one pair was sufficient (the exception being chiitoitsu, which was worth 0 han and 100 fu). Yaku did exist, but the list was much shorter than in modern mahjong, and their han values also differed. Dora did not exist, although there was already a dead wall. Riichi was not recognized, or at least not in the way it is today—a player could declare riichi only on the very first turn of the hand, similar to what is now known as double riichi. Furiten also existed, but it could be bypassed if the player explicitly declared it, allowing them to win by ron. A game consisted of four wind rounds with four hands each, running from East 1 through North 4.</p>
-
 <figure>
-  
-<img src="/assets/images/2026-08-02-arushiaru-scoring-table.png" alt="Arushiiaru scoring table." />
-
+<img src="/assets/images/2026-08-02-arushiaru-scoring-table.png" alt="Photo of a Japanese card with two scoring tables: values by han and fu, and payments for the dealer and the other players" />
+<figcaption>Arushiiaru scoring table.</figcaption>
 </figure>
-
-<p><em>Arushiiaru scoring table.</em></p>
-
 <p>Speaking of points, this is what the scoring table in Arushiiaru looked like. Originally, the final score depended solely on fu, which—as you can see—were not rounded up to the nearest ten, resulting in a much larger scoring table than the one used today. Han played only a secondary role: they were awarded exclusively for yaku and then converted into fu (typically, each han doubled the fu value). Based on whether the hand was won by tsumo or ron, whether the winner was the dealer (oya) or a non-dealer (ko), and the hand’s fu and han values, players would look up a base value in the table. This base value was then multiplied by the appropriate coefficients (which varied depending on who won and how the hand was won), and the result was rounded to the nearest ten to determine the final point value of the winning hand.</p>
-
 <figure>
-  
-<img src="/assets/images/2026-08-02-base-point-calculation-en.png" alt="Tabelka liczenia punktów na podstawie bazy" />
-
+<img src="/assets/images/2026-08-02-base-point-calculation-en.png" alt="Ko ron: base × 4. Oya ron: base × 6. Oya tsumo: base × 2. Ko tsumo: base from each ko, base × 2 from oya." />
+<figcaption>Table for counting points from the base</figcaption>
 </figure>
-
-<p><em>Table for counting points from the base</em></p>
-
 <p>Overall, the flow of points was much lower than in modern mahjong, with point sticks carrying only one-tenth of their present-day value. Each player began the game with 2,000 points, and the highest possible payout was mangan.</p>
-
 <p>Let us now say a few words about mangan. In a very loose translation, the word mangan means “a fortune,” though in practice it referred to the scoring limit, the highest possible payout. In English, mangan is sometimes translated simply as “Limit.” At the time, a mangan was worth 2,000 points for a non-dealer (ko) and 3,000 points for the dealer (oya).</p>
-
 <p>A mangan could be achieved by accumulating multiple yaku, in which case it was called kazumangan (数満貫), or kazoemangan (数え満貫). However, if a single exceptionally difficult or rare yaku was sufficient to reach mangan on its own, it was known as yakumangan (役満貫). This is the origin of the modern term yakuman—a mangan attained through a single yaku. Consequently, in its original sense, a yakumangan and an ordinary mangan were worth exactly the same number of points.</p>
-
 <p>The variant described above was the most widespread during that period. However, as is often the case with social games, each table ultimately played by its own house rules. Over time, the practice known as tochū riichi (途中リーチ)—declaring riichi at any point during the hand rather than only on the opening turn—began to gain popularity. The Japan Mahjong Federation, however, did not recognize tochū riichi as a legitimate rule.</p>
-
 <figure>
-  
-<img src="/assets/images/2026-08-02-amano-daizou.png" alt="Amano Daizou" />
-
+<img src="/assets/images/2026-08-02-amano-daizou.png" alt="Black-and-white photo of Amano Daizou at a mahjong table, next to a handwritten inscription with his signature" />
+<figcaption>Amano Daizou</figcaption>
 </figure>
-
-<p><em>Amano Daizou</em></p>
-
 <p>One of the federation’s members, Amano Daizou (天野大三), decided to create his own set of mahjong rules, which did not entirely agree with those promoted by his organization. Between november 11 and december 5, 1952, he published in the newspaper Houchi Shinbun (報知新聞) the rules for a game heavily based on tochuu riichi — a system he simply called riichi.</p>
-
 <p>The game was played in the form of tontonsen (東々戦), meaning two East wind rounds, from East 1 to East 8. It was still possible to win without a yaku, but for the first time optional rules for honba and dora were introduced. Furiten applied only to genbutsu; a player could still win on other waits.</p>
-
 <p>A new high-value hand was also introduced: daimangan / “large mangan” (大満貫), worth 1.5 times a mangan. To distinguish it from this, other high-value but less rare hands were called shoumangan / “small mangan” (小満貫). The only hand to receive special treatment was chuuren poutou, which was classified as a baimangan (倍満貫), worth twice the value of a mangan.</p>
-
 <p>The rules above were the first codified version of riichi mahjong in history. They were known — after the name of the newspaper — as the “Houchi rules” (報知ルール).</p>
-
 <p>At the time, certain yaku names sounded somewhat different from those used today. Names imitating the Chinese pronunciation were more common than the Japanized ones. For example, taa-san-yuan instead of daisangen, ii-chii-ton-kan instead of ikkitsuukan, san-sou-tou-shun instead of sanshokudoujun, or pin-hou instead of pinfu. Kokushimusou had a completely different name altogether: shii-san-yao-chuu (literally “thirteen terminal and honor tiles”).</p>
-
 <p>Interestingly, popular rules from the 1940s stated that the dora was not revealed at the beginning of the game, but only after a win. The first tile from the edge of the dead wall was flipped over, and if a player had a tile identical to it in their hand, they received a predetermined number of points. It was only the Houchi rules that established the dora as the third tile from the edge of the dead wall, and that the tile following the revealed one was the actual dora indicator. Additionally, a new dora indicator was revealed whenever all currently active dora had been discarded by the players (or when someone made a kan using them). It was only many years later that this rule was changed to revealing a new dora after a kan was performed.</p>
-
 <p>What happened next? The Federation was not particularly pleased with Amano’s act of independence, and one of its members secretly reported him to the police. He was released only after extensive explanations that his version of mahjong was intended to raise the level of competition. He regained his freedom, but the Federation retaliated for his “betrayal” by stripping him of his rank and his position on the board. They even told him: “If we ever accept riichi rules, we will come to you.”</p>
-
 <p>Amano then left the Federation and founded his own competing organization, called the Japanese Mahjong Association (Nihon Haikii-in, 日本牌棋院). There, he intended to focus on riichi.</p>
-
 <p>Amano’s pioneering contributions to modern mahjong did not end there. In 1957, he published another ruleset called “All 1-Han Shibari” (オール一飜縛り規程), also known as the “Tokyo rules” (東京ルール).</p>
-
 <p>In this variant, the requirement of a minimum of 1 han appeared for the first time — in other words, a player had to have a yaku in order to declare a win. Furiten was extended to cover both waits of a ryanmen wait, even if only one of the tiles had been discarded. The zoroba (ゾロ場) rule was also introduced, under which the dice roll determined additional han that were added to a winning hand. This was intended to increase the value of wins.</p>
-
 <p>Large and small mangans still existed, and chuuren poutou once again received its own special category — choumangan / “super mangan” (数満貫), worth four times the value of a mangan. It seems that for many decades already, chuuren poutou had been considered an exceptional hand even among the highest-valued hands.</p>
-
 <p>In 1967, Amano published the so-called “modern rules” (gendai ruuru, 現代ルール). These introduced, for the first time, rounding fu up to the nearest ten, as well as bazoro (場ゾロ), oka, and ura-dora — all of which are still used today. Later, he published other variants, including proposals advocating the removal of the dead wall, but they did not achieve any significant popularity.</p>
-
 <p>Let us take a moment to discuss bazoro, because although it remains an active part of mahjong scoring, surprisingly few people are aware of its existence. Both the name zoroba and bazoro come from the word zorome (ゾロ目), meaning identical numbers rolled with multiple dice.</p>
-
 <p>Consider common gambling games based on dice rolls. If a dealer rolls the same number on two dice, the payout is doubled, because in gambling there is a natural desire to achieve the largest possible winnings. The idea here was similar. Under the zoroba rule, the dice roll determined how many han were added to the winner’s hand. If the two dice showed the same number from 2 to 5, 1 han was added; if they both showed 1 or both showed 6, 2 han were added. Over time, however, this rule was changed.</p>
-
 <p>Bazoro (also known as ban-ban, den-den, ryanzoro, or zoro-zoro) was a new rule according to which every winner received an additional two han added to the value of their hand. The dice roll or any other circumstances no longer mattered — two han were simply added every time.</p>
-
 <p>For example, if a player won with a hand worth 1 han 30 fu, the actual value of the hand was considered to be 3 han 30 fu. Because of this, some scoring tables did not begin at 1 han, but at 3 han.</p>
-
 <p>So how did this survive into the modern game? The answer is that bazoro is effectively already built into modern scoring tables. Let us take a 1 han 30 fu hand as an example. The han doubles the fu value once, giving us 60 fu. If we win by tsumo as a non-dealer (ko), the other players pay:
 60 (ko) + 60 (ko) + 120 (dealer pays double) = 240 points.</p>
-
 <p>However, if we add the 2 han from bazoro (doubling the fu value two more times), the result suddenly becomes:
 240 (ko) + 240 (ko) + 480 (dealer) = 960 points.</p>
-
 <p>After rounding to hundreds, this becomes 1000 — exactly the value of a 1 han 30 fu hand in modern scoring tables! This is why, despite bazoro technically still existing, it does not need to be calculated separately, because it is already incorporated into the result. If, however, we calculated scores in the old-fashioned way based on fu, applying bazoro would give us the correct result.</p>
-
 <p>It is all terribly complicated… No wonder that other mahjong variants outside Japan completely abandoned the division between fu and han and standardized their scoring systems. However, calculating scores through base points has a certain undeniable charm — a subtle logic behind it that is difficult to dismiss.</p>
-
 <p>Over time, mahjong scores continued to grow through the addition of various rules, such as kandora, akadora, and others. This was called mahjong inflation, or infure (インフレ). The values of scoring sticks were increased tenfold, mangan was no longer the only major winning hand, and haneman, baiman, and sanbaiman appeared. At one point, sanbaiman, yonbaiman, and gobaiban were also called yakuman, but this was later standardized. Eventually, yakuman was assigned a value equal to four times mangan.</p>
-
 <p>To simplify calculations, fu began to be rounded to the nearest ten, while the final score was rounded to the nearest hundred, and… this is how we arrived at the modern game, where riichi mahjong has largely overshadowed Arushiiaru, and has even become popular in countries that have their own mahjong variants, such as China, Singapore, and Taiwan.</p>
-
 <p>A humorous irony remains: although the Japanese Mahjong Federation still recognizes Arushiiaru as its primary variant, it officially accepted riichi mahjong rules as a second approved variant in 2016 — 34 years after Amano’s death.</p>
-
 <hr />
-
 <p>Author: <em>Yuria</em><br />
-Warmian-Masurian Mahjong Club „Hassouhatsu”</p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Mahjong does not have as long a history as one might assume, but its history is undoubtedly complex and extensive, especially since the game spread independently across many regions of Asia and later to the rest of the world. Without delving into the origins of the game in China, let us move directly to Japan. More specifically, let us go back to the 1920s.]]></summary></entry><entry xml:lang="en"><title type="html">USMA Cup: Kraków Riichi Open 2026</title><link href="https://chombo.club/en/tournaments/2026/06/25/krakow-riichi-open-2026/" rel="alternate" type="text/html" title="USMA Cup: Kraków Riichi Open 2026" /><published>2026-06-25T12:00:00+02:00</published><updated>2026-06-25T12:00:00+02:00</updated><id>https://chombo.club/tournaments/2026/06/25/krakow-riichi-open-2026</id><content type="html" xml:base="https://chombo.club/tournaments/2026/06/25/krakow-riichi-open-2026/"><![CDATA[<p>We invite you to a Riichi Mahjong tournament organized in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!</p>
-
-<figure>
-  
-<img src="/assets/images/2026-06-25-krakow-riichi-open-2026.png" alt="USMA Cup: Kraków Riichi Open 2026" />
-
-</figure>
-
+Warmian-Masurian Mahjong Club „Hassouhatsu”</p>
+]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[Mahjong does not have as long a history as one might assume, but its history is undoubtedly complex and extensive, especially since the game spread independently across many regions of Asia and later to the rest of the world. Without delving into the origins of the game in China, let us move directly to Japan. More specifically, let us go back to the 1920s.]]></summary></entry><entry xml:lang="en"><title type="html">USMA Cup: Kraków Riichi Open 2026</title><link href="https://chombo.club/en/tournaments/2026/06/25/krakow-riichi-open-2026/" rel="alternate" type="text/html" title="USMA Cup: Kraków Riichi Open 2026" /><published>2026-06-25T12:00:00+02:00</published><updated>2026-06-25T12:00:00+02:00</updated><id>https://chombo.club/tournaments/2026/06/25/krakow-riichi-open-2026</id><content type="html" xml:base="https://chombo.club/tournaments/2026/06/25/krakow-riichi-open-2026/"><![CDATA[<p>We invite you to a Riichi Mahjong tournament organized in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!</p>
+<p><img src="/assets/images/2026-06-25-krakow-riichi-open-2026.png" alt="USMA Cup: Kraków Riichi Open 2026" /></p>
 <h2 id="about">About</h2>
-
 <ul>
-  <li>Date: 25th July 2026 (Saturday)</li>
-  <li>Place: <a href="https://maps.app.goo.gl/Zx41uz3cR1PkFqC19">Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków</a></li>
-  <li>Rules: <a href="https://mahjongsilesia.wordpress.com/wp-content/uploads/2026/06/zasady-usma-2026-r1.pdf"><strong>USMA 2026</strong></a>
-    <ul>
-      <li>No multiple yakumans allowed</li>
-      <li>Chombo: 20,000 points after UMA</li>
-    </ul>
-  </li>
-  <li>Hanchans: 5</li>
-  <li>Fee: 30 PLN (7 EUR), paid by bank transfer. You can send either EUR or PLN.
-    <ul>
-      <li>IBAN: <code class="language-plaintext highlighter-rouge">PL71 1870 1045 2078 1088 3294 0001</code></li>
-      <li>SWIFT/BIC: <code class="language-plaintext highlighter-rouge">NESBPLPW</code></li>
-      <li>Account owner:
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Stowarzyszenie Krakowski Klub Chombo
+<li>Date: 25th July 2026 (Saturday)</li>
+<li>Place: <a href="https://maps.app.goo.gl/Zx41uz3cR1PkFqC19">Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków</a></li>
+<li>Rules: <a href="https://mahjongsilesia.wordpress.com/wp-content/uploads/2026/06/zasady-usma-2026-r1.pdf"><strong>USMA 2026</strong></a>
+<ul>
+<li>No multiple yakumans allowed</li>
+<li>Chombo: 20,000 points after UMA</li>
+</ul>
+</li>
+<li>Hanchans: 5</li>
+<li>Fee: 30 PLN (7 EUR), paid by bank transfer. You can send either EUR or PLN.
+<ul>
+<li>IBAN: <code>PL71 1870 1045 2078 1088 3294 0001</code></li>
+<li>SWIFT/BIC: <code>NESBPLPW</code></li>
+<li>Account owner:<pre><code>Stowarzyszenie Krakowski Klub Chombo
 ul. Grota-Roweckiego 31/13
 30-348 Kraków
 Poland
-</code></pre></div>        </div>
-      </li>
-      <li>Reference:
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;name and surname&gt; - Krakow Riichi Open 2026 registration fee
-</code></pre></div>        </div>
-      </li>
-    </ul>
-  </li>
-  <li>Organisers: Krakowski Klub Chombo &amp; Upper Silesian Mahjong Association</li>
-  <li>Participant limit: 32</li>
-  <li>Referee: Michał Tkaczyk</li>
-  <li>Lunch: not provided — during the lunch break we will head together to <a href="https://maps.app.goo.gl/CvYvhfHwxhiMrtaw5">Food Hall Hala Lipowa</a>, a food hall with a wide variety of stalls to suit every taste</li>
-  <li>Scoring: Mahjong Tracker</li>
+</code></pre>
+</li>
+<li>Reference:<pre><code>&lt;name and surname&gt; - Krakow Riichi Open 2026 registration fee
+</code></pre>
+</li>
 </ul>
-
+</li>
+<li>Organisers: Krakowski Klub Chombo &amp; Upper Silesian Mahjong Association</li>
+<li>Participant limit: 32</li>
+<li>Referee: Michał Tkaczyk</li>
+<li>Lunch: not provided — during the lunch break we will head together to <a href="https://maps.app.goo.gl/CvYvhfHwxhiMrtaw5">Food Hall Hala Lipowa</a>, a food hall with a wide variety of stalls to suit every taste</li>
+<li>Scoring: Mahjong Tracker</li>
+</ul>
 <h2 id="usma-cup">USMA Cup</h2>
-
 <p>This tournament is part of the <strong>USMA Cup</strong> — a series of 4 tournaments, from which your best 3 results count toward the overall ranking. Top 3 players will receive prizes.</p>
-
 <ul>
-  <li>MERS: <strong>NON-MERS</strong> Tournament (does not qualify for European ranking)</li>
-  <li>USMA Ranking: <strong>Yes</strong></li>
-  <li>USMA Cup: <strong>Yes</strong></li>
+<li>MERS: <strong>NON-MERS</strong> Tournament (does not qualify for European ranking)</li>
+<li>USMA Ranking: <strong>Yes</strong></li>
+<li>USMA Cup: <strong>Yes</strong></li>
 </ul>
-
 <h2 id="agenda">Agenda</h2>
-
 <table class="tournament-agenda">
   <thead>
     <tr><th colspan="2">Saturday, 25th July</th></tr>
@@ -323,209 +242,125 @@ Poland
     </tr>
   </tbody>
 </table>
-
 <h2 id="getting-there">Getting There</h2>
-
-<p><a href="/en/assets/images/mers-2026-map.png">
+<p><a href="/assets/images/mers-2026-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Getting there map" />
 </a></p>
-
 <p>We recommend getting to the venue by tram or bus —
 the nearest stop is <strong>Zabłocie</strong>, example connections from the Main Railway Station:</p>
-
 <ul>
-  <li><strong>Tram 50</strong> from <strong>Dworzec Główny Tunel</strong> stop, approximately 10 minutes</li>
-  <li><strong>Tram 20</strong> from <strong>Teatr Słowackiego</strong> stop, also approximately 10 minutes</li>
+<li><strong>Tram 50</strong> from <strong>Dworzec Główny Tunel</strong> stop, approximately 10 minutes</li>
+<li><strong>Tram 20</strong> from <strong>Teatr Słowackiego</strong> stop, also approximately 10 minutes</li>
 </ul>
-
 <p>The building is right next to the stop — just cross the zebra crossing.</p>
-
 <p>Directions to the venue from public transport stops:</p>
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&amp;ehbc=2E312F&amp;noprof=1" style="width: 100%; height: 480px;"></iframe>
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 <p>Detailed directions are available at
 <a href="https://krakow.jakdojade.pl">https://krakow.jakdojade.pl</a> or <a href="https://maps.google.com">https://maps.google.com</a>.</p>
-
 <h2 id="registration">Registration</h2>
-
 <p><strong><a href="https://forms.gle/kEwprx2xghdxy1D28">Register here</a></strong></p>
-
 <p><strong>NOTE:</strong> Registration closes July 18 — this is the final day to submit a valid registration.</p>
-
 <h2 id="players">Players</h2>
-
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="1000" frameborder="0"></iframe>]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to a Riichi Mahjong tournament organized in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!]]></summary></entry><entry xml:lang="en"><title type="html">I played at 4* no-rate mahjong parlors in Japan, here are my thoughts.</title><link href="https://chombo.club/en/blog/2026/04/15/Mahjong-parlors-in-japan-a-blog-post/" rel="alternate" type="text/html" title="I played at 4* no-rate mahjong parlors in Japan, here are my thoughts." /><published>2026-04-15T12:00:00+02:00</published><updated>2026-04-15T12:00:00+02:00</updated><id>https://chombo.club/blog/2026/04/15/Mahjong-parlors-in-japan-a-blog-post</id><content type="html" xml:base="https://chombo.club/blog/2026/04/15/Mahjong-parlors-in-japan-a-blog-post/"><![CDATA[<p>During my two-week stay in Japan, I played at several mahjong parlors across Tokyo and Osaka. Below are my thoughts and experiences from visiting these different locations.</p>
-
+<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" height="1000" frameborder="0"></iframe>
+]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to a Riichi Mahjong tournament organized in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!]]></summary></entry><entry xml:lang="en"><title type="html">I played at 4* no-rate mahjong parlors in Japan, here are my thoughts.</title><link href="https://chombo.club/en/blog/2026/04/15/Mahjong-parlors-in-japan-a-blog-post/" rel="alternate" type="text/html" title="I played at 4* no-rate mahjong parlors in Japan, here are my thoughts." /><published>2026-04-15T12:00:00+02:00</published><updated>2026-04-15T12:00:00+02:00</updated><id>https://chombo.club/blog/2026/04/15/Mahjong-parlors-in-japan-a-blog-post</id><content type="html" xml:base="https://chombo.club/blog/2026/04/15/Mahjong-parlors-in-japan-a-blog-post/"><![CDATA[<p>During my two-week stay in Japan, I played at several mahjong parlors across Tokyo and Osaka. Below are my thoughts and experiences from visiting these different locations.</p>
 <h2 id="bellbird-shinbashi">Bellbird Shinbashi</h2>
 <p><strong>Location:</strong> Shinbashi, Tokyo</p>
-
 <p>This is one of the most popular parlors for Westerners. They play M-League rules, and the staff are very friendly. Beginners are warmly welcomed. The official pricing for no-rate play is <strong>600 JPY per game</strong>, though for some reason I felt like I ended up paying more than that. Soft drinks are included in the price.</p>
-
 <p>The room can get quite loud, and the staff announcements felt a bit intrusive. The player base is diverse, ranging from beginners to highly experienced players. As a foreigner, you are more likely to be seated at a beginner’s table. To assist with scoring, every table features both a digital scoring display and a physical scoring table on all four sides to help you determine exactly how much to pay. E-cigarettes are permitted indoors, so be prepared for the smell. Once seated, you will typically play multiple <em>hanchan</em> with the same group, which can occasionally feel repetitive.</p>
-
-<figure>
-  
-<img src="/assets/images/2026-04-15-bellbird-shinbashi.jpg" alt="Bellbird Shinbashi parlor" />
-
-</figure>
-
+<p><img src="/assets/images/2026-04-15-bellbird-shinbashi.jpg" alt="Bellbird Shinbashi parlor" /></p>
 <h3 id="bellbird-shinbashi-grow">Bellbird Shinbashi Grow</h3>
 <p>Normally, this sub-location is strictly for “set” tables (renting a table for a pre-arranged group of four). However, during one weekend of my stay, the main store was closed—likely for a private event—and no-rate games were hosted here instead. The overall experience was nearly identical to the main Bellbird Shinbashi location.</p>
-
-<figure>
-  
-<img src="/assets/images/2026-04-15-bellbird-grow.jpg" alt="Bellbird Shinbashi Grow parlor" />
-
-</figure>
-
+<p><img src="/assets/images/2026-04-15-bellbird-grow.jpg" alt="Bellbird Shinbashi Grow parlor" /></p>
 <hr />
-
 <h2 id="jpml-dojo">JPML Dojo</h2>
 <p><strong>Location:</strong> Sugamo, Tokyo</p>
-
 <p>This is the official store of the Japan Professional Mahjong League (JPML) and another popular destination for Westerners. I visited twice: once on a Thursday and once on a Friday.</p>
-
 <p>I didn’t do my research well enough, and on my first visit (Friday), they were playing JPML A rules—no <em>ippatsu</em>, no <em>ura dora</em>, and no <em>kan dora</em>. I stayed for two games and got my ass beat. The atmosphere felt like everyone was out to kill me, which wasn’t a great feeling. On my second visit, they played WRC rules, and the atmosphere was much better. I’d suggest not coming here unless you can quickly calculate your hand score in Japanese and generally play well.</p>
-
 <p>It is significantly cheaper than other options, offering discounts for students and women:</p>
 <ul>
-  <li><strong>Standard:</strong> 500 JPY per game</li>
-  <li><strong>Women:</strong> 400 JPY per game</li>
-  <li><strong>Students:</strong> 300 JPY per game</li>
-  <li><strong>Daily Cap:</strong> 2200 JPY</li>
+<li><strong>Standard:</strong> 500 JPY per game</li>
+<li><strong>Women:</strong> 400 JPY per game</li>
+<li><strong>Students:</strong> 300 JPY per game</li>
+<li><strong>Daily Cap:</strong> 2200 JPY</li>
 </ul>
-
 <p>The games are one hour long and run from 17:00 to 23:00, allowing for up to seven games daily. What I liked here more than other parlors is that you play with different players every game as the tables are rotated. Also, unlike most parlors, you draw your hand manually from the built walls; while the tables have an auto-deal feature, they choose not to use it here.</p>
-
-<figure>
-  
-<img src="/assets/images/2026-04-15-jpml-dojo.jpg" alt="JPML Dojo parlor" />
-
-</figure>
-
+<p><img src="/assets/images/2026-04-15-jpml-dojo.jpg" alt="JPML Dojo parlor" /></p>
 <hr />
-
 <h2 id="ml-stadium">ML Stadium</h2>
 <p><strong>Location:</strong> Takadanobaba, Tokyo</p>
-
 <p>This parlor is similar to Bellbird but less tailored to beginners. The games here are also <strong>600 JPY each</strong>, and they offer a student discount (though I don’t remember the exact amount). In the end, it was definitely cheaper than Bellbird. Unlike Bellbird, drinks are not included in the price, but you can bring your own or order M-League team-themed mocktails.</p>
-
 <p>Communication with the staff is manageable using basic English and Google Translate. One of the highlights of my trip happened here, I managed to score a <em>kokushi musou</em>! Overall, I generally preferred this parlor over Bellbird, largely because it is significantly quieter.</p>
-
-<figure>
-  
-<img src="/assets/images/2026-04-15-ml-stadium.jpg" alt="ML Stadium parlor" />
-
-</figure>
-
-<figure>
-  
-<img src="/assets/images/2026-04-15-ml-stadium-yakuman.jpg" alt="Kokushi Musou Yakuman at ML Stadium" />
-
-</figure>
-
+<p><img src="/assets/images/2026-04-15-ml-stadium.jpg" alt="ML Stadium parlor" /></p>
+<p><img src="/assets/images/2026-04-15-ml-stadium-yakuman.jpg" alt="Kokushi Musou Yakuman at ML Stadium" /></p>
 <hr />
-
 <h2 id="2mame">2mame</h2>
 <p><strong>Location:</strong> Namba/Shinsaibashi, Osaka</p>
-
 <p>This is a <em>sanma</em> (three-player mahjong) parlor in Osaka featuring no-rate Kansai <em>sanma</em>. It was the most unique establishment I visited. Instead of paying per game, there is a daily entry fee of 500 JPY. Additionally, you purchase the store’s internal currency to play with (the minimum buy-in is around 2000 JPY).</p>
-
 <p>The currency consists of <em>mame</em> and <em>tsubu</em> (1 <em>mame</em> equals 10 <em>tsubu</em>, and 1 <em>mame</em> is valued at 200 JPY). They offer a special promotion for new customers: 4000 JPY worth of <em>mame</em> for 3000 JPY. Each <em>hanchan</em> costs 1.2 <em>mame</em> paid to the store, but you can win <em>mame</em> back from other players based on the final scores.</p>
-
 <p>The rules include <em>shuugi</em> (tips) for <em>ippatsu</em> and <em>ura dora</em>, and a <em>shiro pocchi</em> (white dragon with a dot) that acts as an all-purpose tile on a <em>tsumo</em> win after declaring <em>riichi</em>. I arrived with a pre-translated message explaining my ability to play and score. The staff were initially surprised, but after ensuring I understood the rules, they allowed me to join. Everyone was incredibly friendly and curious about a foreign player. Notably, the score sheet is simplified to remove <em>fu</em> calculations entirely.</p>
-
-<figure>
-  
-<img src="/assets/images/2026-04-15-2mame.jpg" alt="2mame parlor" />
-
-</figure>
-
+<p><img src="/assets/images/2026-04-15-2mame.jpg" alt="2mame parlor" /></p>
 <h2 id="summary-and-recommendations">Summary and Recommendations</h2>
-
 <p>If you are planning your own mahjong pilgrimage, your choice should depend on your experience level and what you want out of the session. I recommend <strong>Bellbird</strong> for beginners who want to play without much stress, as the environment is very welcoming to those still learning the ropes. If you are already experienced but still want a “no-rate”  option that feels more relaxed, <strong>ML Stadium</strong> is a great choice. For those seeking serious play with high-level opponents and a different group of players each round, <strong>JPML Dojo</strong> is the place to be. Finally, if you are in Osaka and want to play something different than usual <em>yonma</em>, although fun, <strong>2mame</strong> offers a fantastic introduction to Kansai <em>sanma</em>. I have also heard that <strong>Toyonaka Mahjong</strong> is another “no-rate” and gaijin-friendly parlor in Osaka, though I didn’t have the chance to visit it myself during this trip as it was closed on the day.</p>
-
 <hr />
-
-<p><em>Szymon Nowicz</em></p>]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[During my two-week stay in Japan, I played at several mahjong parlors across Tokyo and Osaka. Below are my thoughts and experiences from visiting these different locations.]]></summary></entry><entry xml:lang="en"><title type="html">3884.13 PLN from the 1.5% tax – Thank you!</title><link href="https://chombo.club/en/other/2026/01/13/1-5-percent/" rel="alternate" type="text/html" title="3884.13 PLN from the 1.5% tax – Thank you!" /><published>2026-01-13T21:45:00+01:00</published><updated>2026-01-13T21:45:00+01:00</updated><id>https://chombo.club/other/2026/01/13/1-5-percent</id><content type="html" xml:base="https://chombo.club/other/2026/01/13/1-5-percent/"><![CDATA[<p>Thank you from the bottom of our hearts!</p>
-
+<p><em>Szymon Nowicz</em></p>
+]]></content><author><name></name></author><category term="blog" /><summary type="html"><![CDATA[During my two-week stay in Japan, I played at several mahjong parlors across Tokyo and Osaka. Below are my thoughts and experiences from visiting these different locations.]]></summary></entry><entry xml:lang="en"><title type="html">3884.13 PLN from the 1.5% tax – Thank you!</title><link href="https://chombo.club/en/other/2026/01/13/1-5-percent/" rel="alternate" type="text/html" title="3884.13 PLN from the 1.5% tax – Thank you!" /><published>2026-01-13T21:45:00+01:00</published><updated>2026-01-13T21:45:00+01:00</updated><id>https://chombo.club/other/2026/01/13/1-5-percent</id><content type="html" xml:base="https://chombo.club/other/2026/01/13/1-5-percent/"><![CDATA[<p>Thank you from the bottom of our hearts!</p>
 <p>Thanks to your support and the allocation of 1.5% of your tax to our Association, we managed to collect <strong>3884.13 PLN</strong> – this is a huge help for us and a real motivation for further action!</p>
-
 <p>The collected funds allow us to cover rent costs, invest in gaming equipment (including an automatic mahjong table in the future), and take care of other elements that make our meetings at the headquarters even more comfortable and enjoyable.</p>
-
 <p>The next PIT settlement period is approaching, so we encourage you to support our association again by donating 1.5%. It is a simple gesture that really makes a difference and will allow us to plan future activities.</p>
-
 <p>Thank you for being with us and supporting what we do.
 Together we can achieve even more!</p>
-
-<figure>
-  
-<img src="/assets/images/2026-01-13-1-5-percent-en.png" alt="Thank you for support" />
-
-</figure>]]></content><author><name></name></author><category term="other" /><summary type="html"><![CDATA[Thank you from the bottom of our hearts!]]></summary></entry><entry xml:lang="en"><title type="html">Hatsumi Taikai 2026</title><link href="https://chombo.club/en/tournaments/2025/12/15/hatsumi-taikai-2026/" rel="alternate" type="text/html" title="Hatsumi Taikai 2026" /><published>2025-12-15T19:00:00+01:00</published><updated>2026-01-17T11:00:00+01:00</updated><id>https://chombo.club/tournaments/2025/12/15/hatsumi-taikai-2026</id><content type="html" xml:base="https://chombo.club/tournaments/2025/12/15/hatsumi-taikai-2026/"><![CDATA[<p>We invite you to the third MERS tournament in Kraków!</p>
-
-<figure>
-  
-<img src="/assets/images/2025-12-15-hatsumi-taikai-2026.png" alt="Hatsumi Taikai" />
-
-</figure>
-
+<p><img src="/assets/images/2026-01-13-1-5-percent-en.png" alt="Thank you for support" /></p>
+]]></content><author><name></name></author><category term="other" /><summary type="html"><![CDATA[Thank you from the bottom of our hearts!]]></summary></entry><entry xml:lang="en"><title type="html">Hatsumi Taikai 2026</title><link href="https://chombo.club/en/tournaments/2025/12/15/hatsumi-taikai-2026/" rel="alternate" type="text/html" title="Hatsumi Taikai 2026" /><published>2025-12-15T19:00:00+01:00</published><updated>2026-01-17T11:00:00+01:00</updated><id>https://chombo.club/tournaments/2025/12/15/hatsumi-taikai-2026</id><content type="html" xml:base="https://chombo.club/tournaments/2025/12/15/hatsumi-taikai-2026/"><![CDATA[<p>We invite you to the third MERS tournament in Kraków!</p>
+<p><img src="/assets/images/2025-12-15-hatsumi-taikai-2026.png" alt="Hatsumi Taikai" /></p>
 <h2 id="about-the-tournament">About the tournament</h2>
-
 <ul>
-  <li>Date: 14<sup>th</sup>-15<sup>th</sup> February 2026 (Sat-Sun)</li>
-  <li>Place: <a href="https://maps.app.goo.gl/Zx41uz3cR1PkFqC19">Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków</a></li>
-  <li>Ruleset: <strong>EMA Riichi 2025</strong>
-    <ul>
-      <li>We ask you to familiarise yourself with the changes in the new EMA 2025 ruleset before the tournament.</li>
-    </ul>
-  </li>
-  <li>Hanchans: 8</li>
-  <li>Entry fee: 210 PLN (50 EUR), paid by bank transfer. You can send either EUR or PLN.
-    <ul>
-      <li>It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.</li>
-      <li>Payment deadline: <strong>31 January 2026</strong></li>
-      <li>IBAN: <code class="language-plaintext highlighter-rouge">PL71 1870 1045 2078 1088 3294 0001</code></li>
-      <li>SWIFT/BIC: <code class="language-plaintext highlighter-rouge">NESBPLPW</code></li>
-      <li>Account owner:
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Stowarzyszenie Krakowski Klub Chombo
+<li>Date: 14<sup>th</sup>-15<sup>th</sup> February 2026 (Sat-Sun)</li>
+<li>Place: <a href="https://maps.app.goo.gl/Zx41uz3cR1PkFqC19">Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22, Zabłocie 20, 30-701 Kraków</a></li>
+<li>Ruleset: <strong>EMA Riichi 2025</strong>
+<ul>
+<li>We ask you to familiarise yourself with the changes in the new EMA 2025 ruleset before the tournament.</li>
+</ul>
+</li>
+<li>Hanchans: 8</li>
+<li>Entry fee: 210 PLN (50 EUR), paid by bank transfer. You can send either EUR or PLN.
+<ul>
+<li>It is possible to use the Polish Mahjong League membership discount – if you wish to take advantage of it, please indicate this in the registration form and simply send us a transfer reduced by 50 PLN. Please remember that you must be an active PLM member with your membership fee paid.</li>
+<li>Payment deadline: <strong>31 January 2026</strong></li>
+<li>IBAN: <code>PL71 1870 1045 2078 1088 3294 0001</code></li>
+<li>SWIFT/BIC: <code>NESBPLPW</code></li>
+<li>Account owner:<pre><code>Stowarzyszenie Krakowski Klub Chombo
 ul. Grota-Roweckiego 31/13
 30-348 Kraków
 Poland
-</code></pre></div>        </div>
-      </li>
-      <li>Reference:
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;name and surname&gt; - Hatsumi Taikai 2026 registration fee
-</code></pre></div>        </div>
-      </li>
-    </ul>
-  </li>
-  <li>Participant limit: 64</li>
-  <li>EMA Observer: Ivar Bouwman</li>
-  <li>Referees:
-    <ul>
-      <li>Mateusz Maćkowski</li>
-      <li>Jakub Bacic</li>
-      <li>Szymon Nowicz - Playing referee</li>
-      <li>Łukasz Grzybowski - Playing referee</li>
-    </ul>
-  </li>
-  <li>Substitute players:
-    <ul>
-      <li>Aleksandra Malarz</li>
-      <li>Aleksandra Hobot</li>
-      <li>Dominik Műller</li>
-    </ul>
-  </li>
-  <li>Lunch: included in the entry fee</li>
-  <li>Prizes: trophies for the first three places.</li>
+</code></pre>
+</li>
+<li>Reference:<pre><code>&lt;name and surname&gt; - Hatsumi Taikai 2026 registration fee
+</code></pre>
+</li>
 </ul>
-
+</li>
+<li>Participant limit: 64</li>
+<li>EMA Observer: Ivar Bouwman</li>
+<li>Referees:
+<ul>
+<li>Mateusz Maćkowski</li>
+<li>Jakub Bacic</li>
+<li>Szymon Nowicz - Playing referee</li>
+<li>Łukasz Grzybowski - Playing referee</li>
+</ul>
+</li>
+<li>Substitute players:
+<ul>
+<li>Aleksandra Malarz</li>
+<li>Aleksandra Hobot</li>
+<li>Dominik Műller</li>
+</ul>
+</li>
+<li>Lunch: included in the entry fee</li>
+<li>Prizes: trophies for the first three places.</li>
+</ul>
 <p>Scores will be tracked using the mobile application <a href="https://mahjongtracker.com/">Mahjong Tracker</a> – players are advised to familiarize themselves with the app before the tournament.</p>
-
 <h2 id="agenda">Agenda</h2>
-
 <table class="tournament-agenda">
 <thead>
   <tr><th colspan="2">Saturday, 14 February</th></tr>
@@ -590,123 +425,85 @@ Poland
   </tr>
 </tbody>
 </table>
-
 <h2 id="how-to-get-there">How to get there</h2>
-
-<p><a href="/en/assets/images/mers-2026-map.png">
+<p><a href="/assets/images/mers-2026-map.png">
   <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Commute map" />
 </a></p>
-
 <p>Generally speaking, we recommend taking a tram. The nearest stop to the tournament venue is <strong>Zabłocie</strong>. Below are example tram connections from the <strong>Main Railway Station</strong>:</p>
-
 <ul>
-  <li><strong>Tram 50</strong> from stop <strong>Dworzec Główny Tunel</strong>, direct connection with around 10 minutes of commute time</li>
-  <li><strong>Tram 20</strong>  from stop <strong>Teatr Słowackiego</strong>, also around 10 minutes of commute time</li>
+<li><strong>Tram 50</strong> from stop <strong>Dworzec Główny Tunel</strong>, direct connection with around 10 minutes of commute time</li>
+<li><strong>Tram 20</strong>  from stop <strong>Teatr Słowackiego</strong>, also around 10 minutes of commute time</li>
 </ul>
-
 <p>After leaving the tram, the building is located right next to the stop — you only need to cross the road.
 There are many convenience stores in the area, and if larger shopping is needed, Galeria Kazimierz is located nearby, where there is a Carrefour store. (Please note that due to Polish law, the store will be closed on <strong>Sunday, 15 February</strong>. The convenience stores remain open.)</p>
-
 <p>Directions from public transport stops:</p>
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&amp;ehbc=2E312F&amp;noprof=1" style="width: 100%; height: 480px;"></iframe>
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 <p>Detailed directions can be found using
 <a href="https://krakow.jakdojade.pl">https://krakow.jakdojade.pl</a> or <a href="https://maps.google.com">https://maps.google.com</a>.</p>
-
 <h2 id="registration">Registration</h2>
-
 <p><strong>NOTE:</strong> Currently, the player list is full — however, you can still sign up for the waiting list and take part in the tournament if any of the registered players withdraw.</p>
-
 <p><strong><a href="https://forms.gle/6dxErS7b4yJgAu519">Tournament registration</a></strong></p>
-
 <p><strong>ATTENTION:</strong> Registration will be closed on January 31st — this is the last day to submit a valid application.</p>
-
 <h2 id="players">Players</h2>
-
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=495684573&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" height="1000" frameborder="0"></iframe>]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to the third MERS tournament in Kraków!]]></summary></entry><entry xml:lang="en"><title type="html">Kraków Saki Cards Taikai 2025</title><link href="https://chombo.club/en/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2025" /><published>2025-05-17T16:00:00+02:00</published><updated>2025-05-17T16:00:00+02:00</updated><id>https://chombo.club/tournaments/2025/05/17/cracow-saki-cards-taikai-2025</id><content type="html" xml:base="https://chombo.club/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/"><![CDATA[<p>We invite you to the second-ever Polish tournament using Saki Cards!</p>
-
-<figure>
-  
-<img src="/assets/images/2025-07-26-saki-cards-taikai.png" alt="Kraków Saki Cards Taikai 2025" />
-
-</figure>
-
+<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=495684573&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>
+]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to the third MERS tournament in Kraków!]]></summary></entry><entry xml:lang="en"><title type="html">Kraków Saki Cards Taikai 2025</title><link href="https://chombo.club/en/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/" rel="alternate" type="text/html" title="Kraków Saki Cards Taikai 2025" /><published>2025-05-17T16:00:00+02:00</published><updated>2025-05-17T16:00:00+02:00</updated><id>https://chombo.club/tournaments/2025/05/17/cracow-saki-cards-taikai-2025</id><content type="html" xml:base="https://chombo.club/tournaments/2025/05/17/cracow-saki-cards-taikai-2025/"><![CDATA[<p>We invite you to the second-ever Polish tournament using Saki Cards!</p>
+<p><img src="/assets/images/2025-07-26-saki-cards-taikai.png" alt="Kraków Saki Cards Taikai 2025" /></p>
 <h2 id="about">About</h2>
-
 <ul>
-  <li>Date: 26th July 2025 (Saturday)</li>
-  <li>Place: <a href="https://maps.app.goo.gl/g6bFtG5Zi9b4SSH37">Headquarters of Kraków Chombo Club</a></li>
-  <li>Rules: <strong>modified</strong> EMA Riichi 2016 + Saki Cards 1.3</li>
-  <li>Hanchans: 4</li>
-  <li>Fee: 55 PLN (13 EUR), paid by bank transfer (make sure you cover all the bank transfer fees, if any!):
-    <ul>
-      <li>Deadline: <strong>25 July 2025</strong></li>
-      <li>IBAN: <code class="language-plaintext highlighter-rouge">PL13 1140 2004 0000 3802 8180 7241</code></li>
-      <li>SWIFT/BIC: <code class="language-plaintext highlighter-rouge">BREXPLPWMBK</code></li>
-      <li>Account owner:
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Stowarzyszenie Krakowski Klub Chombo
+<li>Date: 26th July 2025 (Saturday)</li>
+<li>Place: <a href="https://maps.app.goo.gl/g6bFtG5Zi9b4SSH37">Headquarters of Kraków Chombo Club</a></li>
+<li>Rules: <strong>modified</strong> EMA Riichi 2016 + Saki Cards 1.3</li>
+<li>Hanchans: 4</li>
+<li>Fee: 55 PLN (13 EUR), paid by bank transfer (make sure you cover all the bank transfer fees, if any!):
+<ul>
+<li>Deadline: <strong>25 July 2025</strong></li>
+<li>IBAN: <code>PL13 1140 2004 0000 3802 8180 7241</code></li>
+<li>SWIFT/BIC: <code>BREXPLPWMBK</code></li>
+<li>Account owner:<pre><code>Stowarzyszenie Krakowski Klub Chombo
 ul. Grota-Roweckiego 31/13
 30-348 Kraków
 Poland
-</code></pre></div>        </div>
-      </li>
-      <li>Reference:
-        <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;name and surname&gt; - Krakow Saki Cards Taikai registration fee
-</code></pre></div>        </div>
-      </li>
-    </ul>
-  </li>
-  <li>Participant limit: 16 (might be increased if there’s high interest)</li>
-  <li>Referees:
-    <ul>
-      <li>Szymon Nowicz (will also be playing)</li>
-    </ul>
-  </li>
-  <li>Lunch: not provided (on your own)</li>
-  <li>Scoring: Point sticks</li>
+</code></pre>
+</li>
+<li>Reference:<pre><code>&lt;name and surname&gt; - Krakow Saki Cards Taikai registration fee
+</code></pre>
+</li>
 </ul>
-
-<h2 id="rules">Rules</h2>
-
-<p>Ruleset is based on <strong>EMA 2016 with the following modifications:</strong></p>
-
-<h3 id="kazoe-yakuman">Kazoe Yakuman</h3>
-
-<p>A hand worth 13 han or more is treated as a yakuman.</p>
-
-<h3 id="additional-yaku-nagashi-mangan-流し満貫">Additional yaku: Nagashi Mangan (流し満貫)</h3>
-
+</li>
+<li>Participant limit: 16 (might be increased if there’s high interest)</li>
+<li>Referees:
 <ul>
-  <li>Awarded if during a ryuukyoku (exhaustive draw) the player meets all of the following:
-    <ul>
-      <li>All visible discards are terminals (1s, 9s) or honors</li>
-      <li>None of the player’s discards were called</li>
-      <li>Player has a closed hand</li>
-    </ul>
-  </li>
-  <li>Always worth 5 han (mangan), does not combine with other yaku or dora.</li>
+<li>Szymon Nowicz (will also be playing)</li>
 </ul>
-
+</li>
+<li>Lunch: not provided (on your own)</li>
+<li>Scoring: Point sticks</li>
+</ul>
+<h2 id="rules">Rules</h2>
+<p>Ruleset is based on <strong>EMA 2016 with the following modifications:</strong></p>
+<h3 id="kazoe-yakuman">Kazoe Yakuman</h3>
+<p>A hand worth 13 han or more is treated as a yakuman.</p>
+<h3 id="additional-yaku-nagashi-mangan-流し満貫">Additional yaku: Nagashi Mangan (流し満貫)</h3>
+<ul>
+<li>Awarded if during a ryuukyoku (exhaustive draw) the player meets all of the following:
+<ul>
+<li>All visible discards are terminals (1s, 9s) or honors</li>
+<li>None of the player’s discards were called</li>
+<li>Player has a closed hand</li>
+</ul>
+</li>
+<li>Always worth 5 han (mangan), does not combine with other yaku or dora.</li>
+</ul>
 <h3 id="red-fives">Red Fives</h3>
-
 <p>There are 3 red fives in the game, one per suit.</p>
-
 <h3 id="saki-cards-13">Saki Cards 1.3</h3>
-
 <p>Before the game starts, the first dealer gives each player 7 cards from the deck.
 Each player chooses one card, then passes the remaining cards to the player on their right. This continues until everyone has 6 cards. The rest are discarded.</p>
-
 <p>Players then select 1 of their 6 cards after seeing their starting hand and place it face-down. Once everyone is ready, they reveal their chosen cards.</p>
-
 <p>During the match, players must change their characters every round and cannot select the same card again until 5 out of 6 of their cards are played. When a player has only a single available card, all cards become available again and character rotation starts anew.</p>
-
 <p>There are 63 cards in the deck, each with a unique ability.</p>
-
 <p>You can view all the Saki Cards <a href="https://t.co/cV5TU1qJVW">here</a> and access the Saki Cards Rulebook <a href="https://docs.google.com/document/d/1y4Os-PJJQ5vMuc9hFbck_IcXItHmCHTjMlRNbHJu0gw/edit?usp=sharing">here</a></p>
-
 <h2 id="agenda">Agenda</h2>
-
 <table class="tournament-agenda">
   <thead>
     <tr><th colspan="2">Tournament Schedule</th></tr>
@@ -758,98 +555,59 @@ Each player chooses one card, then passes the remaining cards to the player on t
     </tr>
   </tbody>
 </table>
-
 <h2 id="registration">Registration</h2>
-
 <p><strong><a href="https://forms.gle/iW9FoEAnQ1fFFN5WA">Register here</a></strong></p>
-
 <p><strong>NOTE:</strong> Registration closes on July 5th — this is the final day to submit a valid registration.</p>
-
-<!--
-## Players
-
-<div class="biggus-tablus" markdown="block">
-
-| No. | Name | Nickname | Country |                         Paid                         |
-|----:|:-----|:---------|:--------|:----------------------------------------------------:|
-|   1 |      |          |         | ✓ |
-
-</div>
--->]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to the second-ever Polish tournament using Saki Cards!]]></summary></entry><entry xml:lang="en"><title type="html">We’ve got a headquarters!</title><link href="https://chombo.club/en/other/2024/07/27/headquarters/" rel="alternate" type="text/html" title="We’ve got a headquarters!" /><published>2024-07-27T20:21:00+02:00</published><updated>2026-09-07T18:50:00+02:00</updated><id>https://chombo.club/other/2024/07/27/headquarters</id><content type="html" xml:base="https://chombo.club/other/2024/07/27/headquarters/"><![CDATA[<p>As some of you might already know, we’ve managed to secure our own place to play mahjong. Now it’s time to share some details regarding regular meetings that’ll be taking place there!</p>
-
+]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to the second-ever Polish tournament using Saki Cards!]]></summary></entry><entry xml:lang="en"><title type="html">We’ve got a headquarters!</title><link href="https://chombo.club/en/other/2024/07/27/headquarters/" rel="alternate" type="text/html" title="We’ve got a headquarters!" /><published>2024-07-27T20:21:00+02:00</published><updated>2026-09-07T18:50:00+02:00</updated><id>https://chombo.club/other/2024/07/27/headquarters</id><content type="html" xml:base="https://chombo.club/other/2024/07/27/headquarters/"><![CDATA[<p>As some of you might already know, we’ve managed to secure our own place to play mahjong. Now it’s time to share some details regarding regular meetings that’ll be taking place there!</p>
 <p>We’ll be organizing two types of meetings — casual games and ranked games that’ll count towards the USMA ranking run by our Silesian friends.</p>
-
 <p>Details:</p>
 <ul>
-  <li>Address: <strong>ul. Studencka 6/8, 31-116 Kraków</strong></li>
+<li>Address: <strong>ul. Studencka 6/8, 31-116 Kraków</strong></li>
 </ul>
-
 <p>Time:</p>
 <ul>
-  <li><strong>Casual/Teaching games</strong> — <strong>Tuesdays at 18:00</strong> — everyone is welcome, especially beginners and those who would like to learn how to play mahjong. We’ll teach you everything! We’ll be creating events both <a href="https://discord.chombo.club/">on our Discord server</a> and also on <a href="https://fb.me/chombo.club">our Facebook Page</a> so that it’s easier for you to remember about the meetings. We’ll also let you know in case a particular meeting is canceled.</li>
-  <li><strong>Ranked games</strong> — <strong>Thursdays at 17:00</strong> and <strong>Saturdays at 16:00</strong>. Anyone interested is welcome to visit <a href="https://discord.chombo.club/">our Discord server</a>.</li>
+<li><strong>Casual/Teaching games</strong> — <strong>Tuesdays at 18:00</strong> — everyone is welcome, especially beginners and those who would like to learn how to play mahjong. We’ll teach you everything! We’ll be creating events both <a href="https://discord.chombo.club/">on our Discord server</a> and also on <a href="https://fb.me/chombo.club">our Facebook Page</a> so that it’s easier for you to remember about the meetings. We’ll also let you know in case a particular meeting is canceled.</li>
+<li><strong>Ranked games</strong> — <strong>Thursdays at 17:00</strong> and <strong>Saturdays at 16:00</strong>. Anyone interested is welcome to visit <a href="https://discord.chombo.club/">our Discord server</a>.</li>
 </ul>
-
 <p>Lastly, if you would like to support our activities you can do it via bank transfer with following details:</p>
 <ul>
-  <li>Recipient: <code class="language-plaintext highlighter-rouge">Stowarzyszenie Krakowski Klub Chombo</code></li>
-  <li>Reference: <code class="language-plaintext highlighter-rouge">Donation for the association's statutory purposes</code></li>
-  <li>IBAN: <code class="language-plaintext highlighter-rouge">PL71 1870 1045 2078 1088 3294 0001</code></li>
-  <li>SWIFT/BIC: <code class="language-plaintext highlighter-rouge">NESBPLPW</code></li>
+<li>Recipient: <code>Stowarzyszenie Krakowski Klub Chombo</code></li>
+<li>Reference: <code>Donation for the association's statutory purposes</code></li>
+<li>IBAN: <code>PL71 1870 1045 2078 1088 3294 0001</code></li>
+<li>SWIFT/BIC: <code>NESBPLPW</code></li>
 </ul>
-
 <p>Thank you very kindly for the donations!</p>
-
-<figure>
-  
-<img src="/assets/images/2024-07-27-headquarters.jpg" alt="Our headquarters" />
-
-</figure>]]></content><author><name></name></author><category term="other" /><summary type="html"><![CDATA[As some of you might already know, we’ve managed to secure our own place to play mahjong. Now it’s time to share some details regarding regular meetings that’ll be taking place there!]]></summary></entry><entry xml:lang="en"><title type="html">Szymon Nowicz has become an EMA referee</title><link href="https://chombo.club/en/other/2023/11/15/new-referee-szymon-nowicz/" rel="alternate" type="text/html" title="Szymon Nowicz has become an EMA referee" /><published>2023-11-15T19:00:00+01:00</published><updated>2023-11-15T19:00:00+01:00</updated><id>https://chombo.club/other/2023/11/15/new-referee-szymon-nowicz</id><content type="html" xml:base="https://chombo.club/other/2023/11/15/new-referee-szymon-nowicz/"><![CDATA[<p>Just before the tournament in Poznań, on Friday 10 Nov 2023, an EMA seminar was held, during which Szymon Nowicz was qualified to judge competitions organised within the European Mahjong Association (it’s worth mentioning that Szymon obtained the highest score on the test!).</p>
-
+<p><img src="/assets/images/2024-07-27-headquarters.jpg" alt="Our headquarters" /></p>
+]]></content><author><name></name></author><category term="other" /><summary type="html"><![CDATA[As some of you might already know, we’ve managed to secure our own place to play mahjong. Now it’s time to share some details regarding regular meetings that’ll be taking place there!]]></summary></entry><entry xml:lang="en"><title type="html">Szymon Nowicz has become an EMA referee</title><link href="https://chombo.club/en/other/2023/11/15/new-referee-szymon-nowicz/" rel="alternate" type="text/html" title="Szymon Nowicz has become an EMA referee" /><published>2023-11-15T19:00:00+01:00</published><updated>2023-11-15T19:00:00+01:00</updated><id>https://chombo.club/other/2023/11/15/new-referee-szymon-nowicz</id><content type="html" xml:base="https://chombo.club/other/2023/11/15/new-referee-szymon-nowicz/"><![CDATA[<p>Just before the tournament in Poznań, on Friday 10 Nov 2023, an EMA seminar was held, during which Szymon Nowicz was qualified to judge competitions organised within the European Mahjong Association (it’s worth mentioning that Szymon obtained the highest score on the test!).</p>
 <p>Congratulations!</p>
-
-<figure>
-  
-<img src="/assets/images/2023-11-15-szymon-nowicz.jpg" alt="Szymon Nowicz" />
-
-</figure>]]></content><author><name></name></author><category term="other" /><summary type="html"><![CDATA[Just before the tournament in Poznań, on Friday 10 Nov 2023, an EMA seminar was held, during which Szymon Nowicz was qualified to judge competitions organised within the European Mahjong Association (it’s worth mentioning that Szymon obtained the highest score on the test!).]]></summary></entry><entry xml:lang="en"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/en/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-02-17T15:37:13+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>We invite you to the second MERS tournament in Kraków!</p>
-
-<figure>
-  
-<img src="/assets/images/2023-10-06-hatsumi-taikai.png" alt="Hatsumi Taikai" />
-
-</figure>
-
+<p><img src="/assets/images/2023-11-15-szymon-nowicz.jpg" alt="Szymon Nowicz" /></p>
+]]></content><author><name></name></author><category term="other" /><summary type="html"><![CDATA[Just before the tournament in Poznań, on Friday 10 Nov 2023, an EMA seminar was held, during which Szymon Nowicz was qualified to judge competitions organised within the European Mahjong Association (it’s worth mentioning that Szymon obtained the highest score on the test!).]]></summary></entry><entry xml:lang="en"><title type="html">Hatsumi Taikai</title><link href="https://chombo.club/en/tournaments/2023/10/06/hatsumi-taikai/" rel="alternate" type="text/html" title="Hatsumi Taikai" /><published>2023-10-06T16:00:00+02:00</published><updated>2024-02-17T15:37:13+01:00</updated><id>https://chombo.club/tournaments/2023/10/06/hatsumi-taikai</id><content type="html" xml:base="https://chombo.club/tournaments/2023/10/06/hatsumi-taikai/"><![CDATA[<p>We invite you to the second MERS tournament in Kraków!</p>
+<p><img src="/assets/images/2023-10-06-hatsumi-taikai.png" alt="Hatsumi Taikai" /></p>
 <h2 id="about">About</h2>
-
 <ul>
-  <li>Date: 17<sup>th</sup>-18<sup>th</sup> February 2024 (Sat-Sun)</li>
-  <li>Place: <a href="https://goo.gl/maps/izBiryMK8gM9GpQd6">Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków, Poland</a></li>
-  <li>Ruleset: EMA Riichi 2016</li>
-  <li>Hanchans: 8</li>
-  <li>Entry fee: 150 PLN (35 EUR)</li>
-  <li>Participant limit: 84</li>
-  <li>EMA Observer: Michael Gürtl-Dusleag</li>
-  <li>Referees:
-    <ul>
-      <li>Michał Herda</li>
-      <li>Mateusz Maćkowski</li>
-      <li>Fabien Sacha</li>
-      <li>Szymon Nowicz (playing referee)</li>
-    </ul>
-  </li>
-  <li>Lunch: included in the entry fee</li>
-  <li>Prizes: trophies for the first three places, club merchandise for the first 10 places</li>
+<li>Date: 17<sup>th</sup>-18<sup>th</sup> February 2024 (Sat-Sun)</li>
+<li>Place: <a href="https://goo.gl/maps/izBiryMK8gM9GpQd6">Jagiellonian University, Faculty of Mathematics and Information Technologies, Stanisława Łojasiewicza 6, 30-348 Kraków, Poland</a></li>
+<li>Ruleset: EMA Riichi 2016</li>
+<li>Hanchans: 8</li>
+<li>Entry fee: 150 PLN (35 EUR)</li>
+<li>Participant limit: 84</li>
+<li>EMA Observer: Michael Gürtl-Dusleag</li>
+<li>Referees:
+<ul>
+<li>Michał Herda</li>
+<li>Mateusz Maćkowski</li>
+<li>Fabien Sacha</li>
+<li>Szymon Nowicz (playing referee)</li>
 </ul>
-
+</li>
+<li>Lunch: included in the entry fee</li>
+<li>Prizes: trophies for the first three places, club merchandise for the first 10 places</li>
+</ul>
 <p>Scores will be tracked using <a href="https://mahjongtracker.com/">Mahjong Tracker</a> - players are advised to familiarize
 themselves with the app before the tournament.</p>
-
 <p>With representants of <strong>8</strong> different EMA countries and a total number of <strong>84</strong> contestants, the current MERS tournament ranking is <strong>3.5</strong> (with 4.0 being the maximum).<br />
 <small>This statistic updates automatically. The details on how the weight is calculated can be found on <a href="http://mahjong-europe.org/ranking/Basicsranking.html">the EMA website</a>.</small></p>
-
 <h2 id="agenda">Agenda</h2>
-
 <table class="tournament-agenda">
 <thead>
   <tr><th colspan="2">Saturday, 17 February</th></tr>
@@ -918,82 +676,34 @@ themselves with the app before the tournament.</p>
   </tr>
 </tbody>
 </table>
-
 <h2 id="how-to-get-to-the-tournament">How to get to the tournament</h2>
-
-<p><a href="/en/assets/images/mers-2022-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map" />
+<p><a href="/assets/images/mers-2022-map.png">
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map"/>
 </a></p>
-
 <p>Generally speaking, we recommend taking a tram.
 Depending on your exact location, the connection can be direct, or may require
 you to change the tram on one of the stops.
 The stop you should arrive at is named <strong>Ruczaj</strong> and the following trams will
 take you there from the main train station:</p>
 <ul>
-  <li>Tram 52, direct connection with around 22 minutes of commute time</li>
-  <li>Tram 3 → 18, also ~22 minutes of time, but includes a change of tram</li>
-  <li>Tram 50 → 17, longer commute time (32 minutes) due to the route</li>
+<li>Tram 52, direct connection with around 22 minutes of commute time</li>
+<li>Tram 3 → 18, also ~22 minutes of time, but includes a change of tram</li>
+<li>Tram 50 → 17, longer commute time (32 minutes) due to the route</li>
 </ul>
-
 <p>After leaving the tram, it will be just a 5-minute walk to arrive at the final
 destination (Jagiellonian University, Faculty of Mathematics and Information
 Technologies).</p>
-
 <p>If you want to drop by a shop, we can recommend getting off 1 stop earlier, on
 the <strong>Norymberska</strong> stop. There is a supermarket just next to the stop.
 (Please note that because of Polish laws, it will be closed on Sunday)</p>
-
 <p>The tournament venue also offers a free of charge parking space.</p>
-
 <p>Directions to the tournament site from public transport stops:</p>
-
-<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&amp;ehbc=2E312F&amp;noprof=1" style="width: 100%; height: 480px;"></iframe>
-
+<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 <p>In case you need more detailed instructions, you can use
 <a href="https://krakow.jakdojade.pl">https://krakow.jakdojade.pl</a> or <a href="https://maps.google.com">https://maps.google.com</a> — both
 offer free help in Polish and English.</p>
-
 <h2 id="registration">Registration</h2>
-
 <p><strong>NOTE:</strong> Currently, the tournament is full — however, you can still sign up for the waiting list and participate in the tournament if any of the registered players drop out.</p>
-
 <p><strong><a href="https://forms.gle/Q9MxGdNQU1fJbf746">Register here</a></strong></p>
-
 <p><strong>ATTENTION:</strong> Registration will be closed on January 31st — it will be the last day to submit your application.</p>
-
-<!--
-## Players
-
-<small>Last updated: 2024-02-17 15:37</small>
-
-<div class="progress" style="margin-bottom: 0.5em">
-	<div
-		class="progress-bar progress-bar-striped"
-		role="progressbar"
-		style="width: calc(100%*84/84);"
-		aria-valuenow="84"
-		aria-valuemin="0"
-		aria-valuemax="84">
-		84/84
-	</div>
-</div>
-
-<div class="biggus-tablus" markdown="block">
-
-| Nr | Name                                     | Nickname             | Country              | EMA ID                                                              |                         Fee                          |
-|---:|:-----------------------------------------|:---------------------|:---------------------|:--------------------------------------------------------------------|:----------------------------------------------------:|
-
-</div>
-
-### Waiting list
-
-Players will be moved off the waiting list if any of the registered participants drop out. This will be done on a first come, first served basis.
-
-<div class="biggus-tablus" markdown="block">
-
-| Nr | Name                                     | Nickname             | Country              | EMA ID                                                              |
-|---:|:-----------------------------------------|:---------------------|:---------------------|:--------------------------------------------------------------------|
-
-</div>
--->]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to the second MERS tournament in Kraków!]]></summary></entry></feed>
+]]></content><author><name></name></author><category term="tournaments" /><summary type="html"><![CDATA[We invite you to the second MERS tournament in Kraków!]]></summary></entry></feed>
