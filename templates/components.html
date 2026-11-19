@@ -101,7 +101,7 @@
 </ul>
 {%- endcomponent category_tabs %}
 
-{#- Post excerpt: the first block if it is a paragraph (Jekyll excerpt), else "".
+{#- Post excerpt: the first block if it is a paragraph, else "".
     Stripped of tags, whitespace collapsed; with `words` > 0 truncated to that many words plus "..."
     (Liquid truncatewords). Used by post cards, feed summaries and the SEO description. -#}
 {% component excerpt(content: string, words: integer = 0) -%}

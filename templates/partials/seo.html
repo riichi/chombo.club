@@ -2,7 +2,7 @@
 {%- set site_title = t.title -%}
 {%- set sep = config.extra.title_separator -%}
 {%- set is_page = page is defined -%}
-{%- if is_page %}{% set page_title = page.title | replace(from="'", to="’") %}{#- jekyll-seo-tag smartifies titles; only apostrophes occur in titles -#}{% elif term is defined %}{% set page_title = <category_name category={term.name} names={t.category_names} /> %}{% elif section is defined and section.title %}{% set page_title = section.title %}{% else %}{% set page_title = site_title %}{% endif -%}
+{%- if is_page %}{% set page_title = page.title | replace(from="'", to="’") %}{#- Curl apostrophes in titles; only apostrophes occur in titles -#}{% elif term is defined %}{% set page_title = <category_name category={term.name} names={t.category_names} /> %}{% elif section is defined and section.title %}{% set page_title = section.title %}{% else %}{% set page_title = site_title %}{% endif -%}
 {%- if current_path == "/" -%}
   {%- set seo_title = site_title ~ " " ~ sep ~ " " ~ t.home_title -%}
 {%- elif site_title in page_title -%}
@@ -12,7 +12,7 @@
 {%- endif -%}
 {%- set canonical_url = config.base_url ~ url_path -%}
 {%- set og_url = config.base_url ~ lang_prefix ~ current_path -%}
-{#- Excerpt: the first paragraph, as Jekyll's first block; empty when the post opens with something else (e.g. a figure). -#}
+{#- Excerpt: the first paragraph; empty when the post opens with something else (e.g. a figure). -#}
 {%- if is_page and page.description -%}
   {%- set seo_description = page.description -%}
 {%- elif is_page and page.date -%}

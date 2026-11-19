@@ -1,6 +1,6 @@
-{#- jekyll-sitemap clone. Rendered twice: by Zola as /sitemap.xml (no `lang`) and as the EN "feed"
+{#- Sitemap. Rendered twice: by Zola as /sitemap.xml (no `lang`) and as the EN "feed"
     /en/sitemap.xml (feed_filenames in [languages.en]). Static files are not listed (known exception).
-    polyglot left absolute URLs untouched, so every <loc> is the unprefixed URL, also in /en/. -#}
+    Every <loc> is the unprefixed URL, also in /en/ (kept from the previous site). -#}
 {%- set sm_lang = lang if lang is defined else config.default_language -%}
 {%- set tz = config.extra.timezone -%}
 {%- set prefix = <lang_prefix lang={sm_lang} default={config.default_language} /> -%}

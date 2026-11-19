@@ -24,7 +24,7 @@
 {%- endif -%}
 {%- endfor -%}
 {%- endif -%}
-{#- Guard: a post's explicit path must be /<category>/<Warsaw date>/<slug>/ (Jekyll permalink shape). -#}
+{#- Guard: a post's explicit path must be /<category>/<Warsaw date>/<slug>/. -#}
 {%- set expected_prefix = "/" ~ post_category ~ "/" ~ (page.date | date(format="%Y/%m/%d", timezone=tz)) ~ "/" -%}
 {%- if not current_path is starting_with(pat=expected_prefix) -%}
 {{ throw(message="Post " ~ page.relative_path ~ ": path " ~ current_path ~ " does not match its date and category (expected " ~ expected_prefix ~ "<slug>/)") }}
