@@ -50,15 +50,13 @@ We invite you to the third MERS tournament in Kraków!
 * Lunch: included in the entry fee
 * Prizes: trophies for the first three places.
 
-Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarize themselves with the app before the tournament.
+Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarise themselves with the app before the tournament.
 
 ## Agenda {#agenda}
 
 <table class="tournament-agenda">
-<thead>
-  <tr><th colspan="2">Saturday, 14 February</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Saturday, 14 February</th></tr>
   <tr>
     <td>09:00-09:45</td>
     <td>Registration</td>
@@ -88,10 +86,8 @@ Scores will be tracked using the mobile application [Mahjong Tracker](https://ma
     <td>Hanchan IV</td>
   </tr>
 </tbody>
-<thead>
-  <tr><th colspan="2">Sunday, 15 February</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Sunday, 15 February</th></tr>
   <tr>
     <td>09:00-10:30</td>
     <td>Hanchan V</td>
@@ -123,7 +119,7 @@ Scores will be tracked using the mobile application [Mahjong Tracker](https://ma
 ## How to get there {#how-to-get-there}
 
 <p><a href="/assets/images/mers-2026-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Commute map" />
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Commute map">
 </a></p>
 
 Generally speaking, we recommend taking a tram. The nearest stop to the tournament venue is **Zabłocie**. Below are example tram connections from the **Main Railway Station**:
@@ -136,7 +132,7 @@ There are many convenience stores in the area, and if larger shopping is needed,
 
 Directions from public transport stops:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
+<iframe title="Directions map" loading="lazy" src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 
 Detailed directions can be found using
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
@@ -152,4 +148,4 @@ Detailed directions can be found using
 
 ## Players {#players}
 
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=495684573&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>
+<iframe class="wide-iframe" title="Player list" loading="lazy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vThaaBgtqFX2XF6Jzm_ngq-zLoXRqncVBVcx5ZZrlRgxJaGxx4AhPQfzyGeFEye6lHIXS6MRwy9UXNd/pubhtml?gid=495684573&single=true&widget=false&headers=false&chrome=false" height="1000"></iframe>

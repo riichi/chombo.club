@@ -25,6 +25,19 @@
 {{ path[prefix | length:] if prefix and path is starting_with(pat=prefix ~ "/") else path }}
 {%- endcomponent strip_lang_prefix %}
 
+{#- Sitemap hreflang alternates of a URL: `alts` are its versions (each with lang and permalink, like
+    page.translations, which includes the page itself); nothing when it exists in one language only. -#}
+{% component sitemap_alternates(alts: array, default: string) -%}
+{%- if alts | length > 1 -%}
+{%- for a in alts | sort(attribute="lang") %}
+<xhtml:link rel="alternate" hreflang="{{ <bcp47 lang={a.lang} /> }}" href="{{ a.permalink }}"/>
+{%- if a.lang == default %}
+<xhtml:link rel="alternate" hreflang="x-default" href="{{ a.permalink }}"/>
+{%- endif -%}
+{%- endfor -%}
+{%- endif -%}
+{%- endcomponent sitemap_alternates %}
+
 {% component category_link(category: string, names: map, prefix: string = "") -%}
 <a class="cat cat--{{ category }}" href="{{ prefix }}/categories/{{ category }}/">{{ <category_name category={category} names={names} /> }}</a>
 {%- endcomponent category_link %}
@@ -98,8 +111,8 @@
 {%- endcomponent category_tabs %}
 
 {#- Post excerpt: the first block if it is a paragraph, else "".
-    Stripped of tags, whitespace collapsed; with `words` > 0 truncated to that many words plus "..."
-    (Liquid truncatewords). Used by post cards, feed summaries and the SEO description. -#}
+    Stripped of tags, whitespace collapsed; with `words` > 0 truncated to that many words plus "...".
+    Used by post cards, feed summaries and the SEO description. -#}
 {% component excerpt(content: string, words: integer = 0) -%}
 {%- set first = (content | split(pat="</p>") | first | striptags) if (content | trim) is starting_with(pat="<p") else "" -%}
 {%- set ws = first | replace(from="\n", to=" ") | replace(from="\t", to=" ") | replace(from="\r", to=" ") | split(pat=" ") -%}
@@ -147,3 +160,8 @@
 </nav>
 {%- endif -%}
 {%- endcomponent paginator_nav %}
+
+{#- BCP 47 language tag for lang attributes; internal codes stay "pl"/"en" (URLs, file suffixes). -#}
+{% component bcp47(lang: string) -%}
+{{- "en-GB" if lang == "en" else ("pl-PL" if lang == "pl" else lang) -}}
+{%- endcomponent bcp47 %}

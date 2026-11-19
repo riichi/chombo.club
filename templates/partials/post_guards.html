@@ -1,5 +1,4 @@
-{#- Build-time guards for posts (included by post.html; `throw` fails `zola build`).
-    Tested by _migrate/check_path_guard.sh and _migrate/check_translation_guard.sh. -#}
+{#- Build-time guards for posts (included by post.html; `throw` fails `zola build`). -#}
 {#- Guard: a Translation must share date, category and path (under /<lang>/) with its Original;
     an Original must have a Translation in every language unless it is Language-exclusive. -#}
 {%- if page.lang != config.default_language -%}

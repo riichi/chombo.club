@@ -53,10 +53,8 @@ z jej działaniem przed turniejem.
 Wstępny harmonogram &mdash; godziny mogą jeszcze ulec niewielkim zmianom.
 
 <table class="tournament-agenda">
-<thead>
-  <tr><th colspan="2">Sobota, 20 lutego</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Sobota, 20 lutego</th></tr>
   <tr>
     <td>09:00-09:45</td>
     <td>Rejestracja</td>
@@ -86,10 +84,8 @@ Wstępny harmonogram &mdash; godziny mogą jeszcze ulec niewielkim zmianom.
     <td>4. hanchan</td>
   </tr>
 </tbody>
-<thead>
-  <tr><th colspan="2">Niedziela, 21 lutego</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Niedziela, 21 lutego</th></tr>
   <tr>
     <td>09:00-10:30</td>
     <td>5. hanchan</td>
@@ -125,7 +121,7 @@ TODO: zaktualizować dojazd (tramwaj 20 zawieszony, 50 przemianowany / inna tras
 ## Dojazd
 
 <p><a href="/assets/images/mers-2026-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Mapa dojazdu" />
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Mapa dojazdu">
 </a></p>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
@@ -140,7 +136,7 @@ W okolicy jest dużo sklepów spożywczych, a w razie potrzeby większych zakup�
 
 Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
+<iframe title="Mapa dojazdu" loading="lazy" src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
@@ -172,4 +168,4 @@ z zarejestrowanych graczy zrezygnuje, zwolnione miejsce otrzyma pierwsza osoba z
 
 ## Gracze {#gracze}
 
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdxfSRbtexPrWTZDJHDEPkhvz5reGeW-GglD_JMuo_DnpyIV5i_8bhOtkLLdoBe49QP6SShxZwVWO2/pubhtml?gid=1911360483&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>
+<iframe class="wide-iframe" title="Lista graczy" loading="lazy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdxfSRbtexPrWTZDJHDEPkhvz5reGeW-GglD_JMuo_DnpyIV5i_8bhOtkLLdoBe49QP6SShxZwVWO2/pubhtml?gid=1911360483&single=true&widget=false&headers=false&chrome=false" height="1000"></iframe>

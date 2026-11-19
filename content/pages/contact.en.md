@@ -14,15 +14,15 @@ You can contact us directly by:
 <hr>
 <address>
 <p>
-    Stowarzyszenie Krakowski Klub Chombo<br/>
-    ul. Stefana Grota-Roweckiego 31/13<br/>
-    30-348 Kraków<br/>
+    Stowarzyszenie Krakowski Klub Chombo<br>
+    ul. Stefana Grota-Roweckiego 31/13<br>
+    30-348 Kraków<br>
     Poland
 </p>
 <p>
-    KRS: 0000913968<br/>
-    NIP: 6762600919<br/>
-    IBAN: PL71 1870 1045 2078 1088 3294 0001<br/>
+    KRS: 0000913968<br>
+    NIP: 6762600919<br>
+    IBAN: PL71 1870 1045 2078 1088 3294 0001<br>
     SWIFT/BIC: NESBPLPW
 </p>
 </address>

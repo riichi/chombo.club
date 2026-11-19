@@ -1,9 +1,14 @@
-{#- Not-found page. Zola renders it as /404.html; /en/404.html is the same template rendered as an EN feed (zola.toml feed_filenames; see README "Sitemap and 404 per language"). -#}
+{#- Not-found page. Zola renders it as /404.html; /en/404.html is the same template rendered as an EN feed (zola.toml feed_filenames; see README "404 page per language"). -#}
 {% extends "base.html" %}
 {% block content %}
   <div class="not-found">
     <h1>404</h1>
-    <p><strong>Page not found :(</strong></p>
-    <p>The requested page could not be found.</p>
+    <p>
+      <strong>{{ t.not_found_title }}</strong>
+    </p>
+    <p>{{ t.not_found_text }}</p>
+    <p>
+      <a href="{{ lang_prefix }}/">{{ t.not_found_home }}</a>
+    </p>
   </div>
 {% endblock %}

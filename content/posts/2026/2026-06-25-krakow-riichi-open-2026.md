@@ -96,7 +96,7 @@ Turniej jest zaliczany do cyklu **USMA Cup** — serii 4 turniejów, z których 
 ## Dojazd {#dojazd}
 
 <p><a href="/assets/images/mers-2026-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Mapa dojazdu" />
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Mapa dojazdu">
 </a></p>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
@@ -110,7 +110,7 @@ Budynek znajduje się tuż obok przystanku - trzeba jedynie przejść przez pasy
 
 Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
+<iframe title="Mapa dojazdu" loading="lazy" src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.
@@ -123,4 +123,4 @@ Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 
 ## Gracze {#gracze}
 
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" height="1000" frameborder="0"></iframe>
+<iframe class="wide-iframe" title="Lista graczy" loading="lazy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" height="1000"></iframe>
