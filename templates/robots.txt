@@ -1,4 +1,4 @@
-{#- Rendered once, with the default language's config: config.languages lists the others. -#}
-{%- set site_langs = [config.default_language, ...(config.languages | keys)] | sort -%}
-{% for l in site_langs %}Sitemap: {{ get_url(path="sitemap.xml", lang=l) }}
-{% endfor -%}
+User-agent: *
+Allow: /
+
+Sitemap: {{ get_url(path="sitemap.xml") }}

@@ -104,7 +104,7 @@
   }
 
   // Search: Pagefind's UI, loaded the first time the dialog opens. The index
-  // only exists in builds that ran `pagefind --site _site`.
+  // only exists in builds made with `just build` (not with `zola serve`).
   var dialog = document.getElementById("search-dialog");
   var pagefindRequested = false;
 

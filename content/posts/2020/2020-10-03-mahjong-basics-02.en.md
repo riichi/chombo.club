@@ -14,4 +14,4 @@ We show how to properly prepare the game, that is: seat the players, prepare the
 
 The next, third episode, will happen soon!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0PPLRwUljv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" title="Riichi Mahjong Basics — episode 2" loading="lazy" src="https://www.youtube-nocookie.com/embed/0PPLRwUljv8" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

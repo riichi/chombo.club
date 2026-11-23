@@ -45,7 +45,7 @@ Accessing the tile trays is easy, as the middle compartment (meant for storing d
 
 ![](/assets/images/review-e-go-white/001-008.jpg)
 
-The tiles have a milky color and the scoring sticks are ivory-ish. Whereas Grapet tiles has red tile backs and is colored red, green and blue, tiles from the reviewed set are uniform and the tile markings are black and red only (except for red fives). The tile markings look rather pleasant.
+The tiles have a milky colour and the scoring sticks are ivory-ish. Whereas Grapet tiles has red tile backs and is coloured red, green and blue, tiles from the reviewed set are uniform and the tile markings are black and red only (except for red fives). The tile markings look rather pleasant.
 
 ![](/assets/images/review-e-go-white/001-009.jpg)
 
@@ -57,7 +57,7 @@ The tiles from this set are larger than the Grapet tiles and this is very notice
 
 ![](/assets/images/review-e-go-white/001-011.jpg)
 
-The paint on the red dragons differs in hue (the third from the top is much darker from the second and the fourth) and it'll need some fixing. One of the red fives is discolored/has a red halo that I was unable to remove with acetone. (Luckily there's a second one!)
+The paint on the red dragons differs in hue (the third from the top is much darker from the second and the fourth) and it'll need some fixing. One of the red fives is discoloured/has a red halo that I was unable to remove with acetone. (Luckily there's a second one!)
 
 ![](/assets/images/review-e-go-white/001-012.jpg)
 
@@ -73,9 +73,9 @@ The circles look OK with one exception (can you see it yet?) - but more about it
 
 ## Traits, pros and cons {#traits-pros-and-cons}
 
-The tiles are of uniform color, which means that discarding white dragons in a cultural way requires an additional tile flip; another quirky situation happens when a white dragon happens to be a dora indicator, which is impossible to tell apart from the situation where the indicator has not been revealed.
+The tiles are of uniform colour, which means that discarding white dragons in a cultural way requires an additional tile flip; another quirky situation happens when a white dragon happens to be a dora indicator, which is impossible to tell apart from the situation where the indicator has not been revealed.
 
-These tiles do not have a weighted core and therefore are rather light when compared e.g. to the AMOS MAX tiles, which is heavily played in Kraków. All in all it's a net benefit, since the wooden box that contains the tiles weighs a lot; putting even more weight in it could cause some logistic issues. Lightweighted tiles also give much less noise during tile mixing, which can cause people who like the "sparrow chipping" sound to frown and the people who prefer to play without annoying their neighbors to sigh with relief.
+These tiles do not have a weighted core and therefore are rather light when compared e.g. to the AMOS MAX tiles, which is heavily played in Kraków. All in all it's a net benefit, since the wooden box that contains the tiles weighs a lot; putting even more weight in it could cause some logistic issues. Lightweighted tiles also give much less noise during tile mixing, which can cause people who like the "sparrow chipping" sound to frown and the people who prefer to play without annoying their neighbours to sigh with relief.
 
 A huge upside of the set is that the tiles are *absolutely even* and building a wall from them is pure pleasure. It does not have a problem from the AMOS MAX tile set, where the tiles in the middle of the wall, despite being just as even, also weigh down a lot and can cause an airborne row of tiles to collapse; here, the wall can be raised and built even without a lot of experience in the art of tiling.
 
@@ -85,7 +85,7 @@ A small downside of the set is that some tiles are dirty with paint that has not
 
 ![](/assets/images/review-e-go-white/002-002.jpg)
 
-Other than for the dirtiness on the third-from-top four of circles, the second one has its carving off-center; furthermore, one can see small cracks of the material nearby the carvings (second-from-top three of circles, two topmost fives of circles). These two issues are the ones I consider to be the greatest; paradoxically it's a plus, since all of the issues I found are practically unnoticeable during standard play.
+Other than for the dirtiness on the third-from-top four of circles, the second one has its carving off-centre; furthermore, one can see small cracks of the material nearby the carvings (second-from-top three of circles, two topmost fives of circles). These two issues are the ones I consider to be the greatest; paradoxically it's a plus, since all of the issues I found are practically unnoticeable during standard play.
 
 ![](/assets/images/review-e-go-white/002-003.jpg)
 
@@ -93,7 +93,7 @@ Scoring sticks have plastic "stumps" at their ends - remains from the production
 
 ![](/assets/images/review-e-go-white/002-004.jpg)
 
-This photo shows small discolorations and missing paint near the markings of the scoring sticks.
+This photo shows small discolourations and missing paint near the markings of the scoring sticks.
 
 ![](/assets/images/review-e-go-white/002-005.jpg)
 

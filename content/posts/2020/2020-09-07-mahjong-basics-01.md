@@ -12,4 +12,4 @@ Na polskim YouTube brakuje wartościowych materiałów o mahjongu dla początkuj
 
 Postanowiliśmy wypełnić tę lukę i nagrać serię filmów od podstaw, krok po kroku pokazujących, jak rozegrać pierwszą partię rīchi. W pierwszym odcinku: zawartość zestawu i rozpoznawanie kamieni — już dostępny na [kanale Krakowskiego Klubu Chombo!](https://www.youtube.com/channel/UCCsyYLtIHOPfZtL1o-iNzNA) Kolejnych spodziewajcie się już w najbliższych tygodniach!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9gN3h_k9qCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" title="Podstawy Riichi Mahjonga — odcinek 1" loading="lazy" src="https://www.youtube-nocookie.com/embed/9gN3h_k9qCs" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

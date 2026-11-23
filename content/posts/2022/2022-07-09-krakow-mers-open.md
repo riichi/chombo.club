@@ -29,10 +29,8 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 ## Agenda {#agenda}
 
 <table class="tournament-agenda">
-<thead>
-  <tr><th colspan="2">Sobota 08.10.2022</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Sobota 08.10.2022</th></tr>
   <tr>
     <td>09:00-10:00</td>
     <td>Rejestracja i otwarcie</td>
@@ -58,10 +56,8 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
     <td>4. hanchan</td>
   </tr>
 </tbody>
-<thead>
-  <tr><th colspan="2">Niedziela 09.10.2022</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Niedziela 09.10.2022</th></tr>
   <tr>
     <td>10:00-11:30</td>
     <td>5. hanchan</td>
@@ -88,7 +84,7 @@ Zapraszamy Was na pierwszy turniej MERS w Krakowie!
 ## Dojazd {#dojazd}
 
 <p><a href="/assets/images/mers-2022-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu" />
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu">
 </a></p>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;

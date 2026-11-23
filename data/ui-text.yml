@@ -5,6 +5,7 @@
 en:
   title                      : "Kraków Chombo Club"
   home_title                 : "Riichi Mahjong in Kraków"
+  og_locale                  : "en_GB"
   description                : "Association focused on playing and promoting Japanese (Riichi) Mahjong."
   skip_content               : "Skip to content"
   nav_label                  : "Main navigation"
@@ -55,12 +56,16 @@ en:
   discord_cta                : "Join the server"
   feed_label                 : "RSS"
   footer_nav_label           : "Social media"
+  not_found_title            : "Page not found"
+  not_found_text             : "The requested page could not be found."
+  not_found_home             : "Go to the home page"
 
 # Polish
 # ------
 pl:
   title                      : "Krakowski Klub Chombo"
   home_title                 : "Riichi mahjong w Krakowie"
+  og_locale                  : "pl_PL"
   description                : "Stowarzyszenie skupione na grze i promocji japońskiego (riichi) mahjonga."
   skip_content               : "Przejdź do treści"
   nav_label                  : "Główna nawigacja"
@@ -111,3 +116,6 @@ pl:
   discord_cta                : "Dołącz do serwera"
   feed_label                 : "RSS"
   footer_nav_label           : "Media społecznościowe"
+  not_found_title            : "Nie znaleziono strony"
+  not_found_text             : "Strona, której szukasz, nie istnieje."
+  not_found_home             : "Przejdź na stronę główną"

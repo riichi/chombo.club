@@ -30,7 +30,7 @@ We invite you to the second MERS tournament in Kraków!
 * Lunch: included in the entry fee
 * Prizes: trophies for the first three places, club merchandise for the first 10 places
 
-Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarize
+Scores will be tracked using [Mahjong Tracker](https://mahjongtracker.com/) - players are advised to familiarise
 themselves with the app before the tournament.
 
 With representants of **8** different EMA countries and a total number of **84** contestants, the current MERS tournament ranking is **3.5** (with 4.0 being the maximum).\
@@ -39,10 +39,8 @@ With representants of **8** different EMA countries and a total number of **84**
 ## Agenda {#agenda}
 
 <table class="tournament-agenda">
-<thead>
-  <tr><th colspan="2">Saturday, 17 February</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Saturday, 17 February</th></tr>
   <tr>
     <td>09:00-09:45</td>
     <td>Registration</td>
@@ -76,10 +74,8 @@ With representants of **8** different EMA countries and a total number of **84**
     <td>After-party — <a href="https://maps.app.goo.gl/rxV5KY1KKB24t9bVA">T.E.A. Time Brewpub</a></td>
   </tr>
 </tbody>
-<thead>
-  <tr><th colspan="2">Sunday, 18 February</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Sunday, 18 February</th></tr>
   <tr>
     <td>09:00-10:30</td>
     <td>Hanchan V</td>
@@ -110,7 +106,7 @@ With representants of **8** different EMA countries and a total number of **84**
 ## How to get to the tournament {#how-to-get-to-the-tournament}
 
 <p><a href="/assets/images/mers-2022-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map"/>
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map">
 </a></p>
 
 Generally speaking, we recommend taking a tram.
@@ -134,7 +130,7 @@ The tournament venue also offers a free of charge parking space.
 
 Directions to the tournament site from public transport stops:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
+<iframe title="Directions map" loading="lazy" src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 
 In case you need more detailed instructions, you can use
 <https://krakow.jakdojade.pl> or <https://maps.google.com> &mdash; both

@@ -8,7 +8,7 @@ template = "post.html"
 categories = ["tournaments"]
 +++
 
-We invite you to a Riichi Mahjong tournament organized in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!
+We invite you to a Riichi Mahjong tournament organised in cooperation with the Upper Silesian Mahjong Association as part of the USMA Cup series!
 
 ![USMA Cup: Kraków Riichi Open 2026](/assets/images/2026-06-25-krakow-riichi-open-2026.png)
 
@@ -97,7 +97,7 @@ This tournament is part of the **USMA Cup** — a series of 4 tournaments, from 
 ## Getting There {#getting-there}
 
 <p><a href="/assets/images/mers-2026-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Getting there map" />
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Getting there map">
 </a></p>
 
 We recommend getting to the venue by tram or bus &mdash;
@@ -110,7 +110,7 @@ The building is right next to the stop — just cross the zebra crossing.
 
 Directions to the venue from public transport stops:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
+<iframe title="Directions map" loading="lazy" src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 
 Detailed directions are available at
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
@@ -123,4 +123,4 @@ Detailed directions are available at
 
 ## Players {#players}
 
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" height="1000" frameborder="0"></iframe>
+<iframe class="wide-iframe" title="Player list" loading="lazy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSh4v8ajQCCjE8GWnx8y2OW9xgJcGbHOTVobnurHqFkThBl0TkS9Pui8a1VA1O484RYYD3aZR00O-PF/pubhtml?gid=2055601887&amp;single=true&amp;widget=false&amp;headers=false&chrome=false" height="1000"></iframe>

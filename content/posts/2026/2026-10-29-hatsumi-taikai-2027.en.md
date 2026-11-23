@@ -46,17 +46,15 @@ We invite you to the fourth MERS tournament in Kraków!
 **ERMC wild card:** the highest-placed PLM member with membership fees paid for 2026 and 2027
 who has not yet qualified at the time of the tournament will receive a wild card for ERMC.
 
-Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarize themselves with the app before the tournament.
+Scores will be tracked using the mobile application [Mahjong Tracker](https://mahjongtracker.com/) – players are advised to familiarise themselves with the app before the tournament.
 
 ## Agenda {#agenda}
 
 Provisional schedule &mdash; times may still change slightly.
 
 <table class="tournament-agenda">
-<thead>
-  <tr><th colspan="2">Saturday, 20 February</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Saturday, 20 February</th></tr>
   <tr>
     <td>09:00-09:45</td>
     <td>Registration</td>
@@ -86,10 +84,8 @@ Provisional schedule &mdash; times may still change slightly.
     <td>Hanchan IV</td>
   </tr>
 </tbody>
-<thead>
-  <tr><th colspan="2">Sunday, 21 February</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Sunday, 21 February</th></tr>
   <tr>
     <td>09:00-10:30</td>
     <td>Hanchan V</td>
@@ -124,7 +120,7 @@ TODO: zaktualizować dojazd (tramwaj 20 zawieszony, 50 przemianowany / inna tras
 ## How to get there
 
 <p><a href="/assets/images/mers-2026-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Commute map" />
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2026-map.png" alt="Commute map">
 </a></p>
 
 Generally speaking, we recommend taking a tram. The nearest stop to the tournament venue is **Zabłocie**. Below are example tram connections from the **Main Railway Station**:
@@ -137,7 +133,7 @@ There are many convenience stores in the area, and if larger shopping is needed,
 
 Directions from public transport stops:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
+<iframe title="Directions map" loading="lazy" src="https://www.google.com/maps/d/embed?mid=1euDmkmhMzzUMK9ac-u45MBl38cXbF6E&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 
 Detailed directions can be found using
 <https://krakow.jakdojade.pl> or <https://maps.google.com>.
@@ -167,4 +163,4 @@ application) &mdash; we will contact them directly.
 
 ## Players {#players}
 
-<iframe class="wide-iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdxfSRbtexPrWTZDJHDEPkhvz5reGeW-GglD_JMuo_DnpyIV5i_8bhOtkLLdoBe49QP6SShxZwVWO2/pubhtml?gid=1911360483&single=true&widget=false&headers=false&chrome=false" height="1000" frameborder="0"></iframe>
+<iframe class="wide-iframe" title="Player list" loading="lazy" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdxfSRbtexPrWTZDJHDEPkhvz5reGeW-GglD_JMuo_DnpyIV5i_8bhOtkLLdoBe49QP6SShxZwVWO2/pubhtml?gid=1911360483&single=true&widget=false&headers=false&chrome=false" height="1000"></iframe>

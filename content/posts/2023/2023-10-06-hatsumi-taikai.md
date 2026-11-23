@@ -39,10 +39,8 @@ Z reprezentantami **8** krajów EMA i łączną liczbą **84** graczy, aktualny 
 ## Agenda {#agenda}
 
 <table class="tournament-agenda">
-<thead>
-  <tr><th colspan="2">Sobota, 17 lutego</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Sobota, 17 lutego</th></tr>
   <tr>
     <td>09:00-09:45</td>
     <td>Rejestracja</td>
@@ -76,10 +74,8 @@ Z reprezentantami **8** krajów EMA i łączną liczbą **84** graczy, aktualny 
     <td>Afterparty — <a href="https://maps.app.goo.gl/rxV5KY1KKB24t9bVA">T.E.A. Time Brewpub</a></td>
   </tr>
 </tbody>
-<thead>
-  <tr><th colspan="2">Niedziela, 18 lutego</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">Niedziela, 18 lutego</th></tr>
   <tr>
     <td>09:00-10:30</td>
     <td>5. hanchan</td>
@@ -110,7 +106,7 @@ Z reprezentantami **8** krajów EMA i łączną liczbą **84** graczy, aktualny 
 ## Dojazd {#dojazd}
 
 <p><a href="/assets/images/mers-2022-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu" />
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Mapa dojazdu">
 </a></p>
 
 Na miejsce turnieju polecamy wybrać się tramwajem lub autobusem &mdash;
@@ -132,7 +128,7 @@ Na terenie turnieju jest również dostępny bezpłatny parking.
 
 Wskazówki dojścia na teren turnieju z przystanków komunikacji miejskiej:
 
-<iframe src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
+<iframe title="Mapa dojazdu" loading="lazy" src="https://www.google.com/maps/d/embed?mid=18YtUK4g1d6xtpzogBGiCnxFl_bbd_LI&ehbc=2E312F&noprof=1" style="width: 100%; height: 480px;"></iframe>
 
 Szczegółowe instrukcje dojazdu można uzyskać korzystając z
 <https://krakow.jakdojade.pl> lub <https://maps.google.com>.

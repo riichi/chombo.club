@@ -29,10 +29,8 @@ We invite you to the first MERS tournament in Kraków!
 ## Agenda {#agenda}
 
 <table class="tournament-agenda">
-<thead>
-  <tr><th colspan="2">October 8th (Saturday)</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">October 8th (Saturday)</th></tr>
   <tr>
     <td>09:00-10:00</td>
     <td>Registration, opening ceremony</td>
@@ -58,10 +56,8 @@ We invite you to the first MERS tournament in Kraków!
     <td>Hanchan IV</td>
   </tr>
 </tbody>
-<thead>
-  <tr><th colspan="2">October 9th (Sunday)</th></tr>
-</thead>
 <tbody>
+  <tr><th colspan="2" scope="colgroup">October 9th (Sunday)</th></tr>
   <tr>
     <td>10:00-11:30</td>
     <td>Hanchan V</td>
@@ -88,7 +84,7 @@ We invite you to the first MERS tournament in Kraków!
 ## How to get to the tournament {#how-to-get-to-the-tournament}
 
 <p><a href="/assets/images/mers-2022-map.png">
-  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map"/>
+  <img style="float: right; width: 400px; max-width: 100%;" src="/assets/images/mers-2022-map.png" alt="Commute map">
 </a></p>
 
 Generally speaking, we recommend taking a tram.

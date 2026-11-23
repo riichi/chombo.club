@@ -39,7 +39,7 @@
   url: https://play.google.com/store/apps/details?id=com.arttech.rmahjong
 
 - name: Saikyo no Mahjong 3D
-  description: single player Windows client with lots of customization options
+  description: single player Windows client with lots of customisation options
   description_pl: klient dla jednego gracza dla systemu Windows z dużą liczbą opcji konfiguracyjnych
   url: https://mega.nz/#!GYQQRaRb!bbdXLYbyEsTMZb93Pa3_qdiyfy4QizE8kQAhCJ7_HOo
 
@@ -54,7 +54,7 @@
   url: https://mahjong-tools.com/
 
 - name: Riichi Tools
-  description: a set of tools for analyzing hands and point situations
+  description: a set of tools for analysing hands and point situations
   description_pl: zbiór narzędzi do analizy rąk i sytuacji punktowych
   url: https://riichi.harphield.com/tools/
 
