@@ -16,7 +16,7 @@ Można nas znaleźć na poniższych sieciach społecznościowych:
 
 ## Stowarzyszenie {#stowarzyszenie}
 
-[Pobierz statut w formacie PDF](https://github.com/riichi/statute-pl/releases/download/release-2025-07-27/statut.pdf)
+[Pobierz statut w formacie PDF](https://github.com/riichi/statute-pl/releases/download/release-2026-05-12/statut.pdf)
 
 ### Jak dołączyć? {#jak-dołączyć}
 
